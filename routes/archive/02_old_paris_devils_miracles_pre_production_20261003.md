@@ -1,4 +1,7 @@
-> Canon vigente — Cruce diseña y prepara; Hilo narra. 3 octubre 2026. Tres guiones completos conservados; geometría peatonal y QA externo pendientes. Esta edición sustituye los avisos contradictorios anteriores.
+> **Narrator correction — Andrés, 3 October 2026:** Cruce owns all route design, research, selection, verification, navigation and complete script preparation. Rumbo narrates Coulée Verte; Hilo narrates Medieval Devils; Miga narrates the affordable Paris flavours route. These are narrator assignments, not delegated work. No companion research or response is awaited. This overrides earlier commission/author/reviewer wording below.
+
+<!-- CRUCE CURRENT STATE: 2026-10-03; controlling production decision v9 -->
+> **Current working state: Medieval Devils and Miracles — Protected compact experience; Hilo assigned.** Distance: about 4–5 km, not freshly measured. Hilo authors/reviews this route. Preserve history plus folklore and atmosphere using Granada calibration. Optional chapel and central dark candidates require explicit scheduling/cost decisions. External QA and visitor-ready delivery remain pending. See [production reset](cruce_production_reset_v9.md). The older body below preserves research and earlier decisions; it does not override this notice.
 
 # 02 — Old Paris of Devils and Miracles
 
@@ -44,11 +47,11 @@ All serious candidates receive individual Waypoint Investigator review. Initial 
 
 **Title:** Bargains with the Invisible: Old Paris of Devils and Miracles.  
 **Thesis:** A charitable house, cathedral ironwork, a royal relic shrine and a contested miracle site show the different ways pre-Revolutionary Paris gave the invisible a physical address. Later retellings must be labelled where they reshape medieval material.  
-**Vibe / guide:** intimate, curious, unsettling; **Hilo**.  
+**Vibe / guide:** intimate, curious, unsettling; **Noctámbulo**.  
 **Start:** Nicolas Flamel house, 51 rue de Montmorency.  
 **Finish:** Saint-Médard, 141 rue Mouffetard, with final interpretation around eastern chevet.  
 **Distance:** provisionally **4–5 km**, including neighbourhood approaches and church circumnavigation; **not a measured walking trace**. Approximately 3.5–4.5 km exterior core, with optional stops/approaches producing the wider envelope.  
-**Duration:** 2.5–3 hours exterior; 3.5–4 hours with chapel visit and security. At the trip's 3.3 km/h operational benchmark, 4–5 km contributes 1.2–1.5 hours, plus reserved story/queue/rest time.  
+**Duration:** 2–2.5 hours exterior; 3–3.5 hours with chapel visit and security. At the trip's 3.3 km/h operational benchmark, 4–5 km contributes 1.2–1.5 hours, plus reserved story/queue/rest time.  
 **Transport:** transit to Arts-et-Métiers/Rambuteau start area; do not automatically add the NOC approach to the route. Return from Censier-Daubenton (line 7) or Place Monge. Châtelet/Cité/Saint-Michel provide intermediate escapes; current services require travel-day check.  
 **Cost:** exterior core €0; paid chapel optional. No restaurant meal at Flamel required.
 

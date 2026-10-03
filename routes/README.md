@@ -17,7 +17,7 @@ Read [Cruce production reset v9](cruce_production_reset_v9.md) first. The fiftee
 | Art Nouveau Thresholds | Visibility condition | [file](08_art_nouveau_paris.md) |
 | Paris on Stage After Dark | Active-night condition | [file](10_burlesque_paris.md) |
 | Cosmopolitan North and East | Programme/transition condition | [file](11_cosmopolitan_paris.md) |
-| Medieval Devils and Miracles | Protected compact experience; Hilo narrator | [file](02_old_paris_devils_miracles.md) |
+| Medieval Devils and Miracles | Canon reconciled; three complete core scripts; Hilo narrator; geometry/QA pending | [file](02_old_paris_devils_miracles.md) |
 | The Dead Become Public | Protected priority compact experience | [file](03_ghosts_revolution_nineteenth.md) |
 | Markets and Supply | Protected compact experience | [file](12_market_morning.md) |
 | City Under the City | Candidate/module | [file](14_paris_below.md) |
@@ -27,10 +27,10 @@ Read [Cruce production reset v9](cruce_production_reset_v9.md) first. The fiftee
 | Colonial Afterlives | Two compact blocks | [file](20_colonial_afterlives.md) |
 | Modern Paris After Dark | Retired standalone; research workbench | [file](04_modern_paris_after_dark.md) |
 | Northwestern Belt | Provisional: narration and operational production pending | discovery_batch_e.md |
-| Elevated East / Coulée Verte | Provisional; Rumbo narrator; Cruce produces route | discovery_batch_f.md |
+| Elevated East / Coulée Verte | Compact experience and four scripts; November gates/navigation pending; Rumbo narrator | [file](22_coulee_verte.md) |
 | Southern Margins | Provisional; full scripts and exact observable traces pending | discovery_batch_f.md |
 | Western Green Machinery | Provisional; full scripts and rail-gate verification pending | discovery_batch_f.md |
-| Affordable Paris flavours | Miga narrator; Cruce designs/researches tasting route | cruce_production_reset_v9.md |
+| Affordable Paris flavours | Three tasting scripts, purchase limits and verified shops; Miga narrator; trace/QA pending | [file](21_paris_popular_flavours.md) |
 | Modern true crime | Protected candidate module; objects/access/scripts pending | modern_true_crime_discovery_v6.md |
 
 ## Production gates

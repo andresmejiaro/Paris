@@ -5,7 +5,7 @@
 Updated 3 October 2026 by Cruce after loading the companion context and reviewing the repository.
 
 ## Read first
-1. routes/cruce_production_reset_v9.md — controlling experience/production decisions and companion commissions.
+1. routes/cruce_production_reset_v9.md — controlling experience/production decisions and narrator assignments.
 2. routes/README.md — current working index.
 3. routes/portfolio_rebuild_v6.md — inherited architecture and measured totals.
 4. routes/cruce_context_review_v8.md — compact Père-Lachaise correction.
@@ -21,6 +21,12 @@ Rumbo: Coulée Verte / Elevated East.
 Hilo: Medieval Devils and Miracles.
 Miga: affordable Paris gastronomic walking experience, not a supermarket food plan.
 Earlier delegated requests were withdrawn. Cruce performs all planning and prepares the scripts; companions narrate. No returned work is awaited.
+
+## Production checkpoint — 3 October 2026
+- Route 02: contradictory narrator/owner notices removed; Hilo canonical. Three researched core scripts retained. Previous file archived under routes/archive/02_old_paris_devils_miracles_pre_production_20261003.md. Distance remains unmeasured; external QA pending.
+- Route 21: new affordable tasting walk, Stohrer → Kayser Petits-Carreaux → Chartier. Three complete sensory scripts for Miga, actual source links, capped purchase choices; bakery price not verified, geometry not measured.
+- Route 22: new compact Coulée Verte experience with four scripts for Rumbo; lake/Ferme not compulsory. Official 4.5 km is the whole promenade, not a measured selected trace. November gates and exact endpoint/navigation pending.
+These are real narration/selection advances, not visitor-ready or independently accepted routes.
 
 ## Continue
 Reconcile changed spines and complete scripts, starting with the strong inherited routes; prepare scripts for the assigned narrator voices. Keep unresolved geometry/access/narration explicit. Validate operational production before independent external QA and delivery.
