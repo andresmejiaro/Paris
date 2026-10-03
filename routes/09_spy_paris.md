@@ -1,3 +1,6 @@
+<!-- CRUCE CURRENT STATE: 2026-10-03; controlling production decision v9 -->
+> **Current working state: Spy Paris — Anchor/access condition.** Distance: 8.281 km. Correct Singer/Raynouard inscription pin and Beauharnais anchors per discovery_batch_e.md. Mata Hari is an altered/construction-site encounter; integrate meaningful absence without promising an intact façade. External QA and visitor-ready delivery remain pending. See [production reset](cruce_production_reset_v9.md). The older body below preserves research and earlier decisions; it does not override this notice.
+
 # Spy Paris — A quién dejas leer tus papeles
 
 Priority: S. Research date: 2 October 2026. Architect recommendation: **BORDERLINE as an independent route; preserve the espionage identity, require physical-site validation before allocating a full slot**. One strong exact-site core and two conditional anchors have substantial Spanish scripts. External Claude QA pending.

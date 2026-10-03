@@ -1,3 +1,6 @@
+<!-- CRUCE CURRENT STATE: 2026-10-03; controlling production decision v9 -->
+> **Current working state: Modern Paris After Dark — Retired standalone; research workbench.** Distance: not counted separately. Selected material was absorbed into Cinema; reopened central mystery candidates remain audit leads. Old exclusions are historical where v6/v8 reopened them. External QA and visitor-ready delivery remain pending. See [production reset](cruce_production_reset_v9.md). The older body below preserves research and earlier decisions; it does not override this notice.
+
 # Modern Paris After Dark — The City You Cannot See
 
 - Initial priority: S, evidence-dependent

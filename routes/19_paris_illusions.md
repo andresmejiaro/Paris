@@ -1,3 +1,6 @@
+<!-- CRUCE CURRENT STATE: 2026-10-03; controlling production decision v9 -->
+> **Current working state: Central Illusions — Protected compact experience.** Distance: about 2–4 km current classification. La Fayette overlaps the disputed Cinema ending. Ownership depends on best finished experience, not distance repair. Reconcile old 4–6 km estimate with chosen order. External QA and visitor-ready delivery remain pending. See [production reset](cruce_production_reset_v9.md). The older body below preserves research and earlier decisions; it does not override this notice.
+
 # Paris of Illusions — Casas sin vecinos, imágenes con autoridad
 
 Priority S. Research date 2 October 2026. Architect recommendation: KEEP compact free daylight route; external Claude QA pending. Guide Aster, playful but precise. Three substantial Spanish cores; optional miniature doorway only after visual confirmation.

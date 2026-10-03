@@ -1,3 +1,6 @@
+<!-- CRUCE CURRENT STATE: 2026-10-03; controlling production decision v9 -->
+> **Current working state: Republic and Representation — Transition condition.** Distance: 7.359 km inherited detour version. The Marais/Cité deviation is not required merely to pass seven kilometres. Compare direct walking quality and label any chosen connector honestly. Nation belongs to Revolutionary. External QA and visitor-ready delivery remain pending. See [production reset](cruce_production_reset_v9.md). The older body below preserves research and earlier decisions; it does not override this notice.
+
 # 05 — Paris of the Republic: Who Gets to Be France?
 
 Priority C. Controller KEEP; ownership applied and Spanish narration revised 2 October 2026. External Claude acceptance pending. Initial proposals and investigations below are preserved as research history; the revised operational walk and Spanish scripts govern delivery.

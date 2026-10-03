@@ -1,17 +1,39 @@
-# Paris 2026 route portfolio
+# Paris — working experience index
 
-This directory contains one persistent working artifact per proposed route.
+Read [Cruce production reset v9](cruce_production_reset_v9.md) first. The fifteen-row architecture pool is inherited from v6; it is not an acceptance or completion count. Route headers now identify controlling changes. Old bodies retain research until fully reconciled. No route has external Claude acceptance yet.
 
-Workflow status values:
+| Experience | Current state | Working artifact |
+|---|---|---|
+| Lovers’ Paris | Strong candidate | [file](01_lovers_paris.md) |
+| Revolutionary Paris | Strong candidate | [file](06_revolutionary_paris.md) |
+| Occupied City | Strong candidate | [file](07_occupied_paris.md) |
+| Water, Pressure, and Flood | Strong candidate | [file](13_engineered_city.md) |
+| Canal Changes Jobs | Strong candidate | [file](18_canal_paris.md) |
+| Cinema, Projection, and Modern Monsters | Narrative/operation condition | [file](16_cinema_paris.md) |
+| Republic and Representation | Transition condition | [file](05_paris_of_republic.md) |
+| Spy Paris | Anchor/access condition | [file](09_spy_paris.md) |
+| Art Nouveau Thresholds | Visibility condition | [file](08_art_nouveau_paris.md) |
+| Paris on Stage After Dark | Active-night condition | [file](10_burlesque_paris.md) |
+| Cosmopolitan North and East | Programme/transition condition | [file](11_cosmopolitan_paris.md) |
+| Medieval Devils and Miracles | Protected compact experience; Hilo assigned | [file](02_old_paris_devils_miracles.md) |
+| The Dead Become Public | Protected priority compact experience | [file](03_ghosts_revolution_nineteenth.md) |
+| Markets and Supply | Protected compact experience | [file](12_market_morning.md) |
+| City Under the City | Candidate/module | [file](14_paris_below.md) |
+| Books in Circulation | Protected compact/wet-weather experience | [file](15_paris_reads.md) |
+| Scientific Spectacle | Targeted museum experience | [file](17_scientific_paris_spectacle.md) |
+| Central Illusions | Protected compact experience | [file](19_paris_illusions.md) |
+| Colonial Afterlives | Two compact blocks | [file](20_colonial_afterlives.md) |
+| Modern Paris After Dark | Retired standalone; research workbench | [file](04_modern_paris_after_dark.md) |
+| Northwestern Belt | Provisional: narration and operational production pending | discovery_batch_e.md |
+| Elevated East / Coulée Verte | Provisional; Rumbo experience review assigned | discovery_batch_f.md |
+| Southern Margins | Provisional; full scripts and exact observable traces pending | discovery_batch_f.md |
+| Western Green Machinery | Provisional; full scripts and rail-gate verification pending | discovery_batch_f.md |
+| Affordable Paris flavours | Miga tasting-route commission sent; result pending | cruce_production_reset_v9.md |
+| Modern true crime | Protected candidate module; objects/access/scripts pending | modern_true_crime_discovery_v6.md |
 
-- `queued`
-- `architect-draft`
-- `investigated`
-- `architect-revised`
-- `controller-reviewed`
-- `external-qa-pending`
+## Production gates
+Researched proposal → coherent selected experience → complete authored narration → operational navigation/access/fallbacks → independent external QA → website and machine-readable delivery.
+A short experience can pass every gate. A routed long spine can fail narration.
 
-Each route is researched independently before portfolio-level overlap decisions.
-The final controller pass may keep, merge, split, shorten, or reject a route.
-
-External Claude evaluation is a separate acceptance gate and is not simulated here.
+## Evidence
+geometry_batch_a/b/c and discovery_batch_d/e/f preserve routing inputs/totals. A router does not certify lawful current access. portfolio_health_audit_v6.md records unresolved overlap and narrative defects. mystery_calibration_anchors.md controls dark delivery; v8 protects compact Père-Lachaise.

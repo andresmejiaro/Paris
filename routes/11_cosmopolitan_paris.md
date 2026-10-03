@@ -1,3 +1,6 @@
+<!-- CRUCE CURRENT STATE: 2026-10-03; controlling production decision v9 -->
+> **Current working state: Cosmopolitan North and East — Programme/transition condition.** Distance: 7.356 km. CENTQUATRE is adopted per discovery_batch_e.md; integrate its script and verify access/programme. The long Belleville transition must be comfortable; no demographic guessing. External QA and visitor-ready delivery remain pending. See [production reset](cruce_production_reset_v9.md). The older body below preserves research and earlier decisions; it does not override this notice.
+
 # Cosmopolitan Paris — Quién traduce la ciudad
 
 Priority: C. Research date: 2 October 2026. Architect recommendation: **KEEP as an independent daytime route during the verified autumn exhibition**, subject to controller ownership and external Claude QA. Four researched core stops have substantial Spanish narrations. This is a working route, not an externally accepted itinerary.

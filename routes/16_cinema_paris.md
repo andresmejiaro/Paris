@@ -1,3 +1,6 @@
+<!-- CRUCE CURRENT STATE: 2026-10-03; controlling production decision v9 -->
+> **Current working state: Cinema, Projection, and Modern Monsters — Narrative/operation condition.** Distance: 6.968 km inherited full version. The inherited compact screening route is research, not the reconciled merged spine. La Fayette must earn the finale on theme; if it fails, retain a shorter cinema experience. Verify Pathé programme separately. External QA and visitor-ready delivery remain pending. See [production reset](cruce_production_reset_v9.md). The older body below preserves research and earlier decisions; it does not override this notice.
+
 # Cinema Paris — La ciudad no cabe en su pantalla
 
 Priority: C−. Research date: 2 October 2026; Controller merge integrated 3 October 2026. Status: **CONTROLLER BORDERLINE, dated-program validation required**. Compact afternoon route remains conditional on a real €7 Pathé screening. Two substantial main Spanish narrations plus the optional Belphégor→Éléonore early-evening coda absorbed from retired Route 04. External Claude QA pending. No tickets bought or screening reserved.

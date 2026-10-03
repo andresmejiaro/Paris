@@ -1,3 +1,6 @@
+<!-- CRUCE CURRENT STATE: 2026-10-03; controlling production decision v9 -->
+> **Current working state: Lovers’ Paris — Strong candidate.** Distance: 8.925 km. Use v6 order and Bir-Hakeim finale. Old text excludes Bir-Hakeim and describes Rodin as the endpoint; that is superseded. Museum time belongs to the separate raid layer. Reconcile opening, full order and Bir-Hakeim script before delivery. External QA and visitor-ready delivery remain pending. See [production reset](cruce_production_reset_v9.md). The older body below preserves research and earlier decisions; it does not override this notice.
+
 # 01 — Lovers’ Paris: Who Gets to Tell the Love Story?
 
 Priority: C. Status: narration-revised (2 October 2026), CONTROLLER KEEP. External Claude QA: pending. Research checked 1 October 2026; access must be refreshed before travel. Six Spanish on-site narrations replace the earlier summaries; source URLs and operational evidence are preserved.

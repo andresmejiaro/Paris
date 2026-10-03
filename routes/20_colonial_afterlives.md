@@ -1,3 +1,6 @@
+<!-- CRUCE CURRENT STATE: 2026-10-03; controlling production decision v9 -->
+> **Current working state: Colonial Afterlives — Two compact blocks.** Distance: separate western/eastern blocks. Keep explicit transit separation and finite museum layer. No cross-city walking quota. External QA and visitor-ready delivery remain pending. See [production reset](cruce_production_reset_v9.md). The older body below preserves research and earlier decisions; it does not override this notice.
+
 # Colonial Afterlives — Lo que París decidió poner en un pedestal
 
 Priority C. Research date 2 October 2026. Architect recommendation: **KEEP as two compact free blocks linked by transit, not a continuous cross-city walk**. Controller may split across separate slots. Guide Cruce. External Claude QA pending.

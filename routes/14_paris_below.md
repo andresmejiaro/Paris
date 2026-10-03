@@ -1,3 +1,6 @@
+<!-- CRUCE CURRENT STATE: 2026-10-03; controlling production decision v9 -->
+> **Current working state: City Under the City — Candidate/module.** Distance: 6.793 km inherited exterior spine. Old €31 Catacombs-centred delivery is not the updated exterior spine. Interiors are a separate choice. No need to manufacture cemetery circulation to promote this experience. External QA and visitor-ready delivery remain pending. See [production reset](cruce_production_reset_v9.md). The older body below preserves research and earlier decisions; it does not override this notice.
+
 # Paris Below — La ciudad que falta debajo
 
 Priority: S. Research date: 2 October 2026. Architect recommendation: **KEEP as a compact daytime geological route, conditional on the €31 Catacombs core**. Two substantial Spanish narrations; external Claude QA pending. No tickets bought or access sought.

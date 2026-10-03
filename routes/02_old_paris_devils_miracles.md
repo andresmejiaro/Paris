@@ -1,3 +1,6 @@
+<!-- CRUCE CURRENT STATE: 2026-10-03; controlling production decision v9 -->
+> **Current working state: Medieval Devils and Miracles — Protected compact experience; Hilo assigned.** Distance: about 4–5 km, not freshly measured. Hilo authors/reviews this route. Preserve history plus folklore and atmosphere using Granada calibration. Optional chapel and central dark candidates require explicit scheduling/cost decisions. External QA and visitor-ready delivery remain pending. See [production reset](cruce_production_reset_v9.md). The older body below preserves research and earlier decisions; it does not override this notice.
+
 # 02 — Old Paris of Devils and Miracles
 
 Priority: S. Controller KEEP as a compact block; Spanish narration revised 2 October 2026. Research date: 1 October 2026. External Claude QA pending.

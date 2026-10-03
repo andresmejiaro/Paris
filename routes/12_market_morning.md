@@ -1,3 +1,6 @@
+<!-- CRUCE CURRENT STATE: 2026-10-03; controlling production decision v9 -->
+> **Current working state: Markets and Supply — Protected compact experience.** Distance: 4.678 km. Active-market morning remains valuable. Miga's newly commissioned tasting route has a different purpose: eating affordable Paris flavours, not explaining supply institutions. External QA and visitor-ready delivery remain pending. See [production reset](cruce_production_reset_v9.md). The older body below preserves research and earlier decisions; it does not override this notice.
+
 # Market Morning — Antes de que París se siente a comer
 
 Priority: C. Research date: 2 October 2026. Architect recommendation: **KEEP as a genuinely morning-native Wednesday/Saturday route**, subject to weather, exact operating confirmation, controller ownership and external Claude QA. Three researched core stops have substantial Spanish narrations; no purchases or reservations made.

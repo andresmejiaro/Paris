@@ -1,3 +1,6 @@
+<!-- CRUCE CURRENT STATE: 2026-10-03; controlling production decision v9 -->
+> **Current working state: Canal Changes Jobs — Strong candidate.** Distance: 7.077 km full / 4.418 km short. Full variant begins at Arsenal. Old Récollets start is a useful shorter variant, not the full measured route. Integrate Arsenal and covered-canal chapters. External QA and visitor-ready delivery remain pending. See [production reset](cruce_production_reset_v9.md). The older body below preserves research and earlier decisions; it does not override this notice.
+
 # Canal Paris — La orilla que cambió de trabajo
 
 Priority: C. Research date: 2 October 2026. Architect recommendation: **KEEP free compact daylight route**, three substantial Spanish cores. External Claude QA pending. No paid cruise, cinema or venue admission assumed.

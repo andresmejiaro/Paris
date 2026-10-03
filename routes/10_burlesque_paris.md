@@ -1,3 +1,6 @@
+<!-- CRUCE CURRENT STATE: 2026-10-03; controlling production decision v9 -->
+> **Current working state: Paris on Stage After Dark — Active-night condition.** Distance: 5.487 km. Current broader spine includes Garnier and Lapin; integrate their chapters. Active venues/audiences add experience, not automatic mileage. Keep a shorter exterior version if programmes fail. External QA and visitor-ready delivery remain pending. See [production reset](cruce_production_reset_v9.md). The older body below preserves research and earlier decisions; it does not override this notice.
+
 # Burlesque Paris — Quién mira, quién trabaja
 
 Priority: C. Research date: 2 October 2026. Architect recommendation: **KEEP as a compact evening block on a verified active cabaret night**, with three substantial Spanish narrations. Madame Arthur's exterior ending remains BORDERLINE without readable live-night activity or an admitted performance. External Claude QA pending.

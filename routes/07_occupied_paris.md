@@ -1,3 +1,6 @@
+<!-- CRUCE CURRENT STATE: 2026-10-03; controlling production decision v9 -->
+> **Current working state: Occupied City — Strong candidate.** Distance: 7.275 km. End at exterior Japy memorial frontage. Integrate Japy narration; Shoah/Justes is one complex. No gym interior promised. External QA and visitor-ready delivery remain pending. See [production reset](cruce_production_reset_v9.md). The older body below preserves research and earlier decisions; it does not override this notice.
+
 # Occupied Paris — Lo que una ciudad permite, lo que una ciudad recuerda
 
 Priority: S. Research resumed 2 October 2026. Architect recommendation: **KEEP as an independent compact daytime route**, subject to controller ownership and external Claude QA. Four investigated core stops have substantial Spanish narrations; this is a researched working artifact, not an externally accepted itinerary.

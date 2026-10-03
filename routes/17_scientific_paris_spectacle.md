@@ -1,3 +1,6 @@
+<!-- CRUCE CURRENT STATE: 2026-10-03; controlling production decision v9 -->
+> **Current working state: Scientific Spectacle — Targeted museum experience.** Distance: museum layer. Treat as finite object/show raids; old two-paid-museum core is an option, not portfolio obligation. Recheck demonstration/public-holiday conditions and total budget. External QA and visitor-ready delivery remain pending. See [production reset](cruce_production_reset_v9.md). The older body below preserves research and earlier decisions; it does not override this notice.
+
 # Scientific Paris — Conseguir que lo invisible se deje mirar
 
 Priority: S. Research date: 2 October 2026. Architect recommendation: **KEEP show-led daytime route, €21 two-museum core**, with a cheaper first-Sunday southern alternative. Two substantial main Spanish narrations plus preserved Panthéon alternative; Curie deliberately optional/short. External Claude QA pending. No admissions bought or activities reserved.

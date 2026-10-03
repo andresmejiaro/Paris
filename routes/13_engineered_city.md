@@ -1,3 +1,6 @@
+<!-- CRUCE CURRENT STATE: 2026-10-03; controlling production decision v9 -->
+> **Current working state: Water, Pressure, and Flood — Strong candidate.** Distance: 7.013 km inherited version. Sewer entrance is an infrastructure handoff, not a mandatory €9 paid museum core. Old paid-core wording is superseded. Reconcile the exterior script and actual riverbank line. External QA and visitor-ready delivery remain pending. See [production reset](cruce_production_reset_v9.md). The older body below preserves research and earlier decisions; it does not override this notice.
+
 # The Engineered City — Lo que París necesita para seguir vivo
 
 Priority: C+. Research date: 2 October 2026. Architect recommendation: **KEEP as an independent compact daytime route with €9 industrial core**, subject to controller budget, cold-season square access and external Claude QA. Three substantial Spanish scripts; no admissions booked or purchased.
