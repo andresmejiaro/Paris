@@ -1,0 +1,6 @@
+approval_policy = "never"
+default_permissions = ":workspace"
+
+[agents]
+max_concurrent_threads_per_session = 3
+max_depth = 2

@@ -1,0 +1,1058 @@
+{
+  "date": "2026-10-03",
+  "router": "Valhalla anonymous OSM endpoint",
+  "profile": "pedestrian",
+  "note": "Geometry evidence only; approximate standing-area coordinates; mapped routes can use surface paths rather than requested rail corridors; legal current access not certified.",
+  "records": [
+    {
+      "id": "13_canal_full",
+      "coordinates_lat_lon": [
+        [
+          48.8473,
+          2.3675
+        ],
+        [
+          48.8532,
+          2.3691
+        ],
+        [
+          48.86,
+          2.3715
+        ],
+        [
+          48.8682,
+          2.3668
+        ],
+        [
+          48.874,
+          2.3638
+        ],
+        [
+          48.8839,
+          2.369
+        ],
+        [
+          48.8892,
+          2.3735
+        ],
+        [
+          48.8908,
+          2.39
+        ]
+      ],
+      "summary": {
+        "has_time_restrictions": false,
+        "has_toll": false,
+        "has_highway": false,
+        "has_ferry": false,
+        "min_lat": 48.847309,
+        "min_lon": 2.363561,
+        "max_lat": 48.892244,
+        "max_lon": 2.389978,
+        "time": 5257.049,
+        "length": 7.077,
+        "cost": 5497.635
+      },
+      "legs": [
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.847309,
+          "min_lon": 2.367452,
+          "max_lat": 48.853334,
+          "max_lon": 2.369401,
+          "time": 580.833,
+          "length": 0.756,
+          "cost": 606.489
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.853328,
+          "min_lon": 2.369116,
+          "max_lat": 48.860178,
+          "max_lon": 2.371873,
+          "time": 654.479,
+          "length": 0.861,
+          "cost": 686.498
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.860075,
+          "min_lon": 2.367203,
+          "max_lat": 48.868336,
+          "max_lon": 2.372168,
+          "time": 781.399,
+          "length": 1.04,
+          "cost": 801.995
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.868336,
+          "min_lon": 2.363676,
+          "max_lat": 48.874023,
+          "max_lon": 2.367425,
+          "time": 528.583,
+          "length": 0.744,
+          "cost": 536.971
+        },
+        {
+          "level_changes": [
+            [
+              63,
+              0
+            ]
+          ],
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.873982,
+          "min_lon": 2.363561,
+          "max_lat": 48.883877,
+          "max_lon": 2.370044,
+          "time": 992.143,
+          "length": 1.3,
+          "cost": 1045.019
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.883877,
+          "min_lon": 2.368616,
+          "max_lat": 48.889229,
+          "max_lon": 2.373806,
+          "time": 555.205,
+          "length": 0.77,
+          "cost": 589.283
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.888054,
+          "min_lon": 2.373297,
+          "max_lat": 48.892244,
+          "max_lon": 2.389978,
+          "time": 1164.404,
+          "length": 1.602,
+          "cost": 1231.376
+        }
+      ],
+      "url": "https://valhalla1.openstreetmap.de/route?json=%7B%22locations%22%3A%5B%7B%22lat%22%3A48.8473%2C%22lon%22%3A2.3675%7D%2C%7B%22lat%22%3A48.8532%2C%22lon%22%3A2.3691%7D%2C%7B%22lat%22%3A48.86%2C%22lon%22%3A2.3715%7D%2C%7B%22lat%22%3A48.8682%2C%22lon%22%3A2.3668%7D%2C%7B%22lat%22%3A48.874%2C%22lon%22%3A2.3638%7D%2C%7B%22lat%22%3A48.8839%2C%22lon%22%3A2.369%7D%2C%7B%22lat%22%3A48.8892%2C%22lon%22%3A2.3735%7D%2C%7B%22lat%22%3A48.8908%2C%22lon%22%3A2.39%7D%5D%2C%22costing%22%3A%22pedestrian%22%2C%22units%22%3A%22kilometers%22%2C%22directions_type%22%3A%22none%22%7D"
+    },
+    {
+      "id": "14_northwestern",
+      "coordinates_lat_lon": [
+        [
+          48.8837,
+          2.3191
+        ],
+        [
+          48.8855,
+          2.3167
+        ],
+        [
+          48.8883,
+          2.3151
+        ],
+        [
+          48.8929,
+          2.313
+        ],
+        [
+          48.888097,
+          2.310876
+        ],
+        [
+          48.887901,
+          2.306693
+        ],
+        [
+          48.8857,
+          2.2989
+        ],
+        [
+          48.878,
+          2.282
+        ]
+      ],
+      "summary": {
+        "has_time_restrictions": false,
+        "has_toll": false,
+        "has_highway": false,
+        "has_ferry": false,
+        "min_lat": 48.87743,
+        "min_lon": 2.282034,
+        "max_lat": 48.892938,
+        "max_lon": 2.319016,
+        "time": 3773.753,
+        "length": 5.164,
+        "cost": 3973.575
+      },
+      "legs": [
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.883663,
+          "min_lon": 2.31667,
+          "max_lat": 48.885574,
+          "max_lon": 2.319016,
+          "time": 218.368,
+          "length": 0.296,
+          "cost": 218.368
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.885522,
+          "min_lon": 2.314184,
+          "max_lat": 48.888257,
+          "max_lon": 2.31677,
+          "time": 300.496,
+          "length": 0.428,
+          "cost": 300.496
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.888257,
+          "min_lon": 2.311223,
+          "max_lat": 48.892885,
+          "max_lon": 2.3156,
+          "time": 521.51,
+          "length": 0.752,
+          "cost": 609.589
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.887997,
+          "min_lon": 2.310418,
+          "max_lat": 48.892938,
+          "max_lon": 2.313363,
+          "time": 735.652,
+          "length": 1,
+          "cost": 807.055
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.887861,
+          "min_lon": 2.306701,
+          "max_lat": 48.888332,
+          "max_lon": 2.310848,
+          "time": 237.805,
+          "length": 0.326,
+          "cost": 237.805
+        },
+        {
+          "level_changes": [
+            [
+              36,
+              0
+            ]
+          ],
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.88569,
+          "min_lon": 2.29891,
+          "max_lat": 48.887861,
+          "max_lon": 2.306701,
+          "time": 513.418,
+          "length": 0.681,
+          "cost": 514.265
+        },
+        {
+          "level_changes": [
+            [
+              88,
+              0
+            ]
+          ],
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.87743,
+          "min_lon": 2.282034,
+          "max_lat": 48.88569,
+          "max_lon": 2.29891,
+          "time": 1246.502,
+          "length": 1.678,
+          "cost": 1285.995
+        }
+      ],
+      "url": "https://valhalla1.openstreetmap.de/route?json=%7B%22locations%22%3A%5B%7B%22lat%22%3A48.8837%2C%22lon%22%3A2.3191%7D%2C%7B%22lat%22%3A48.8855%2C%22lon%22%3A2.3167%7D%2C%7B%22lat%22%3A48.8883%2C%22lon%22%3A2.3151%7D%2C%7B%22lat%22%3A48.8929%2C%22lon%22%3A2.313%7D%2C%7B%22lat%22%3A48.888097%2C%22lon%22%3A2.310876%7D%2C%7B%22lat%22%3A48.887901%2C%22lon%22%3A2.306693%7D%2C%7B%22lat%22%3A48.8857%2C%22lon%22%3A2.2989%7D%2C%7B%22lat%22%3A48.878%2C%22lon%22%3A2.282%7D%5D%2C%22costing%22%3A%22pedestrian%22%2C%22units%22%3A%22kilometers%22%2C%22directions_type%22%3A%22none%22%7D"
+    },
+    {
+      "id": "15_elevated",
+      "coordinates_lat_lon": [
+        [
+          48.8527,
+          2.3692
+        ],
+        [
+          48.8499,
+          2.3738
+        ],
+        [
+          48.8423,
+          2.3875
+        ],
+        [
+          48.8398,
+          2.3982
+        ],
+        [
+          48.8373,
+          2.4096
+        ],
+        [
+          48.8352,
+          2.4064
+        ],
+        [
+          48.8301,
+          2.4109
+        ],
+        [
+          48.8286,
+          2.4145
+        ],
+        [
+          48.8281,
+          2.4195
+        ]
+      ],
+      "summary": {
+        "has_time_restrictions": false,
+        "has_toll": false,
+        "has_highway": false,
+        "has_ferry": false,
+        "min_lat": 48.827821,
+        "min_lon": 2.369028,
+        "max_lat": 48.853187,
+        "max_lon": 2.419557,
+        "time": 4716.428,
+        "length": 6.276,
+        "cost": 5740.375
+      },
+      "legs": [
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.849928,
+          "min_lon": 2.369028,
+          "max_lat": 48.853187,
+          "max_lon": 2.373856,
+          "time": 424.292,
+          "length": 0.59,
+          "cost": 442.153
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.842302,
+          "min_lon": 2.373856,
+          "max_lat": 48.849928,
+          "max_lon": 2.387501,
+          "time": 1009.916,
+          "length": 1.372,
+          "cost": 1094.503
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.839695,
+          "min_lon": 2.387501,
+          "max_lat": 48.842302,
+          "max_lon": 2.398201,
+          "time": 721.847,
+          "length": 0.926,
+          "cost": 790.783
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.835753,
+          "min_lon": 2.398201,
+          "max_lat": 48.839805,
+          "max_lon": 2.409621,
+          "time": 881.502,
+          "length": 1.208,
+          "cost": 909.849
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.835181,
+          "min_lon": 2.406422,
+          "max_lat": 48.837294,
+          "max_lon": 2.409621,
+          "time": 309.416,
+          "length": 0.419,
+          "cost": 354.723
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.830144,
+          "min_lon": 2.406422,
+          "max_lat": 48.8352,
+          "max_lon": 2.410916,
+          "time": 532.602,
+          "length": 0.744,
+          "cost": 559.93
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.828525,
+          "min_lon": 2.410899,
+          "max_lat": 48.830165,
+          "max_lon": 2.415086,
+          "time": 386.284,
+          "length": 0.44,
+          "cost": 1041.596
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.827821,
+          "min_lon": 2.414513,
+          "max_lat": 48.829415,
+          "max_lon": 2.419557,
+          "time": 450.565,
+          "length": 0.575,
+          "cost": 546.835
+        }
+      ],
+      "url": "https://valhalla1.openstreetmap.de/route?json=%7B%22locations%22%3A%5B%7B%22lat%22%3A48.8527%2C%22lon%22%3A2.3692%7D%2C%7B%22lat%22%3A48.8499%2C%22lon%22%3A2.3738%7D%2C%7B%22lat%22%3A48.8423%2C%22lon%22%3A2.3875%7D%2C%7B%22lat%22%3A48.8398%2C%22lon%22%3A2.3982%7D%2C%7B%22lat%22%3A48.8373%2C%22lon%22%3A2.4096%7D%2C%7B%22lat%22%3A48.8352%2C%22lon%22%3A2.4064%7D%2C%7B%22lat%22%3A48.8301%2C%22lon%22%3A2.4109%7D%2C%7B%22lat%22%3A48.8286%2C%22lon%22%3A2.4145%7D%2C%7B%22lat%22%3A48.8281%2C%22lon%22%3A2.4195%7D%5D%2C%22costing%22%3A%22pedestrian%22%2C%22units%22%3A%22kilometers%22%2C%22directions_type%22%3A%22none%22%7D"
+    },
+    {
+      "id": "16_southern_with_closed_rail",
+      "coordinates_lat_lon": [
+        [
+          48.8339,
+          2.3765
+        ],
+        [
+          48.8291,
+          2.38
+        ],
+        [
+          48.8274,
+          2.3497
+        ],
+        [
+          48.8223,
+          2.3419
+        ],
+        [
+          48.8214934,
+          2.3552836
+        ],
+        [
+          48.8207,
+          2.3471
+        ],
+        [
+          48.8244,
+          2.3401
+        ],
+        [
+          48.8218,
+          2.3378
+        ],
+        [
+          48.8202,
+          2.3397
+        ],
+        [
+          48.8194,
+          2.3278
+        ]
+      ],
+      "summary": {
+        "has_time_restrictions": false,
+        "has_toll": false,
+        "has_highway": false,
+        "has_ferry": false,
+        "min_lat": 48.818011,
+        "min_lon": 2.327756,
+        "max_lat": 48.833791,
+        "max_lon": 2.379934,
+        "time": 7136.084,
+        "length": 9.343,
+        "cost": 10112.345
+      },
+      "legs": [
+        {
+          "level_changes": [
+            [
+              4,
+              0
+            ]
+          ],
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.829042,
+          "min_lon": 2.376188,
+          "max_lat": 48.833791,
+          "max_lon": 2.379934,
+          "time": 564.828,
+          "length": 0.737,
+          "cost": 614.998
+        },
+        {
+          "level_changes": [
+            [
+              107,
+              0
+            ]
+          ],
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.826059,
+          "min_lon": 2.349757,
+          "max_lat": 48.830372,
+          "max_lon": 2.379934,
+          "time": 2090.935,
+          "length": 2.679,
+          "cost": 2795.473
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.822182,
+          "min_lon": 2.341928,
+          "max_lat": 48.827655,
+          "max_lon": 2.34988,
+          "time": 727.642,
+          "length": 0.963,
+          "cost": 776.468
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.821481,
+          "min_lon": 2.341928,
+          "max_lat": 48.822793,
+          "max_lon": 2.355285,
+          "time": 786.794,
+          "length": 1.112,
+          "cost": 828.854
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.820105,
+          "min_lon": 2.347016,
+          "max_lat": 48.821481,
+          "max_lon": 2.355282,
+          "time": 622.974,
+          "length": 0.795,
+          "cost": 1895.542
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.819569,
+          "min_lon": 2.340025,
+          "max_lat": 48.824388,
+          "max_lon": 2.347205,
+          "time": 743.515,
+          "length": 0.985,
+          "cost": 1367.682
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.822048,
+          "min_lon": 2.33778,
+          "max_lat": 48.824489,
+          "max_lon": 2.340025,
+          "time": 354.136,
+          "length": 0.422,
+          "cost": 466.182
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.820165,
+          "min_lon": 2.337122,
+          "max_lat": 48.822058,
+          "max_lon": 2.339693,
+          "time": 334.203,
+          "length": 0.437,
+          "cost": 379.734
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.818011,
+          "min_lon": 2.327756,
+          "max_lat": 48.8213,
+          "max_lon": 2.339693,
+          "time": 911.051,
+          "length": 1.209,
+          "cost": 987.407
+        }
+      ],
+      "url": "https://valhalla1.openstreetmap.de/route?json=%7B%22locations%22%3A%5B%7B%22lat%22%3A48.8339%2C%22lon%22%3A2.3765%7D%2C%7B%22lat%22%3A48.8291%2C%22lon%22%3A2.38%7D%2C%7B%22lat%22%3A48.8274%2C%22lon%22%3A2.3497%7D%2C%7B%22lat%22%3A48.8223%2C%22lon%22%3A2.3419%7D%2C%7B%22lat%22%3A48.8214934%2C%22lon%22%3A2.3552836%7D%2C%7B%22lat%22%3A48.8207%2C%22lon%22%3A2.3471%7D%2C%7B%22lat%22%3A48.8244%2C%22lon%22%3A2.3401%7D%2C%7B%22lat%22%3A48.8218%2C%22lon%22%3A2.3378%7D%2C%7B%22lat%22%3A48.8202%2C%22lon%22%3A2.3397%7D%2C%7B%22lat%22%3A48.8194%2C%22lon%22%3A2.3278%7D%5D%2C%22costing%22%3A%22pedestrian%22%2C%22units%22%3A%22kilometers%22%2C%22directions_type%22%3A%22none%22%7D"
+    },
+    {
+      "id": "16_southern_surface",
+      "coordinates_lat_lon": [
+        [
+          48.8339,
+          2.3765
+        ],
+        [
+          48.8291,
+          2.38
+        ],
+        [
+          48.8274,
+          2.3497
+        ],
+        [
+          48.8223,
+          2.3419
+        ],
+        [
+          48.8244,
+          2.3401
+        ],
+        [
+          48.8218,
+          2.3378
+        ],
+        [
+          48.8202,
+          2.3397
+        ],
+        [
+          48.8194,
+          2.3278
+        ]
+      ],
+      "summary": {
+        "has_time_restrictions": false,
+        "has_toll": false,
+        "has_highway": false,
+        "has_ferry": false,
+        "min_lat": 48.818011,
+        "min_lon": 2.327756,
+        "max_lat": 48.833791,
+        "max_lon": 2.379934,
+        "time": 5256.389,
+        "length": 6.839,
+        "cost": 6337.074
+      },
+      "legs": [
+        {
+          "level_changes": [
+            [
+              4,
+              0
+            ]
+          ],
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.829042,
+          "min_lon": 2.376188,
+          "max_lat": 48.833791,
+          "max_lon": 2.379934,
+          "time": 564.828,
+          "length": 0.737,
+          "cost": 614.998
+        },
+        {
+          "level_changes": [
+            [
+              107,
+              0
+            ]
+          ],
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.826059,
+          "min_lon": 2.349757,
+          "max_lat": 48.830372,
+          "max_lon": 2.379934,
+          "time": 2090.935,
+          "length": 2.679,
+          "cost": 2795.473
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.822182,
+          "min_lon": 2.341928,
+          "max_lat": 48.827655,
+          "max_lon": 2.34988,
+          "time": 727.642,
+          "length": 0.963,
+          "cost": 776.468
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.822307,
+          "min_lon": 2.339995,
+          "max_lat": 48.824608,
+          "max_lon": 2.341928,
+          "time": 273.59,
+          "length": 0.389,
+          "cost": 316.809
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.822048,
+          "min_lon": 2.33778,
+          "max_lat": 48.824489,
+          "max_lon": 2.340025,
+          "time": 354.136,
+          "length": 0.422,
+          "cost": 466.182
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.820165,
+          "min_lon": 2.337122,
+          "max_lat": 48.822058,
+          "max_lon": 2.339693,
+          "time": 334.203,
+          "length": 0.437,
+          "cost": 379.734
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.818011,
+          "min_lon": 2.327756,
+          "max_lat": 48.8213,
+          "max_lon": 2.339693,
+          "time": 911.051,
+          "length": 1.209,
+          "cost": 987.407
+        }
+      ],
+      "url": "https://valhalla1.openstreetmap.de/route?json=%7B%22locations%22%3A%5B%7B%22lat%22%3A48.8339%2C%22lon%22%3A2.3765%7D%2C%7B%22lat%22%3A48.8291%2C%22lon%22%3A2.38%7D%2C%7B%22lat%22%3A48.8274%2C%22lon%22%3A2.3497%7D%2C%7B%22lat%22%3A48.8223%2C%22lon%22%3A2.3419%7D%2C%7B%22lat%22%3A48.8244%2C%22lon%22%3A2.3401%7D%2C%7B%22lat%22%3A48.8218%2C%22lon%22%3A2.3378%7D%2C%7B%22lat%22%3A48.8202%2C%22lon%22%3A2.3397%7D%2C%7B%22lat%22%3A48.8194%2C%22lon%22%3A2.3278%7D%5D%2C%22costing%22%3A%22pedestrian%22%2C%22units%22%3A%22kilometers%22%2C%22directions_type%22%3A%22none%22%7D"
+    },
+    {
+      "id": "17_west_part_a",
+      "coordinates_lat_lon": [
+        [
+          48.8324,
+          2.3015
+        ],
+        [
+          48.831,
+          2.2992
+        ],
+        [
+          48.8316,
+          2.2953
+        ],
+        [
+          48.8316926,
+          2.2930952
+        ],
+        [
+          48.8331,
+          2.2862
+        ],
+        [
+          48.8361,
+          2.2783
+        ],
+        [
+          48.839,
+          2.2747
+        ],
+        [
+          48.8416,
+          2.2745
+        ],
+        [
+          48.8428,
+          2.272
+        ],
+        [
+          48.8463,
+          2.276
+        ]
+      ],
+      "summary": {
+        "has_time_restrictions": false,
+        "has_toll": false,
+        "has_highway": false,
+        "has_ferry": false,
+        "min_lat": 48.830844,
+        "min_lon": 2.272418,
+        "max_lat": 48.846368,
+        "max_lon": 2.302502,
+        "time": 3412.652,
+        "length": 4.521,
+        "cost": 4223.739
+      },
+      "legs": [
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.830898,
+          "min_lon": 2.29931,
+          "max_lat": 48.832363,
+          "max_lon": 2.302502,
+          "time": 289.301,
+          "length": 0.393,
+          "cost": 323.353
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.830844,
+          "min_lon": 2.295583,
+          "max_lat": 48.831837,
+          "max_lon": 2.299388,
+          "time": 321.143,
+          "length": 0.455,
+          "cost": 338.721
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.831572,
+          "min_lon": 2.293052,
+          "max_lat": 48.832932,
+          "max_lon": 2.295789,
+          "time": 269.901,
+          "length": 0.363,
+          "cost": 275.13
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.83107,
+          "min_lon": 2.286072,
+          "max_lat": 48.833566,
+          "max_lon": 2.293052,
+          "time": 492.51,
+          "length": 0.67,
+          "cost": 1127.107
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.833167,
+          "min_lon": 2.27828,
+          "max_lat": 48.836096,
+          "max_lon": 2.286254,
+          "time": 554.804,
+          "length": 0.703,
+          "cost": 590.73
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.836096,
+          "min_lon": 2.274711,
+          "max_lat": 48.83933,
+          "max_lon": 2.278521,
+          "time": 457.524,
+          "length": 0.632,
+          "cost": 467.183
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.838927,
+          "min_lon": 2.274521,
+          "max_lat": 48.841623,
+          "max_lon": 2.276021,
+          "time": 360.674,
+          "length": 0.453,
+          "cost": 392.18
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.841623,
+          "min_lon": 2.272418,
+          "max_lat": 48.84267,
+          "max_lon": 2.274521,
+          "time": 246.244,
+          "length": 0.293,
+          "cost": 269.882
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.842521,
+          "min_lon": 2.272661,
+          "max_lat": 48.846368,
+          "max_lon": 2.276577,
+          "time": 420.547,
+          "length": 0.556,
+          "cost": 439.449
+        }
+      ],
+      "url": "https://valhalla1.openstreetmap.de/route?json=%7B%22locations%22%3A%5B%7B%22lat%22%3A48.8324%2C%22lon%22%3A2.3015%7D%2C%7B%22lat%22%3A48.831%2C%22lon%22%3A2.2992%7D%2C%7B%22lat%22%3A48.8316%2C%22lon%22%3A2.2953%7D%2C%7B%22lat%22%3A48.8316926%2C%22lon%22%3A2.2930952%7D%2C%7B%22lat%22%3A48.8331%2C%22lon%22%3A2.2862%7D%2C%7B%22lat%22%3A48.8361%2C%22lon%22%3A2.2783%7D%2C%7B%22lat%22%3A48.839%2C%22lon%22%3A2.2747%7D%2C%7B%22lat%22%3A48.8416%2C%22lon%22%3A2.2745%7D%2C%7B%22lat%22%3A48.8428%2C%22lon%22%3A2.272%7D%2C%7B%22lat%22%3A48.8463%2C%22lon%22%3A2.276%7D%5D%2C%22costing%22%3A%22pedestrian%22%2C%22units%22%3A%22kilometers%22%2C%22directions_type%22%3A%22none%22%7D"
+    },
+    {
+      "id": "17_west_part_b",
+      "coordinates_lat_lon": [
+        [
+          48.8463,
+          2.276
+        ],
+        [
+          48.8515,
+          2.2794
+        ],
+        [
+          48.8501,
+          2.2797
+        ]
+      ],
+      "summary": {
+        "has_time_restrictions": false,
+        "has_toll": false,
+        "has_highway": false,
+        "has_ferry": false,
+        "min_lat": 48.846368,
+        "min_lon": 2.27387,
+        "max_lat": 48.851535,
+        "max_lon": 2.28057,
+        "time": 880.426,
+        "length": 1.232,
+        "cost": 1625.598
+      },
+      "legs": [
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.846368,
+          "min_lon": 2.27387,
+          "max_lat": 48.851535,
+          "max_lon": 2.279468,
+          "time": 631.5,
+          "length": 0.876,
+          "cost": 1267.323
+        },
+        {
+          "has_time_restrictions": false,
+          "has_toll": false,
+          "has_highway": false,
+          "has_ferry": false,
+          "min_lat": 48.850112,
+          "min_lon": 2.278743,
+          "max_lat": 48.85151,
+          "max_lon": 2.28057,
+          "time": 248.925,
+          "length": 0.356,
+          "cost": 358.274
+        }
+      ],
+      "url": "https://valhalla1.openstreetmap.de/route?json=%7B%22locations%22%3A%5B%7B%22lat%22%3A48.8463%2C%22lon%22%3A2.276%7D%2C%7B%22lat%22%3A48.8515%2C%22lon%22%3A2.2794%7D%2C%7B%22lat%22%3A48.8501%2C%22lon%22%3A2.2797%7D%5D%2C%22costing%22%3A%22pedestrian%22%2C%22units%22%3A%22kilometers%22%2C%22directions_type%22%3A%22none%22%7D"
+    }
+  ]
+}
