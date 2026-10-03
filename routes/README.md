@@ -1,3 +1,5 @@
+> **Narrator correction — Andrés, 3 October 2026:** Cruce owns all route design, research, selection, verification, navigation and complete script preparation. Rumbo narrates Coulée Verte; Hilo narrates Medieval Devils; Miga narrates the affordable Paris flavours route. These are narrator assignments, not delegated work. No companion research or response is awaited. This overrides earlier commission/author/reviewer wording below.
+
 # Paris — working experience index
 
 Read [Cruce production reset v9](cruce_production_reset_v9.md) first. The fifteen-row architecture pool is inherited from v6; it is not an acceptance or completion count. Route headers now identify controlling changes. Old bodies retain research until fully reconciled. No route has external Claude acceptance yet.
@@ -15,7 +17,7 @@ Read [Cruce production reset v9](cruce_production_reset_v9.md) first. The fiftee
 | Art Nouveau Thresholds | Visibility condition | [file](08_art_nouveau_paris.md) |
 | Paris on Stage After Dark | Active-night condition | [file](10_burlesque_paris.md) |
 | Cosmopolitan North and East | Programme/transition condition | [file](11_cosmopolitan_paris.md) |
-| Medieval Devils and Miracles | Protected compact experience; Hilo assigned | [file](02_old_paris_devils_miracles.md) |
+| Medieval Devils and Miracles | Protected compact experience; Hilo narrator | [file](02_old_paris_devils_miracles.md) |
 | The Dead Become Public | Protected priority compact experience | [file](03_ghosts_revolution_nineteenth.md) |
 | Markets and Supply | Protected compact experience | [file](12_market_morning.md) |
 | City Under the City | Candidate/module | [file](14_paris_below.md) |
@@ -25,10 +27,10 @@ Read [Cruce production reset v9](cruce_production_reset_v9.md) first. The fiftee
 | Colonial Afterlives | Two compact blocks | [file](20_colonial_afterlives.md) |
 | Modern Paris After Dark | Retired standalone; research workbench | [file](04_modern_paris_after_dark.md) |
 | Northwestern Belt | Provisional: narration and operational production pending | discovery_batch_e.md |
-| Elevated East / Coulée Verte | Provisional; Rumbo experience review assigned | discovery_batch_f.md |
+| Elevated East / Coulée Verte | Provisional; Rumbo narrator; Cruce produces route | discovery_batch_f.md |
 | Southern Margins | Provisional; full scripts and exact observable traces pending | discovery_batch_f.md |
 | Western Green Machinery | Provisional; full scripts and rail-gate verification pending | discovery_batch_f.md |
-| Affordable Paris flavours | Miga tasting-route commission sent; result pending | cruce_production_reset_v9.md |
+| Affordable Paris flavours | Miga narrator; Cruce designs/researches tasting route | cruce_production_reset_v9.md |
 | Modern true crime | Protected candidate module; objects/access/scripts pending | modern_true_crime_discovery_v6.md |
 
 ## Production gates

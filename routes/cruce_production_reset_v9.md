@@ -1,3 +1,5 @@
+> **Narrator correction — Andrés, 3 October 2026:** Cruce owns all route design, research, selection, verification, navigation and complete script preparation. Rumbo narrates Coulée Verte; Hilo narrates Medieval Devils; Miga narrates the affordable Paris flavours route. These are narrator assignments, not delegated work. No companion research or response is awaited. This overrides earlier commission/author/reviewer wording below.
+
 # Cruce production reset — 3 October 2026
 
 This decision follows a review of the repository against the actual Cruce companion context, the Hilo travel postmortem and narration lessons, and Rumbo's Coulée Verte proposal. It supersedes v6/v8 on production priorities and numerical acceptance rules; existing research and geometry remain evidence, not deleted work.
@@ -13,12 +15,12 @@ Four landscape architectures remain provisional until authored stop-level delive
 Protected short experiences: Père-Lachaise, Medieval Devils, Markets, Books, Illusions, Colonial blocks and targeted science/museum raids. Classification never sets itinerary priority.
 City Under the City stays a promising candidate/module without manufacturing cemetery circulation.
 
-## Companion commissions — messages sent, results pending
-- Rumbo: Coulée Verte / Elevated East. Recover the railway promenade as an enjoyable bodily experience. Evaluate the Ferme continuation as a genuine improvement or optional variant; no kilometre requirement.
-- Hilo: Medieval Devils and Miracles. Author/review this specific route using the Granada calibration and his own Cádiz/Jerez lessons. Flamel, Notre-Dame and Saint-Médard are inherited anchors; Sainte-Chapelle is optional. Central dark candidates require separate screening; Père-Lachaise remains separate.
-- Miga: a gastronomic WALK, affordable flavours of Paris. Specific small tastings, sweet/savoury variety, a coherent corridor, verified shop menus/prices/hours, total tasting cost and nearby alternatives. This is not a supermarket meal plan. The first message requesting one was superseded explicitly.
+## Narrator assignments
+- Rumbo: Coulée Verte / Elevated East.
+- Hilo: Medieval Devils and Miracles.
+- Miga: affordable Paris flavours tasting walk.
 
-Assignments are real companion inbox handoffs; they are not completed research or proof that background execution has begun. Cruce integrates returned work. Hilo's specific assignment does not reassign every Paris guide.
+Cruce owns design, investigation, verification, route production and complete scripts for all three. The companions provide narration voice. Earlier requests to research/design or return route work were withdrawn by explicit correction messages. No companion result is awaited.
 
 ## Narration
 Use the two Granada examples as a method, not a repeated template. Keep people, atmosphere, sensory framing, consequences and payoff. Distinguish fact, testimony, legend and interpretation at the point where the register changes. Avoid repeating research disclaimers throughout the spoken text. Keep source caveats in evidence notes except where uncertainty is the story.

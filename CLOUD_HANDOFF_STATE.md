@@ -1,3 +1,5 @@
+> **Narrator correction — Andrés, 3 October 2026:** Cruce owns all route design, research, selection, verification, navigation and complete script preparation. Rumbo narrates Coulée Verte; Hilo narrates Medieval Devils; Miga narrates the affordable Paris flavours route. These are narrator assignments, not delegated work. No companion research or response is awaited. This overrides earlier commission/author/reviewer wording below.
+
 # Paris — current production handoff
 
 Updated 3 October 2026 by Cruce after loading the companion context and reviewing the repository.
@@ -14,14 +16,14 @@ Fifteen inherited architectures, not fifteen visitor-ready products. Five strong
 Discovery batches D/E/F were saved; the old seven-route paused checkpoint is historical.
 Seven kilometres is no longer an acceptance test. Do not extend a route simply to clear it; do not suppress the new gastronomic commission to preserve a fifteen-route ceiling.
 
-## Explicit assignments
+## Narrator assignments
 Rumbo: Coulée Verte / Elevated East.
 Hilo: Medieval Devils and Miracles.
 Miga: affordable Paris gastronomic walking experience, not a supermarket food plan.
-Messages were sent; returned work is pending. No background completion is assumed.
+Earlier delegated requests were withdrawn. Cruce performs all planning and prepares the scripts; companions narrate. No returned work is awaited.
 
 ## Continue
-Reconcile changed spines and complete scripts, starting with the strong inherited routes; integrate companion responses when available. Keep unresolved geometry/access/narration explicit. Validate operational production before independent external QA and delivery.
+Reconcile changed spines and complete scripts, starting with the strong inherited routes; prepare scripts for the assigned narrator voices. Keep unresolved geometry/access/narration explicit. Validate operational production before independent external QA and delivery.
 NOC/transport are planning candidates, not bookings. Keep PC13 excluded unless an explicit reopening is verified.
 
 ## Historical record

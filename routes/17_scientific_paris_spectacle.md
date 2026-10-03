@@ -1,3 +1,5 @@
+> **Narrator correction — Andrés, 3 October 2026:** Cruce owns all route design, research, selection, verification, navigation and complete script preparation. Rumbo narrates Coulée Verte; Hilo narrates Medieval Devils; Miga narrates the affordable Paris flavours route. These are narrator assignments, not delegated work. No companion research or response is awaited. This overrides earlier commission/author/reviewer wording below.
+
 <!-- CRUCE CURRENT STATE: 2026-10-03; controlling production decision v9 -->
 > **Current working state: Scientific Spectacle — Targeted museum experience.** Distance: museum layer. Treat as finite object/show raids; old two-paid-museum core is an option, not portfolio obligation. Recheck demonstration/public-holiday conditions and total budget. External QA and visitor-ready delivery remain pending. See [production reset](cruce_production_reset_v9.md). The older body below preserves research and earlier decisions; it does not override this notice.
 

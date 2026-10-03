@@ -1,3 +1,5 @@
+> **Narrator correction — Andrés, 3 October 2026:** Cruce owns all route design, research, selection, verification, navigation and complete script preparation. Rumbo narrates Coulée Verte; Hilo narrates Medieval Devils; Miga narrates the affordable Paris flavours route. These are narrator assignments, not delegated work. No companion research or response is awaited. This overrides earlier commission/author/reviewer wording below.
+
 > **Current production precedence (3 October 2026):** Read routes/cruce_production_reset_v9.md and routes/README.md. Kilometres classify workload; they do not decide whether an experience deserves inclusion. No distance or fifteen-route quota overrides theme, story and walking enjoyment. Compact experiences may be trip priorities. Companion assignments: Rumbo—Coulée Verte; Hilo—Medieval Devils; Miga—affordable Paris tasting walk. Existing research stays valid where not superseded; visitor-ready/external QA remain pending.
 
 # Portfolio Controller — Paris 2026
