@@ -1,5 +1,20 @@
 # Paris portfolio — cloud handoff checkpoint
 
+> **Resumed and completed on 3 October 2026.** The interrupted discovery work
+> described below has now been written to `routes/discovery_batch_d.md`,
+> `routes/discovery_batch_e.md`, and `routes/discovery_batch_f.md`. The current
+> controlling architecture document is `routes/portfolio_rebuild_v6.md`, which
+> accepts 15 full walking opportunities and leaves City Under the City as an
+> uncounted conditional candidate. Preserve the historical notes below for
+> provenance, but follow v6 and its “Required next gate” for new work.
+>
+> **Dark-route context correction:** read `routes/cruce_context_review_v8.md`.
+> The v7 cross-city extension is retained as a narration workbench, not as a
+> full-walk architecture. The canonical paranormal highlight is the compact
+> 2.5–4 km Père-Lachaise experience; its importance is not measured by mileage.
+> The two verbatim user examples in `routes/mystery_calibration_anchors.md`
+> remain the narration standard.
+
 Paused: 3 October 2026, at the user's request.
 
 ## Do not restart from the old 20-route portfolio
@@ -135,4 +150,3 @@ the workers were interrupted.
 - A working anonymous pedestrian router was found at the Valhalla OpenStreetMap
   endpoint `https://valhalla1.openstreetmap.de/route?json=` using URL-encoded
   JSON with `costing: pedestrian` and `units: kilometers`.
-
