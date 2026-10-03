@@ -1,4 +1,4 @@
-> Canon vigente — Cruce diseña y prepara; Hilo narra. 3 octubre 2026. Tres guiones completos conservados; geometría peatonal y QA externo pendientes. Esta edición sustituye los avisos contradictorios anteriores.
+> Canon vigente — Cruce diseña y prepara; Hilo narra. 3 octubre 2026. Tres guiones completos conservados; navegación cartográfica calculada y guardada; puertas del viaje y QA externo pendientes. Esta edición sustituye los avisos contradictorios anteriores.
 
 # 02 — Old Paris of Devils and Miracles
 
@@ -47,12 +47,12 @@ All serious candidates receive individual Waypoint Investigator review. Initial 
 **Vibe / guide:** intimate, curious, unsettling; **Hilo**.  
 **Start:** Nicolas Flamel house, 51 rue de Montmorency.  
 **Finish:** Saint-Médard, 141 rue Mouffetard, with final interpretation around eastern chevet.  
-**Distance:** provisionally **4–5 km**, including neighbourhood approaches and church circumnavigation; **not a measured walking trace**. Approximately 3.5–4.5 km exterior core, with optional stops/approaches producing the wider envelope.  
-**Duration:** 2.5–3 hours exterior; 3.5–4 hours with chapel visit and security. At the trip's 3.3 km/h operational benchmark, 4–5 km contributes 1.2–1.5 hours, plus reserved story/queue/rest time.  
+**Distance:** selected pedestrian-network trace **3.136 km** (about 3.14 km), ending at the eastern chevet; exterior base only, no chapel visit or lodging approaches. Fixed GPX, map links and reproducible queries: [navigation](navigation/README.md). Initial 4–5 km estimate above is historical and superseded.  
+**Duration:** approximately 2–2.5 hours exterior with narration and observation; optional chapel adds its actual visit/security time. At 3.3 km/h, the selected base contributes about 57 minutes of movement before pauses.  
 **Transport:** transit to Arts-et-Métiers/Rambuteau start area; do not automatically add the NOC approach to the route. Return from Censier-Daubenton (line 7) or Place Monge. Châtelet/Cité/Saint-Michel provide intermediate escapes; current services require travel-day check.  
 **Cost:** exterior core €0; paid chapel optional. No restaurant meal at Flamel required.
 
-Geometry: Montmorency → rue Beaubourg/rue Saint-Martin → river crossing at Pont au Change → boulevard du Palais (chapel branch) → cathedral west forecourt → Petit-Pont → rue Saint-Jacques → rue des Écoles/rue Monge → Mouffetard/Saint-Médard. These are proposed surface streets, not a validated turn-by-turn trace. The short island approach to the chapel is justified only by an actual interior visit.
+Selected geometry: Montmorency → Beaubourg/Renard → Hôtel de Ville → Pont d'Arcole → rue d'Arcole → Notre-Dame western parvis → Pont au Double → Lagrange → Monge → Daubenton/Mouffetard → Daubenton/de Candolle → eastern chevet. This traced base replaces the earlier surface-street proposal. Tour Saint-Jacques is not a passing waypoint in this selected trace. Sainte-Chapelle remains a separately chosen paid branch and is outside the base GPX.
 
 The route is independently viable as a compact block. Recommend preserving its identity for the Controller to evaluate rather than stretching it to 12–14 km. The modern-after-dark concept's ghost stations and cinema folklore tell a different story; they do not lengthen this walk automatically.
 
@@ -86,7 +86,7 @@ Mira otra vez las figuras. Si te parecen enigmáticas, conserva esa impresión; 
 Al irnos, deja la fachada en su tamaño verdadero: una casa en una calle donde siguen pasando vecinos y clientes. Nuestra primera puerta hacia lo invisible ha sido bastante modesta. Guarda esta diferencia para las siguientes: aquí, el recuerdo de los muertos quedó escrito en piedra; la promesa de no morir la pusieron otros.
 
 **Notice:** Gothic lettering, dated frieze, pillar figures/scrolls/angels, restaurant frontage. Do not assign secret meanings to carvings without evidence.  
-**Next:** Head south past the surviving tower of the vanished parish church where Flamel was buried. It is a passing landmark, then continue to the island.  
+**Next:** Take the selected Beaubourg/Renard surface trace to Pont d'Arcole and the western parvis. Do not announce passing Tour Saint-Jacques in this version.  
 **Access:** street exterior, no admission; restaurant is private commercial space. Daylight helps inscription legibility.
 
 **Evidence:** [Ministry of Culture monument record](https://pop.culture.gouv.fr/notice/merimee/PA00086213); [City charity/building account](https://www.paris.fr/pages/une-balade-a-velo-a-la-decouverte-des-maisons-d-artistes-ca-vous-dit-26974); [BnF 1612 publication](https://catalogue.bnf.fr/ark%3A/12148/cb304398122); [University of Rouen attribution study](https://publis-shs.univ-rouen.fr/ceredi/2124.html); [Carnavalet pillar record](https://www.parismuseescollections.paris.fr/en/node/158666); [restaurant operational site](https://auberge.nicolas-flamel.fr/). Rouen full page failed retrieval; substantive excerpts and independent BnF record support cautious publication-history wording.
@@ -193,4 +193,4 @@ The table preserves investigation-era overlap flags. The [Controller review](con
 
 ## QA and remaining limits
 
-**Status: Controller KEEP compact; narration-revised; external Claude QA PENDING.** Three accepted cores now carry Spanish on-site scripts of approximately 516, 562 and 562 words; the optional chapel script is approximately 281 words. Spoken delivery and current viewing positions still require QA. The expanded scripts use the existing investigated facts and clearly marked legend, belief and interpretation; no extra waypoint was introduced. No external Claude evaluation has occurred. Distance is a reasoned street estimate requiring mapped pedestrian tracing. Final gate hours, construction visibility, chapel booking/cost eligibility and Arkoun reopening need pre-travel operational checks. Machine-readable geometry and website must use this canonical content after route/controller QA; unmeasured coordinates above are proposal anchors, not survey points.
+**Status: Controller KEEP compact; narration-revised; external Claude QA PENDING.** Three accepted cores now carry Spanish on-site scripts of approximately 516, 562 and 562 words; the optional chapel script is approximately 281 words. Spoken delivery and current viewing positions still require QA. The expanded scripts use the existing investigated facts and clearly marked legend, belief and interpretation; no extra waypoint was introduced. No external Claude evaluation has occurred. The selected exterior distance is now a saved pedestrian-network trace; gate/access checks and independent field visibility remain pending. Final gate hours, construction visibility, chapel booking/cost eligibility and Arkoun reopening need pre-travel operational checks. Machine-readable navigation is saved under routes/navigation; the website remains pending. Initial coordinates above are historical proposal anchors; use the selected observation/arrival points in navigation/manifest.json.

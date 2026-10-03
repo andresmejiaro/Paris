@@ -1,12 +1,12 @@
 # 21 — París se come a pie
 Autoría y operaciones: Cruce. Narradora: Miga. Verificación comercial: 3 octubre 2026.
-Estado: experiencia seleccionada, guion completo de degustación; trazado exacto, comprobación antes del viaje y QA externo pendientes.
+Estado: experiencia seleccionada, guion completo de degustación; navegación cartográfica producida; comprobación antes del viaje y QA externo pendientes.
 
 ## La experiencia
 Tres bocados con funciones distintas: un flan de pastelería, pan o croissant cotidiano y un plato caliente de bouillon. Montorgueil → Petits-Carreaux → Grands Boulevards. No hace falta llenar una tarde ni comprar en cada escaparate: cada compra tiene una pregunta sensorial.
 
-Salida: Stohrer, 51 rue Montorgueil. Después Kayser, 16 rue des Petits-Carreaux. Final: Chartier, 7 rue du Faubourg Montmartre. Conector propuesto: Petits-Carreaux → rue Réaumur → rue Montmartre → boulevard Montmartre → Faubourg Montmartre; utilizar cruces peatonales. No es una navegación verificada giro a giro.
-Distancia estimada: 1.5–2 km, no medida. Reservar 2–3 horas con comida y posibles colas. Llegar a Chartier hacia apertura puede ayudar, sin garantía de espera corta. Esta ruta ocupa parte del presupuesto habitual de comida, no se suma como tres comidas.
+Salida: Stohrer, 51 rue Montorgueil. Después Kayser, 16 rue des Petits-Carreaux. Final: Chartier, 7 rue du Faubourg Montmartre. Navegación seleccionada: Petits-Carreaux → Réaumur → Montmartre → Faubourg Montmartre, con cruces peatonales. [Calles, pins, Maps y GPX fijo](navigation/README.md).
+Distancia de red seleccionada: **0.971 km**, unos 970 metros, sin interiores ni traslados al alojamiento. Reservar 2–3 horas con comida y posibles colas. Llegar a Chartier hacia apertura puede ayudar, sin garantía de espera corta. Esta ruta ocupa parte del presupuesto habitual de comida, no se suma como tres comidas.
 
 ## Compra y techo
 | Parada | Compra propuesta | Precio verificado o límite personal |
@@ -69,4 +69,4 @@ Al salir, compara los tres bocados por lo que te hicieron notar. ¿Te quedarías
 - [Chartier Grands Boulevards: historia, dirección, apertura](https://www.bouillon-chartier.com/bouillon-chartier-grands-boulevards/)
 - [Carta actualmente enlazada, fichero 2025/10: bandas y platos, no promesa para noviembre](https://www.bouillon-chartier.com/chartier_medias/2025/10/Francais.pdf)
 
-No existe reserva ni compra. Pendientes: precio presencial de panadería, trazado peatonal, colas y actualización para noviembre. No inventar un precio individual de la carta a partir de sus bandas.
+No existe reserva ni compra. Pendientes: precio presencial de panadería, colas, aperturas efectivas y actualización para noviembre. Trazado y datos de navegación guardados en navigation/. No inventar un precio individual de la carta a partir de sus bandas.

@@ -1,0 +1,1518 @@
+{
+  "schema_version": 1,
+  "selected_date": "2026-10-03",
+  "crs": "WGS84",
+  "author": "Cruce",
+  "on_ground_verified": false,
+  "map_links_are_dynamic": true,
+  "distance_method": "Valhalla pedestrian network; rounded leg/trip outputs, not GPS survey",
+  "routes": [
+    {
+      "id": "02",
+      "title": "Pactos con lo invisible",
+      "narrator": "Hilo",
+      "source_document": "routes/02_old_paris_devils_miracles.md",
+      "datasets": [
+        "02_medieval_canonical"
+      ],
+      "points": [
+        {
+          "id": "flamel",
+          "label": "Fachada de Flamel, 51 rue de Montmorency",
+          "latitude": 48.8636,
+          "longitude": 2.35313,
+          "role": "story",
+          "note": "Pin en calle; no entrar al restaurante.",
+          "map_pin": "https://www.google.com/maps/search/?api=1&query=48.8636,2.35313"
+        },
+        {
+          "id": "notre_dame",
+          "label": "Parvis, frente a fachada occidental",
+          "latitude": 48.85318,
+          "longitude": 2.34875,
+          "role": "story",
+          "note": "Desde el espacio público, mirar Sainte-Anne a la derecha al enfrentar la fachada; ajustar posición a barreras/colas sin entrar al edificio.",
+          "map_pin": "https://www.google.com/maps/search/?api=1&query=48.85318,2.34875"
+        },
+        {
+          "id": "medard_front",
+          "label": "Saint-Médard, frente de Mouffetard/Daubenton",
+          "latitude": 48.84009,
+          "longitude": 2.34983,
+          "role": "orientation",
+          "note": "",
+          "map_pin": "https://www.google.com/maps/search/?api=1&query=48.84009,2.34983"
+        },
+        {
+          "id": "medard_chevet",
+          "label": "Saint-Médard, vista oriental desde rue Censier",
+          "latitude": 48.8399,
+          "longitude": 2.35115,
+          "role": "story",
+          "note": "Pavimento exterior frente al ábside; no supuesto sepulcro ni puerta histórica.",
+          "map_pin": "https://www.google.com/maps/search/?api=1&query=48.8399,2.35115"
+        }
+      ],
+      "links": [
+        [
+          "Flamel → Notre-Dame",
+          "https://www.google.com/maps/dir/?api=1&origin=48.8636%2C2.35313&destination=48.85318%2C2.34875&travelmode=walking"
+        ],
+        [
+          "Notre-Dame → Saint-Médard",
+          "https://www.google.com/maps/dir/?api=1&origin=48.85318%2C2.34875&destination=48.84009%2C2.34983&travelmode=walking"
+        ],
+        [
+          "Frente → ábside",
+          "https://www.google.com/maps/dir/?api=1&origin=48.84009%2C2.34983&destination=48.8399%2C2.35115&travelmode=walking"
+        ]
+      ],
+      "access_notes": [
+        "Base exterior gratuita. Sainte-Chapelle no está incluida en esta traza.",
+        "Tour Saint-Jacques no está en la traza seleccionada: no prometer pasar a sus pies.",
+        "No pasaje subterráneo o interior necesario. Parvis sujeto a dispositivo de seguridad del día."
+      ],
+      "distance_km": 3.136,
+      "gpx": "routes/navigation/02.gpx",
+      "legs": [
+        {
+          "distance_km": 1.343,
+          "movement_model_seconds": 1020.63,
+          "maneuvers": [
+            {
+              "type": 1,
+              "instruction": "Camine hacia el este por Rue de Montmorency.",
+              "verbal_succinct_transition_instruction": "Camine hacia el este.",
+              "verbal_pre_transition_instruction": "Camine hacia el este por Rue de Montmorency.",
+              "verbal_post_transition_instruction": "Continúe durante 100 metros.",
+              "street_names": [
+                "Rue de Montmorency"
+              ],
+              "bearing_after": 108,
+              "time": 78.927,
+              "length": 0.111,
+              "cost": 75.769,
+              "begin_shape_index": 0,
+              "end_shape_index": 5,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 10,
+              "instruction": "Gire a la derecha hacia Rue Beaubourg.",
+              "verbal_transition_alert_instruction": "Gire a la derecha hacia Rue Beaubourg.",
+              "verbal_succinct_transition_instruction": "Gire a la derecha.",
+              "verbal_pre_transition_instruction": "Gire a la derecha hacia Rue Beaubourg.",
+              "verbal_post_transition_instruction": "Continúe durante 700 metros.",
+              "street_names": [
+                "Rue Beaubourg"
+              ],
+              "bearing_before": 112,
+              "bearing_after": 201,
+              "time": 512.792,
+              "length": 0.677,
+              "cost": 561.389,
+              "begin_shape_index": 5,
+              "end_shape_index": 39,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 16,
+              "instruction": "Siga por la izquierda en dirección a Place de l'Hôtel de Ville.",
+              "verbal_transition_alert_instruction": "Siga por la izquierda en dirección a Place de l'Hôtel de Ville.",
+              "verbal_succinct_transition_instruction": "Siga por la izquierda.",
+              "verbal_pre_transition_instruction": "Siga por la izquierda en dirección a Place de l'Hôtel de Ville.",
+              "verbal_post_transition_instruction": "Continúe durante 70 metros.",
+              "street_names": [
+                "Place de l'Hôtel de Ville"
+              ],
+              "bearing_before": 225,
+              "bearing_after": 177,
+              "time": 54.336,
+              "length": 0.071,
+              "cost": 70.2,
+              "begin_shape_index": 39,
+              "end_shape_index": 43,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 10,
+              "instruction": "Gire a la derecha hacia la calzada.",
+              "verbal_transition_alert_instruction": "Gire a la derecha hacia la calzada.",
+              "verbal_succinct_transition_instruction": "Gire a la derecha. Después Gire a la izquierda hacia la calzada.",
+              "verbal_pre_transition_instruction": "Gire a la derecha hacia la calzada. Después Gire a la izquierda hacia la calzada.",
+              "verbal_post_transition_instruction": "Continúe durante menos de 10 metros.",
+              "bearing_before": 201,
+              "bearing_after": 281,
+              "time": 6.352,
+              "length": 0.009,
+              "cost": 11.352,
+              "begin_shape_index": 43,
+              "end_shape_index": 44,
+              "verbal_multi_cue": true,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 15,
+              "instruction": "Gire a la izquierda hacia la calzada.",
+              "verbal_transition_alert_instruction": "Gire a la izquierda hacia la calzada.",
+              "verbal_succinct_transition_instruction": "Gire a la izquierda.",
+              "verbal_pre_transition_instruction": "Gire a la izquierda hacia la calzada.",
+              "verbal_post_transition_instruction": "Continúe durante 30 metros.",
+              "bearing_before": 281,
+              "bearing_after": 198,
+              "time": 19.647,
+              "length": 0.025,
+              "cost": 19.647,
+              "begin_shape_index": 44,
+              "end_shape_index": 49,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 15,
+              "instruction": "Gire a la izquierda hacia la calzada.",
+              "verbal_transition_alert_instruction": "Gire a la izquierda hacia la calzada.",
+              "verbal_succinct_transition_instruction": "Gire a la izquierda. Después Gire a la derecha hacia la calzada.",
+              "verbal_pre_transition_instruction": "Gire a la izquierda hacia la calzada. Después Gire a la derecha hacia la calzada.",
+              "verbal_post_transition_instruction": "Continúe durante menos de 10 metros.",
+              "bearing_before": 213,
+              "bearing_after": 141,
+              "time": 3.529,
+              "length": 0.005,
+              "cost": 3.529,
+              "begin_shape_index": 49,
+              "end_shape_index": 50,
+              "verbal_multi_cue": true,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 10,
+              "instruction": "Gire a la derecha hacia la calzada.",
+              "verbal_transition_alert_instruction": "Gire a la derecha hacia la calzada.",
+              "verbal_succinct_transition_instruction": "Gire a la derecha.",
+              "verbal_pre_transition_instruction": "Gire a la derecha hacia la calzada.",
+              "verbal_post_transition_instruction": "Continúe durante 80 metros.",
+              "bearing_before": 141,
+              "bearing_after": 197,
+              "time": 63.232,
+              "length": 0.083,
+              "cost": 69.434,
+              "begin_shape_index": 50,
+              "end_shape_index": 61,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 15,
+              "instruction": "Gire a la izquierda hacia la calzada.",
+              "verbal_transition_alert_instruction": "Gire a la izquierda hacia la calzada.",
+              "verbal_succinct_transition_instruction": "Gire a la izquierda. Después Manténgase a la derecha para tomar la calzada.",
+              "verbal_pre_transition_instruction": "Gire a la izquierda hacia la calzada. Después Manténgase a la derecha para tomar la calzada.",
+              "verbal_post_transition_instruction": "Continúe durante 20 metros.",
+              "bearing_before": 204,
+              "bearing_after": 127,
+              "time": 10.588,
+              "length": 0.015,
+              "cost": 10.588,
+              "begin_shape_index": 61,
+              "end_shape_index": 63,
+              "verbal_multi_cue": true,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 23,
+              "instruction": "Manténgase a la derecha para tomar la calzada.",
+              "verbal_transition_alert_instruction": "Manténgase a la derecha para tomar la calzada.",
+              "verbal_pre_transition_instruction": "Manténgase a la derecha para tomar la calzada.",
+              "verbal_post_transition_instruction": "Continúe durante 200 metros.",
+              "bearing_before": 127,
+              "bearing_after": 168,
+              "time": 148.811,
+              "length": 0.193,
+              "cost": 152.284,
+              "begin_shape_index": 63,
+              "end_shape_index": 75,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 15,
+              "instruction": "Gire a la izquierda hacia la calzada.",
+              "verbal_transition_alert_instruction": "Gire a la izquierda hacia la calzada.",
+              "verbal_succinct_transition_instruction": "Gire a la izquierda. Después Gire a la derecha hacia Rue d'Arcole.",
+              "verbal_pre_transition_instruction": "Gire a la izquierda hacia la calzada. Después Gire a la derecha hacia Rue d'Arcole.",
+              "verbal_post_transition_instruction": "Continúe durante menos de 10 metros.",
+              "bearing_before": 206,
+              "bearing_after": 116,
+              "time": 4.941,
+              "length": 0.007,
+              "cost": 4.941,
+              "begin_shape_index": 75,
+              "end_shape_index": 77,
+              "verbal_multi_cue": true,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 10,
+              "instruction": "Gire a la derecha hacia Rue d'Arcole.",
+              "verbal_transition_alert_instruction": "Gire a la derecha hacia Rue d'Arcole.",
+              "verbal_succinct_transition_instruction": "Gire a la derecha.",
+              "verbal_pre_transition_instruction": "Gire a la derecha hacia Rue d'Arcole.",
+              "verbal_post_transition_instruction": "Continúe durante 100 metros.",
+              "street_names": [
+                "Rue d'Arcole"
+              ],
+              "bearing_before": 115,
+              "bearing_after": 205,
+              "time": 117.47,
+              "length": 0.146,
+              "cost": 138.385,
+              "begin_shape_index": 77,
+              "end_shape_index": 84,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 5,
+              "instruction": "Su destino está a la derecha.",
+              "verbal_transition_alert_instruction": "Su destino estará a la derecha.",
+              "verbal_pre_transition_instruction": "Su destino está a la derecha.",
+              "bearing_before": 205,
+              "time": 0.0,
+              "length": 0.0,
+              "cost": 0.0,
+              "begin_shape_index": 84,
+              "end_shape_index": 84,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            }
+          ],
+          "shape_polyline6": "gvke|Aw}rnCnBaOzHqb@zGa_@b@aCD]|BhAhPdH|DjBjCdArCpA|e@pS~M|Fl@VjH|C|HfD~IxD`Br@zBbA~@`@|NbIbGlCrG~@jKhFzFhCxTpJpBnArBlBtJ`FvAv@lr@vYlChAbQ~HnB|@nBx@jg@jTbAb@n@XpA|@`@rBfDKj@Vb@R|\\`P]nFnAf@vBtAbCjAXXn@n@~@mAJA~LxEXNVJzLvFl@x@v@pAVFpBl@fCt@t@b@bBcGt@u@xBy@j@Sl@Jrh@~\\RNHTZVjA|@dAt@PLtAl@pg@z\\TcA^eBdk@~^h@XbBnANJ`E|CxNlJjBlA"
+        },
+        {
+          "distance_km": 1.666,
+          "movement_model_seconds": 1242.861,
+          "maneuvers": [
+            {
+              "type": 2,
+              "instruction": "Camine hacia el suroeste por Parvis Notre-Dame - Place Jean-Paul II.",
+              "verbal_succinct_transition_instruction": "Camine hacia el suroeste. Después, en 50 metros, Manténgase a la derecha para tomar Pont au Double.",
+              "verbal_pre_transition_instruction": "Camine hacia el suroeste por Parvis Notre-Dame - Place Jean-Paul II. Después, en 50 metros, Manténgase a la derecha para tomar Pont au Double.",
+              "verbal_post_transition_instruction": "Continúe durante 50 metros.",
+              "street_names": [
+                "Parvis Notre-Dame - Place Jean-Paul II"
+              ],
+              "bearing_after": 205,
+              "time": 35.261,
+              "length": 0.05,
+              "cost": 39.628,
+              "begin_shape_index": 0,
+              "end_shape_index": 4,
+              "verbal_multi_cue": true,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 23,
+              "instruction": "Manténgase a la derecha para tomar Pont au Double.",
+              "verbal_transition_alert_instruction": "Manténgase a la derecha para tomar Pont au Double.",
+              "verbal_pre_transition_instruction": "Manténgase a la derecha para tomar Pont au Double.",
+              "verbal_post_transition_instruction": "Continúe durante 50 metros.",
+              "street_names": [
+                "Pont au Double"
+              ],
+              "begin_street_names": [
+                "Pont au Double",
+                "杜布勒桥",
+                "퐁 오 두블르"
+              ],
+              "bearing_before": 205,
+              "bearing_after": 207,
+              "time": 36.423,
+              "length": 0.049,
+              "cost": 41.423,
+              "begin_shape_index": 4,
+              "end_shape_index": 13,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 8,
+              "instruction": "Continúe en Rue Lagrange.",
+              "verbal_transition_alert_instruction": "Continúe en Rue Lagrange.",
+              "verbal_pre_transition_instruction": "Continúe en Rue Lagrange.",
+              "verbal_post_transition_instruction": "Continúe durante 80 metros.",
+              "street_names": [
+                "Rue Lagrange"
+              ],
+              "bearing_before": 213,
+              "bearing_after": 202,
+              "time": 81.764,
+              "length": 0.084,
+              "cost": 97.326,
+              "begin_shape_index": 13,
+              "end_shape_index": 20,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 15,
+              "instruction": "Gire a la izquierda para permanecer en Rue Lagrange.",
+              "verbal_transition_alert_instruction": "Gire a la izquierda para permanecer en Rue Lagrange.",
+              "verbal_succinct_transition_instruction": "Gire a la izquierda.",
+              "verbal_pre_transition_instruction": "Gire a la izquierda para permanecer en Rue Lagrange.",
+              "verbal_post_transition_instruction": "Continúe durante 200 metros.",
+              "street_names": [
+                "Rue Lagrange"
+              ],
+              "bearing_before": 219,
+              "bearing_after": 153,
+              "time": 142.263,
+              "length": 0.211,
+              "cost": 143.288,
+              "begin_shape_index": 20,
+              "end_shape_index": 33,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 16,
+              "instruction": "Siga por la izquierda en dirección a Boulevard Saint-Germain.",
+              "verbal_transition_alert_instruction": "Siga por la izquierda en dirección a Boulevard Saint-Germain.",
+              "verbal_succinct_transition_instruction": "Siga por la izquierda.",
+              "verbal_pre_transition_instruction": "Siga por la izquierda en dirección a Boulevard Saint-Germain.",
+              "verbal_post_transition_instruction": "Continúe durante 20 metros.",
+              "street_names": [
+                "Boulevard Saint-Germain"
+              ],
+              "bearing_before": 152,
+              "bearing_after": 111,
+              "time": 14.117,
+              "length": 0.018,
+              "cost": 19.541,
+              "begin_shape_index": 33,
+              "end_shape_index": 35,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 10,
+              "instruction": "Gire a la derecha hacia Rue Monge.",
+              "verbal_transition_alert_instruction": "Gire a la derecha hacia Rue Monge.",
+              "verbal_succinct_transition_instruction": "Gire a la derecha.",
+              "verbal_pre_transition_instruction": "Gire a la derecha hacia Rue Monge.",
+              "verbal_post_transition_instruction": "Continúe durante 200 metros.",
+              "street_names": [
+                "Rue Monge"
+              ],
+              "bearing_before": 110,
+              "bearing_after": 193,
+              "time": 176.851,
+              "length": 0.229,
+              "cost": 185.753,
+              "begin_shape_index": 35,
+              "end_shape_index": 48,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 22,
+              "instruction": "Manténgase a la recto para permanecer en Rue Monge.",
+              "verbal_transition_alert_instruction": "Manténgase a la recto para permanecer en Rue Monge.",
+              "verbal_pre_transition_instruction": "Manténgase a la recto para permanecer en Rue Monge.",
+              "verbal_post_transition_instruction": "Continúe durante 900 metros.",
+              "street_names": [
+                "Rue Monge"
+              ],
+              "bearing_before": 152,
+              "bearing_after": 153,
+              "time": 649.534,
+              "length": 0.876,
+              "cost": 683.471,
+              "begin_shape_index": 48,
+              "end_shape_index": 92,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 10,
+              "instruction": "Gire a la derecha hacia Rue Daubenton.",
+              "verbal_transition_alert_instruction": "Gire a la derecha hacia Rue Daubenton.",
+              "verbal_succinct_transition_instruction": "Gire a la derecha.",
+              "verbal_pre_transition_instruction": "Gire a la derecha hacia Rue Daubenton.",
+              "verbal_post_transition_instruction": "Continúe durante 100 metros.",
+              "street_names": [
+                "Rue Daubenton"
+              ],
+              "bearing_before": 197,
+              "bearing_after": 290,
+              "time": 106.644,
+              "length": 0.149,
+              "cost": 111.644,
+              "begin_shape_index": 92,
+              "end_shape_index": 106,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 4,
+              "instruction": "Ha llegado a su destino.",
+              "verbal_transition_alert_instruction": "Llegará a su destino.",
+              "verbal_pre_transition_instruction": "Ha llegado a su destino.",
+              "bearing_before": 260,
+              "time": 0.0,
+              "length": 0.0,
+              "cost": 0.0,
+              "begin_shape_index": 106,
+              "end_shape_index": 106,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            }
+          ],
+          "shape_polyline6": "{hwd|A}qjnCrD`Cr@d@rO`Kn@`@fDbC~F`EjDpBLL`@\\PPPRXVrArAvCzAlFjC`LjHzAfAhFpEhB`CvAnCrDkCtN_Kx@q@hOcLVOfK}GzEkBzN{Kf@_@tDoCfEeDlDmCjKaIp@iE|@_GnGlBd@?rB{A`BqAhByAzKgItQqM`J}FpHcFdMaJvJaHlA}@nNuK~L{IvAcAni@{_@vHqFtLeIrA}@xEaD~KiD~Bo@jBi@`B_@`O}Dlt@mRf`@oJxEiA|RzAxMr@dBTvCNzCV|AL`AHtWbC~BRvIv@`Gd@zD`@tD^~C`@nZdCzCVpS~AzALpBLdDVbBL`_@zCxALjG\\hCXxAh@l@RtEzApFvBeAbHOjCFbANz@pE~PhAfEnAtE\\zAhBdLlAtHL`APhAbDxTbApP"
+        },
+        {
+          "distance_km": 0.127,
+          "movement_model_seconds": 88.8,
+          "maneuvers": [
+            {
+              "type": 1,
+              "instruction": "Camine hacia el sureste.",
+              "verbal_succinct_transition_instruction": "Camine hacia el sureste. Después Gire a la izquierda hacia la calzada.",
+              "verbal_pre_transition_instruction": "Camine hacia el sureste. Después Gire a la izquierda hacia la calzada.",
+              "verbal_post_transition_instruction": "Continúe durante menos de 10 metros.",
+              "bearing_after": 137,
+              "time": 1.411,
+              "length": 0.002,
+              "cost": 1.411,
+              "begin_shape_index": 0,
+              "end_shape_index": 1,
+              "verbal_multi_cue": true,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 15,
+              "instruction": "Gire a la izquierda hacia la calzada.",
+              "verbal_transition_alert_instruction": "Gire a la izquierda hacia la calzada.",
+              "verbal_succinct_transition_instruction": "Gire a la izquierda.",
+              "verbal_pre_transition_instruction": "Gire a la izquierda hacia la calzada.",
+              "verbal_post_transition_instruction": "Continúe durante 80 metros.",
+              "bearing_before": 137,
+              "bearing_after": 78,
+              "time": 54.211,
+              "length": 0.082,
+              "cost": 54.211,
+              "begin_shape_index": 1,
+              "end_shape_index": 6,
+              "rough": true,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 10,
+              "instruction": "Gire a la derecha hacia la calzada.",
+              "verbal_transition_alert_instruction": "Gire a la derecha hacia la calzada.",
+              "verbal_succinct_transition_instruction": "Gire a la derecha.",
+              "verbal_pre_transition_instruction": "Gire a la derecha hacia la calzada.",
+              "verbal_post_transition_instruction": "Continúe durante 40 metros.",
+              "bearing_before": 105,
+              "bearing_after": 154,
+              "time": 31.058,
+              "length": 0.04,
+              "cost": 31.058,
+              "begin_shape_index": 6,
+              "end_shape_index": 8,
+              "rough": true,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 15,
+              "instruction": "Gire a la izquierda hacia la calzada.",
+              "verbal_transition_alert_instruction": "Gire a la izquierda hacia la calzada.",
+              "verbal_succinct_transition_instruction": "Gire a la izquierda. Después Llegará a su destino.",
+              "verbal_pre_transition_instruction": "Gire a la izquierda hacia la calzada. Después Llegará a su destino.",
+              "verbal_post_transition_instruction": "Continúe durante menos de 10 metros.",
+              "bearing_before": 157,
+              "bearing_after": 90,
+              "time": 2.117,
+              "length": 0.003,
+              "cost": 2.117,
+              "begin_shape_index": 8,
+              "end_shape_index": 10,
+              "rough": true,
+              "verbal_multi_cue": true,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 4,
+              "instruction": "Ha llegado a su destino.",
+              "verbal_transition_alert_instruction": "Llegará a su destino.",
+              "verbal_pre_transition_instruction": "Ha llegado a su destino.",
+              "bearing_before": 50,
+              "time": 0.0,
+              "length": 0.0,
+              "cost": 0.0,
+              "begin_shape_index": 10,
+              "end_shape_index": 10,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            }
+          ],
+          "shape_polyline6": "_x}c|A}nlnC^m@mA_PoDuVyAyJy@_HbBkArP}K|Aq@?w@O]"
+        }
+      ]
+    },
+    {
+      "id": "21",
+      "title": "París se come a pie",
+      "narrator": "Miga",
+      "source_document": "routes/21_paris_popular_flavours.md",
+      "datasets": [
+        "21_flavours_canonical"
+      ],
+      "points": [
+        {
+          "id": "stohrer",
+          "label": "Stohrer, 51 rue Montorgueil",
+          "latitude": 48.86525,
+          "longitude": 2.34692,
+          "role": "story",
+          "note": "Pin en zona peatonal frente a la tienda, separado del punto comercial geocodificado.",
+          "map_pin": "https://www.google.com/maps/search/?api=1&query=48.86525,2.34692"
+        },
+        {
+          "id": "kayser",
+          "label": "Kayser, 16 rue des Petits-Carreaux",
+          "latitude": 48.86707,
+          "longitude": 2.34728,
+          "role": "story",
+          "note": "Pin en calle frente al número; tienda cerrada domingos según ficha comercial.",
+          "map_pin": "https://www.google.com/maps/search/?api=1&query=48.86707,2.34728"
+        },
+        {
+          "id": "chartier",
+          "label": "Chartier, acceso del 7 rue du Faubourg Montmartre",
+          "latitude": 48.87194,
+          "longitude": 2.34296,
+          "role": "story",
+          "note": "Buscar el acceso señalizado del restaurante; respetar la cola.",
+          "map_pin": "https://www.google.com/maps/search/?api=1&query=48.87194,2.34296"
+        }
+      ],
+      "links": [
+        [
+          "Stohrer → Kayser",
+          "https://www.google.com/maps/dir/?api=1&origin=48.86525%2C2.34692&destination=48.86707%2C2.34728&travelmode=walking"
+        ],
+        [
+          "Kayser → Chartier por Réaumur y Montmartre",
+          "https://www.google.com/maps/dir/?api=1&origin=48.86707%2C2.34728&destination=48.87194%2C2.34296&travelmode=walking&waypoints=48.8676201%2C2.3460668%7C48.8681507%2C2.3436015"
+        ]
+      ],
+      "access_notes": [
+        "Cruzar Réaumur y los boulevards por pasos peatonales; no diagonales de calzada.",
+        "Corrección explícita del cálculo: ignore_oneways en la petición peatonal evita el rodeo causado por sentidos únicos genéricos en Montorgueil. No se desactivaron restricciones de acceso.",
+        "Enlace de Maps recalcula: el GPX y la línea GeoJSON conservan nuestra elección."
+      ],
+      "distance_km": 0.971,
+      "gpx": "routes/navigation/21.gpx",
+      "legs": [
+        {
+          "distance_km": 0.203,
+          "movement_model_seconds": 140.022,
+          "maneuvers": [
+            {
+              "type": 1,
+              "instruction": "Camine hacia el norte por Rue Montorgueil.",
+              "verbal_succinct_transition_instruction": "Camine hacia el norte.",
+              "verbal_pre_transition_instruction": "Camine hacia el norte por Rue Montorgueil.",
+              "verbal_post_transition_instruction": "Continúe durante 200 metros.",
+              "street_names": [
+                "Rue Montorgueil"
+              ],
+              "bearing_after": 9,
+              "time": 140.022,
+              "length": 0.203,
+              "cost": 145.022,
+              "begin_shape_index": 0,
+              "end_shape_index": 5,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 4,
+              "instruction": "Ha llegado a su destino.",
+              "verbal_transition_alert_instruction": "Llegará a su destino.",
+              "verbal_pre_transition_instruction": "Ha llegado a su destino.",
+              "bearing_before": 7,
+              "time": 0.0,
+              "length": 0.0,
+              "cost": 0.0,
+              "begin_shape_index": 5,
+              "end_shape_index": 5,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            }
+          ],
+          "shape_polyline6": "c}ne|AsyfnCuPiCqGu@iJwAy]uDkl@}F"
+        },
+        {
+          "distance_km": 0.768,
+          "movement_model_seconds": 543.959,
+          "maneuvers": [
+            {
+              "type": 1,
+              "instruction": "Camine hacia el norte por Rue des Petits Carreaux.",
+              "verbal_succinct_transition_instruction": "Camine hacia el norte. Después, en 30 metros, Gire a la izquierda hacia Rue Réaumur.",
+              "verbal_pre_transition_instruction": "Camine hacia el norte por Rue des Petits Carreaux. Después, en 30 metros, Gire a la izquierda hacia Rue Réaumur.",
+              "verbal_post_transition_instruction": "Continúe durante 30 metros.",
+              "street_names": [
+                "Rue des Petits Carreaux"
+              ],
+              "bearing_after": 7,
+              "time": 21.512,
+              "length": 0.031,
+              "cost": 21.512,
+              "begin_shape_index": 0,
+              "end_shape_index": 4,
+              "verbal_multi_cue": true,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 15,
+              "instruction": "Gire a la izquierda hacia Rue Réaumur.",
+              "verbal_transition_alert_instruction": "Gire a la izquierda hacia Rue Réaumur.",
+              "verbal_succinct_transition_instruction": "Gire a la izquierda.",
+              "verbal_pre_transition_instruction": "Gire a la izquierda hacia Rue Réaumur.",
+              "verbal_post_transition_instruction": "Continúe durante 300 metros.",
+              "street_names": [
+                "Rue Réaumur"
+              ],
+              "bearing_before": 5,
+              "bearing_after": 288,
+              "time": 205.75,
+              "length": 0.286,
+              "cost": 811.343,
+              "begin_shape_index": 4,
+              "end_shape_index": 19,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 10,
+              "instruction": "Gire a la derecha hacia Rue Montmartre.",
+              "verbal_transition_alert_instruction": "Gire a la derecha hacia Rue Montmartre.",
+              "verbal_succinct_transition_instruction": "Gire a la derecha.",
+              "verbal_pre_transition_instruction": "Gire a la derecha hacia Rue Montmartre.",
+              "verbal_post_transition_instruction": "Continúe durante 400 metros.",
+              "street_names": [
+                "Rue Montmartre"
+              ],
+              "bearing_before": 288,
+              "bearing_after": 348,
+              "time": 281.416,
+              "length": 0.398,
+              "cost": 291.416,
+              "begin_shape_index": 19,
+              "end_shape_index": 44,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 15,
+              "instruction": "Gire a la izquierda hacia la calzada.",
+              "verbal_transition_alert_instruction": "Gire a la izquierda hacia la calzada.",
+              "verbal_succinct_transition_instruction": "Gire a la izquierda. Después Gire a la derecha hacia la calzada.",
+              "verbal_pre_transition_instruction": "Gire a la izquierda hacia la calzada. Después Gire a la derecha hacia la calzada.",
+              "verbal_post_transition_instruction": "Continúe durante menos de 10 metros.",
+              "bearing_before": 9,
+              "bearing_after": 284,
+              "time": 5.647,
+              "length": 0.008,
+              "cost": 10.646,
+              "begin_shape_index": 44,
+              "end_shape_index": 46,
+              "verbal_multi_cue": true,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 10,
+              "instruction": "Gire a la derecha hacia la calzada.",
+              "verbal_transition_alert_instruction": "Gire a la derecha hacia la calzada.",
+              "verbal_succinct_transition_instruction": "Gire a la derecha.",
+              "verbal_pre_transition_instruction": "Gire a la derecha hacia la calzada.",
+              "verbal_post_transition_instruction": "Continúe durante 40 metros.",
+              "bearing_before": 311,
+              "bearing_after": 15,
+              "time": 23.378,
+              "length": 0.036,
+              "cost": 23.378,
+              "begin_shape_index": 46,
+              "end_shape_index": 50,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 15,
+              "instruction": "Gire a la izquierda hacia la calzada.",
+              "verbal_transition_alert_instruction": "Gire a la izquierda hacia la calzada.",
+              "verbal_succinct_transition_instruction": "Gire a la izquierda. Después Llegará a su destino.",
+              "verbal_pre_transition_instruction": "Gire a la izquierda hacia la calzada. Después Llegará a su destino.",
+              "verbal_post_transition_instruction": "Continúe durante menos de 10 metros.",
+              "bearing_before": 8,
+              "bearing_after": 274,
+              "time": 6.253,
+              "length": 0.008,
+              "cost": 6.253,
+              "begin_shape_index": 50,
+              "end_shape_index": 52,
+              "verbal_multi_cue": true,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 4,
+              "instruction": "Ha llegado a su destino.",
+              "verbal_transition_alert_instruction": "Llegará a su destino.",
+              "verbal_pre_transition_instruction": "Ha llegado a su destino.",
+              "bearing_before": 277,
+              "time": 0.0,
+              "length": 0.0,
+              "cost": 0.0,
+              "begin_shape_index": 52,
+              "end_shape_index": 52,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            }
+          ],
+          "shape_polyline6": "{nre|A_pgnCiGm@eAKgBQuBOIj@o@|E_@zCuEz]q@lFgAfI_B`MSzAoDtXyAnJq@fGs@`GuKty@eFr`@y@fGwBf@oB`@{HbC{HbCmA`@sH`CgJ`DuJvDoe@vQmBt@aFlBiExAuF|@_Dh@}BPcJoAsJyBkGaBeCi@o[gH}Aa@eCo@iBc@kC[uB[[hDWh@KYQOy@Y}OqBAn@OxD"
+        }
+      ]
+    },
+    {
+      "id": "22",
+      "title": "La vía que aprendió a caminar",
+      "narrator": "Rumbo",
+      "source_document": "routes/22_coulee_verte.md",
+      "datasets": [
+        "22_west",
+        "22_east_canonical"
+      ],
+      "points": [
+        {
+          "id": "lyon_stairs",
+          "label": "Pie de escaleras, rue de Lyon",
+          "latitude": 48.8495863,
+          "longitude": 2.3711588,
+          "role": "entry",
+          "note": "OSM nodo 2629094197, escalera 257350703; dos tramos de escaleras al entrar.",
+          "map_pin": "https://www.google.com/maps/search/?api=1&query=48.8495863,2.3711588"
+        },
+        {
+          "id": "reuilly",
+          "label": "Pasarela André-Léo, sobre jardín de Reuilly",
+          "latitude": 48.842302,
+          "longitude": 2.387501,
+          "role": "story",
+          "note": "",
+          "map_pin": "https://www.google.com/maps/search/?api=1&query=48.842302,2.387501"
+        },
+        {
+          "id": "sahel",
+          "label": "Sendero de la trinchera, tramo de Sahel",
+          "latitude": 48.8411999,
+          "longitude": 2.3964213,
+          "role": "story",
+          "note": "OSM nodo 1313158269 sobre sendero; sustituye pin heredado fuera de la vía.",
+          "map_pin": "https://www.google.com/maps/search/?api=1&query=48.8411999,2.3964213"
+        },
+        {
+          "id": "lartet_gate",
+          "label": "Puerta oriental hacia Édouard-Lartet",
+          "latitude": 48.8410708,
+          "longitude": 2.4124373,
+          "role": "gate",
+          "note": "OSM nodo 7668989643; comprobar apertura. No es el viejo pin en avenue du Général-Messimy.",
+          "map_pin": "https://www.google.com/maps/search/?api=1&query=48.8410708,2.4124373"
+        },
+        {
+          "id": "lartet_exit",
+          "label": "Fuera del recinto, salida Édouard-Lartet",
+          "latitude": 48.8411992,
+          "longitude": 2.4131125,
+          "role": "exit",
+          "note": "",
+          "map_pin": "https://www.google.com/maps/search/?api=1&query=48.8411992,2.4131125"
+        }
+      ],
+      "links": [
+        [
+          "Entrada → Reuilly, tramo elevado",
+          "https://www.google.com/maps/dir/?api=1&origin=48.8495863%2C2.3711588&destination=48.842302%2C2.387501&travelmode=walking&waypoints=48.8495904%2C2.3713355%7C48.8481641%2C2.3740269%7C48.8443732%2C2.3819791"
+        ],
+        [
+          "Reuilly → Sahel por Vivaldi",
+          "https://www.google.com/maps/dir/?api=1&origin=48.842302%2C2.387501&destination=48.8411999%2C2.3964213&travelmode=walking&waypoints=48.841442%2C2.3912393"
+        ],
+        [
+          "Sahel → sendero al este de rue de Toul",
+          "https://www.google.com/maps/dir/?api=1&origin=48.8411999%2C2.3964213&destination=48.8407626%2C2.4045413&travelmode=walking&waypoints=48.8411162%2C2.3993852%7C48.8409299%2C2.4030752"
+        ],
+        [
+          "Sendero oriental → salida Édouard-Lartet",
+          "https://www.google.com/maps/dir/?api=1&origin=48.8407626%2C2.4045413&destination=48.8411992%2C2.4131125&travelmode=walking&waypoints=48.8405746%2C2.4073765%7C48.8405596%2C2.409818%7C48.8410708%2C2.4124373"
+        ]
+      ],
+      "access_notes": [
+        "Dos escaleras de acceso; no versión sin escaleras certificada.",
+        "Seguir el sendero peatonal separado de bicicletas al este; en bifurcación continuar hacia Montempoivre/Édouard-Lartet, no hacia Charles-Péguy.",
+        "Las puertas pueden cerrar: noviembre pendiente de confirmación municipal. Horario etiquetado en OSM no se convierte en garantía oficial.",
+        "Fuente municipal: entrada rue de Lyon → Reuilly → allée Vivaldi → túnel; fuente cartográfica: OSM para detalle de senderos y puerta final.",
+        "Si Maps devuelve una calle paralela al viaducto, usar el trazado fijo; si una puerta está cerrada, detenerse y recalcular desde una salida pública, nunca seguir el GPX atravesando una barrera."
+      ],
+      "extras": [
+        {
+          "name": "Bastille → entrada por rue de Lyon",
+          "dataset": "22_approach",
+          "points": [
+            {
+              "id": "bastille_surface",
+              "label": "Pavimento junto a Bastille, aproximación desde metro",
+              "latitude": 48.8524174,
+              "longitude": 2.3690683,
+              "role": "approach",
+              "note": "",
+              "map_pin": "https://www.google.com/maps/search/?api=1&query=48.8524174,2.3690683"
+            },
+            {
+              "id": "lyon_stairs",
+              "label": "Pie de escaleras",
+              "latitude": 48.8495863,
+              "longitude": 2.3711588,
+              "role": "entry",
+              "note": "",
+              "map_pin": "https://www.google.com/maps/search/?api=1&query=48.8495863,2.3711588"
+            }
+          ],
+          "map_link": "https://www.google.com/maps/dir/?api=1&origin=48.8524174%2C2.3690683&destination=48.8495863%2C2.3711588&travelmode=walking",
+          "distance_km": 0.396
+        },
+        {
+          "name": "Salida → acceso al andén de Montempoivre T3a",
+          "dataset": "22_return_canonical",
+          "points": [
+            {
+              "id": "lartet_exit",
+              "label": "Salida Édouard-Lartet",
+              "latitude": 48.8411992,
+              "longitude": 2.4131125,
+              "role": "exit",
+              "note": "",
+              "map_pin": "https://www.google.com/maps/search/?api=1&query=48.8411992,2.4131125"
+            },
+            {
+              "id": "montempoivre_platform_access",
+              "label": "Acceso norte a un andén de Montempoivre, boulevard Soult",
+              "latitude": 48.8400571,
+              "longitude": 2.4090033,
+              "role": "transit",
+              "note": "OSM nodo 6605102588 en borde de andén 703353531; elegir sentido de viaje sobre el terreno, no pin en las vías.",
+              "map_pin": "https://www.google.com/maps/search/?api=1&query=48.8400571,2.4090033"
+            }
+          ],
+          "map_link": "https://www.google.com/maps/dir/?api=1&origin=48.8411992%2C2.4131125&destination=48.8400571%2C2.4090033&travelmode=walking",
+          "distance_km": 0.379
+        }
+      ],
+      "distance_km": 3.435,
+      "gpx": "routes/navigation/22.gpx",
+      "legs": [
+        {
+          "distance_km": 1.493,
+          "movement_model_seconds": 1126.45,
+          "maneuvers": [
+            {
+              "type": 40,
+              "instruction": "Tome las escaleras a Level 1.",
+              "verbal_transition_alert_instruction": "Tome las escaleras a Level 1.",
+              "verbal_pre_transition_instruction": "Tome las escaleras a Level 1. Después Gire a la derecha hacia Coulée Verte René-Dumont.",
+              "verbal_post_transition_instruction": "Continúe durante menos de 10 metros.",
+              "street_names": [
+                "Promenade Plantée"
+              ],
+              "bearing_after": 328,
+              "time": 4.235,
+              "length": 0.006,
+              "cost": 4.235,
+              "begin_shape_index": 0,
+              "end_shape_index": 1,
+              "verbal_multi_cue": true,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 10,
+              "instruction": "Gire a la derecha hacia Coulée Verte René-Dumont.",
+              "verbal_transition_alert_instruction": "Gire a la derecha hacia Coulée Verte René-Dumont.",
+              "verbal_succinct_transition_instruction": "Gire a la derecha. Después Tome las escaleras a Level 1.",
+              "verbal_pre_transition_instruction": "Gire a la derecha hacia Coulée Verte René-Dumont. Después Tome las escaleras a Level 1.",
+              "verbal_post_transition_instruction": "Continúe durante 10 metros.",
+              "street_names": [
+                "Coulée Verte René-Dumont"
+              ],
+              "bearing_before": 328,
+              "bearing_after": 58,
+              "time": 7.764,
+              "length": 0.011,
+              "cost": 12.764,
+              "begin_shape_index": 1,
+              "end_shape_index": 2,
+              "verbal_multi_cue": true,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 40,
+              "instruction": "Tome las escaleras a Level 1.",
+              "verbal_transition_alert_instruction": "Tome las escaleras a Level 1.",
+              "verbal_pre_transition_instruction": "Tome las escaleras a Level 1. Después Continúe en Coulée Verte René-Dumont.",
+              "verbal_post_transition_instruction": "Continúe durante 10 metros.",
+              "street_names": [
+                "Coulée Verte René-Dumont"
+              ],
+              "bearing_before": 58,
+              "bearing_after": 147,
+              "time": 9.176,
+              "length": 0.013,
+              "cost": 39.176,
+              "begin_shape_index": 2,
+              "end_shape_index": 3,
+              "verbal_multi_cue": true,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 8,
+              "instruction": "Continúe en Coulée Verte René-Dumont.",
+              "verbal_transition_alert_instruction": "Continúe en Coulée Verte René-Dumont.",
+              "verbal_pre_transition_instruction": "Continúe en Coulée Verte René-Dumont.",
+              "verbal_post_transition_instruction": "Continúe durante 1 kilómetro.",
+              "street_names": [
+                "Coulée Verte René-Dumont"
+              ],
+              "bearing_before": 147,
+              "bearing_after": 143,
+              "time": 830.188,
+              "length": 1.144,
+              "cost": 838.67,
+              "begin_shape_index": 3,
+              "end_shape_index": 41,
+              "rough": true,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 10,
+              "instruction": "Gire a la derecha para permanecer en Coulée Verte René-Dumont.",
+              "verbal_transition_alert_instruction": "Gire a la derecha para permanecer en Coulée Verte René-Dumont.",
+              "verbal_succinct_transition_instruction": "Gire a la derecha.",
+              "verbal_pre_transition_instruction": "Gire a la derecha para permanecer en Coulée Verte René-Dumont.",
+              "verbal_post_transition_instruction": "Continúe durante 100 metros.",
+              "street_names": [
+                "Coulée Verte René-Dumont"
+              ],
+              "bearing_before": 127,
+              "bearing_after": 203,
+              "time": 79.2,
+              "length": 0.102,
+              "cost": 79.2,
+              "begin_shape_index": 41,
+              "end_shape_index": 45,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 10,
+              "instruction": "Gire a la derecha para permanecer en Coulée Verte René-Dumont.",
+              "verbal_transition_alert_instruction": "Gire a la derecha para permanecer en Coulée Verte René-Dumont.",
+              "verbal_succinct_transition_instruction": "Gire a la derecha.",
+              "verbal_pre_transition_instruction": "Gire a la derecha para permanecer en Coulée Verte René-Dumont.",
+              "verbal_post_transition_instruction": "Continúe durante 200 metros.",
+              "street_names": [
+                "Coulée Verte René-Dumont"
+              ],
+              "bearing_before": 53,
+              "bearing_after": 128,
+              "time": 195.885,
+              "length": 0.217,
+              "cost": 215.586,
+              "begin_shape_index": 45,
+              "end_shape_index": 54,
+              "rough": true,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 4,
+              "instruction": "Ha llegado a su destino.",
+              "verbal_transition_alert_instruction": "Llegará a su destino.",
+              "verbal_pre_transition_instruction": "Ha llegado a su destino.",
+              "bearing_before": 109,
+              "time": 0.0,
+              "length": 0.0,
+              "cost": 0.0,
+              "begin_shape_index": 54,
+              "end_shape_index": 54,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            }
+          ],
+          "shape_polyline6": "cjpd|AmdvoC}AxAgB}F|D{D~DyEpEiGhEaIxHsRtBkFJWdH_RhCwGbI_TjMk\\tMi\\tB{F~e@cpAjDgJlEqLvPud@h@wApM_]Z{@pBqFhNs^hBuErMc]xm@m_Bx|@}_Cr@aFpCiIdHcRjG{PvBKf@k@tJsW]oEfCcHnBoF\\y@fAsCnH_RtA`BxMc^bNm^sA}A`J{TpAsDbAsHvDcYvCkWhHuf@zAeKfDgU~@_H"
+        },
+        {
+          "distance_km": 0.688,
+          "movement_model_seconds": 545.194,
+          "maneuvers": [
+            {
+              "type": 1,
+              "instruction": "Camine hacia el este por Passerelle André Léo.",
+              "verbal_succinct_transition_instruction": "Camine hacia el este.",
+              "verbal_pre_transition_instruction": "Camine hacia el este por Passerelle André Léo.",
+              "verbal_post_transition_instruction": "Continúe durante 200 metros.",
+              "street_names": [
+                "Passerelle André Léo"
+              ],
+              "bearing_after": 109,
+              "time": 149.225,
+              "length": 0.153,
+              "cost": 196.496,
+              "begin_shape_index": 0,
+              "end_shape_index": 8,
+              "rough": true,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 10,
+              "instruction": "Gire a la derecha hacia Coulée Verte René-Dumont.",
+              "verbal_transition_alert_instruction": "Gire a la derecha hacia Coulée Verte René-Dumont.",
+              "verbal_succinct_transition_instruction": "Gire a la derecha. Después Gire a la izquierda para permanecer en Coulée Verte René-Dumont.",
+              "verbal_pre_transition_instruction": "Gire a la derecha hacia Coulée Verte René-Dumont. Después Gire a la izquierda para permanecer en Coulée Verte René-Dumont.",
+              "verbal_post_transition_instruction": "Continúe durante menos de 10 metros.",
+              "street_names": [
+                "Coulée Verte René-Dumont"
+              ],
+              "bearing_before": 106,
+              "bearing_after": 195,
+              "time": 2.117,
+              "length": 0.003,
+              "cost": 2.117,
+              "begin_shape_index": 8,
+              "end_shape_index": 9,
+              "verbal_multi_cue": true,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 15,
+              "instruction": "Gire a la izquierda para permanecer en Coulée Verte René-Dumont.",
+              "verbal_transition_alert_instruction": "Gire a la izquierda para permanecer en Coulée Verte René-Dumont.",
+              "verbal_succinct_transition_instruction": "Gire a la izquierda.",
+              "verbal_pre_transition_instruction": "Gire a la izquierda para permanecer en Coulée Verte René-Dumont.",
+              "verbal_post_transition_instruction": "Continúe durante 200 metros.",
+              "street_names": [
+                "Coulée Verte René-Dumont"
+              ],
+              "bearing_before": 195,
+              "bearing_after": 111,
+              "time": 189.134,
+              "length": 0.246,
+              "cost": 198.42,
+              "begin_shape_index": 9,
+              "end_shape_index": 14,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 15,
+              "instruction": "Gire a la izquierda para permanecer en Coulée Verte René-Dumont.",
+              "verbal_transition_alert_instruction": "Gire a la izquierda para permanecer en Coulée Verte René-Dumont.",
+              "verbal_succinct_transition_instruction": "Gire a la izquierda. Después Gire a la derecha para permanecer en Coulée Verte René-Dumont.",
+              "verbal_pre_transition_instruction": "Gire a la izquierda para permanecer en Coulée Verte René-Dumont. Después Gire a la derecha para permanecer en Coulée Verte René-Dumont.",
+              "verbal_post_transition_instruction": "Continúe durante menos de 10 metros.",
+              "street_names": [
+                "Coulée Verte René-Dumont"
+              ],
+              "bearing_before": 109,
+              "bearing_after": 58,
+              "time": 4.235,
+              "length": 0.006,
+              "cost": 4.235,
+              "begin_shape_index": 14,
+              "end_shape_index": 16,
+              "verbal_multi_cue": true,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 10,
+              "instruction": "Gire a la derecha para permanecer en Coulée Verte René-Dumont.",
+              "verbal_transition_alert_instruction": "Gire a la derecha para permanecer en Coulée Verte René-Dumont.",
+              "verbal_succinct_transition_instruction": "Gire a la derecha.",
+              "verbal_pre_transition_instruction": "Gire a la derecha para permanecer en Coulée Verte René-Dumont.",
+              "verbal_post_transition_instruction": "Continúe durante 30 metros.",
+              "street_names": [
+                "Coulée Verte René-Dumont"
+              ],
+              "bearing_before": 58,
+              "bearing_after": 108,
+              "time": 25.0,
+              "length": 0.034,
+              "cost": 25.0,
+              "begin_shape_index": 16,
+              "end_shape_index": 31,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 15,
+              "instruction": "Gire a la izquierda para permanecer en Coulée Verte René-Dumont.",
+              "verbal_transition_alert_instruction": "Gire a la izquierda para permanecer en Coulée Verte René-Dumont.",
+              "verbal_succinct_transition_instruction": "Gire a la izquierda.",
+              "verbal_pre_transition_instruction": "Gire a la izquierda para permanecer en Coulée Verte René-Dumont.",
+              "verbal_post_transition_instruction": "Continúe durante 200 metros.",
+              "street_names": [
+                "Coulée Verte René-Dumont"
+              ],
+              "bearing_before": 167,
+              "bearing_after": 110,
+              "time": 175.482,
+              "length": 0.246,
+              "cost": 175.482,
+              "begin_shape_index": 31,
+              "end_shape_index": 41,
+              "rough": true,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 4,
+              "instruction": "Ha llegado a su destino.",
+              "verbal_transition_alert_instruction": "Llegará a su destino.",
+              "verbal_pre_transition_instruction": "Ha llegado a su destino.",
+              "bearing_before": 94,
+              "time": 0.0,
+              "length": 0.0,
+              "cost": 0.0,
+              "begin_shape_index": 41,
+              "end_shape_index": 41,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            }
+          ],
+          "shape_polyline6": "{bbd|AyavpCxK}x@Fo@bAwGvIqn@Da@NiAPuALiAn@RF_@jJ}q@~Key@rJ_s@hGgd@NeAu@WR{ARyARyAL{APuBYYSc@Km@Ao@Fm@Rg@V]^M\\?NFfBgL]gQA{@A[c@wOsDotAS{KOuIgCiPf@q]"
+        },
+        {
+          "distance_km": 1.202,
+          "movement_model_seconds": 881.99,
+          "maneuvers": [
+            {
+              "type": 1,
+              "instruction": "Camine hacia el este por Coulée Verte René-Dumont.",
+              "verbal_succinct_transition_instruction": "Camine hacia el este.",
+              "verbal_pre_transition_instruction": "Camine hacia el este por Coulée Verte René-Dumont.",
+              "verbal_post_transition_instruction": "Continúe durante 200 metros.",
+              "street_names": [
+                "Coulée Verte René-Dumont"
+              ],
+              "bearing_after": 105,
+              "time": 154.969,
+              "length": 0.217,
+              "cost": 156.07,
+              "begin_shape_index": 0,
+              "end_shape_index": 6,
+              "rough": true,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 8,
+              "instruction": "Continúe en la calzada.",
+              "verbal_transition_alert_instruction": "Continúe en la calzada.",
+              "verbal_pre_transition_instruction": "Continúe en la calzada.",
+              "verbal_post_transition_instruction": "Continúe durante 80 metros.",
+              "bearing_before": 92,
+              "bearing_after": 94,
+              "time": 55.369,
+              "length": 0.082,
+              "cost": 64.477,
+              "begin_shape_index": 6,
+              "end_shape_index": 8,
+              "rough": true,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 8,
+              "instruction": "Continúe en Ligne de Paris-Bastille à Marles-en-Brie.",
+              "verbal_transition_alert_instruction": "Continúe en Ligne de Paris-Bastille à Marles-en-Brie.",
+              "verbal_pre_transition_instruction": "Continúe en Ligne de Paris-Bastille à Marles-en-Brie.",
+              "verbal_post_transition_instruction": "Continúe durante 40 metros.",
+              "street_names": [
+                "Ligne de Paris-Bastille à Marles-en-Brie"
+              ],
+              "bearing_before": 94,
+              "bearing_after": 95,
+              "time": 31.058,
+              "length": 0.044,
+              "cost": 36.058,
+              "begin_shape_index": 8,
+              "end_shape_index": 9,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 8,
+              "instruction": "Continúe en la calzada.",
+              "verbal_transition_alert_instruction": "Continúe en la calzada.",
+              "verbal_pre_transition_instruction": "Continúe en la calzada.",
+              "verbal_post_transition_instruction": "Continúe durante 90 metros.",
+              "bearing_before": 95,
+              "bearing_after": 101,
+              "time": 56.075,
+              "length": 0.09,
+              "cost": 63.808,
+              "begin_shape_index": 9,
+              "end_shape_index": 15,
+              "rough": true,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 15,
+              "instruction": "Gire a la izquierda hacia Promenade Plantée.",
+              "verbal_transition_alert_instruction": "Gire a la izquierda hacia Promenade Plantée.",
+              "verbal_succinct_transition_instruction": "Gire a la izquierda. Después Gire a la derecha para permanecer en Promenade Plantée.",
+              "verbal_pre_transition_instruction": "Gire a la izquierda hacia Promenade Plantée. Después Gire a la derecha para permanecer en Promenade Plantée.",
+              "verbal_post_transition_instruction": "Continúe durante menos de 10 metros.",
+              "street_names": [
+                "Promenade Plantée"
+              ],
+              "bearing_before": 94,
+              "bearing_after": 24,
+              "time": 2.117,
+              "length": 0.003,
+              "cost": 7.117,
+              "begin_shape_index": 15,
+              "end_shape_index": 17,
+              "verbal_multi_cue": true,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 10,
+              "instruction": "Gire a la derecha para permanecer en Promenade Plantée.",
+              "verbal_transition_alert_instruction": "Gire a la derecha para permanecer en Promenade Plantée.",
+              "verbal_succinct_transition_instruction": "Gire a la derecha. Después Siga por la izquierda en dirección a Ligne de Paris-Bastille à Marles-en-Brie.",
+              "verbal_pre_transition_instruction": "Gire a la derecha para permanecer en Promenade Plantée. Después Siga por la izquierda en dirección a Ligne de Paris-Bastille à Marles-en-Brie.",
+              "verbal_post_transition_instruction": "Continúe durante menos de 10 metros.",
+              "street_names": [
+                "Promenade Plantée"
+              ],
+              "bearing_before": 24,
+              "bearing_after": 81,
+              "time": 5.647,
+              "length": 0.008,
+              "cost": 5.647,
+              "begin_shape_index": 17,
+              "end_shape_index": 23,
+              "verbal_multi_cue": true,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 16,
+              "instruction": "Siga por la izquierda en dirección a Ligne de Paris-Bastille à Marles-en-Brie.",
+              "verbal_transition_alert_instruction": "Siga por la izquierda en dirección a Ligne de Paris-Bastille à Marles-en-Brie.",
+              "verbal_succinct_transition_instruction": "Siga por la izquierda.",
+              "verbal_pre_transition_instruction": "Siga por la izquierda en dirección a Ligne de Paris-Bastille à Marles-en-Brie.",
+              "verbal_post_transition_instruction": "Continúe durante 50 metros.",
+              "street_names": [
+                "Ligne de Paris-Bastille à Marles-en-Brie"
+              ],
+              "bearing_before": 132,
+              "bearing_after": 96,
+              "time": 33.55,
+              "length": 0.049,
+              "cost": 41.905,
+              "begin_shape_index": 23,
+              "end_shape_index": 25,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 24,
+              "instruction": "Manténgase a la izquierda para permanecer en Ligne de Paris-Bastille à Marles-en-Brie.",
+              "verbal_transition_alert_instruction": "Manténgase a la izquierda para permanecer en Ligne de Paris-Bastille à Marles-en-Brie.",
+              "verbal_pre_transition_instruction": "Manténgase a la izquierda para permanecer en Ligne de Paris-Bastille à Marles-en-Brie.",
+              "verbal_post_transition_instruction": "Continúe durante 100 metros.",
+              "street_names": [
+                "Ligne de Paris-Bastille à Marles-en-Brie"
+              ],
+              "bearing_before": 98,
+              "bearing_after": 97,
+              "time": 72.931,
+              "length": 0.111,
+              "cost": 72.931,
+              "begin_shape_index": 25,
+              "end_shape_index": 28,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 16,
+              "instruction": "Siga por la izquierda en dirección a la calzada.",
+              "verbal_transition_alert_instruction": "Siga por la izquierda en dirección a la calzada.",
+              "verbal_succinct_transition_instruction": "Siga por la izquierda. Después, en 20 metros, Gire a la izquierda hacia la calzada.",
+              "verbal_pre_transition_instruction": "Siga por la izquierda en dirección a la calzada. Después, en 20 metros, Gire a la izquierda hacia la calzada.",
+              "verbal_post_transition_instruction": "Continúe durante 20 metros.",
+              "bearing_before": 137,
+              "bearing_after": 99,
+              "time": 12.294,
+              "length": 0.016,
+              "cost": 17.294,
+              "begin_shape_index": 28,
+              "end_shape_index": 32,
+              "rough": true,
+              "verbal_multi_cue": true,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 15,
+              "instruction": "Gire a la izquierda hacia la calzada.",
+              "verbal_transition_alert_instruction": "Gire a la izquierda hacia la calzada.",
+              "verbal_succinct_transition_instruction": "Gire a la izquierda. Después Gire a la derecha hacia La Coulée Verte.",
+              "verbal_pre_transition_instruction": "Gire a la izquierda hacia la calzada. Después Gire a la derecha hacia La Coulée Verte.",
+              "verbal_post_transition_instruction": "Continúe durante menos de 10 metros.",
+              "bearing_before": 100,
+              "bearing_after": 45,
+              "time": 3.529,
+              "length": 0.005,
+              "cost": 3.529,
+              "begin_shape_index": 32,
+              "end_shape_index": 33,
+              "verbal_multi_cue": true,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 10,
+              "instruction": "Gire a la derecha hacia La Coulée Verte.",
+              "verbal_transition_alert_instruction": "Gire a la derecha hacia La Coulée Verte.",
+              "verbal_succinct_transition_instruction": "Gire a la derecha.",
+              "verbal_pre_transition_instruction": "Gire a la derecha hacia La Coulée Verte.",
+              "verbal_post_transition_instruction": "Continúe durante 500 metros.",
+              "street_names": [
+                "La Coulée Verte"
+              ],
+              "bearing_before": 45,
+              "bearing_after": 98,
+              "time": 425.872,
+              "length": 0.532,
+              "cost": 461.657,
+              "begin_shape_index": 33,
+              "end_shape_index": 50,
+              "rough": true,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 16,
+              "instruction": "Siga por la izquierda en dirección a la calzada.",
+              "verbal_transition_alert_instruction": "Siga por la izquierda en dirección a la calzada.",
+              "verbal_succinct_transition_instruction": "Siga por la izquierda.",
+              "verbal_pre_transition_instruction": "Siga por la izquierda en dirección a la calzada.",
+              "verbal_post_transition_instruction": "Continúe durante 40 metros.",
+              "bearing_before": 76,
+              "bearing_after": 44,
+              "time": 28.574,
+              "length": 0.043,
+              "cost": 33.574,
+              "begin_shape_index": 50,
+              "end_shape_index": 53,
+              "rough": true,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 4,
+              "instruction": "Ha llegado a su destino.",
+              "verbal_transition_alert_instruction": "Llegará a su destino.",
+              "verbal_pre_transition_instruction": "Ha llegado a su destino.",
+              "bearing_before": 53,
+              "time": 0.0,
+              "length": 0.0,
+              "cost": 0.0,
+              "begin_shape_index": 53,
+              "end_shape_index": 53,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            }
+          ],
+          "shape_polyline6": "_~_d|AiogqCz@mI}@cJbCekBLgJB}QRiXZcRjA{q@fAqd@j@aJkAeHJwGdBsHh@aa@@k@[KWWOa@Ii@?i@Hi@JWLSBwAjBwe@|E{oARmFzAiBH}ALcCL}BFgA{@yABk@`Aob@xBwl@dEomAl@uHV}CPmRAmBGc\\OuU_@i~@IwQKgGe@aIiFqt@oBaXeBwQsDeG{@yBqGgP"
+        },
+        {
+          "distance_km": 0.051,
+          "movement_model_seconds": 62.1,
+          "maneuvers": [
+            {
+              "type": 1,
+              "instruction": "Camine hacia el noroeste por la calzada.",
+              "verbal_succinct_transition_instruction": "Camine hacia el noroeste. Después, en 50 metros, Llegará a su destino.",
+              "verbal_pre_transition_instruction": "Camine hacia el noroeste por la calzada. Después, en 50 metros, Llegará a su destino.",
+              "verbal_post_transition_instruction": "Continúe durante 50 metros.",
+              "bearing_after": 315,
+              "time": 62.1,
+              "length": 0.051,
+              "cost": 73.634,
+              "begin_shape_index": 0,
+              "end_shape_index": 4,
+              "rough": true,
+              "verbal_multi_cue": true,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            },
+            {
+              "type": 4,
+              "instruction": "Ha llegado a su destino.",
+              "verbal_transition_alert_instruction": "Llegará a su destino.",
+              "verbal_pre_transition_instruction": "Ha llegado a su destino.",
+              "bearing_before": 75,
+              "time": 0.0,
+              "length": 0.0,
+              "cost": 0.0,
+              "begin_shape_index": 4,
+              "end_shape_index": 4,
+              "travel_mode": "pedestrian",
+              "travel_type": "foot"
+            }
+          ],
+          "shape_polyline6": "}u_d|AixfrC??Uq@iFsg@??"
+        }
+      ]
+    }
+  ]
+}

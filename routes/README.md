@@ -17,7 +17,7 @@ Read [Cruce production reset v9](cruce_production_reset_v9.md) first. The fiftee
 | Art Nouveau Thresholds | Visibility condition | [file](08_art_nouveau_paris.md) |
 | Paris on Stage After Dark | Active-night condition | [file](10_burlesque_paris.md) |
 | Cosmopolitan North and East | Programme/transition condition | [file](11_cosmopolitan_paris.md) |
-| Medieval Devils and Miracles | Canon reconciled; three complete core scripts; Hilo narrator; geometry/QA pending | [file](02_old_paris_devils_miracles.md) |
+| Medieval Devils and Miracles | Canon reconciled; three complete core scripts; Hilo narrator; mapped navigation produced; travel-day access/QA pending | [file](02_old_paris_devils_miracles.md) |
 | The Dead Become Public | Protected priority compact experience | [file](03_ghosts_revolution_nineteenth.md) |
 | Markets and Supply | Protected compact experience | [file](12_market_morning.md) |
 | City Under the City | Candidate/module | [file](14_paris_below.md) |
@@ -27,10 +27,10 @@ Read [Cruce production reset v9](cruce_production_reset_v9.md) first. The fiftee
 | Colonial Afterlives | Two compact blocks | [file](20_colonial_afterlives.md) |
 | Modern Paris After Dark | Retired standalone; research workbench | [file](04_modern_paris_after_dark.md) |
 | Northwestern Belt | Provisional: narration and operational production pending | discovery_batch_e.md |
-| Elevated East / Coulée Verte | Compact experience and four scripts; November gates/navigation pending; Rumbo narrator | [file](22_coulee_verte.md) |
+| Elevated East / Coulée Verte | Compact experience and four scripts; mapped navigation produced; November gates/QA pending; Rumbo narrator | [file](22_coulee_verte.md) |
 | Southern Margins | Provisional; full scripts and exact observable traces pending | discovery_batch_f.md |
 | Western Green Machinery | Provisional; full scripts and rail-gate verification pending | discovery_batch_f.md |
-| Affordable Paris flavours | Three tasting scripts, purchase limits and verified shops; Miga narrator; trace/QA pending | [file](21_paris_popular_flavours.md) |
+| Affordable Paris flavours | Three tasting scripts, purchase limits and verified shops; Miga narrator; mapped navigation produced; travel-day refresh/QA pending | [file](21_paris_popular_flavours.md) |
 | Modern true crime | Protected candidate module; objects/access/scripts pending | modern_true_crime_discovery_v6.md |
 
 ## Production gates
@@ -39,3 +39,6 @@ A short experience can pass every gate. A routed long spine can fail narration.
 
 ## Evidence
 geometry_batch_a/b/c and discovery_batch_d/e/f preserve routing inputs/totals. A router does not certify lawful current access. portfolio_health_audit_v6.md records unresolved overlap and narrative defects. mystery_calibration_anchors.md controls dark delivery; v8 protects compact Père-Lachaise.
+
+## Selected navigation
+Routes 02, 21 and 22 now have [fixed GPX, coordinates, street instructions, map links and reproducible routing evidence](navigation/README.md). Travel-date access remains a separate check; external acceptance remains pending.

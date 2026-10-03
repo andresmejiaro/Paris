@@ -1,0 +1,81 @@
+<gpx version="1.1" creator="Cruce Paris navigation" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>París se come a pie</name>
+    <desc>Cartographic pedestrian trace; OSM contributors, ODbL; Valhalla 2026-10-03. Not field surveyed. Check gates and access on the day.</desc>
+  </metadata>
+  <wpt lat="48.86525" lon="2.34692">
+    <name>Stohrer, 51 rue Montorgueil</name>
+    <desc>Pin en zona peatonal frente a la tienda, separado del punto comercial geocodificado.</desc>
+  </wpt>
+  <wpt lat="48.86707" lon="2.34728">
+    <name>Kayser, 16 rue des Petits-Carreaux</name>
+    <desc>Pin en calle frente al número; tienda cerrada domingos según ficha comercial.</desc>
+  </wpt>
+  <wpt lat="48.87194" lon="2.34296">
+    <name>Chartier, acceso del 7 rue du Faubourg Montmartre</name>
+    <desc>Buscar el acceso señalizado del restaurante; respetar la cola.</desc>
+  </wpt>
+  <trk>
+    <name>París se come a pie — núcleo</name>
+    <trkseg>
+      <trkpt lat="48.865250" lon="2.346922" />
+      <trkpt lat="48.865533" lon="2.346991" />
+      <trkpt lat="48.865670" lon="2.347018" />
+      <trkpt lat="48.865851" lon="2.347062" />
+      <trkpt lat="48.866344" lon="2.347153" />
+      <trkpt lat="48.867070" lon="2.347280" />
+      <trkpt lat="48.867203" lon="2.347303" />
+      <trkpt lat="48.867238" lon="2.347309" />
+      <trkpt lat="48.867290" lon="2.347318" />
+      <trkpt lat="48.867349" lon="2.347326" />
+      <trkpt lat="48.867354" lon="2.347304" />
+      <trkpt lat="48.867378" lon="2.347193" />
+      <trkpt lat="48.867394" lon="2.347115" />
+      <trkpt lat="48.867501" lon="2.346621" />
+      <trkpt lat="48.867526" lon="2.346502" />
+      <trkpt lat="48.867562" lon="2.346338" />
+      <trkpt lat="48.867610" lon="2.346113" />
+      <trkpt lat="48.867620" lon="2.346067" />
+      <trkpt lat="48.867708" lon="2.345656" />
+      <trkpt lat="48.867753" lon="2.345472" />
+      <trkpt lat="48.867778" lon="2.345340" />
+      <trkpt lat="48.867804" lon="2.345211" />
+      <trkpt lat="48.868007" lon="2.344272" />
+      <trkpt lat="48.868122" lon="2.343734" />
+      <trkpt lat="48.868151" lon="2.343602" />
+      <trkpt lat="48.868211" lon="2.343582" />
+      <trkpt lat="48.868267" lon="2.343565" />
+      <trkpt lat="48.868425" lon="2.343499" />
+      <trkpt lat="48.868583" lon="2.343433" />
+      <trkpt lat="48.868622" lon="2.343416" />
+      <trkpt lat="48.868776" lon="2.343351" />
+      <trkpt lat="48.868956" lon="2.343270" />
+      <trkpt lat="48.869143" lon="2.343178" />
+      <trkpt lat="48.869759" lon="2.342878" />
+      <trkpt lat="48.869814" lon="2.342851" />
+      <trkpt lat="48.869927" lon="2.342796" />
+      <trkpt lat="48.870028" lon="2.342751" />
+      <trkpt lat="48.870151" lon="2.342720" />
+      <trkpt lat="48.870231" lon="2.342699" />
+      <trkpt lat="48.870294" lon="2.342690" />
+      <trkpt lat="48.870472" lon="2.342730" />
+      <trkpt lat="48.870658" lon="2.342791" />
+      <trkpt lat="48.870792" lon="2.342840" />
+      <trkpt lat="48.870859" lon="2.342861" />
+      <trkpt lat="48.871315" lon="2.343009" />
+      <trkpt lat="48.871362" lon="2.343026" />
+      <trkpt lat="48.871429" lon="2.343050" />
+      <trkpt lat="48.871482" lon="2.343068" />
+      <trkpt lat="48.871552" lon="2.343082" />
+      <trkpt lat="48.871611" lon="2.343096" />
+      <trkpt lat="48.871625" lon="2.343011" />
+      <trkpt lat="48.871637" lon="2.342990" />
+      <trkpt lat="48.871643" lon="2.343003" />
+      <trkpt lat="48.871652" lon="2.343011" />
+      <trkpt lat="48.871681" lon="2.343024" />
+      <trkpt lat="48.871952" lon="2.343081" />
+      <trkpt lat="48.871953" lon="2.343057" />
+      <trkpt lat="48.871961" lon="2.342964" />
+    </trkseg>
+  </trk>
+</gpx>

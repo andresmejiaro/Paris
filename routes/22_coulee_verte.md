@@ -1,26 +1,19 @@
 # 22 — La vía que aprendió a caminar
 Autoría y operaciones: Cruce. Narrador: Rumbo. Fuentes consultadas: 3 octubre 2026.
-Estado: experiencia compacta seleccionada, guion completo; recorrido peatonal exacto y aperturas del viaje pendientes. QA externo pendiente.
+Estado: experiencia compacta seleccionada, guion completo; navegación cartográfica producida; aperturas del viaje y QA externo pendientes. QA externo pendiente.
 
 ## Forma elegida
 Bastille → tramo elevado de la Coulée Verte → pasarela/jardín de Reuilly → tramo de Sahel → salida oriental hacia Montempoivre.
 La línea transformada, sus cambios de altura y caminar son el contenido. El lago Daumesnil y la Ferme de Paris no forman parte del final obligatorio. El itinerario de 8.725 km en discovery_batch_f.md queda como variante exploratoria histórica, no como longitud de esta ruta.
 
-La ciudad describe 4.5 km para el conjunto de la promenade; esa cifra no mide exactamente nuestra entrada, salida o desvíos. Reservar unas 2–2.5 horas con pausas, según accesos y ritmo. Coste: €0 de entrada. Preferencia: mañana 9, tarde con luz 8, tarde tras cierre 0, noche 0. Sin añadir acceso desde NOC al kilometraje declarado.
+La ciudad describe 4.5 km para la promenade. Nuestra traza seleccionada mide **3.435 km** de red entre el pie de escaleras de rue de Lyon y el exterior de la puerta Édouard-Lartet. Aproximación desde Bastille: 0.396 km; salida al acceso de andén Montempoivre T3a: 0.379 km. Total de los tres: **4.210 km**. No sustituir la longitud elegida por la cifra general municipal. Reservar unas 2–2.5 horas con pausas, según accesos y ritmo. Coste: €0 de entrada. Preferencia: mañana 9, tarde con luz 8, tarde tras cierre 0, noche 0. Sin añadir acceso desde NOC al kilometraje declarado.
 
-## Anclas de orientación
-Son coordenadas aproximadas heredadas de discovery_batch_f.md, no puertas certificadas ni una polilínea.
-| Orden | Ancla | Latitud, longitud |
-|---|---|---|
-| 1 | Aproximación Bastille | 48.8527, 2.3692 |
-| 2 | Primer tramo elevado | 48.8499, 2.3738 |
-| 3 | Pasarela de Reuilly | 48.8423, 2.3875 |
-| 4 | Trinchera de Sahel | 48.8398, 2.3982 |
-| 5 | Aproximación Montempoivre | 48.8373, 2.4096 |
-
-Seguir la señalización de la promenade; un mapa entre anclas podría enviarte por la calle en vez de por la antigua vía. Verificar la conexión final y el acceso concreto antes de producir navegación.
-Entrada práctica: aproximarse desde Bastille y localizar escaleras señalizadas. Si se necesita ascensor, la ficha municipal lista Hector-Malot en servicio; 34 rue de Lyon y el ascensor junto a Leroy Merlin fuera de servicio. Revisar de nuevo, no prometer acceso continuo sin escaleras.
-Escapes: Reuilly-Diderot para variante corta, y comprobar el regreso desde Porte Dorée al terminar; el acercamiento al metro se suma al paseo.
+## Navegación seleccionada
+[Instrucciones, puntos precisos, enlaces Maps y GPX fijo](navigation/README.md).
+Inicio real: escaleras rue de Lyon, 48.8495863, 2.3711588. Reuilly: 48.842302, 2.387501. Sahel sobre el sendero: 48.8411999, 2.3964213. Puerta Édouard-Lartet: 48.8410708, 2.4124373. Exterior: 48.8411992, 2.4131125.
+Los antiguos pins de Sahel y Montempoivre estaban fuera del corredor elegido y quedan sustituidos. La consulta inicial que recorría rue de Charenton se rechaza; seguir la traza superior del viaducto, la pasarela y el sendero de la trinchera.
+Entrada por dos tramos de escaleras. La alternativa de ascensor no tiene una traza propia comprobada y no se ofrece como recorrido accesible. Escape corto: salir mediante acceso público al llegar a Reuilly; no forma parte del kilometraje completo.
+Regreso elegido: por Édouard-Lartet/Émile-Laurent a boulevard Soult y acceso al andén Montempoivre. No conducir a Porte Dorée como si estuviera en este final.
 
 ## Operaciones del viaje
 La página municipal consultada solo publica horarios del 1 al 24 de octubre de 2026. No trasladarlos al 30 octubre–15 noviembre. Preparar salida con luz, pero confirmar las puertas antes de fijar una hora.
@@ -72,4 +65,4 @@ Al volver a la calle, escucha de nuevo. Empezamos tomando una referencia y termi
 [Ville de Paris: historia, longitud general, accesos, avisos y equipamiento](https://www.paris.fr/lieux/coulee-verte-rene-dumont-1772).
 [Reportaje municipal de la promenade](https://www.paris.fr/pages/la-coulee-verte-rene-dumont-l-endroit-ideal-pour-une-rando-urbaine-36101).
 [Mediciones exploratorias heredadas](discovery_batch_f.md).
-No certificada: polilínea por la vía, puerta final elegida, horarios de noviembre, continuidad accesible. Completar estas comprobaciones antes de declarar lista para salir.
+Guardados: polilínea peatonal, puerta final elegida, GPX, coordenadas, instrucciones y respuestas del motor. No certificados: horarios de noviembre, apertura/obras del día y continuidad sin escaleras. La navegación cartográfica no sustituye el control de las puertas.
