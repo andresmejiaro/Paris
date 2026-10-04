@@ -4,7 +4,7 @@
 
 Llevar las rutas del catálogo a una versión terminada que Andrés pueda utilizar durante el viaje sin tener que diseñarla sobre la marcha.
 
-El catálogo no constituye una lista de rutas terminadas. Cada ruta debe cumplir los criterios siguientes para declararse **DONE**.
+El catálogo no constituye una lista de rutas terminadas. Cada ruta debe cumplir los criterios siguientes para declararse **DONE**. La evaluación también puede concluir que una ruta es pobre o deficiente: ese resultado argumentado es un hallazgo válido.
 
 ## Criterios de aceptación
 
@@ -33,6 +33,14 @@ No se considera verificada una condición futura por haber consultado cartograf�
 Cruce realiza el diseño, la investigación, la selección, la preparación de guiones, la navegación y la resolución de problemas operativos. Los narradores aportan la voz de la experiencia.
 
 El agente debe cerrar las decisiones necesarias y mantener los documentos sincronizados. No puede sustituir trabajo pendiente por nuevas propuestas, aumentar kilómetros para justificar una ruta ni declarar realizadas inspecciones o evaluaciones que no hayan ocurrido.
+
+## Hallazgo de insuficiencia
+
+El agente puede fallar al intentar convertir una propuesta en una experiencia satisfactoria. Puede concluir y argumentar que una ruta es pobre o deficiente por su contenido, coherencia, experiencia física u operación. No está obligado a salvarla, alargarla o declararla terminada.
+
+Ese resultado debe identificar las deficiencias, aportar la evidencia que sostiene el juicio y explicar por qué impiden una experiencia satisfactoria. Una limitación propia del agente o la falta de investigación no demuestran por sí solas que la ruta sea pobre; deben declararse como tales.
+
+Un hallazgo fundamentado permite cerrar la evaluación como **DESCARTADA — hallazgo de insuficiencia**. El objetivo admite tanto una ruta utilizable **DONE** como una conclusión justificada de que la propuesta no merece continuar. Una ruta descartada no se presenta como lista para el viaje.
 
 ## Revisión posterior
 
