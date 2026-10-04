@@ -78,7 +78,7 @@ El pin de entrada es el pie de la escalera de la promenade, no una escalera del 
 
 Total con ambos conectores: **4.210 km**, unos 4.21 km. El acceso final al tranvía es un borde de andén en boulevard Soult, no un punto sobre los raíles. Elegir el sentido de viaje allí. El GPX guarda núcleo y ambos conectores como tres tracks con nombre; una aplicación puede mostrar los tres, así que no sumar solo el track núcleo cuando se camina todo.
 
-La municipalidad aún no publica noviembre en la ficha consultada. OSM etiqueta horario invernal en la puerta, pero se conserva solo como indicio cartográfico. Antes de iniciar, confirmar apertura; ninguna geometría certifica una puerta abierta. No cruzar barreras ni acabar dentro después del cierre.
+[Puertas y horarios de noviembre: revisión documental del 4 octubre](22_access_november.md). RATP publica 08:00–17:45 entre semana, 09:00–17:45 fines de semana y festivos. Falta el calendario municipal fechado y turismo publica un cierre invernal anterior. Ventana de planificación conservadora: desde 09:00, fuera antes de 16:45, inicio máximo 14:15 para 2.5 horas. La apertura concreta de Édouard-Lartet sigue pendiente. Ascensor del 34 rue de Lyon fuera de servicio según ficha municipal. No cruzar barreras; señales locales mandan.
 
 ## Qué se comprobó
 Direcciones comerciales contrastadas con sus fuentes oficiales; puntos geocodificados separados de puntos sobre vía peatonal; acceso y niveles de la Coulée contrastados con geometría OSM y secuencia municipal; traza revisada para retirar calles paralelas, entrada de metro, punto dentro de Notre-Dame y antiguos puntos fuera de la vía. GPX/XML, coordenadas GeoJSON, índices de maniobra y límites de París comprobados.

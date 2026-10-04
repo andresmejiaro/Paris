@@ -34,6 +34,9 @@ Rejected: inherited Coulée pins off the actual corridor, metro stairs mistaken 
 Hilo base now uses Beaubourg/Renard and Pont d'Arcole; no promised passing stop at Tour Saint-Jacques. Sainte-Chapelle is outside the base GPX.
 GPX/XML, coordinate bounds, maneuver indices checked. Map review is not field verification or external Claude QA. Gates/construction/access must be checked for the trip. Miga request alone uses ignore_oneways to remove a generic one-way artefact; never apply ignore_access or blindly reuse that option elsewhere.
 
+## Access checkpoint — 4 October 2026
+Route 22 gates and seasonal hours reviewed in routes/navigation/22_access_november.md. RATP publishes November 08:00–17:45 weekdays, 09:00–17:45 weekends/public holidays; municipal date-specific publication still pending. Tourist-office winter closing differs, so planning window is conservatively 09:00–16:45, latest start 14:15 for 2.5 hours. Rue de Lyon lift remains reported out of service; selected entrance uses stairs. Édouard-Lartet gate is mapped, its actual opening is not certified. Municipal July 2026 report describes the eastern street extension as completed; do not carry 2025 construction dates into 2026. Day-of gates/works and external QA remain pending.
+
 ## Continue
 Reconcile changed spines and complete scripts, starting with the strong inherited routes; prepare scripts for the assigned narrator voices. Keep unresolved geometry/access/narration explicit. Validate operational production before independent external QA and delivery.
 NOC/transport are planning candidates, not bookings. Keep PC13 excluded unless an explicit reopening is verified.
