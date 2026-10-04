@@ -1,7 +1,8 @@
-<gpx version="1.1" creator="Cruce Paris navigation" xmlns="http://www.topografix.com/GPX/1/1">
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Cruce Paris navigation">
   <metadata>
     <name>Pactos con lo invisible</name>
-    <desc>Cartographic pedestrian trace; OSM contributors, ODbL; Valhalla 2026-10-03. Not field surveyed. Check gates and access on the day.</desc>
+    <desc>DONE 02-v10-20261004; base exterior 3.136 km. Geometría Valhalla/OSM de 2026-10-03 conservada; revisión documental/cartográfica 2026-10-04. Sin inspección presencial. Operaciones y variantes: 02_access_operations.md. © colaboradores OSM, ODbL.</desc>
   </metadata>
   <wpt lat="48.8636" lon="2.35313">
     <name>Fachada de Flamel, 51 rue de Montmorency</name>

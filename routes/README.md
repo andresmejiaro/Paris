@@ -2,7 +2,7 @@
 
 # Paris — working experience index
 
-Read [Cruce production reset v9](cruce_production_reset_v9.md) first. The fifteen-row architecture pool is inherited from v6; it is not an acceptance or completion count. Route headers now identify controlling changes. Old bodies retain research until fully reconciled. No route has external Claude acceptance yet.
+Read [Definition of Done](DEFINITION_OF_DONE.md) and [Cruce production reset v9](cruce_production_reset_v9.md) first. The fifteen-row architecture pool is inherited from v6; it is not an acceptance or completion count. Route 02 is closed under DoD; other route headers identify controlling changes and older bodies retain research until reconciled. External review by several models follows completion; no such acceptance is claimed here.
 
 | Experience | Current state | Working artifact |
 |---|---|---|
@@ -17,7 +17,7 @@ Read [Cruce production reset v9](cruce_production_reset_v9.md) first. The fiftee
 | Art Nouveau Thresholds | Visibility condition | [file](08_art_nouveau_paris.md) |
 | Paris on Stage After Dark | Active-night condition | [file](10_burlesque_paris.md) |
 | Cosmopolitan North and East | Programme/transition condition | [file](11_cosmopolitan_paris.md) |
-| Medieval Devils and Miracles | Canon reconciled; three complete core scripts; Hilo narrator; mapped navigation produced; travel-day access/QA pending | [file](02_old_paris_devils_miracles.md) |
+| Diablos y milagros / Medieval Devils and Miracles | **DONE · 02-v10-20261004 · reviewed 4 October 2026.** Hilo; 3.136 km exterior base; operations and V0–V4 resolved; day checks explicit; external review follows closure. | [canonical](02_old_paris_devils_miracles.md) · [navigation](navigation/02.gpx) · [operations](navigation/02_access_operations.md) · [JSON](navigation/02.operations.json) |
 | The Dead Become Public | Protected priority compact experience | [file](03_ghosts_revolution_nineteenth.md) |
 | Markets and Supply | Protected compact experience | [file](12_market_morning.md) |
 | City Under the City | Candidate/module | [file](14_paris_below.md) |
@@ -34,11 +34,11 @@ Read [Cruce production reset v9](cruce_production_reset_v9.md) first. The fiftee
 | Modern true crime | Protected candidate module; objects/access/scripts pending | modern_true_crime_discovery_v6.md |
 
 ## Production gates
-Researched proposal → coherent selected experience → complete authored narration → operational navigation/access/fallbacks → independent external QA → website and machine-readable delivery.
-A short experience can pass every gate. A routed long spine can fail narration.
+Researched proposal → coherent selected experience → complete authored narration → operational navigation/access/fallbacks → synchronized canonical and navigation delivery → **DONE under DoD** → external review by several models and feedback. Website production remains a separate portfolio deliverable; it is not an additional gate for the active Route 02 assignment.
+A short experience can meet every criterion. A routed long spine can fail narration. Day conditions may remain to check only when their failure has a usable alternative; external review does not block agent-controlled closure.
 
 ## Evidence
 geometry_batch_a/b/c and discovery_batch_d/e/f preserve routing inputs/totals. A router does not certify lawful current access. portfolio_health_audit_v6.md records unresolved overlap and narrative defects. mystery_calibration_anchors.md controls dark delivery; v8 protects compact Père-Lachaise.
 
 ## Selected navigation
-Routes 02, 21 and 22 now have [fixed GPX, coordinates, street instructions, map links and reproducible routing evidence](navigation/README.md). Travel-date access remains a separate check; external acceptance remains pending.
+Routes 02, 21 and 22 have [fixed GPX, coordinates, street instructions, map links and reproducible routing evidence](navigation/README.md). Route 02 additionally has fixed variants/connectors, dated operations and a machine-readable closure record. Travel-day checks and subsequent external review remain explicit; routes 21 and 22 retain their existing pending status.

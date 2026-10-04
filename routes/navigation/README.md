@@ -1,5 +1,5 @@
 # Navegación seleccionada — Hilo, Miga y Rumbo
-Cruce · 3 octubre 2026. Trazados calculados y revisados en cartografía peatonal. No son un levantamiento GPS ni una inspección presencial de puertas.
+Cruce · navegación base del 3 octubre 2026; cierre operativo de ruta 02 revisado el 4 octubre 2026. Trazados calculados y revisados en cartografía peatonal. No son un levantamiento GPS ni una inspección presencial de puertas.
 
 Cada ruta tiene instrucciones por calles, puntos de llegada, enlaces de Google Maps y un GPX fijo. Maps puede recalcular y elegir otra acera o una calle paralela: sus enlaces no son prueba de que haya seguido el GPX. El GPX contiene una línea para seguir en una aplicación compatible; no produce por sí solo avisos de giro. El [GeoJSON conjunto](routes.geojson) y el [registro de navegación](manifest.json) conservan coordenadas y maniobras.
 
@@ -31,7 +31,21 @@ La traza base pasa por Beaubourg/Renard, no por Tour Saint-Jacques. Se retira la
 | Saint-Médard, frente de Mouffetard/Daubenton | 48.84009, 2.34983 | [Mapa](https://www.google.com/maps/search/?api=1&query=48.84009,2.34983) |
 | Saint-Médard, vista oriental desde rue Censier | 48.8399, 2.35115 | [Mapa](https://www.google.com/maps/search/?api=1&query=48.8399,2.35115) |
 
-Salida hacia transporte: [acceso rue Monge de Censier-Daubenton](https://www.google.com/maps/search/?api=1&query=48.8404419%2C2.3515106), nodo de entrada 703430271 en OSM; no es un trayecto adicional medido en el total.
+**DONE — 02-v10-20261004, revisada el 4 octubre 2026.** Hilo narra; Cruce produce. [Ficha canónica](../02_old_paris_devils_miracles.md) · [operaciones, fuentes y adaptaciones de guion](02_access_operations.md) · [registro operativo JSON](02.operations.json) · [GPX de variantes y conectores](02.variants.gpx). Base: 2–2.5 h, inicio 09:00–14:00, final máximo 16:30, hora de París; €0 y sin reserva. La revisión externa por varios modelos es posterior al cierre.
+
+| Conector / variante | Marcha medida | Qué elegir |
+|---|---:|---|
+| Rambuteau salida 4 → Flamel | 0.176 km | Llegada preferida; salida 1 alternativa: 0.318 km. |
+| Cabecera → Censier-Daubenton | 0.076 km | [Acceso rue Monge](https://www.google.com/maps/search/?api=1&query=48.8404419%2C2.3515106), nodo OSM 703430271. Base con llegada preferida y salida: 3.388 km. |
+| Notre-Dame → Sainte-Chapelle → Notre-Dame | 0.789 km | Opcional, fuera de la base; añade interior, reserva, coste y 80–110 min. |
+| Cabecera → Buffon | 0.910 km | Refugio solo abierto; cerrado lunes, domingos, 1 y 11 de noviembre. Ver horario completo en operaciones. |
+| V0 parcial hasta Notre-Dame + salida exterior Cité | 1.343 + 0.528 km | Terminar tras dos capítulos; últimos 20–30 m hasta escaleras/andenes sin medir. |
+| V1, traslado en bus 47 | 1.919 km a pie | Tres capítulos; 0.292 km hasta poste sur Cité y 0.284 km desde bajada Censier incluidos. Viaje en bus sin línea ficticia en GPX. |
+| V2, sin Flamel | 1.793 km | Comenzar en Notre-Dame; dos capítulos. |
+| V3, sin parvis | 3.792 km | Flamel → Petit Pont por Cité → Saint-Médard; dos capítulos. |
+| V4, sin cabecera | 3.009 km + 0.136 km salida | Final en frente; tres capítulos con adaptación. |
+
+El GPX adicional guarda **13 tracks independientes**: tres versiones parciales extraídas de la base, un desvío completo y nueve conectores. Seleccionar solo los nombres indicados por la variante; no sumar todos los tracks. Los puntos de objeto Sainte-Anne y escaleras Cité quedan como referencias en JSON y no como destinos GPX. Obras/barreras, clima, WC, refugio y servicio se comprueban el día, con respuestas V0–V4 ya fijadas. Las versiones parciales no se registran como ejecución íntegra de la base.
 
 ## 21 — Miga: tres compras, menos de un kilómetro
 [Stohrer → Kayser](https://www.google.com/maps/dir/?api=1&origin=48.86525%2C2.34692&destination=48.86707%2C2.34728&travelmode=walking) · [Kayser → Chartier por Réaumur y Montmartre](https://www.google.com/maps/dir/?api=1&origin=48.86707%2C2.34728&destination=48.87194%2C2.34296&travelmode=walking&waypoints=48.8676201%2C2.3460668%7C48.8681507%2C2.3436015)
@@ -92,4 +106,4 @@ Rumbo se calculó en dos peticiones por el límite de diez puntos del servicio, 
 [Accesos municipales Coulée](https://www.paris.fr/lieux/coulee-verte-rene-dumont-1772) · [Secuencia municipal del paseo](https://www.paris.fr/pages/la-coulee-verte-rene-dumont-l-endroit-ideal-pour-une-rando-urbaine-36101).
 Las direcciones de tiendas se respaldan en [ruta 21](../21_paris_popular_flavours.md). Las posiciones de parvis/ábside son puntos de observación seleccionados sobre cartografía, no observaciones presenciales de visibilidad.
 
-Pendiente separado: apertura efectiva para noviembre, obras/barreras del día, QA independiente. Navegación cartográfica producida; aceptación externa no simulada.
+Ruta 02 cerrada bajo [Definition of Done](../DEFINITION_OF_DONE.md): incertidumbres del día con alternativas explícitas y revisión externa posterior. Para 21 y 22 se conserva su estado de producción anterior: acceso del día y QA independiente pendientes. No se ha simulado aceptación externa ni inspección presencial.

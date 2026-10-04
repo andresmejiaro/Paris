@@ -68,9 +68,12 @@
         ]
       ],
       "access_notes": [
-        "Base exterior gratuita. Sainte-Chapelle no está incluida en esta traza.",
-        "Tour Saint-Jacques no está en la traza seleccionada: no prometer pasar a sus pies.",
-        "No pasaje subterráneo o interior necesario. Parvis sujeto a dispositivo de seguridad del día."
+        "Base exterior gratuita, 3.136 km; sin interior ni parque obligatorio.",
+        "Sainte-Chapelle: desvío opcional de 0.789 km, no incluido en GPX base.",
+        "Tour Saint-Jacques no está en la traza seleccionada ni se promete como paso.",
+        "Parvis: fuente municipal reciente y fallos resueltos por V3/V0. Sainte-Anne es objeto de referencia, no punto de llegada sobre la puerta.",
+        "Saint-Médard: frente y cabecera desde calle pública. V4 acaba en frente si cabecera cerrada.",
+        "Ver 02_access_operations.md: baños, refugio, horarios, costes y variantes. Revisión externa posterior al cierre."
       ],
       "distance_km": 3.136,
       "gpx": "routes/navigation/02.gpx",
@@ -569,6 +572,261 @@
             }
           ],
           "shape_polyline6": "_x}c|A}nlnC^m@mA_PoDuVyAyJy@_HbBkArP}K|Aq@?w@O]"
+        }
+      ],
+      "status": "DONE",
+      "version": "02-v10-20261004",
+      "review_date": "2026-10-04",
+      "operations_json": "routes/navigation/02.operations.json",
+      "operations_document": "routes/navigation/02_access_operations.md",
+      "variant_gpx": "routes/navigation/02.variants.gpx",
+      "duration_minutes": [
+        120,
+        150
+      ],
+      "chosen_start_window": [
+        "09:00",
+        "14:00"
+      ],
+      "latest_finish": "16:30",
+      "timezone": "Europe/Paris",
+      "variants": [
+        {
+          "id": "V0",
+          "trigger": "Interior opcional falla o clima/fatiga obligan a interrumpir",
+          "form": "Base sin capilla o visita parcial explícita",
+          "tracks": [
+            "V0_finish_notre_dame",
+            "parvis_to_cite_metro_surface"
+          ],
+          "route_distance_km_if_abort_at_notre_dame": 1.343,
+          "exit_connector_km": 0.528,
+          "finish": "Notre-Dame / metro Cité; si ya en Saint-Médard, Censier",
+          "preserves": "Sin capilla: todos los núcleos. Abortada: solo núcleos visitados.",
+          "loses": "Al abortar tras Notre-Dame, desenlace Saint-Médard.",
+          "script_adapter_document": "routes/navigation/02_access_operations.md",
+          "walking_total_to_cite_surface_if_abort_km": 1.871
+        },
+        {
+          "id": "V1",
+          "trigger": "Lluvia moderada o fatiga del traslado largo",
+          "form": "Tres capítulos con tramo en bus",
+          "tracks": [
+            "V0_finish_notre_dame",
+            "parvis_to_bus47",
+            "bus47_to_medard"
+          ],
+          "walking_km": 1.919,
+          "walking_components_km": [
+            1.343,
+            0.292,
+            0.284
+          ],
+          "transport": {
+            "mode": "bus",
+            "line": "47",
+            "board_point": "cite_bus47_south",
+            "alight_point": "censier_bus47_south",
+            "direction": "Le Kremlin-Bicêtre / Fort du Kremlin-Bicêtre; confirmar Censier-Daubenton en sentido sur",
+            "fare_eur": 2.05,
+            "max_wait_minutes": 15,
+            "waiting_travel_allowance_minutes": [
+              20,
+              40
+            ],
+            "gpx_bus_geometry_included": false
+          },
+          "finish": "medard_chevet",
+          "preserves": "Tres historias y desenlace",
+          "loses": "Continuidad a pie del traslado central",
+          "if_bus_unusable": "V0 o base a pie solo si sigue cómoda",
+          "duration_minutes": [
+            120,
+            150
+          ]
+        },
+        {
+          "id": "V2",
+          "trigger": "Flamel/calle inaccesible",
+          "form": "Visita parcial, dos capítulos",
+          "tracks": [
+            "V2_start_notre_dame"
+          ],
+          "walking_km": 1.793,
+          "duration_minutes": [
+            75,
+            100
+          ],
+          "start": "notre_dame",
+          "finish": "medard_chevet",
+          "preserves": "Notre-Dame y Saint-Médard",
+          "loses": "Flamel",
+          "script_adapter_document": "routes/navigation/02_access_operations.md",
+          "approach_track": "parvis_to_cite_metro_surface",
+          "approach_direction": "reverse",
+          "approach_surface_km": 0.528,
+          "metro_stairs_not_measured": true
+        },
+        {
+          "id": "V3",
+          "trigger": "Parvis completamente cerrado",
+          "form": "Visita parcial con dos capítulos y desvío de superficie",
+          "tracks": [
+            "flamel_to_medard_without_parvis"
+          ],
+          "walking_km": 3.792,
+          "duration_minutes": [
+            120,
+            150
+          ],
+          "finish": "medard_chevet",
+          "preserves": "Flamel y Saint-Médard",
+          "loses": "Notre-Dame/metalwork",
+          "if_bypass_closed": "V0: regresar por tramo ya practicable",
+          "script_adapter_document": "routes/navigation/02_access_operations.md"
+        },
+        {
+          "id": "V4",
+          "trigger": "Cabecera de Saint-Médard inaccesible",
+          "form": "Tres capítulos, final en frente",
+          "tracks": [
+            "V4_finish_front",
+            "medard_front_to_metro"
+          ],
+          "walking_km": 3.009,
+          "exit_connector_km": 0.136,
+          "finish": "medard_front",
+          "preserves": "Tres historias y desenlace en iglesia",
+          "loses": "Vista oriental de la cabecera",
+          "script_adapter_document": "routes/navigation/02_access_operations.md"
+        }
+      ],
+      "connectors": [
+        {
+          "id": "rambuteau4_to_flamel",
+          "label": "Acceso preferido: Rambuteau 4 → Flamel",
+          "role": "approach",
+          "distance_km": 0.176,
+          "dataset": "rambuteau4_to_flamel",
+          "notes": ""
+        },
+        {
+          "id": "rambuteau1_to_flamel",
+          "label": "Acceso alternativo: Rambuteau 1 → Flamel",
+          "role": "approach",
+          "distance_km": 0.318,
+          "dataset": "rambuteau1_to_flamel",
+          "notes": ""
+        },
+        {
+          "id": "chevet_to_metro",
+          "label": "Regreso: cabecera → Censier-Daubenton",
+          "role": "exit",
+          "distance_km": 0.076,
+          "dataset": "chevet_to_metro",
+          "notes": ""
+        },
+        {
+          "id": "medard_front_to_metro",
+          "label": "V4 regreso: frente → Censier-Daubenton",
+          "role": "exit",
+          "distance_km": 0.136,
+          "dataset": "medard_front_to_metro",
+          "notes": ""
+        },
+        {
+          "id": "chevet_to_buffon",
+          "label": "Refugio: cabecera → Buffon, solo abierta",
+          "role": "refuge",
+          "distance_km": 0.91,
+          "dataset": "chevet_to_buffon",
+          "notes": ""
+        },
+        {
+          "id": "chapel_out_and_back",
+          "label": "Opcional: Notre-Dame → Sainte-Chapelle → Notre-Dame",
+          "role": "optional",
+          "distance_km": 0.789,
+          "dataset": "chapel_out_and_back",
+          "notes": ""
+        },
+        {
+          "id": "parvis_to_bus47",
+          "label": "V1 a pie: Notre-Dame → poste Cité–Parvis, sentido sur",
+          "role": "transit_connector",
+          "distance_km": 0.292,
+          "dataset": "parvis_to_bus47",
+          "notes": ""
+        },
+        {
+          "id": "bus47_to_medard",
+          "label": "V1 a pie: bajada Censier → frente y cabecera",
+          "role": "transit_connector",
+          "distance_km": 0.284,
+          "dataset": "bus47_to_medard",
+          "notes": ""
+        },
+        {
+          "id": "parvis_to_cite_metro_surface",
+          "label": "V0 salida: Notre-Dame → Place Louis-Lépine, exterior",
+          "role": "exit",
+          "distance_km": 0.528,
+          "dataset": "parvis_to_cite_metro_surface",
+          "notes": "Rue d’Arcole → quai de la Corse → paso rue de la Cité → allée Célestin-Hennion → Place Louis-Lépine. Termina antes de las escaleras; acceso metro a unos 20–30 m, fuera del track."
+        }
+      ],
+      "day_checks": [
+        {
+          "id": "weather",
+          "what": "Comodidad/clima antes de salir y tras Notre-Dame",
+          "if_fails": [
+            "V0",
+            "V1"
+          ]
+        },
+        {
+          "id": "flamel_access",
+          "what": "Calle y fachada visibles desde paso permitido",
+          "if_fails": [
+            "V2",
+            "V0"
+          ]
+        },
+        {
+          "id": "parvis_access",
+          "what": "Circulación, barreras y Pont au Double",
+          "if_fails": [
+            "V3",
+            "V0"
+          ]
+        },
+        {
+          "id": "medard_access",
+          "what": "Frente/cabecera en calle pública",
+          "if_fails": [
+            "V4",
+            "V0"
+          ]
+        },
+        {
+          "id": "wc",
+          "what": "Cabinas d’Arcole/Monge disponibles al pasar",
+          "if_fails": "Jean Calvin o Buffon abierta; fuera de ello no se garantiza WC gratuito"
+        },
+        {
+          "id": "refuge",
+          "what": "Horario y festivo Buffon; no depender de Arkoun",
+          "if_fails": "Salida al metro; no caminar 0.910 km fuera de horario"
+        },
+        {
+          "id": "transit",
+          "what": "Servicio y puertas del metro; paso/sentido del 47",
+          "if_fails": "Rambuteau 1 si 4 cerrada; V0 si 47 no útil y ruta a pie incómoda"
+        },
+        {
+          "id": "chapel",
+          "what": "Solo si elegida: slot, admisión y mochila compatibles",
+          "if_fails": "V0 sin capilla, conserva toda la base"
         }
       ]
     },

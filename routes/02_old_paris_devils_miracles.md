@@ -1,71 +1,82 @@
-> Canon vigente — Cruce diseña y prepara; Hilo narra. 3 octubre 2026. Tres guiones completos conservados; navegación cartográfica calculada y guardada; puertas del viaje y QA externo pendientes. Esta edición sustituye los avisos contradictorios anteriores.
+# 02 — Diablos y milagros: pactos con lo invisible
 
-# 02 — Old Paris of Devils and Miracles
+> **DONE — versión 02-v10-20261004, revisada el 4 de octubre de 2026.**  
+> Esta es la versión elegida para el viaje y cumple los criterios de aceptación bajo control del agente.  
+> Comprobaciones del día: circulación y barreras del parvis; visibilidad de Flamel y acceso al frente/cabecera de Saint-Médard; estado de los baños; apertura del refugio elegido; meteorología y servicio de transporte; reserva y admisión de Sainte-Chapelle solamente si se elige ese desvío. Cada fallo tiene respuesta en [operaciones y variantes](navigation/02_access_operations.md).  
+> Variantes operativas: V0, V1, V2, V3 y V4, documentadas y enlazadas allí.  
+> Revisión externa por varios modelos y feedback: posterior al cierre; no realizada.
 
-Priority: S. Controller KEEP as a compact block; Spanish narration revised 2 October 2026. Research date: 1 October 2026. External Claude QA pending.
+## Ficha elegida
 
-## Initial hypothesis — preserved
+| Campo | Decisión |
+|---|---|
+| Tema / tesis | El París anterior a la Revolución dio una dirección física a la oración, al pacto con el Diablo y al milagro disputado. El recorrido va de la piedra que pide recordar a los muertos al cementerio donde los vivos esperaban recibir ayuda. |
+| Voz | **Hilo narra. Cruce produce:** diseño, investigación, selección, guiones, navegación y operaciones. |
+| Vibe | Curiosidad, astucia y desasosiego; una leyenda bien contada entre dos historias humanas. |
+| Inicio | Fachada de Flamel, **51 rue de Montmorency**, 48.863600, 2.353130. |
+| Final | Exterior oriental de Saint-Médard, desde **rue Censier / rue de Candolle**, 48.839900, 2.351150. |
+| Base fija | **3.136 km**, aproximadamente **3.14 km**. Exterior gratuito; tres capítulos y cuatro puntos de llegada. No se exige ningún interior ni parque. |
+| Duración | **2–2.5 horas**, incluida narración, observación, cruces y descanso. |
+| Franja elegida | Día: comenzar **09:00–14:00** y terminar **como máximo a las 16:30**. Horas locales de París. |
+| Coste / reservas | Base **€0**, sin reserva. Comida, transportes y Sainte-Chapelle son partidas separadas. |
+| Transporte asumido | Llegar en metro a Rambuteau (L11), salida 4 rue du Grenier Saint-Lazare; alternativa salida 1 rue Beaubourg. Regreso desde Censier-Daubenton (L7). Servicio y accesos sujetos a comprobación del día. No hay alojamiento ni transporte reservado por esta entrega. |
 
-**Working title:** Bargains with the Invisible. Medieval and early-modern Paris sought help, feared deception and argued over who could authorize supernatural power. Opening: the alchemist's charitable house. Development: sacred architecture, devil craftsmanship and royal relics. Payoff: the king shuts a cemetery where worshippers claim miracles.
+La distancia responde a tres historias, no a un mínimo de kilómetros. El tramo de 1.666 km hacia Saint-Médard merece el desplazamiento porque transforma el cuento de un alma salvada en un conflicto entre cuerpos, creencias y autoridades. Las calles comerciales cambian la escala del relato; no reciben paradas artificiales.
 
-Initial geometry: optional Cour des Miracles northern opening → Flamel house → Tour Saint-Jacques → Sainte-Chapelle → Notre-Dame → Saint-Médard. Approximately 5–6 km with the northern candidate, 4–5 km without it; street-routing validation pending. Expected 2–3 hours outdoors or 3–4 hours with a chapel raid. This compact route tests material rather than padding to 12–14 km.
+**Distancias separadas:** acceso desde Rambuteau y salida al metro se registran en [operaciones](navigation/02_access_operations.md). El desvío Sainte-Chapelle añade **0.789 km exteriores**; base con ese desvío = **3.925 km**, antes de circulación interior. Los movimientos voluntarios para mirar detalles pueden añadir hasta unos 100 m; no están fingidos dentro de la medición del motor. El desplazamiento desde/hacia NOC, las comidas fuera del recorrido y cualquier otro bloque del día quedan fuera de 3.136 km.
 
-Initial scores: morning 8 (carved detail and chapel light), afternoon 8 (same material, warmer streets), evening 8 for exterior variant (devil story at illuminated entrances, working streets), night 6 (loss of inscriptions/interiors). No late-night necessity.
+## Orden y navegación
 
-| Candidate / approximate WGS84 anchor | Signal/type | Why it may belong / geographic role | Investigator question |
-|---|---|---|---|
-| Cour des Miracles, rue des Forges/rue de Damiette, 48.8669, 2.3488 | Medium; early-modern urban folklore/social fear | Apparent cures said to disappear after begging; northern opening that could challenge the word miracle | What is historically grounded, what survives, and does this stigmatizing tradition justify the detour? |
-| Nicolas Flamel house, 51 rue de Montmorency, 48.8637, 2.3530 | Strong; alchemy legend/medieval charity | Surviving house makes death, prayer and later immortality stories tangible; possible start | Is any laboratory documented here? What do inscriptions actually say and when did alchemist authorship arise? |
-| Tour Saint-Jacques, rue de Rivoli, 48.8580, 2.3489 | Medium; religious history/Flamel association | Medieval sacred site and Flamel burial, directly on river approach | Does a second Flamel stop add distinct material? Can a closed tower still deliver an exterior payoff? |
-| Sainte-Chapelle, 10 boulevard du Palais, 48.8554, 2.3450 | Strong; religious belief/royal power | Royal relic shrine makes authorized sacred efficacy spectacular; optional interior block | Can a finite, budget-conscious raid give this theme a distinct story, and what relics remain? |
-| Notre-Dame Sainte-Anne western portal, 48.8530, 2.3497 | Strong; devil folklore/craftsmanship | Visible ironwork carries devil-contract story; central narrative turn | How old is the legend, which ironwork is medieval, and can it be seen around queues? |
-| Saint-Médard, 141 rue Mouffetard, 48.8398, 2.3509 | Strong; disputed miracles/documented religious conflict | Alleged cures and royal closure supply a substantive eighteenth-century ending | What cemetery footprint remains and what can the street walker experience without claiming cures as facts? |
+| Orden | Llegada WGS84 (latitud, longitud) | Qué se hace |
+|---|---|---|
+| 1. Flamel | 48.863600, 2.353130 | Ver la fachada desde la acera; escuchar el primer guion sin ocupar la entrada del restaurante. |
+| 2. Notre-Dame | 48.853180, 2.348750 | Parvis occidental. Orientarse por los tres portales; Sainte-Anne está a la derecha al mirar la fachada. El punto lleva al espacio público, no a una puerta ni a una cola de entrada. |
+| 3a. Saint-Médard, frente | 48.840090, 2.349830 | Situar la iglesia en Mouffetard; comenzar el guion del desenlace. |
+| 3b. Saint-Médard, cabecera | 48.839900, 2.351150 | Reanudar tras el desplazamiento de 127 m y terminar junto a la cabecera oriental. |
 
-Discovery exclusions, before deep investigation: Saint-Merri's alleged Baphomet is a nineteenth-century sculpture, outside this route's time boundary. Chanoinesse's cannibal barber/pastry-cook tale is a weak exact-location attribution and supplies crime rather than the supernatural thesis. Neither was selected as a serious candidate or sent for deep research.
+| Tramo fijo | Instrucciones utilizables | km |
+|---|---|---:|
+| Flamel → Notre-Dame | Salir hacia el este por Montmorency; girar a la derecha en Beaubourg y seguir al sur por Beaubourg/Renard. En Hôtel de Ville, usar pasos señalizados para llegar a Pont d’Arcole. Cruzarlo, seguir rue d’Arcole y llegar al punto del parvis. | 1.343 |
+| Notre-Dame → frente Saint-Médard | Desde el parvis, tomar Pont au Double por arriba, a nivel de calle. Continuar por Lagrange; al llegar a Saint-Germain, tomar Monge hacia el sur. Girar a la derecha en Daubenton hacia Mouffetard. | 1.666 |
+| Frente → cabecera | Volver por Daubenton hacia el este; girar a la derecha en rue de Candolle y llegar al exterior de rue Censier, frente a la cabecera. No entrar en salas parroquiales ni en el aparcamiento. | 0.127 |
 
-## Investigator record and Architect revision
+Seguir aceras y pasos peatonales. Las expresiones genéricas del motor «hacia la calzada» no autorizan caminar entre coches. Esta base no usa riberas inferiores, escaleras de acceso al río ni pasajes privados.
 
-All serious candidates receive individual Waypoint Investigator review. Initial proposals above remain preserved. Investigator judgements and Architect choices are recorded separately below.
+[GPX base fijo](navigation/02.gpx) · [GPX de variantes y conectores](navigation/02.variants.gpx) · [coordenadas y maniobras](navigation/manifest.json) · [GeoJSON](navigation/routes.geojson) · [peticiones y respuestas del motor](navigation/02.evidence.json) · [operaciones legibles por máquina](navigation/02.operations.json).
 
-| Candidate | Investigator | Architect disposition | Evidence / consequence |
-|---|---|---|---|
-| Flamel house | KEEP | Core | Surviving 1407 charitable façade; inscription concerns prayer for dead souls. Posthumous alchemy attribution is the story, not a verified laboratory. |
-| Notre-Dame devil doors | KEEP | Core | Strong historically attested folklore and visible metalwork. Viollet-le-Duc explicitly questioned Biscornet's chronological attribution. |
-| Saint-Médard | KEEP | Core ending | Contemporary accounts and royal closure are documented; supernatural cures remain disputed claims. No surviving original grave or certified gate. |
-| Sainte-Chapelle | BORDERLINE | Optional daytime interior raid | Spectacular royal counterpoint, but expensive admission and security constrain a free exterior walk. Exterior is not an equivalent substitute. |
-| Tour Saint-Jacques | SKIP | Passing landmark only | Tower postdates Flamel. Distinct Satan story comes from Nerval's 1846 fiction and belongs to later paranormal evidence, not this chronology. |
-| Cour des Miracles | BORDERLINE | SKIP in revised route | Exact vanished location defensible, but no surviving courtyard; strongest payoff is literary stereotypes. Northern detour weakens otherwise dense geometry. |
+[Maps: Flamel → Notre-Dame](https://www.google.com/maps/dir/?api=1&origin=48.8636%2C2.35313&destination=48.85318%2C2.34875&travelmode=walking) · [Notre-Dame → Saint-Médard](https://www.google.com/maps/dir/?api=1&origin=48.85318%2C2.34875&destination=48.84009%2C2.34983&travelmode=walking) · [frente → cabecera](https://www.google.com/maps/dir/?api=1&origin=48.84009%2C2.34983&destination=48.8399%2C2.35115&travelmode=walking). Maps recalcula; el GPX conserva la elección.
 
-**Rejected investigation, Tour Saint-Jacques:** Flamel was buried in the vanished church; surviving tower dates to 1509–1523 and is not his tomb/laboratory. Later writers gave it supernatural identities: Nerval's unfinished 1846 *Nicolas Flamel* has Satan invite Flamel atop it at night. This is a promising handoff to the nineteenth-century paranormal route, with a local-history source needing critical follow-up. Tower closed to visits for works; November square hours and construction visibility unconfirmed. Passing remark only: the church of Flamel's burial disappeared, its later tower survived, and later fiction supplied a devil. [City account/closure](https://www.paris.fr/pages/sept-choses-a-savoir-sur-la-tour-saint-jacques-23432fr), [official gated-square record](https://www.paris.fr/lieux/square-de-la-tour-saint-jacques-33), [Nerval/Dumas literary leads](https://www.histoires-de-paris.fr/legendes-nicolas-flamel-tour-saint-jacques/). Overlaps: nineteenth-century paranormal, Scientific Paris (meteorology/Pascal attribution to investigate), Revolutionary Paris (church dismantling), Illusions (ornamental transformation).
+**Posiciones de observación resueltas:** Flamel se mira desde enfrente, sin entrar en el restaurante. En Notre-Dame, mantener el punto de llegada como referencia y aproximarse al hierro solamente por espacio permitido; las tres puertas se identifican sin exigir tocar los herrajes. La puerta de Sainte-Anne es un objeto de referencia, no un destino navegable a través de barreras. La [actualización municipal del 21 de septiembre de 2026](https://www.paris.fr/pages/les-abords-de-notre-dame-vont-faire-peau-neuve-17332) confirma que el pequeño parvis ante los portales y rue du Cloître-Notre-Dame están terminados; el resto de obras continúa. En Saint-Médard, los dos puntos permanecen en calle pública: se compara el entorno oriental con el jardín meridional sin localizar una tumba, una puerta de 1732 o un cementerio visitable. Los detalles de aproximación y los límites del día tienen respuesta en V2/V3/V4.
 
-**Rejected investigation, Cour des Miracles:** Municipal register locates the suppressed courtyard at 1 rue de Damiette/2 rue des Forges. Early-modern marginality is real; the supposedly universal fraudulent disabilities and organized criminal kingdom are hostile representations requiring scrutiny. Sauval's descriptions and Hugo's later dramatic version are evidence of stories told about poor residents, not neutral descriptions of every inhabitant. Useful rejected explainer: this city's imagined miracle happened when work ended and beggars supposedly recovered; the disappearance of the courtyard leaves mostly an address, while the story reveals fear of poverty and deception. Because the route already has three stronger physical anchors, omit its detour. [City former-name register](https://cdn.paris.fr/paris/2021/12/24/4cb812a8320bae70f39e45edd2a5b248.pdf), [University study](https://publis-shs.univ-rouen.fr/ceredi/670.html), [Hugo primary fictional text](https://fr.wikisource.org/wiki/Notre-Dame_de_Paris/Texte_entier), [Sauval reproduced in local history](https://fr.wikisource.org/wiki/Les_rues_de_Paris/Cour_des_Miracles). Overlaps: Paris Reads/Illusions strong, Cosmopolitan moderate. No independent supernatural event established.
+Sainte-Chapelle queda fuera de la base y se elige **después** del guion de Notre-Dame: ida y vuelta al mismo punto, sin repetir ese guion. **Tour Saint-Jacques no es una parada ni un hito de paso prometido.** Cour des Miracles tampoco se incorpora.
 
-## Revised route — compact KEEP recommendation
+## Tiempo y franjas
 
-**Title:** Bargains with the Invisible: Old Paris of Devils and Miracles.  
-**Thesis:** A charitable house, cathedral ironwork, a royal relic shrine and a contested miracle site show the different ways pre-Revolutionary Paris gave the invisible a physical address. Later retellings must be labelled where they reshape medieval material.  
-**Vibe / guide:** intimate, curious, unsettling; **Hilo**.  
-**Start:** Nicolas Flamel house, 51 rue de Montmorency.  
-**Finish:** Saint-Médard, 141 rue Mouffetard, with final interpretation around eastern chevet.  
-**Distance:** selected pedestrian-network trace **3.136 km** (about 3.14 km), ending at the eastern chevet; exterior base only, no chapel visit or lodging approaches. Fixed GPX, map links and reproducible queries: [navigation](navigation/README.md). Initial 4–5 km estimate above is historical and superseded.  
-**Duration:** approximately 2–2.5 hours exterior with narration and observation; optional chapel adds its actual visit/security time. At 3.3 km/h, the selected base contributes about 57 minutes of movement before pauses.  
-**Transport:** transit to Arts-et-Métiers/Rambuteau start area; do not automatically add the NOC approach to the route. Return from Censier-Daubenton (line 7) or Place Monge. Châtelet/Cité/Saint-Michel provide intermediate escapes; current services require travel-day check.  
-**Cost:** exterior core €0; paid chapel optional. No restaurant meal at Flamel required.
+| Componente de la base | Presupuesto |
+|---|---:|
+| Movimiento: 3.136 km a ritmo conservador de planificación de 3.3 km/h | 57 min |
+| Tres guiones, lectura calmada; todavía sin ensayo de voz grabado | 14–17 min |
+| Mirar fachada, portales, entorno y cabecera | 20–25 min |
+| Descanso | 15 min |
+| Cruces, congestión y ajustes a la circulación permitida | 10–20 min |
+| Total de planificación | 116–134 min; reservar hasta 150 min |
 
-Selected geometry: Montmorency → Beaubourg/Renard → Hôtel de Ville → Pont d'Arcole → rue d'Arcole → Notre-Dame western parvis → Pont au Double → Lagrange → Monge → Daubenton/Mouffetard → Daubenton/de Candolle → eastern chevet. This traced base replaces the earlier surface-street proposal. Tour Saint-Jacques is not a passing waypoint in this selected trace. Sainte-Chapelle remains a separately chosen paid branch and is outside the base GPX.
+No se exige hacer cola para ningún interior. Un ejemplo es 09:30 Flamel → alrededor de 10:10 Notre-Dame → alrededor de 11:10 Saint-Médard, con final hacia 11:30–12:00. Son márgenes de planificación, no citas.
 
-The route is independently viable as a compact block. Recommend preserving its identity for the Controller to evaluate rather than stretching it to 12–14 km. The modern-after-dark concept's ghost stations and cinema folklore tell a different story; they do not lengthen this walk automatically.
+La puesta de sol entre el 1 y el 15 de noviembre va aproximadamente de 17:30 a 17:10 ([tabla astronómica](https://www.timeanddate.com/sun/france/paris?month=11&year=2026)); el límite de 16:30 deja margen y evita depender de luz artificial para inscripciones.
 
-### Time-slot vector
-
-| Slot | Score | Reason |
+| Franja | Nota / 10 | Justificación |
 |---|---:|---|
-| Morning | 8 | Best inscription and carving visibility; Sainte-Chapelle can be visited after 09:00. Active streets and less fatigue support a compact block. |
-| Afternoon | 8 | Full visual material and chapel light; begin sufficiently early for its 16:30 winter last admission if chosen. |
-| Evening | 8 exterior / 5 chapel variant | Early November darkness lets the devil doorway tale be told beside an illuminated working cathedral while surrounding streets remain active. Exterior core survives closed interiors; inscriptions need a daylight start or close-range light. |
-| Night | 6 | Doors still lend a setting to the folktale, but fine carving visibility and indoor refuge decline. Saint-Médard is a public-controversy payoff that gains little at midnight; late night is unnecessary. |
+| MORNING | 8 | Luz para letras e hierro, calles activas y menos fatiga. El refugio Buffon solo abre por la mañana martes, miércoles y sábado; ninguna visita interior es necesaria. |
+| AFTERNOON | 8 | Se conservan los detalles y mejora la disponibilidad del refugio. Inicio máximo 14:00 para acabar con luz. |
+| EVENING | 7 | El cuento del Diablo gana contraste junto a la catedral y las calles siguen vivas; Flamel necesita empezar con luz. No se garantiza iluminación de cada herraje ni banco libre. Si se elige atardecer: salir a las 15:30 y terminar hacia las 18:00, sin Sainte-Chapelle; final máximo 18:30. |
+| NIGHT | 5 | El sitio conserva fuerza narrativa, pero se pierden letras, detalle material y refugios. El conflicto de Saint-Médard gana poco a medianoche. No es la versión elegida para el viaje. |
 
-### 1. Nicolas Flamel house — CORE
+## Guiones preparados para el lugar
+
+Los tres núcleos conservan la narración completa de la revisión anterior. Se han leído frente a [las dos anclas de calibración](mystery_calibration_anchors.md): instrucción física, escena humana, cambio de registro, regreso al lugar y desenlace que transforma las paradas anteriores. No se ha simulado escucha, inspección presencial ni evaluación externa.
+
+### 1. Casa de Nicolas Flamel — CORE
 
 **Why selected:** The surviving inscription contrasts documented concern for dead souls with a later legend of an alchemist who could overcome death.
 
@@ -91,27 +102,7 @@ Al irnos, deja la fachada en su tamaño verdadero: una casa en una calle donde s
 
 **Evidence:** [Ministry of Culture monument record](https://pop.culture.gouv.fr/notice/merimee/PA00086213); [City charity/building account](https://www.paris.fr/pages/une-balade-a-velo-a-la-decouverte-des-maisons-d-artistes-ca-vous-dit-26974); [BnF 1612 publication](https://catalogue.bnf.fr/ark%3A/12148/cb304398122); [University of Rouen attribution study](https://publis-shs.univ-rouen.fr/ceredi/2124.html); [Carnavalet pillar record](https://www.parismuseescollections.paris.fr/en/node/158666); [restaurant operational site](https://auberge.nicolas-flamel.fr/). Rouen full page failed retrieval; substantive excerpts and independent BnF record support cautious publication-history wording.
 
-### 2. Sainte-Chapelle — OPTIONAL DAYTIME BRANCH
-
-**Why selected:** A monarchy makes sacred authority overwhelming through light, hierarchy and imagery; a counterpart to the street's feared devils and claimed miracles.
-
-**Explainer — narración presencial opcional en español:**
-
-Antes de buscar una escena en las vidrieras, recuerda el cambio que acabas de hacer al subir. La capilla inferior servía al personal del palacio; la superior, al rey y a sus invitados distinguidos. El acceso a lo sagrado tenía una distribución social. Ahora deja que la luz haga su trabajo unos segundos, sin intentar leerlo todo.
-
-Mira hacia la tribuna elevada del extremo oriental. Su reconstrucción posterior evoca el lugar del gran relicario. La capilla se construyó para recibir objetos venerados como reliquias de la Pasión, entre ellos la Corona de Espinas. La adquisición por Luis IX y la construcción del edificio pertenecen a la historia documentada. La autenticidad religiosa de aquellos objetos pertenece a la fe. Conviene mantener ambas afirmaciones visibles mientras miramos el mismo lugar.
-
-El relicario original ya no está: fue destruido durante la Revolución. Tampoco encontraremos aquí la corona conservada. Sin embargo, sigue en pie la enorme disposición de imágenes que daba sentido a su presencia. Busca la vidriera oriental de la Pasión y después, con el plano de visita, la historia de las reliquias en el lado sur. Allí Luis IX entra en la secuencia de la historia sagrada. Los emblemas reales completan esa posición dentro del relato.
-
-No vamos a descifrar cientos de escenas a distancia. Buscamos ocho conjuntos y detalles para comprender cómo funcionaba esta experiencia. Al terminar, gira hacia el rosetón occidental del Apocalipsis: el mundo también tenía un final representado. El rey y sus invitados se encontraban entre el sufrimiento de Cristo y ese destino último. La oración de la casa de Flamel cabía en una inscripción; aquí, los recursos de una monarquía levantaron un espacio entero alrededor de una creencia.
-
-**Finite raid, eight targets:** lower chapel; change of scale in upper chapel; reconstructed reliquary tribune; eastern Passion window; southern relic-history window; royal emblems in borders; Saint Peter with keys; western Apocalypse rose. Use the official leaflet to orient, and treat distant panels as ensembles rather than promising easy detailed reading. Allow 30–40 minutes for raid plus queue/security.  
-**Next:** Walk east to Notre-Dame, where extraordinary craftsmanship generated a popular devil tale.  
-**Access/cost:** October–March 09:00–17:00, last entry 16:30. Current €16 EEA nationals/qualifying regular residents, €22 others. First Sunday in November is free: **1 November 2026** is a candidate, subject to booking availability. Enhanced Palais de Justice security; adhere to reservation time. A street-only pause is not a replacement for the interior and should be omitted if admission is skipped.
-
-**Evidence:** [official history](https://www.sainte-chapelle.fr/decouvrir/histoire-de-la-sainte-chapelle); [official practical information](https://www.sainte-chapelle.fr/visiter/informations-pratiques/); [official glass interpretation](https://www.sainte-chapelle.fr/decouvrir/un-ensemble-de-vitraux-unique); [official visit leaflet](https://www.sainte-chapelle.fr/content/download/9827901/file/Document%20de%20visite%20Sainte%20Chapelle%20fr.pdf?inLanguage=fre-FR&version=37). The former great shrine is lost and surviving crown is elsewhere; do not promise relic viewing here.
-
-### 3. Notre-Dame's devil doors — CORE
+### 2. Las puertas del Diablo en Notre-Dame — CORE
 
 **Why selected:** Visible, astonishing metalwork became a contract story in which the Devil loses to his own terms.
 
@@ -139,7 +130,7 @@ En la casa de Flamel, la escritura prometía recuerdo para los muertos. Aquí, e
 
 **Evidence:** [Lyon municipal library, citing Dany Sandron](https://www.guichetdusavoir.org/question/voir/134559); [Viollet-le-Duc historical account, volume V](https://www.terc.hu/download/uploads/viollet5.pdf); [CMN educational dossier](https://www.paris-conciergerie.fr/enseignants/mediatheque-espace-enseignant/ressources-pedagogiques-en-et-cs/dossier-thematique-les-tours-de-notre-dame); [cathedral admission](https://www.notredamedeparis.fr/en/visit/reservation-free/). The CMN dossier's attribution is less cautious than Viollet-le-Duc; do not repeat it as established authorship.
 
-### 4. Saint-Médard — CORE PAYOFF
+### 3. Saint-Médard — CORE / desenlace
 
 **Why selected:** A claimed miracle gets a precise public destination; closing its gate changes where belief happens, rather than ending it.
 
@@ -167,30 +158,38 @@ Nuestra ruta termina con esa tensión. Hemos visto una oración inscrita, una le
 
 **Evidence:** [Criminocorpus contemporary 1737 defence](https://criminocorpus.org/fr/bibliotheque/doc/2361/); [Société de Port-Royal research bibliography](https://www.bib-port-royal.com/convulsionnaires.pdf); [historical parish monograph locating cemeteries](https://upload.wikimedia.org/wikipedia/commons/9/95/Saint-M%C3%A9dard_-_une_vieille_%C3%A9glise_de_Paris_%28IA_saintmedardunevi00mann%29.pdf); [official parish hours](https://www.saintmedard.org/bienvenue-2/horaires-et-coordonnees/); [City Square Miss.Tic record](https://www.paris.fr/lieux/square-miss-tic-ex-square-saint-medard-2478). Exact grave and historical gate cannot be shown. Documented crowds, controversy and closure do not authenticate supernatural cures.
 
-## Infrastructure, weather and safety
+### Sainte-Chapelle — OPTIONAL / desvío después de Notre-Dame
 
-- Toilets: official City page identifies a renovated sanisette at **14 rue Saint-Martin**, useful around the tower/river approach; verify availability rather than guaranteeing it. Use [City toilets map](https://www.paris.fr/pages/les-toilettes-publiques-a-paris-27216) for additional island/Mouffetard stops. Café facilities only where patronized; no promise of station toilets.
-- Rest/food: inexpensive food opportunities around Beaubourg, Saint-Michel and Mouffetard; Flamel restaurant is unnecessary for a €600 trip budget. Park benches conditional on gate hours/weather.
-- Indoor refuge: paid Sainte-Chapelle visit or optional free cathedral/parish entry when open and respectful. **Mohammed Arkoun library, 74 rue Mouffetard, is currently closed for works with reopening delayed to early November 2026**: [official notice](https://www.paris.fr/lieux/bibliotheque-mohammed-arkoun-1668). Do not rely on it until reopening is confirmed; patronized café or transit home are dependable alternatives.
-- Rain/fatigue: remove chapel first; shorten the exposed cathedral-to-Mouffetard leg with available surface transport if worthwhile, otherwise end at Saint-Michel. If the final core cannot be reached comfortably, record a shortened visit rather than pretending full completion.
-- Theft awareness at crowded cathedral approaches/transit, old Redmi as street phone; preserve pavement flow, avoid secluded river-level detours after dark. No underground entry, private courtyard access or trespass is needed.
-- Daily load: compact block leaves room for a friend/rest; add NOC approaches and any second block before checking 20k/30k/40k step bands.
+**Why selected:** A monarchy makes sacred authority overwhelming through light, hierarchy and imagery; a counterpart to the street's feared devils and claimed miracles.
 
-## Overlaps for Controller arbitration
+**Explainer — narración presencial opcional en español:**
 
-| Site | Other theme / claim | Distinct available story |
-|---|---|---|
-| Flamel | Paris Reads, strong | Scribe/bookseller, posthumous publishing and doubtful authorship |
-| Flamel | Paris of Illusions, strong | Religious images reread as encrypted knowledge |
-| Notre-Dame | Paris of Illusions, strong | Folklore changes attribution of visible craftsmanship |
-| Notre-Dame | Revolutionary Paris, strong monument claim | Attacks on religious/royal imagery; different from devil doors |
-| Sainte-Chapelle | Revolutionary Paris, strong | Shrine destruction and altered sacred royal function |
-| Sainte-Chapelle | Paris of Illusions, strong | Visual immersion; sincere religious belief must not be described as fraud |
-| Saint-Médard | Scientific Paris, moderate | Competing observation/diagnosis of unusual bodily states |
-| Saint-Médard | Republic/Revolution, moderate | Religious/public authority and later transformation of worship |
+Antes de buscar una escena en las vidrieras, recuerda el cambio que acabas de hacer al subir. La capilla inferior servía al personal del palacio; la superior, al rey y a sus invitados distinguidos. El acceso a lo sagrado tenía una distribución social. Ahora deja que la luz haga su trabajo unos segundos, sin intentar leerlo todo.
 
-The table preserves investigation-era overlap flags. The [Controller review](controller_review.md) protects this compact route and assigns the Notre-Dame western-door story to Route 02. Cour des Miracles and Tour Saint-Jacques remain outside the accepted narrated shape; Sainte-Chapelle remains optional.
+Mira hacia la tribuna elevada del extremo oriental. Su reconstrucción posterior evoca el lugar del gran relicario. La capilla se construyó para recibir objetos venerados como reliquias de la Pasión, entre ellos la Corona de Espinas. La adquisición por Luis IX y la construcción del edificio pertenecen a la historia documentada. La autenticidad religiosa de aquellos objetos pertenece a la fe. Conviene mantener ambas afirmaciones visibles mientras miramos el mismo lugar.
 
-## QA and remaining limits
+El relicario original ya no está: fue destruido durante la Revolución. Tampoco encontraremos aquí la corona conservada. Sin embargo, sigue en pie la enorme disposición de imágenes que daba sentido a su presencia. Busca la vidriera oriental de la Pasión y después, con el plano de visita, la historia de las reliquias en el lado sur. Allí Luis IX entra en la secuencia de la historia sagrada. Los emblemas reales completan esa posición dentro del relato.
 
-**Status: Controller KEEP compact; narration-revised; external Claude QA PENDING.** Three accepted cores now carry Spanish on-site scripts of approximately 516, 562 and 562 words; the optional chapel script is approximately 281 words. Spoken delivery and current viewing positions still require QA. The expanded scripts use the existing investigated facts and clearly marked legend, belief and interpretation; no extra waypoint was introduced. No external Claude evaluation has occurred. The selected exterior distance is now a saved pedestrian-network trace; gate/access checks and independent field visibility remain pending. Final gate hours, construction visibility, chapel booking/cost eligibility and Arkoun reopening need pre-travel operational checks. Machine-readable navigation is saved under routes/navigation; the website remains pending. Initial coordinates above are historical proposal anchors; use the selected observation/arrival points in navigation/manifest.json.
+No vamos a descifrar cientos de escenas a distancia. Buscamos ocho conjuntos y detalles para comprender cómo funcionaba esta experiencia. Al terminar, gira hacia el rosetón occidental del Apocalipsis: el mundo también tenía un final representado. El rey y sus invitados se encontraban entre el sufrimiento de Cristo y ese destino último. La oración de la casa de Flamel cabía en una inscripción; aquí, los recursos de una monarquía levantaron un espacio entero alrededor de una creencia.
+
+**Finite raid, eight targets:** lower chapel; change of scale in upper chapel; reconstructed reliquary tribune; eastern Passion window; southern relic-history window; royal emblems in borders; Saint Peter with keys; western Apocalypse rose. Use the official leaflet to orient, and treat distant panels as ensembles rather than promising easy detailed reading. Allow 30–40 minutes for raid plus queue/security.  
+**Next:** Return by the saved out-and-back connector to the Notre-Dame arrival point, then resume Pont au Double → Lagrange → Monge → Saint-Médard. Notre-Dame's core script has already been told; do not repeat it.  
+**Access/cost:** October–March 09:00–17:00, last entry 16:30. Current €16 EEA nationals/qualifying regular residents, €22 others. First Sunday in November is free: **1 November 2026** is a candidate, subject to booking availability. Enhanced Palais de Justice security; adhere to reservation time. A street-only pause is not a replacement for the interior and should be omitted if admission is skipped.
+
+**Evidence:** [official history](https://www.sainte-chapelle.fr/decouvrir/histoire-de-la-sainte-chapelle); [official practical information](https://www.sainte-chapelle.fr/visiter/informations-pratiques/); [official glass interpretation](https://www.sainte-chapelle.fr/decouvrir/un-ensemble-de-vitraux-unique); [official visit leaflet](https://www.sainte-chapelle.fr/content/download/9827901/file/Document%20de%20visite%20Sainte%20Chapelle%20fr.pdf?inLanguage=fre-FR&version=37). The former great shrine is lost and surviving crown is elsewhere; do not promise relic viewing here.
+
+## Operaciones y contingencias
+
+La decisión operativa completa está en [02_access_operations.md](navigation/02_access_operations.md), con fuentes, coordenadas, rutas de salida y variantes. La base no depende de Sainte-Chapelle, de la apertura de Square Miss.Tic, de Notre-Dame por dentro ni de la reapertura de Mohammed Arkoun.
+
+Los baños elegidos son **8 rue d’Arcole, 06:00–22:00**, y **75 bis rue Monge, 24 h**, identificados en el inventario municipal como en servicio al consultar; no se certifica su funcionamiento futuro. Refugio sentado: **Buffon, 15 bis rue Buffon**, a 0.910 km del final, solamente dentro de sus horarios y sin usarlo como refugio inmediato en un aguacero. Si ese desplazamiento resulta desagradable, usar la salida al metro de 0.076 km. Arkoun sigue excluida mientras no esté confirmada su apertura.
+
+Comida opcional: Kayser, **8 rue Monge**, sobre el tramo hacia Saint-Médard, con límite de compra **€8** para un bocadillo/comida sencilla. Es un tope elegido, no un precio publicado. Llevar un tentempié permite omitir la compra si no hay opción dentro de ese límite. Para la base no hace falta reservar mesa ni comprar nada en el restaurante Flamel.
+
+V0 elimina un interior o interrumpe la visita con cierre explícito; V1 evita el tramo largo con el 47; V2 empieza en Notre-Dame si Flamel es inaccesible; V3 omite el parvis si queda cerrado; V4 termina ante Saint-Médard si no se puede llegar a la cabecera. Las versiones parciales declaran qué pierden: no se registran como si se hubiera recorrido la base completa.
+
+## Propiedad del material y límites
+
+Se mantiene la propiedad de las puertas occidentales de Notre-Dame para la ruta 02 según [la decisión del Controller](controller_review.md). Flamel conserva afinidad con libros/ilusiones y Saint-Médard con ciencia/conflicto religioso; no se añadió ninguna visita duplicada. Sainte-Chapelle sigue opcional. Los descartes de Cour des Miracles y Tour Saint-Jacques permanecen en [la ficha anterior archivada](archive/02_old_paris_devils_miracles_pre_done_20261004.md), junto con su evidencia útil.
+
+La revisión documental y cartográfica ha cerrado los criterios bajo control del agente. No es una inspección de campo: las barreras, obras puntuales, plazas disponibles, baños y servicios se verifican el día y activan alternativas ya elegidas. Si un impedimento permanente elimina un núcleo sin una experiencia satisfactoria, la ruta se reabre según [Definition of Done](DEFINITION_OF_DONE.md). El sitio web del portfolio y la revisión externa siguen siendo trabajo posterior; no se declaran realizados aquí.
