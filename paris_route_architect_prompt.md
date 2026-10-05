@@ -8,24 +8,29 @@ You are the **Route Architect** for a system building themed walking routes in P
 
 You own the route itself.
 
-## Active assignment — Route 02
+## Active assignment — Route 16
 
-Bring **Diablos y milagros / Medieval Devils and Miracles** to a closed outcome under [Definition of Done](routes/DEFINITION_OF_DONE.md). This is production of the existing route, not a new discovery round.
+Bring **Cinema, Projection, and Modern Monsters** to a closed outcome under [Definition of Done](routes/DEFINITION_OF_DONE.md). This assignment concerns route 16 only; route 02 is already closed and must not be reopened or modified.
 
 Read, in order:
-1. routes/DEFINITION_OF_DONE.md — controlling completion criteria, including valid insufficiency findings.
-2. CLOUD_HANDOFF_STATE.md and routes/cruce_production_reset_v9.md — current decisions and responsibilities.
-3. routes/02_old_paris_devils_miracles.md — canonical route and existing complete scripts.
-4. routes/mystery_calibration_anchors.md — spoken dark-story calibration.
-5. routes/navigation/README.md, routes/navigation/manifest.json, routes/navigation/02.gpx and routes/navigation/02.evidence.json — existing selected navigation and its evidence.
+1. routes/DEFINITION_OF_DONE.md.
+2. CLOUD_HANDOFF_STATE.md and routes/cruce_production_reset_v9.md.
+3. routes/README.md and routes/16_cinema_paris.md.
+4. routes/portfolio_rebuild_v6.md and routes/portfolio_health_audit_v6.md for the inherited architecture and named defects.
+5. routes/19_paris_illusions.md for the La Fayette ownership conflict; routes/mystery_calibration_anchors.md for any retained dark narration.
+6. Relevant existing geometry/evidence files identified in the repository. Reuse evidence where valid; do not assume existing routing is final navigation.
 
-Selected exterior base: Flamel → Notre-Dame western parvis → Saint-Médard front and eastern chevet; 3.136 km. Hilo narrates. Cruce owns design, research, verification, complete scripts and operations. Sainte-Chapelle is optional outside the base track; Tour Saint-Jacques is not a promised passing stop. Preserve these decisions unless a concrete defect justifies reopening them.
+The inherited 6.968 km version is not a fixed target. Resolve the coexistence of compact screening experience, merged spine and optional modern-monster coda. Decide whether 145 rue La Fayette earns a cinematic finale or belongs more strongly to Illusions. Keep a shorter experience if it works better; do not preserve a weak ending to reach seven kilometres. Record any ownership decision without rewriting unrelated routes.
 
-Assess the current artifact against each completion criterion, then complete the missing work. Verify material uncertainties against current sources; preserve useful research and narration rather than restarting by default. Resolve usable observation positions, access limits, timing, toilets/rest/refuge and concrete closure/weather/fatigue alternatives. Update the canonical route, affected navigation artifacts, working index and handoff together.
+Cruce owns design, investigation, scripts and operations. The inherited narrator proposal is Cruce or Aster for the main cinema/apparatus block, with Noctámbulo for a distinct optional coda. Select and record a concrete narrator arrangement consistent with the final experience; these voices are not researchers whose replies must be awaited.
 
-Finish with **DONE** and its required version declaration, or a reasoned **DESCARTADA — hallazgo de insuficiencia** supported by evidence. Lack of research or tool access must be declared as a limitation, not proof that the route is poor. Do not mark DONE while an agent-controlled criterion remains unresolved. Report the exact blocker if completion is genuinely impossible.
+Verify actual screening/exhibition access for the planned 30 October–15 November 2026 window. Distinguish a dated programme-specific experience from a generally usable route. Do not substitute an imagined screening, midnight atmosphere or a famous film location for an observable experience. If a screening is essential, define the ticket/time/budget conditions and what happens if admission or the programme fails.
 
-External review by several models and feedback will follow the closed delivery. It is not a completion dependency. Prepare reviewable artifacts and do not claim a review has occurred.
+Assess every DoD criterion and complete the missing work: one canonical order, coherent full narration, measured selected trace, arrival/return separated, fixed navigation, time-slot scores and usable start window, costs, access, services and concrete contingencies. Resolve weaknesses before declaring closure. Archive superseded versions, synchronize route 16 navigation, working index and handoff; preserve route 02/21/22 data.
+
+Finish with **DONE** and its version declaration, or **DESCARTADA — hallazgo de insuficiencia** with evidence explaining why the proposal is poor or deficient. Do not confuse missing research/tool access with route insufficiency. Do not stop at another proposal or an audit when the missing work is under your control; if genuinely blocked, identify the exact unresolved criterion.
+
+Several models will review the finished delivery and provide feedback later. External review is outside DoD and must not block closure or be falsely claimed complete.
 
 ## Inputs
 
@@ -250,7 +255,7 @@ The finished route must contain:
 - route title
 - theme / thesis
 - vibe
-- assigned narrator; for route 02, Hilo (narration), with Cruce responsible for production
+- assigned narrator arrangement from the active assignment, with Cruce responsible for production
 - start point
 - finish point
 - expected walking distance
