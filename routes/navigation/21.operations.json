@@ -1,0 +1,48 @@
+{
+  "route_id": "21",
+  "version": "21-v10-20261005",
+  "status": "DONE",
+  "reviewed": "2026-10-05",
+  "narrator": "Miga",
+  "base": {
+    "start": "Stohrer, 51 rue Montorgueil",
+    "finish": "Chartier, 7 rue du Faubourg Montmartre",
+    "distance_km": 0.971,
+    "duration_minutes": [125, 165],
+    "preferred_start_lunch": ["10:35", "10:55"],
+    "preferred_start_dinner": ["17:15", "17:45"],
+    "latest_start": "19:00",
+    "budget_cap_eur": 24.7,
+    "reservation": "none; Chartier does not take reservations"
+  },
+  "checks_on_day": [
+    "Stohrer opening and flan stock; use V0 if unavailable",
+    "Kayser opening, stock and item price <= EUR 3; use V1 if unavailable",
+    "Chartier opening, current menu and queue <= 30 minutes; use V2 otherwise",
+    "Julien opening and current menu before activating V2",
+    "weather and safe pavement; use V4 or postpone"
+  ],
+  "services": {
+    "rest": "seated at final restaurant as customer",
+    "toilet": "restaurant customer toilet only; no public WC promised",
+    "shelter": "final restaurant; first purchases remain bagged during rain",
+    "water": "request une carafe d'eau at restaurant"
+  },
+  "variants": [
+    {"id": "V0", "trigger": "Stohrer/flan unavailable", "distance_km": 0.971, "finish": "Chartier or Julien", "loses": "actual flan and first sensory contrast"},
+    {"id": "V1", "trigger": "Kayser closed, Sunday, item absent or above cap", "distance_km": 0.971, "finish": "Chartier or Julien", "loses": "actual crust/crumb tasting"},
+    {"id": "V2_direct", "trigger": "Chartier failure known at Kayser", "distance_from_kayser_km": 0.705, "total_from_stohrer_km": 0.908, "finish": "Bouillon Julien", "loses": "Chartier-specific history and room"},
+    {"id": "V2_after_chartier", "trigger": "Chartier failure discovered on arrival", "extra_distance_km": 0.915, "total_from_stohrer_km": 1.886, "finish": "Bouillon Julien", "loses": "Chartier-specific history and room"},
+    {"id": "V3", "trigger": "fatigue, illness or both restaurants fail", "experience_distance_km": 0.203, "exit_to_sentier_approx_km": 0.15, "duration_minutes": [30, 50], "finish": "Metro Sentier at Reaumur intersection", "loses": "hot dish, dining room, guaranteed seat"},
+    {"id": "V4", "trigger": "rain", "distance_km": 0.971, "finish": "Chartier or Julien", "loses": "tasting at first two facades"}
+  ],
+  "files": {
+    "canonical": "routes/21_paris_popular_flavours.md",
+    "navigation": "routes/navigation/21_navigation.md",
+    "base_gpx": "routes/navigation/21.gpx",
+    "variants_gpx": "routes/navigation/21.variants.gpx",
+    "evidence": "routes/navigation/21.evidence.json",
+    "operations": "routes/navigation/21_access_operations.md"
+  },
+  "external_review": "after closure"
+}

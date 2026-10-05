@@ -1,12 +1,21 @@
 # 21 — París se come a pie
-Autoría y operaciones: Cruce. Narradora: Miga. Verificación comercial: 3 octubre 2026.
-Estado: experiencia seleccionada, guion completo de degustación; navegación cartográfica producida; comprobación antes del viaje y QA externo pendientes.
+Autoría y operaciones: Cruce. Narradora: Miga. Revisión documental y comercial: 5 octubre 2026.
+
+> **DONE — versión 21-v10-20261005, revisada el 5 octubre 2026.**
+>
+> Esta es la versión elegida para el viaje y cumple los criterios de aceptación bajo control del agente.
+>
+> Comprobaciones del día: aperturas y existencias; precio de la pieza en Kayser; carta y cola de Chartier; apertura/carta de Julien solo si se activa V2. Cada fallo tiene respuesta abajo.
+>
+> Variantes operativas: V0–V4 en [operaciones](navigation/21_access_operations.md) y trazas adicionales en [21.variants.gpx](navigation/21.variants.gpx).
+>
+> Revisión externa por varios modelos y feedback: posterior al cierre.
 
 ## La experiencia
 Tres bocados con funciones distintas: un flan de pastelería, pan o croissant cotidiano y un plato caliente de bouillon. Montorgueil → Petits-Carreaux → Grands Boulevards. No hace falta llenar una tarde ni comprar en cada escaparate: cada compra tiene una pregunta sensorial.
 
-Salida: Stohrer, 51 rue Montorgueil. Después Kayser, 16 rue des Petits-Carreaux. Final: Chartier, 7 rue du Faubourg Montmartre. Navegación seleccionada: Petits-Carreaux → Réaumur → Montmartre → Faubourg Montmartre, con cruces peatonales. [Calles, pins, Maps y GPX fijo](navigation/README.md).
-Distancia de red seleccionada: **0.971 km**, unos 970 metros, sin interiores ni traslados al alojamiento. Reservar 2–3 horas con comida y posibles colas. Llegar a Chartier hacia apertura puede ayudar, sin garantía de espera corta. Esta ruta ocupa parte del presupuesto habitual de comida, no se suma como tres comidas.
+Salida: Stohrer, 51 rue Montorgueil. Después Kayser, 16 rue des Petits-Carreaux. Final: Chartier, 7 rue du Faubourg Montmartre. Navegación seleccionada: Petits-Carreaux → Réaumur → Montmartre → Faubourg Montmartre, con cruces peatonales. [Instrucciones, coordenadas y enlaces](navigation/21_navigation.md) · [GPX fijo](navigation/21.gpx) · [operaciones, tiempos y contingencias](navigation/21_access_operations.md).
+Distancia de red seleccionada: **0.971 km**, unos 970 metros, sin interiores ni traslados al alojamiento. Duración de diseño: **2 h 05–2 h 45** (12–15 min de marcha, 35–45 min entre compras, guiones y observación, 60–75 min sentado y 15–30 min de cola). Franja preferida lunes–sábado: empezar 10:35–10:55 y llegar a Chartier para su apertura de 11:30; terminar aproximadamente 12:40–13:40. Inicio alternativo 17:15–17:45, final aproximado 19:20–20:30. No iniciar después de 19:00: Kayser cierra a las 20:15 y se pierde margen. Esta ruta ocupa parte del presupuesto habitual de comida, no se suma como tres comidas.
 
 ## Compra y techo
 | Parada | Compra propuesta | Precio verificado o límite personal |
@@ -16,14 +25,14 @@ Distancia de red seleccionada: **0.971 km**, unos 970 metros, sin interiores ni 
 | Chartier | Un principal; carafe d'eau | Carta enlazada: principales €7–13.80, sujeto a carta del día |
 | Chartier opcional | Entrada si aún hay hambre | Reservar como máximo €3; omitir si ninguna opción encaja |
 
-Techo de decisiones: €24.70 si se cumplen esos límites, sin bebida comprada ni postre extra. Versión contenida: flan y un principal hasta €10 → máximo €14.90; Kayser queda como observación sin compra. Son límites nuestros, no ofertas garantizadas. Si la carta cambia, elegir antes de pedir. No obligar a terminar lo que no apetece.
+Techo de decisiones: €24.70 si se cumplen esos límites, sin bebida comprada ni postre extra. Versión contenida: flan y un principal hasta €10 → máximo €14.90; Kayser queda como observación sin compra. En V2 Julien, limitar el principal a €14.50: el techo sin entrada es €22.40. Son límites nuestros, no ofertas garantizadas. Si la carta cambia, elegir antes de pedir. No obligar a terminar lo que no apetece.
 
 Stohrer y Chartier son negocios conocidos y pueden atraer turistas: se eligen por la experiencia concreta y el coste controlable, no por una promesa de secreto local. Esto es una primera ruta de sabores populares de París, no un inventario de su gastronomía.
 
 ## Ventanas y salidas
-Kayser publica lunes–sábado 07:00–20:15 y domingo cerrado. Programar la versión completa de lunes a sábado. Domingo: omitir Kayser; siguen flan y bouillon si las otras aperturas se mantienen. Chartier publica servicio continuo 11:30–medianoche, sin reservas. Revisar horarios de Stohrer en su página de tiendas antes del día.
-Mañana 8 si termina en comida; tarde 8; primera noche 6 porque pierde el paso por panadería; noche tardía 3. Son juicios de diseño.
-Descanso principal sentado en Chartier. Baños de establecimientos condicionados al acceso como cliente; no vender un WC público sin verificar. Lluvia: acortar tránsito y guardar el flan para una pausa protegida, respetando conservación. Fatiga: comer en Montorgueil y terminar en Sentier/Les Halles; se pierde el bouillon y se registra variante corta. Si Chartier tiene una cola incómoda, abandonar el intento: no hay restaurante sustituto investigado aún.
+Stohrer publica lunes–sábado 08:00–20:30 y domingo 08:00–20:00. Kayser publica lunes–sábado 07:00–20:15 y domingo cerrado. Programar la versión completa de lunes a sábado. Domingo activa V1: se omite Kayser y siguen flan y bouillon. Chartier publica servicio continuo 11:30–medianoche, todos los días y sin reservas.
+
+Mañana 8 si termina en comida; tarde 8; primera noche 6 porque pierde el paso por panadería; noche tardía 3. Son juicios de diseño. Descanso principal, refugio y baño se obtienen como cliente en Chartier o, en V2, Julien; no se promete WC público. No comer el flan caminando ni bajo lluvia: su ficha exige refrigeración y consumo en el día. Comprar solo si puede degustarse enseguida en lugar seco o mantenerse como indique el comercio; si no, V0. [Operaciones](navigation/21_access_operations.md) fija las respuestas a cierre, cola, lluvia y fatiga; ninguna exige improvisar otro restaurante.
 
 ## Guion de Miga — 1. Un flan antes del almuerzo
 Antes de elegir, mira el flan como mirarías una pequeña sección de terreno: borde, corte, superficie. La pastelería te enseña lo que va a ocurrir antes de que te lo comas. Hay una estructura que sostiene y un interior que cede. Esa diferencia es nuestra primera parada.
@@ -68,5 +77,7 @@ Al salir, compara los tres bocados por lo que te hicieron notar. ¿Te quedarías
 - [Kayser Petits-Carreaux: dirección y apertura](https://maison-kayser.com/boulangerie/petits-carreaux/)
 - [Chartier Grands Boulevards: historia, dirección, apertura](https://www.bouillon-chartier.com/bouillon-chartier-grands-boulevards/)
 - [Carta actualmente enlazada, fichero 2025/10: bandas y platos, no promesa para noviembre](https://www.bouillon-chartier.com/chartier_medias/2025/10/Francais.pdf)
+- [Bouillon Julien: dirección, horario, acceso sin reserva y reserva opcional](https://www.bouillon-julien.com/rserver)
+- [Bouillon Julien: carta y precios publicados](https://www.bouillon-julien.com/menu)
 
-No existe reserva ni compra. Pendientes: precio presencial de panadería, colas, aperturas efectivas y actualización para noviembre. Trazado y datos de navegación guardados en navigation/. No inventar un precio individual de la carta a partir de sus bandas.
+No existe reserva ni compra. Las aperturas efectivas, existencias, precio presencial de Kayser, carta y cola siguen siendo comprobaciones del día, no trabajo de diseño pendiente. No inventar un precio individual de la carta Chartier a partir de sus bandas. La evidencia de navegación cruda está en [21.evidence.json](navigation/21.evidence.json); los recorridos auxiliares se calcularon con Valhalla sobre OSM el 5 octubre 2026 y no sustituyen una inspección presencial.

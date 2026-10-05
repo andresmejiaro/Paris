@@ -2,7 +2,7 @@
 
 # Paris — current production handoff
 
-Updated 5 October 2026 by Cruce on publication of Route 05. Closed routes: 02, 05 and 16. Routes 02 and 16 remain unchanged.
+Updated 5 October 2026 by Cruce on closure of Routes 21 and 22. Closed routes: 02, 05, 16, 21 and 22. Routes 02, 05 and 16 remain unchanged.
 
 ## Read first
 1. [routes/DEFINITION_OF_DONE.md](routes/DEFINITION_OF_DONE.md) — controlling closure criteria, day uncertainties and later external review.
@@ -12,8 +12,8 @@ Updated 5 October 2026 by Cruce on publication of Route 05. Closed routes: 02, 0
 5. routes/mystery_calibration_anchors.md — spoken dark-route calibration.
 
 ## Actual state
-The inherited two-route count below is superseded: **Routes 02, 05 and 16 are DONE**. Route05 closure is recorded at the end of this handoff.
-Fifteen inherited architectures are not fifteen finished products. **Routes 02 and 16 are DONE under Definition of Done**: 02-v10-20261004, reviewed 4 October 2026, and 16-v10-20261005, reviewed 5 October 2026. Other routes retain their previous production status; the inherited candidate counts are historical, not closure counts. Valuable compact experiences remain first-class outings. External review by several models and feedback follow closure and have not occurred. Shared-pavement overlap is estimated, not GIS-measured. Navigation for routes 02, 16, 21 and 22 is produced under routes/navigation. Navigation for the remaining portfolio and the website are pending.
+The inherited two-route count below is superseded: **Routes 02, 05, 16, 21 and 22 are DONE**. Route05 closure and the later Route21/22 closures are recorded in this handoff.
+Fifteen inherited architectures are not fifteen finished products. **Routes 02, 05, 16, 21 and 22 are DONE under Definition of Done**: 02-v10-20261004, reviewed 4 October 2026; 05-v10-20261005, 16-v10-20261005, 21-v10-20261005 and 22-v1-20261005, reviewed 5 October 2026. Other routes retain their previous production status; the inherited candidate counts are historical, not closure counts. Valuable compact experiences remain first-class outings. External review by several models and feedback follow closure and have not occurred. Shared-pavement overlap is estimated, not GIS-measured. Navigation for routes 02, 05, 16, 21 and 22 is produced under routes/navigation. Navigation for the remaining portfolio and the website are pending.
 Discovery batches D/E/F were saved; the old seven-route paused checkpoint is historical.
 Seven kilometres is no longer an acceptance test. Do not extend a route simply to clear it; do not suppress the new gastronomic commission to preserve a fifteen-route ceiling.
 
@@ -46,7 +46,7 @@ Earlier delegated requests were withdrawn. Cruce performs all planning and prepa
 - Route 02: contradictory narrator/owner notices removed; Hilo canonical. Three researched core scripts retained. Previous file archived under routes/archive/02_old_paris_devils_miracles_pre_production_20261003.md. Selected exterior base is now routed at 3.136 km; external QA pending.
 - Route 21: new affordable tasting walk, Stohrer → Kayser Petits-Carreaux → Chartier. Three complete sensory scripts for Miga, actual source links, capped purchase choices; bakery price not verified, selected base now routed at 0.971 km.
 - Route 22: new compact Coulée Verte experience with four scripts for Rumbo; lake/Ferme not compulsory. Official 4.5 km is the whole promenade, not a measured selected trace. Selected base now routed at 3.435 km; with Bastille/return connectors 4.210 km. Exact selected endpoint and navigation saved; November gates pending.
-This checkpoint records the earlier narration/selection advances. Route 02's pending state is superseded by the 4 October closure above; routes 21 and 22 have not been closed or independently accepted by this assignment.
+This checkpoint records the earlier narration/selection advances. Route 02's pending state is superseded by the 4 October closure above; the pending states of Routes 21 and 22 are superseded by their 5 October closures below.
 
 ## Historical navigation checkpoint — 3 October 2026
 Fixed tracks, WGS84 observation/arrival points, curated street instructions, Google Maps links (dynamic), GeoJSON, manifest and raw requests/responses saved under routes/navigation. Base distances 02=3.136 km, 21=0.971 km, 22=3.435 km. Route 22 has separate 0.396 km approach and 0.379 km tram-platform connector.
@@ -58,7 +58,7 @@ GPX/XML, coordinate bounds, maneuver indices checked. Map review is not field ve
 Route 22 gates and seasonal hours reviewed in routes/navigation/22_access_november.md. RATP publishes November 08:00–17:45 weekdays, 09:00–17:45 weekends/public holidays; municipal date-specific publication still pending. Tourist-office winter closing differs, so planning window is conservatively 09:00–16:45, latest start 14:15 for 2.5 hours. Rue de Lyon lift remains reported out of service; selected entrance uses stairs. Édouard-Lartet gate is mapped, its actual opening is not certified. Municipal July 2026 report describes the eastern street extension as completed; do not carry 2025 construction dates into 2026. Day-of gates/works and external QA remain pending.
 
 ## Continue
-The active Route 16 assignment is complete. Preserve the closed versions of Routes 02 and 16 unless a reopening criterion applies. Route 02 was not reopened or modified during this assignment. Continue other route production under DoD when assigned; retain unresolved geometry/access/narration explicitly and close agent-controlled work before subsequent external review. Do not treat missing external acceptance or website production as an unfinished criterion for either closed route.
+Preserve the closed versions of Routes 02, 05, 16, 21 and 22 unless a reopening criterion applies. Routes 02, 05 and 16 were not reopened or modified during the Route21/22 assignment. Continue other route production under DoD when assigned; retain unresolved geometry/access/narration explicitly and close agent-controlled work before subsequent external review. Do not treat missing external acceptance or website production as an unfinished criterion for a closed route.
 NOC/transport are planning candidates, not bookings. Keep PC13 excluded unless an explicit reopening is verified.
 
 ## Historical record
@@ -71,3 +71,15 @@ v2–v5, main_portfolio_decision.md, portfolio_manifest.md and inherited route-b
 [Canonical](routes/05_paris_of_republic.md) · [navigation](routes/navigation/05_navigation.md) · [operations](routes/navigation/05_access_operations.md) · [JSON](routes/navigation/05.operations.json) · [GPX](routes/navigation/05.gpx) · [15 additional tracks](routes/navigation/05.variants.gpx) · [GeoJSON](routes/navigation/05.geojson) · [raw evidence](routes/navigation/05.evidence.json) · [archive](routes/archive/05_before_dod_20261005.md).
 
 Recorded validation:463 base points, zero joining gaps, geometric6.236km versus routed6.244km; valid coordinate bounds. No field inspection or external review claimed. External multi-model review and feedback follow closure. Routes02/16/21/22 unchanged. Combined navigation manifest/GeoJSON retain previous scope;05 standalone files control this route. No subagent remains active. Western Green delivery remains local and unpublished. Architect prompt records completed16 assignment; this handoff additionally records05 closure.
+
+## Route 21 closure — 5 October 2026
+
+**DONE — 21-v10-20261005.** Miga narrates Stohrer → Kayser Petits-Carreaux → Chartier, **0.971 km**, **2 h 05–2 h 45**, with a €24.70 maximum base decision budget. Three complete tasting scripts, exact street navigation and V0–V4 resolve missing products, Sunday/Kayser, an unusable Chartier, fatigue and rain. Bouillon Julien is the routed V2 fallback: 0.705 km from Kayser or 0.915 km from Chartier. Day checks cover openings, stock, price, menu and queue; no purchase, booking, field inspection or external review claimed.
+
+[Canonical](routes/21_paris_popular_flavours.md) · [navigation](routes/navigation/21_navigation.md) · [operations](routes/navigation/21_access_operations.md) · [JSON](routes/navigation/21.operations.json) · [GPX](routes/navigation/21.gpx) · [variants](routes/navigation/21.variants.gpx) · [evidence](routes/navigation/21.evidence.json).
+
+## Route 22 closure — 5 October 2026
+
+**DONE — 22-v1-20261005.** Rumbo narrates rue de Lyon → Reuilly → Sahel → Édouard-Lartet, **3.435 km**, **4.210 km** with Bastille arrival and Montempoivre return, **2 h 20 min** with margin to 2 h 30. Four complete scripts and V0–V4 resolve fatigue/rain, intermediate closure, a closed eastern gate and cancellation. Conservative operating window is 09:00–16:45, latest start 14:15; local signs govern. Day checks cover gates, works, surface, services and transport; no field inspection or external review claimed.
+
+[Canonical](routes/22_coulee_verte.md) · [operations](routes/navigation/22_access_operations.md) · [November access review](routes/navigation/22_access_november.md) · [GPX](routes/navigation/22.gpx) · [evidence](routes/navigation/22.evidence.json).

@@ -1,5 +1,5 @@
 # Navegación seleccionada — Hilo, Aster/Noctámbulo, Miga y Rumbo
-Cruce · navegación base del 3 octubre 2026; cierre operativo de ruta 02 revisado el 4 octubre y ruta 16 el 5 octubre 2026. Trazados calculados y revisados en cartografía peatonal. No son un levantamiento GPS ni una inspección presencial de puertas.
+Cruce · navegación base del 3 octubre 2026; cierres operativos de ruta 02 revisado el 4 octubre y rutas 16, 21 y 22 el 5 octubre 2026. Trazados calculados y revisados en cartografía peatonal. No son un levantamiento GPS ni una inspección presencial de puertas.
 
 Cada ruta tiene instrucciones por calles, puntos de llegada, enlaces de Google Maps y un GPX fijo. Maps puede recalcular y elegir otra acera o una calle paralela: sus enlaces no son prueba de que haya seguido el GPX. El GPX contiene una línea para seguir en una aplicación compatible; no produce por sí solo avisos de giro. El [GeoJSON conjunto](routes.geojson) y el [registro de navegación](manifest.json) conservan coordenadas y maniobras.
 
@@ -60,6 +60,10 @@ La traza base pasa por Beaubourg/Renard, no por Tour Saint-Jacques. Se retira la
 El GPX adicional guarda **13 tracks independientes**: tres versiones parciales extraídas de la base, un desvío completo y nueve conectores. Seleccionar solo los nombres indicados por la variante; no sumar todos los tracks. Los puntos de objeto Sainte-Anne y escaleras Cité quedan como referencias en JSON y no como destinos GPX. Obras/barreras, clima, WC, refugio y servicio se comprueban el día, con respuestas V0–V4 ya fijadas. Las versiones parciales no se registran como ejecución íntegra de la base.
 
 ## 21 — Miga: tres compras, menos de un kilómetro
+[Ficha canónica](../21_paris_popular_flavours.md) · [instrucciones completas](21_navigation.md) · [operaciones y auditoría DoD](21_access_operations.md) · [registro operativo JSON](21.operations.json) · [variantes GPX](21.variants.gpx).
+
+**DONE — 21-v10-20261005, revisada el 5 octubre 2026.** Base 0.971 km, 2 h 05–2 h 45; V0–V4 cubren producto ausente, Kayser cerrado/sin compra, Chartier inutilizable, fatiga y lluvia. V2 conserva un final de bouillon en Julien mediante dos trazas independientes. Aperturas, existencias, precios, carta y cola se comprueban el día; evaluación externa posterior.
+
 [Stohrer → Kayser](https://www.google.com/maps/dir/?api=1&origin=48.86525%2C2.34692&destination=48.86707%2C2.34728&travelmode=walking) · [Kayser → Chartier por Réaumur y Montmartre](https://www.google.com/maps/dir/?api=1&origin=48.86707%2C2.34728&destination=48.87194%2C2.34296&travelmode=walking&waypoints=48.8676201%2C2.3460668%7C48.8681507%2C2.3436015)
 
 | Tramo | Instrucción elegida | km |
@@ -78,6 +82,10 @@ No rodeo por Étienne-Marcel/Louvre para unir las dos tiendas. El domingo, la ve
 Salida hacia transporte: [entrada Grands Boulevards, boulevard Montmartre/Musée Grévin](https://www.google.com/maps/search/?api=1&query=48.8716354%2C2.3427747), acceso 2 en OSM; el servicio y las puertas del metro se comprueban el día de viaje.
 
 ## 22 — Rumbo: arriba del viaducto, dentro de la trinchera
+[Ficha canónica](../22_coulee_verte.md) · [operaciones y auditoría DoD](22_access_operations.md) · [revisión de acceso de noviembre](22_access_november.md).
+
+**DONE — 22-v1-20261005, revisada el 5 octubre 2026.** Núcleo 3.435 km, 4.210 km con conectores, 2 h 20 min con margen a 2 h 30. V0–V4 cubren fatiga/lluvia, corte intermedio, puerta oriental cerrada y cancelación. La ventana conservadora es 09:00–16:45, con último inicio 14:15; señales y barreras locales mandan. Evaluación externa posterior.
+
 [Entrada → Reuilly, tramo elevado](https://www.google.com/maps/dir/?api=1&origin=48.8495863%2C2.3711588&destination=48.842302%2C2.387501&travelmode=walking&waypoints=48.8495904%2C2.3713355%7C48.8481641%2C2.3740269%7C48.8443732%2C2.3819791) · [Reuilly → Sahel por Vivaldi](https://www.google.com/maps/dir/?api=1&origin=48.842302%2C2.387501&destination=48.8411999%2C2.3964213&travelmode=walking&waypoints=48.841442%2C2.3912393) · [Sahel → sendero al este de rue de Toul](https://www.google.com/maps/dir/?api=1&origin=48.8411999%2C2.3964213&destination=48.8407626%2C2.4045413&travelmode=walking&waypoints=48.8411162%2C2.3993852%7C48.8409299%2C2.4030752) · [Sendero oriental → salida Édouard-Lartet](https://www.google.com/maps/dir/?api=1&origin=48.8407626%2C2.4045413&destination=48.8411992%2C2.4131125&travelmode=walking&waypoints=48.8405746%2C2.4073765%7C48.8405596%2C2.409818%7C48.8410708%2C2.4124373)
 
 | Tramo | Instrucción elegida | km |
@@ -118,7 +126,7 @@ Rumbo se calculó en dos peticiones por el límite de diez puntos del servicio, 
 [Accesos municipales Coulée](https://www.paris.fr/lieux/coulee-verte-rene-dumont-1772) · [Secuencia municipal del paseo](https://www.paris.fr/pages/la-coulee-verte-rene-dumont-l-endroit-ideal-pour-une-rando-urbaine-36101).
 Las direcciones de tiendas se respaldan en [ruta 21](../21_paris_popular_flavours.md). Las posiciones de parvis/ábside son puntos de observación seleccionados sobre cartografía, no observaciones presenciales de visibilidad.
 
-Rutas 02 y 16 cerradas bajo [Definition of Done](../DEFINITION_OF_DONE.md): incertidumbres del día con alternativas explícitas y revisión externa posterior. Para 21 y 22 se conserva su estado de producción anterior: acceso del día y QA independiente pendientes. No se ha simulado aceptación externa ni inspección presencial.
+Rutas 02, 16, 21 y 22 cerradas bajo [Definition of Done](../DEFINITION_OF_DONE.md): incertidumbres del día con alternativas explícitas y revisión externa posterior. La ruta 05 utiliza el conjunto de navegación independiente enlazado a continuación. No se ha simulado aceptación externa ni inspección presencial.
 
 ## 05 — Cruce: Republic and Representation
 **DONE — 05-v10-20261005.** 6.244 km base, 6.485 km with arrival/return;3–3½h. [Canonical](../05_paris_of_republic.md) · [instructions](05_navigation.md) · [operations](05_access_operations.md) · [GPX](05.gpx) · [15 independent additional tracks](05.variants.gpx) · [standalone GeoJSON](05.geojson) · [JSON](05.operations.json) · [raw evidence](05.evidence.json). V0–V5, travel-day checks and subsequent external review explicit. Combined manifest/GeoJSON retain previous scope; standalone05 files control this route.

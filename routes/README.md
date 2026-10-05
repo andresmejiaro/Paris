@@ -2,7 +2,7 @@
 
 # Paris — working experience index
 
-Read [Definition of Done](DEFINITION_OF_DONE.md) and [Cruce production reset v9](cruce_production_reset_v9.md) first. The fifteen-row architecture pool is inherited from v6; it is not an acceptance or completion count. Routes 02, 05 and 16 are closed under DoD; other route headers identify controlling changes and older bodies retain research until reconciled. External review by several models follows completion; no such acceptance is claimed here.
+Read [Definition of Done](DEFINITION_OF_DONE.md) and [Cruce production reset v9](cruce_production_reset_v9.md) first. The fifteen-row architecture pool is inherited from v6; it is not an acceptance or completion count. Routes 02, 05, 16, 21 and 22 are closed under DoD; other route headers identify controlling changes and older bodies retain research until reconciled. External review by several models follows completion; no such acceptance is claimed here.
 
 | Experience | Current state | Working artifact |
 |---|---|---|
@@ -27,10 +27,10 @@ Read [Definition of Done](DEFINITION_OF_DONE.md) and [Cruce production reset v9]
 | Colonial Afterlives | Two compact blocks | [file](20_colonial_afterlives.md) |
 | Modern Paris After Dark | Retired standalone; research workbench | [file](04_modern_paris_after_dark.md) |
 | Northwestern Belt | Provisional: narration and operational production pending | discovery_batch_e.md |
-| Elevated East / Coulée Verte | Compact experience and four scripts; mapped navigation produced; November gates/QA pending; Rumbo narrator | [file](22_coulee_verte.md) |
+| Elevated East / Coulée Verte | **DONE · 22-v1-20261005.** Rumbo; 3.435 km selected corridor, 4.210 km with connectors; four scripts; conservative November window and V0–V4 resolve gates, weather, fatigue and cancellation. External review follows closure. | [canonical](22_coulee_verte.md) · [GPX](navigation/22.gpx) · [operations](navigation/22_access_operations.md) |
 | Southern Margins | Provisional; full scripts and exact observable traces pending | discovery_batch_f.md |
 | Western Green Machinery | Provisional; full scripts and rail-gate verification pending | discovery_batch_f.md |
-| Affordable Paris flavours | Three tasting scripts, purchase limits and verified shops; Miga narrator; mapped navigation produced; travel-day refresh/QA pending | [file](21_paris_popular_flavours.md) |
+| Affordable Paris flavours | **DONE · 21-v10-20261005.** Miga; 0.971 km base; three tasting scripts; €24.70 maximum base decision budget and V0–V4, including a routed bouillon fallback. External review follows closure. | [canonical](21_paris_popular_flavours.md) · [navigation](navigation/21_navigation.md) · [GPX](navigation/21.gpx) · [operations](navigation/21_access_operations.md) |
 | Modern true crime | Protected candidate module; objects/access/scripts pending | modern_true_crime_discovery_v6.md |
 
 ## Production gates
@@ -41,4 +41,4 @@ A short experience can meet every criterion. A routed long spine can fail narrat
 geometry_batch_a/b/c and discovery_batch_d/e/f preserve routing inputs/totals. A router does not certify lawful current access. portfolio_health_audit_v6.md records unresolved overlap and narrative defects. mystery_calibration_anchors.md controls dark delivery; v8 protects compact Père-Lachaise.
 
 ## Selected navigation
-Routes 02, 16, 21 and 22 have [fixed GPX, coordinates, street instructions, map links and reproducible routing evidence](navigation/README.md). Routes 02 and 16 additionally have fixed variants/connectors, dated operations and a machine-readable closure record. Route 16's surface totals are 2.936 km main with arrival/return and 0.912 km independent coda with its connectors; interiors and transit are separate. Travel-day checks and subsequent external review remain explicit; routes 21 and 22 retain their existing pending status and data. Route 02 has not been reopened or modified.
+Routes 02, 16, 21 and 22 have [fixed GPX, coordinates, street instructions, map links and reproducible routing evidence](navigation/README.md); Route 05 has a standalone synchronized navigation set. Routes 02, 05, 16 and 21 additionally have fixed variants/connectors and machine-readable closure records; Route 22 uses its base GPX plus documented return/cancellation variants. Route 16's surface totals are 2.936 km main with arrival/return and 0.912 km independent coda with its connectors; interiors and transit are separate. Travel-day checks and subsequent external review remain explicit. Route 02 has not been reopened or modified.

@@ -1,26 +1,33 @@
 # 22 — La vía que aprendió a caminar
-Autoría y operaciones: Cruce. Narrador: Rumbo. Fuentes consultadas: 3 octubre 2026.
-Estado: experiencia compacta seleccionada, guion completo; navegación cartográfica producida; aperturas del viaje y QA externo pendientes. QA externo pendiente.
+> **DONE — versión 22-v1-20261005, revisada el 5 de octubre de 2026.**
+> Esta es la versión elegida para el viaje y cumple los criterios de aceptación bajo control del agente.
+> Comprobaciones del día: horario y barreras locales; apertura de rue de Lyon y Édouard-Lartet; obras o desvíos; estado de escaleras, superficie, baños, agua y transporte. Cada fallo tiene respuesta en [operaciones](navigation/22_access_operations.md).
+> Variantes operativas: V0–V4 en [operaciones](navigation/22_access_operations.md).
+> Revisión externa por varios modelos y feedback: posterior al cierre; no realizada.
+
+Autoría y operaciones: Cruce. Narrador: Rumbo. Fuentes consultadas: 3–4 octubre 2026.
 
 ## Forma elegida
 Bastille → tramo elevado de la Coulée Verte → pasarela/jardín de Reuilly → tramo de Sahel → salida oriental hacia Montempoivre.
 La línea transformada, sus cambios de altura y caminar son el contenido. El lago Daumesnil y la Ferme de Paris no forman parte del final obligatorio. El itinerario de 8.725 km en discovery_batch_f.md queda como variante exploratoria histórica, no como longitud de esta ruta.
 
-La ciudad describe 4.5 km para la promenade. Nuestra traza seleccionada mide **3.435 km** de red entre el pie de escaleras de rue de Lyon y el exterior de la puerta Édouard-Lartet. Aproximación desde Bastille: 0.396 km; salida al acceso de andén Montempoivre T3a: 0.379 km. Total de los tres: **4.210 km**. No sustituir la longitud elegida por la cifra general municipal. Reservar unas 2–2.5 horas con pausas, según accesos y ritmo. Coste: €0 de entrada. Preferencia: mañana 9, tarde con luz 8, tarde tras cierre 0, noche 0. Sin añadir acceso desde NOC al kilometraje declarado.
+La ciudad describe 4.5 km para la promenade. Nuestra traza seleccionada mide **3.435 km** de red entre el pie de escaleras de rue de Lyon y el exterior de la puerta Édouard-Lartet. Aproximación desde Bastille: 0.396 km; salida al acceso de andén Montempoivre T3a: 0.379 km. Total de los tres: **4.210 km**. No sustituir la longitud elegida por la cifra general municipal. Reservar **2 h 20 min; margen hasta 2 h 30 min**: 10 min de aproximación, 40 min hasta Reuilly con audio/observación, 15 min de pausa, 20 min hasta Sahel, 35 min hasta Édouard-Lartet, 10 min de cierre y 10 min de salida al tranvía, más 10 min de margen. Coste: €0 de entrada; sin reserva. Preferencia: mañana 9, tarde con luz 8, tarde tras cierre 0, noche 0. Sin añadir acceso desde NOC al kilometraje declarado.
 
 ## Navegación seleccionada
-[Instrucciones, puntos precisos, enlaces Maps y GPX fijo](navigation/README.md).
+[Instrucciones, puntos precisos y enlaces Maps](navigation/README.md) · [GPX fijo](navigation/22.gpx) · [operaciones y variantes](navigation/22_access_operations.md).
 Inicio real: escaleras rue de Lyon, 48.8495863, 2.3711588. Reuilly: 48.842302, 2.387501. Sahel sobre el sendero: 48.8411999, 2.3964213. Puerta Édouard-Lartet: 48.8410708, 2.4124373. Exterior: 48.8411992, 2.4131125.
 Los antiguos pins de Sahel y Montempoivre estaban fuera del corredor elegido y quedan sustituidos. La consulta inicial que recorría rue de Charenton se rechaza; seguir la traza superior del viaducto, la pasarela y el sendero de la trinchera.
-Entrada por dos tramos de escaleras. La alternativa de ascensor no tiene una traza propia comprobada y no se ofrece como recorrido accesible. Escape corto: salir mediante acceso público al llegar a Reuilly; no forma parte del kilometraje completo.
+Entrada por dos tramos de escaleras. La alternativa de ascensor no tiene una traza propia comprobada y no se ofrece como recorrido accesible. Variante corta fijada: volver desde Reuilly por la misma traza hasta rue de Lyon; no depende de una bajada sin pin comprobado.
 Regreso elegido: por Édouard-Lartet/Émile-Laurent a boulevard Soult y acceso al andén Montempoivre. No conducir a Porte Dorée como si estuviera en este final.
 
 ## Operaciones del viaje
 [Revisión de puertas y horarios — 4 octubre 2026](navigation/22_access_november.md). Bonjour RATP publica para noviembre 08:00–17:45 entre semana y 09:00–17:45 sábados, domingos y festivos (incluido 11 noviembre). La ficha municipal aún no publica el intervalo del viaje y la oficina de turismo indica un cierre invernal más temprano: no considerar 17:45 garantizado. Ventana conservadora elegida: iniciar desde 09:00 y salir antes de 16:45; última salida para 2.5 horas, 14:15. Aplicar también a 30–31 octubre hasta resolver el cambio de temporada. Confirmar apertura real y obedecer horarios locales.
 Entrada por escaleras rue de Lyon; el ascensor del 34 figura fuera de servicio, Hector-Malot en servicio. Puerta final Édouard-Lartet cartografiada; apertura concreta de noviembre pendiente. La revisión municipal de julio de 2026 describe la prolongación oriental como realizada: no trasladar los avisos de obras de 2025 al viaje.
 La ficha anuncia baños y agua, sin certificar aquí ubicación, apertura o funcionamiento en invierno. Llevar agua; aprovechar una instalación solo al verla abierta.
-Lluvia/fatiga: hacer Bastille–Reuilly y salir; evitar quedarse por obligación sobre superficies húmedas. Si hay una sección cerrada, bajar por acceso público y decidir si seguimos a pie de calle o terminamos. No llamar “ruta completa” a una variante que pierde la trinchera.
+Lluvia/fatiga: aplicar V1 o V2, con final y pérdida explícitos. Si hay una sección cerrada, no improvisar una falsa continuidad a pie de calle: aplicar la variante correspondiente de [operaciones](navigation/22_access_operations.md). No llamar “ruta completa” a una variante que pierde la trinchera.
 Ritmo suave con pausas a voluntad; no es entrenamiento ni día de recuperación garantizado. Contar también traslados y cualquier otra actividad en la carga diaria.
+
+Baños y agua no son una condición de la experiencia: la ficha municipal los anuncia, pero su punto y funcionamiento invernal no están validados. Llegar con agua y usar un servicio solo si está abierto. No hay refugio cubierto garantizado dentro del corredor; ante lluvia sostenida se cancela o se termina en Reuilly. La ruta no requiere compra ni comida. El descanso elegido es la pausa de Reuilly en asiento disponible; si está mojado u ocupado, se hace de pie o se omite.
 
 ## Guion de Rumbo — 1. Cambiar de altura
 Antes de subir, escucha la calle un momento. No necesitamos que se quede en silencio. Queremos tener una referencia para notar lo que cambia al caminar unos metros más arriba.
@@ -66,4 +73,4 @@ Al volver a la calle, escucha de nuevo. Empezamos tomando una referencia y termi
 [Ville de Paris: historia, longitud general, accesos, avisos y equipamiento](https://www.paris.fr/lieux/coulee-verte-rene-dumont-1772).
 [Reportaje municipal de la promenade](https://www.paris.fr/pages/la-coulee-verte-rene-dumont-l-endroit-ideal-pour-une-rando-urbaine-36101).
 [Mediciones exploratorias heredadas](discovery_batch_f.md).
-Guardados: polilínea peatonal, puerta final elegida, GPX, coordenadas, instrucciones y respuestas del motor. No certificados: horarios de noviembre, apertura/obras del día y continuidad sin escaleras. La navegación cartográfica no sustituye el control de las puertas.
+Guardados: polilínea peatonal, puerta final elegida, GPX, coordenadas, instrucciones y respuestas del motor. No certificados: calendario municipal fechado para noviembre, apertura/obras del día y continuidad sin escaleras. La navegación cartográfica no sustituye el control de las puertas. No se afirma inspección presencial, ensayo de audio, accesibilidad universal ni revisión externa.

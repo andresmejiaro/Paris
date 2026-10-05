@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cruce Paris navigation" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata>
+    <name>21 — variantes a Bouillon Julien</name>
+    <desc>Tracks independientes Valhalla/OSM, 2026-10-05. No inspeccionados. Elegir uno; no sumar ambos.</desc>
+  </metadata>
+  <wpt lat="48.8705454" lon="2.3531783"><name>Bouillon Julien, 16 rue du Faubourg Saint-Denis</name></wpt>
+  <trk>
+    <name>21_V2_Chartier_Julien_0.915km</name>
+    <desc>Desde Chartier si el fallo se descubre al llegar; no combinar con el track directo desde Kayser.</desc>
+    <trkseg>
+      <trkpt lat="48.871961" lon="2.342964" /><trkpt lat="48.871953" lon="2.343057" /><trkpt lat="48.871952" lon="2.343081" />
+      <trkpt lat="48.872168" lon="2.343116" /><trkpt lat="48.872446" lon="2.343090" /><trkpt lat="48.872601" lon="2.343073" />
+      <trkpt lat="48.872629" lon="2.343314" /><trkpt lat="48.872402" lon="2.344843" /><trkpt lat="48.872428" lon="2.344941" />
+      <trkpt lat="48.872268" lon="2.346004" /><trkpt lat="48.872168" lon="2.346708" /><trkpt lat="48.872016" lon="2.347812" />
+      <trkpt lat="48.871982" lon="2.348007" /><trkpt lat="48.871637" lon="2.349843" /><trkpt lat="48.871613" lon="2.349974" />
+      <trkpt lat="48.871641" lon="2.349988" /><trkpt lat="48.871014" lon="2.353228" /><trkpt lat="48.870974" lon="2.353220" />
+      <trkpt lat="48.870900" lon="2.353221" /><trkpt lat="48.870868" lon="2.353322" /><trkpt lat="48.870672" lon="2.353207" />
+      <trkpt lat="48.870552" lon="2.353147" />
+    </trkseg>
+  </trk>
+  <trk>
+    <name>21_V2_Kayser_Julien_directo_0.705km</name>
+    <desc>Elegir si el fallo de Chartier se conoce antes de salir de Kayser.</desc>
+    <trkseg>
+      <trkpt lat="48.867070" lon="2.347280" /><trkpt lat="48.867203" lon="2.347303" /><trkpt lat="48.867290" lon="2.347318" />
+      <trkpt lat="48.867276" lon="2.347384" /><trkpt lat="48.867411" lon="2.347453" /><trkpt lat="48.867442" lon="2.347412" />
+      <trkpt lat="48.867851" lon="2.347412" /><trkpt lat="48.867950" lon="2.347478" /><trkpt lat="48.868151" lon="2.348170" />
+      <trkpt lat="48.868584" lon="2.349629" /><trkpt lat="48.868635" lon="2.349789" /><trkpt lat="48.869121" lon="2.351435" />
+      <trkpt lat="48.869178" lon="2.351629" /><trkpt lat="48.869394" lon="2.352340" /><trkpt lat="48.869570" lon="2.352440" />
+      <trkpt lat="48.869613" lon="2.352313" /><trkpt lat="48.869799" lon="2.352400" /><trkpt lat="48.869850" lon="2.352264" />
+      <trkpt lat="48.869945" lon="2.352441" /><trkpt lat="48.869978" lon="2.352718" /><trkpt lat="48.869947" lon="2.352841" />
+      <trkpt lat="48.870278" lon="2.353010" /><trkpt lat="48.870552" lon="2.353147" />
+    </trkseg>
+  </trk>
+</gpx>
