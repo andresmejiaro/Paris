@@ -1,15 +1,27 @@
-# Navegación seleccionada — Hilo, Miga y Rumbo
-Cruce · navegación base del 3 octubre 2026; cierre operativo de ruta 02 revisado el 4 octubre 2026. Trazados calculados y revisados en cartografía peatonal. No son un levantamiento GPS ni una inspección presencial de puertas.
+# Navegación seleccionada — Hilo, Aster/Noctámbulo, Miga y Rumbo
+Cruce · navegación base del 3 octubre 2026; cierre operativo de ruta 02 revisado el 4 octubre y ruta 16 el 5 octubre 2026. Trazados calculados y revisados en cartografía peatonal. No son un levantamiento GPS ni una inspección presencial de puertas.
 
 Cada ruta tiene instrucciones por calles, puntos de llegada, enlaces de Google Maps y un GPX fijo. Maps puede recalcular y elegir otra acera o una calle paralela: sus enlaces no son prueba de que haya seguido el GPX. El GPX contiene una línea para seguir en una aplicación compatible; no produce por sí solo avisos de giro. El [GeoJSON conjunto](routes.geojson) y el [registro de navegación](manifest.json) conservan coordenadas y maniobras.
 
 | Narrador | Recorrido principal | Distancia de red | Archivo fijo |
 |---|---|---:|---|
 | Hilo | Flamel → parvis Notre-Dame → Saint-Médard, frente y ábside | 3.136 km | [GPX](02.gpx) |
+| Aster | Champo/Filmothèque → portal norte Saint-Étienne → Pathé | 2.555 km | [GPX](16.gpx) · [instrucciones](16_navigation.md) |
+| Noctámbulo, coda independiente de 16 | Cour Carrée/Belphégor → rue du Pont-Neuf/Éléonore | 0.505 km | [GPX adicional, seleccionar coda](16.variants.gpx) |
 | Miga | Stohrer → Kayser → Chartier por Réaumur/Montmartre | 0.971 km | [GPX](21.gpx) |
 | Rumbo | Escaleras de rue de Lyon → Reuilly → Sahel → salida Édouard-Lartet | 3.435 km | [GPX](22.gpx) |
 
-Tres decimales reproducen la respuesta del motor; no implican exactitud de un metro. Para el visitante: aproximadamente 3.14, 0.97 y 3.43 km. No incluyen acceso desde alojamiento, interiores ni vueltas de degustación.
+Tres decimales reproducen la respuesta del motor; no implican exactitud de un metro. No incluyen acceso desde alojamiento, interiores ni vueltas de degustación. Los totales y conectores propios de cada experiencia se declaran por separado.
+
+## 16 — Aster: la sesión es el final; Noctámbulo: coda aparte
+
+**DONE — 16-v10-20261005, revisada el 5 octubre 2026.** [Ficha canónica](../16_cinema_paris.md) · [instrucciones, puntos y enlaces](16_navigation.md) · [operaciones y auditoría DoD](16_access_operations.md) · [JSON](16.operations.json) · [evidencia cruda](16.evidence.json) · [GeoJSON propio](16.geojson).
+
+Núcleo único de 2.555 km, con llegada Cluny 0.164 y salida Les Gobelins/Rue Le Brun 0.217 km: **2.936 km de superficie**. Programa fechado Pathé 3/11/2026 a las 16:30, 51 min, €7; inicio 12:55–13:15 y salida prevista 17:30–17:45. V1 galería €5 con cierre propio si no hay film admitido. No hay compra ni idioma garantizados.
+
+El [GPX adicional](16.variants.gpx) contiene **16 tracks independientes**, que incluyen variantes, servicios, llegada/retorno y coda. Coda 0.505 + 0.259 llegada + 0.148 salida = **0.912 km**. V5 exterior si patio cerrado: 0.397 + 0.102 llegada + 0.148 salida = **0.647 km**. No se mide una línea de metro ni se une a pie Pathé con el Louvre. V2/V4/V6 indican qué capítulos se pierden; reducción o cancelación no equivalen al núcleo completo.
+
+Cartografía revisada para evitar puerta religiosa incorrecta, pin Pathé desplazado, escaleras subterráneas, parking/ribera en coda y pasos cubiertos/atajos de jardín en servicios. Comprobaciones del día y sus respuestas en operaciones; evaluación externa posterior. La Fayette se asigna a 19 sin editar su ficha. Datos 02/21/22 preservados, sin reapertura de 02.
 
 ## 02 — Hilo: llegar a las puertas, no al centro del edificio
 [Flamel → Notre-Dame](https://www.google.com/maps/dir/?api=1&origin=48.8636%2C2.35313&destination=48.85318%2C2.34875&travelmode=walking) · [Notre-Dame → Saint-Médard](https://www.google.com/maps/dir/?api=1&origin=48.85318%2C2.34875&destination=48.84009%2C2.34983&travelmode=walking) · [Frente → ábside](https://www.google.com/maps/dir/?api=1&origin=48.84009%2C2.34983&destination=48.8399%2C2.35115&travelmode=walking)
@@ -101,9 +113,9 @@ Las distancias proceden de Valhalla peatonal, con consultas guardadas. En Miga s
 Rumbo se calculó en dos peticiones por el límite de diez puntos del servicio, con el mismo punto de unión en Reuilly. La suma de salidas redondeadas puede diferir una milésima entre resumen y piernas: no fabricar precisión mayor.
 
 ## Evidencia reproducible y fuentes
-[Hilo: peticiones y respuestas](02.evidence.json) · [Miga: petición y respuesta](21.evidence.json) · [Rumbo: peticiones y respuestas, incluidos conectores](22.evidence.json).
+[Hilo: peticiones y respuestas](02.evidence.json) · [Ruta 16: peticiones, respuestas y accesos](16.evidence.json) · [Miga: petición y respuesta](21.evidence.json) · [Rumbo: peticiones y respuestas, incluidos conectores](22.evidence.json).
 [API y opciones Valhalla](https://valhalla.github.io/valhalla/api/route/api-reference/) · [Instancia utilizada](https://valhalla1.openstreetmap.de/) · [OSM y licencia ODbL](https://www.openstreetmap.org/copyright).
 [Accesos municipales Coulée](https://www.paris.fr/lieux/coulee-verte-rene-dumont-1772) · [Secuencia municipal del paseo](https://www.paris.fr/pages/la-coulee-verte-rene-dumont-l-endroit-ideal-pour-une-rando-urbaine-36101).
 Las direcciones de tiendas se respaldan en [ruta 21](../21_paris_popular_flavours.md). Las posiciones de parvis/ábside son puntos de observación seleccionados sobre cartografía, no observaciones presenciales de visibilidad.
 
-Ruta 02 cerrada bajo [Definition of Done](../DEFINITION_OF_DONE.md): incertidumbres del día con alternativas explícitas y revisión externa posterior. Para 21 y 22 se conserva su estado de producción anterior: acceso del día y QA independiente pendientes. No se ha simulado aceptación externa ni inspección presencial.
+Rutas 02 y 16 cerradas bajo [Definition of Done](../DEFINITION_OF_DONE.md): incertidumbres del día con alternativas explícitas y revisión externa posterior. Para 21 y 22 se conserva su estado de producción anterior: acceso del día y QA independiente pendientes. No se ha simulado aceptación externa ni inspección presencial.

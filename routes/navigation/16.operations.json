@@ -1,0 +1,1227 @@
+{
+  "route_id": "16",
+  "title": "Cine, proyección y monstruos modernos",
+  "status": "DONE",
+  "version": "16-v10-20261005",
+  "review_date": "2026-10-05",
+  "producer": "Cruce",
+  "narrators": {
+    "main": "Aster",
+    "optional_coda": "Noctámbulo"
+  },
+  "timezone": "Europe/Paris",
+  "field_verified": false,
+  "external_review": "After closure; not performed",
+  "canonical_document": "routes/16_cinema_paris.md",
+  "navigation_document": "routes/navigation/16_navigation.md",
+  "operations_document": "routes/navigation/16_access_operations.md",
+  "canonical_order": [
+    "champo",
+    "filmo",
+    "steps",
+    "pathe"
+  ],
+  "main_distance_km": 2.555,
+  "arrival_km": 0.164,
+  "return_km": 0.217,
+  "main_surface_total_km": 2.936,
+  "indoor_distance_estimate_km": [
+    0.1,
+    0.3
+  ],
+  "indoor_measured": false,
+  "metro_interior_and_noc_included": false,
+  "chosen_date": "2026-11-03",
+  "start_window": [
+    "12:55",
+    "13:15"
+  ],
+  "latest_start": "13:30",
+  "pathe_arrival_target": [
+    "15:00",
+    "15:15"
+  ],
+  "pathe_gallery_latest_full_arrival": "15:30",
+  "seat_target": "16:15",
+  "duration_minutes": [
+    240,
+    285
+  ],
+  "expected_exit": [
+    "17:30",
+    "17:45"
+  ],
+  "main_slot_scores": {
+    "morning": 2,
+    "afternoon": 9,
+    "evening": 6,
+    "night": 0
+  },
+  "screening": {
+    "source_id": "pathe_session",
+    "start": "2026-11-03T16:30:00+01:00",
+    "titles": [
+      {
+        "title": "Hang Chou Fu",
+        "year": 1924,
+        "minutes": 3
+      },
+      {
+        "title": "Chine",
+        "year_range": [
+          1920,
+          1929
+        ],
+        "minutes": 2
+      },
+      {
+        "title": "La caverne de la toile de soie",
+        "director": "Dan Duyu",
+        "year": 1927,
+        "minutes": 46
+      }
+    ],
+    "programme_minutes": 51,
+    "main_format": "DCP 4K, CFA",
+    "short_format": "Digital, GP Archives",
+    "ticket_general_eur": 7,
+    "live_inventory_checked": false,
+    "booked": false,
+    "intertitle_subtitle_language": "Not specified in programme",
+    "pianist_for_this_session": "Not identified; general silent-film practice does not guarantee a named performer"
+  },
+  "general_gallery": {
+    "variant": "V1",
+    "start_window": [
+      "12:30",
+      "14:30"
+    ],
+    "duration_minutes": [
+      150,
+      195
+    ],
+    "latest_exit": "18:15",
+    "cost_eur": 5,
+    "ordinary_candidate_dates": [
+      "2026-10-30",
+      "2026-10-31",
+      "2026-11-03",
+      "2026-11-04",
+      "2026-11-05",
+      "2026-11-06",
+      "2026-11-07",
+      "2026-11-10",
+      "2026-11-12",
+      "2026-11-13",
+      "2026-11-14"
+    ],
+    "holiday11Nov": "Public holiday excluded from ordinary dates; choose another date or independent coda/V5.",
+    "gallery_visit_minutes": [
+      40,
+      50
+    ],
+    "six_observation_groups": [
+      "Pathé Professionnelle: record",
+      "Pathé-Baby: domestic projection",
+      "Pathé-Rural: distribution/use",
+      "Pathé-Webo M: later production",
+      "Commercial documentary excerpt",
+      "Didactic operation film"
+    ],
+    "missing_group": "Same function with visible label; absent monitor: object/cartel comparison; no motion invented",
+    "minimum": "Camera, projector, legible explanation; otherwise V3/V4"
+  },
+  "coda": {
+    "optional": true,
+    "continuous_with_main": false,
+    "order": [
+      "court",
+      "eleonore"
+    ],
+    "distance_km": 0.505,
+    "arrival_km": 0.259,
+    "return_km": 0.148,
+    "surface_total_km": 0.912,
+    "duration_minutes": [
+      45,
+      60
+    ],
+    "suggested_start": [
+      "18:00",
+      "18:45"
+    ],
+    "latest_start": "19:00",
+    "court_exit_by": "19:25",
+    "latest_finish": "20:00",
+    "published_court_hours": [
+      "07:30",
+      "19:45"
+    ],
+    "slot_scores": {
+      "morning": 5,
+      "afternoon": 6,
+      "evening": 8,
+      "night": 3
+    },
+    "cost_eur": 0,
+    "main_to_coda_transit": "Les Gobelins M7 toward La Courneuve → Châtelet transfer M1 toward La Défense → Louvre–Rivoli; allow 40–60 min including surface/stairs; actual service checked that day",
+    "transit_trace_fabricated": false,
+    "free_interior_refuge": "None incorporated"
+  },
+  "points": [
+    {
+      "id": "champo",
+      "label": "C01 — Champo, esquina Écoles/Champollion",
+      "latitude": 48.85001,
+      "longitude": 2.343145,
+      "role": "story",
+      "note": "Acera ante 51 rue des Écoles; no entrar en la sala.",
+      "map_pin": "https://www.google.com/maps/search/?api=1&query=48.85001%2C2.343145"
+    },
+    {
+      "id": "filmo",
+      "label": "C01b — Filmothèque, 9 rue Champollion",
+      "latitude": 48.84951,
+      "longitude": 2.342795,
+      "role": "comparison",
+      "note": "Comparación dentro de A01; no nueva biografía.",
+      "map_pin": "https://www.google.com/maps/search/?api=1&query=48.84951%2C2.342795"
+    },
+    {
+      "id": "steps",
+      "label": "C02 — Portal norte, place de l’Abbé-Basset",
+      "latitude": 48.846777,
+      "longitude": 2.347878,
+      "role": "optional_story",
+      "note": "Observación desde plaza; no portal principal del Panthéon, umbral o escalera.",
+      "map_pin": "https://www.google.com/maps/search/?api=1&query=48.846777%2C2.347878"
+    },
+    {
+      "id": "pathe",
+      "label": "C03 — Pathé, 73 avenue des Gobelins",
+      "latitude": 48.83339,
+      "longitude": 2.354433,
+      "role": "story",
+      "note": "Acceso por avenue des Gobelins; no entrada de investigadores o Pathé Les Fauvettes.",
+      "map_pin": "https://www.google.com/maps/search/?api=1&query=48.83339%2C2.354433"
+    },
+    {
+      "id": "cluny",
+      "label": "Llegada — Cluny–La Sorbonne, Saint-Germain/Saint-Michel",
+      "latitude": 48.851267,
+      "longitude": 2.343361,
+      "role": "transit",
+      "note": "Extremo superior en superficie; no andén ni fondo de escalera.",
+      "map_pin": "https://www.google.com/maps/search/?api=1&query=48.851267%2C2.343361"
+    },
+    {
+      "id": "gobelins",
+      "label": "Salida — Les Gobelins, rue Le Brun",
+      "latitude": 48.835102,
+      "longitude": 2.353237,
+      "role": "transit",
+      "note": "Pavimento en superficie junto a la boca, antes de bajar.",
+      "map_pin": "https://www.google.com/maps/search/?api=1&query=48.835102%2C2.353237"
+    },
+    {
+      "id": "court",
+      "label": "B01 — Cour Carrée, junto a la fuente",
+      "latitude": 48.86049,
+      "longitude": 2.33868,
+      "role": "story",
+      "note": "Lado de la fuente sobre el pavimento; no borde de fuente ni interior del museo.",
+      "map_pin": "https://www.google.com/maps/search/?api=1&query=48.86049%2C2.33868"
+    },
+    {
+      "id": "upper_quai",
+      "label": "Control — rue des Prêtres-Saint-Germain-l’Auxerrois",
+      "latitude": 48.859312,
+      "longitude": 2.340997,
+      "role": "control",
+      "note": "Control del recorrido a nivel de calle; no bajada a ribera.",
+      "map_pin": "https://www.google.com/maps/search/?api=1&query=48.859312%2C2.340997"
+    },
+    {
+      "id": "eleonore",
+      "label": "B02 — rue du Pont-Neuf, tramo sur",
+      "latitude": 48.8591073,
+      "longitude": 2.3430364,
+      "role": "story",
+      "note": "Acera occidental cartografiada OSM 1162926784; fuera del acceso al parking. No tapa de rescate autenticada.",
+      "map_pin": "https://www.google.com/maps/search/?api=1&query=48.8591073%2C2.3430364"
+    },
+    {
+      "id": "louvre_metro",
+      "label": "Llegada coda — Louvre–Rivoli, Rivoli/Amiral de Coligny",
+      "latitude": 48.860762,
+      "longitude": 2.340922,
+      "role": "transit",
+      "note": "Pavimento exterior, antes de escaleras.",
+      "map_pin": "https://www.google.com/maps/search/?api=1&query=48.860762%2C2.340922"
+    },
+    {
+      "id": "pont_neuf_metro",
+      "label": "Salida coda — Pont Neuf, quai du Louvre",
+      "latitude": 48.858666,
+      "longitude": 2.342385,
+      "role": "transit",
+      "note": "Boca en superficie, nivel superior; no ribera ni escalera inferior.",
+      "map_pin": "https://www.google.com/maps/search/?api=1&query=48.858666%2C2.342385"
+    },
+    {
+      "id": "colonnade",
+      "label": "B01 V5 — colonnade, exterior place du Louvre",
+      "latitude": 48.86019,
+      "longitude": 2.34032,
+      "role": "variant_story",
+      "note": "Acera pública exterior si patio cerrado; sin atravesar puerta bloqueada.",
+      "map_pin": "https://www.google.com/maps/search/?api=1&query=48.86019%2C2.34032"
+    },
+    {
+      "id": "wc_monge",
+      "label": "WC — 75b rue Monge",
+      "latitude": 48.843136,
+      "longitude": 2.352094,
+      "role": "toilet",
+      "note": "Fila municipal: en servicio, 24 h; inventario no confirma estado en vivo.",
+      "map_pin": "https://www.google.com/maps/search/?api=1&query=48.843136%2C2.352094"
+    },
+    {
+      "id": "potdefer_west",
+      "label": "Control — Pot de Fer / Tournefort",
+      "latitude": 48.84285,
+      "longitude": 2.348196,
+      "role": "control",
+      "note": "Fija un desvío sin pasaje cubierto.",
+      "map_pin": "https://www.google.com/maps/search/?api=1&query=48.84285%2C2.348196"
+    },
+    {
+      "id": "lhomond_calvin",
+      "label": "Control — Tournefort / Lhomond / Jean Calvin",
+      "latitude": 48.841678,
+      "longitude": 2.348235,
+      "role": "control",
+      "note": "Acceso occidental a Jean Calvin, antes del tramo cubierto oriental.",
+      "map_pin": "https://www.google.com/maps/search/?api=1&query=48.841678%2C2.348235"
+    },
+    {
+      "id": "wc_calvin",
+      "label": "WC alternativo — 8 rue Jean Calvin",
+      "latitude": 48.841645,
+      "longitude": 2.348701,
+      "role": "toilet",
+      "note": "Fila municipal: en servicio, 24 h. Llegada por Tournefort/Lhomond y tramo occidental de Jean Calvin.",
+      "map_pin": "https://www.google.com/maps/search/?api=1&query=48.841645%2C2.348701"
+    },
+    {
+      "id": "wc_berger",
+      "label": "WC coda — 37 rue Berger",
+      "latitude": 48.862117,
+      "longitude": 2.343749,
+      "role": "toilet",
+      "note": "Fila municipal: en servicio, 06–22 h, junto a borde sur de Les Halles.",
+      "map_pin": "https://www.google.com/maps/search/?api=1&query=48.862117%2C2.343749"
+    },
+    {
+      "id": "buffon_corner",
+      "label": "Control — Geoffroy-Saint-Hilaire / Buffon",
+      "latitude": 48.841177,
+      "longitude": 2.355964,
+      "role": "control",
+      "note": "Esquina de calles públicas, fuera del Jardin des Plantes.",
+      "map_pin": "https://www.google.com/maps/search/?api=1&query=48.841177%2C2.355964"
+    },
+    {
+      "id": "buffon",
+      "label": "Refugio — bibliothèque Buffon, 15 bis rue Buffon",
+      "latitude": 48.842573,
+      "longitude": 2.361884,
+      "role": "refuge",
+      "note": "Entrada por rue Buffon; horario y WC/asientos publicados.",
+      "map_pin": "https://www.google.com/maps/search/?api=1&query=48.842573%2C2.361884"
+    },
+    {
+      "id": "cardinal_lemoine",
+      "label": "Escape — Cardinal Lemoine",
+      "latitude": 48.846535,
+      "longitude": 2.351915,
+      "role": "transit",
+      "note": "Pavimento junto a boca; no continuidad subterránea en GPX.",
+      "map_pin": "https://www.google.com/maps/search/?api=1&query=48.846535%2C2.351915"
+    },
+    {
+      "id": "place_monge",
+      "label": "Escape — Place Monge",
+      "latitude": 48.84304,
+      "longitude": 2.352105,
+      "role": "transit",
+      "note": "Boca en superficie junto al servicio WC.",
+      "map_pin": "https://www.google.com/maps/search/?api=1&query=48.84304%2C2.352105"
+    },
+    {
+      "id": "censier",
+      "label": "Escape — Censier-Daubenton, rue Monge",
+      "latitude": 48.840616,
+      "longitude": 2.351629,
+      "role": "transit",
+      "note": "Boca en superficie; servicio del metro se comprueba el día.",
+      "map_pin": "https://www.google.com/maps/search/?api=1&query=48.840616%2C2.351629"
+    }
+  ],
+  "fixed_runs": [
+    {
+      "id": "16_main",
+      "raw_run_name": "main",
+      "track_name": "16_nucleo_Champo_Pathe",
+      "gpx": "routes/navigation/16.gpx",
+      "distance_km": 2.555,
+      "point_ids": [
+        "champo",
+        "filmo",
+        "steps",
+        "pathe"
+      ],
+      "surface_only": true
+    },
+    {
+      "id": "16_no_steps",
+      "raw_run_name": "no_steps",
+      "track_name": "V2_sin_portal",
+      "gpx": "routes/navigation/16.variants.gpx",
+      "distance_km": 2.35,
+      "point_ids": [
+        "champo",
+        "filmo",
+        "pathe"
+      ],
+      "surface_only": true
+    },
+    {
+      "id": "16_arrival",
+      "raw_run_name": "arrival",
+      "track_name": "Llegada_Cluny_Champo",
+      "gpx": "routes/navigation/16.variants.gpx",
+      "distance_km": 0.164,
+      "point_ids": [
+        "cluny",
+        "champo"
+      ],
+      "surface_only": true
+    },
+    {
+      "id": "16_return",
+      "raw_run_name": "return",
+      "track_name": "Salida_Pathe_LesGobelins",
+      "gpx": "routes/navigation/16.variants.gpx",
+      "distance_km": 0.217,
+      "point_ids": [
+        "pathe",
+        "gobelins"
+      ],
+      "surface_only": true
+    },
+    {
+      "id": "16_coda",
+      "raw_run_name": "coda",
+      "track_name": "Coda_Belphegor_Eleonore",
+      "gpx": "routes/navigation/16.variants.gpx",
+      "distance_km": 0.505,
+      "point_ids": [
+        "court",
+        "upper_quai",
+        "eleonore"
+      ],
+      "surface_only": true
+    },
+    {
+      "id": "16_coda_arrival",
+      "raw_run_name": "coda_arrival",
+      "track_name": "Llegada_coda_LouvreRivoli",
+      "gpx": "routes/navigation/16.variants.gpx",
+      "distance_km": 0.259,
+      "point_ids": [
+        "louvre_metro",
+        "court"
+      ],
+      "surface_only": true
+    },
+    {
+      "id": "16_coda_return",
+      "raw_run_name": "coda_return",
+      "track_name": "Salida_coda_PontNeuf",
+      "gpx": "routes/navigation/16.variants.gpx",
+      "distance_km": 0.148,
+      "point_ids": [
+        "eleonore",
+        "pont_neuf_metro"
+      ],
+      "surface_only": true
+    },
+    {
+      "id": "16_coda_closed_court",
+      "raw_run_name": "coda_closed_court",
+      "track_name": "V5_coda_sin_patio",
+      "gpx": "routes/navigation/16.variants.gpx",
+      "distance_km": 0.397,
+      "point_ids": [
+        "colonnade",
+        "upper_quai",
+        "eleonore"
+      ],
+      "surface_only": true
+    },
+    {
+      "id": "16_coda_closed_arrival",
+      "raw_run_name": "coda_closed_arrival",
+      "track_name": "Llegada_V5_colonnade",
+      "gpx": "routes/navigation/16.variants.gpx",
+      "distance_km": 0.102,
+      "point_ids": [
+        "louvre_metro",
+        "colonnade"
+      ],
+      "surface_only": true
+    },
+    {
+      "id": "16_wc_calvin",
+      "raw_run_name": "wc_calvin",
+      "track_name": "WC_JeanCalvin_ida_vuelta",
+      "gpx": "routes/navigation/16.variants.gpx",
+      "distance_km": 1.245,
+      "point_ids": [
+        "wc_monge",
+        "potdefer_west",
+        "lhomond_calvin",
+        "wc_calvin",
+        "lhomond_calvin",
+        "potdefer_west",
+        "wc_monge"
+      ],
+      "surface_only": true
+    },
+    {
+      "id": "16_wc_berger",
+      "raw_run_name": "wc_berger",
+      "track_name": "WC_Berger_ida_vuelta",
+      "gpx": "routes/navigation/16.variants.gpx",
+      "distance_km": 0.756,
+      "point_ids": [
+        "louvre_metro",
+        "wc_berger",
+        "louvre_metro"
+      ],
+      "surface_only": true
+    },
+    {
+      "id": "16_refuge_buffon",
+      "raw_run_name": "refuge_buffon",
+      "track_name": "Refugio_Buffon_ida_vuelta",
+      "gpx": "routes/navigation/16.variants.gpx",
+      "distance_km": 1.936,
+      "point_ids": [
+        "wc_monge",
+        "buffon_corner",
+        "buffon",
+        "buffon_corner",
+        "wc_monge"
+      ],
+      "surface_only": true
+    },
+    {
+      "id": "16_direct_pathe",
+      "raw_run_name": "direct_pathe",
+      "track_name": "V6_Pathe_directo",
+      "gpx": "routes/navigation/16.variants.gpx",
+      "distance_km": 0.217,
+      "point_ids": [
+        "gobelins",
+        "pathe"
+      ],
+      "surface_only": true
+    },
+    {
+      "id": "16_partial_champo",
+      "raw_run_name": "partial_champo",
+      "track_name": "V4_carteleras_salida",
+      "gpx": "routes/navigation/16.variants.gpx",
+      "distance_km": 0.293,
+      "point_ids": [
+        "champo",
+        "filmo",
+        "cluny"
+      ],
+      "surface_only": true
+    },
+    {
+      "id": "16_escape_cardinal",
+      "raw_run_name": "escape_cardinal",
+      "track_name": "Escape_CardinalLemoine",
+      "gpx": "routes/navigation/16.variants.gpx",
+      "distance_km": 0.397,
+      "point_ids": [
+        "steps",
+        "cardinal_lemoine"
+      ],
+      "surface_only": true
+    },
+    {
+      "id": "16_escape_monge",
+      "raw_run_name": "escape_monge",
+      "track_name": "Escape_PlaceMonge",
+      "gpx": "routes/navigation/16.variants.gpx",
+      "distance_km": 0.022,
+      "point_ids": [
+        "wc_monge",
+        "place_monge"
+      ],
+      "surface_only": true
+    },
+    {
+      "id": "16_escape_censier",
+      "raw_run_name": "escape_censier",
+      "track_name": "Escape_CensierDaubenton",
+      "gpx": "routes/navigation/16.variants.gpx",
+      "distance_km": 0.303,
+      "point_ids": [
+        "wc_monge",
+        "censier"
+      ],
+      "surface_only": true
+    }
+  ],
+  "variants": [
+    {
+      "id": "V1",
+      "name": "Galería sin film",
+      "runs": [
+        "main",
+        "arrival",
+        "return"
+      ],
+      "conserves": "Carteleras, portal y medios materiales",
+      "loses": "Largometraje y música de sesión",
+      "finish": "pathe",
+      "cost_eur": 5,
+      "duration_minutes": [
+        150,
+        195
+      ]
+    },
+    {
+      "id": "V2",
+      "name": "Sin portal",
+      "runs": [
+        "no_steps",
+        "arrival",
+        "return"
+      ],
+      "conserves": "A01 y A03",
+      "loses": "A02, servicios Monge no están en traza",
+      "finish": "pathe",
+      "saving_minutes": [
+        10,
+        15
+      ]
+    },
+    {
+      "id": "V3",
+      "name": "Film sin galería",
+      "runs": [
+        "main",
+        "arrival",
+        "return"
+      ],
+      "conserves": "A01, A02, película admitida y conservación",
+      "loses": "Grupos de aparatos; párrafos interiores omitidos",
+      "finish": "pathe",
+      "cost_eur": 7
+    },
+    {
+      "id": "V4",
+      "name": "Pathé cerrada, reducción",
+      "runs": [
+        "partial_champo"
+      ],
+      "conserves": "A01 si cartel/programa disponible",
+      "loses": "A03 y núcleo íntegro",
+      "finish": "cluny",
+      "cost_eur": 0,
+      "duration_minutes": [
+        25,
+        40
+      ],
+      "if_already_at_pathe": "Usar return y terminar; coda sola es alternativa independiente ya entregada.",
+      "if_a01_unavailable": "Independent coda/V5 or cancellation; carteleras reduction requires accessible cartel/programme."
+    },
+    {
+      "id": "V5",
+      "name": "Coda sin patio",
+      "runs": [
+        "coda_closed_arrival",
+        "coda_closed_court",
+        "coda_return"
+      ],
+      "conserves": "B01/B02 con entrada exterior",
+      "loses": "Envoltura del patio",
+      "finish": "eleonore",
+      "surface_total_km": 0.647,
+      "cost_eur": 0
+    },
+    {
+      "id": "V6",
+      "name": "Pathé directo por lluvia/fatiga",
+      "runs": [
+        "direct_pathe",
+        "return"
+      ],
+      "conserves": "A03, galería/film realmente admitidos",
+      "loses": "Carteleras y portal",
+      "finish": "pathe",
+      "surface_total_km": 0.434,
+      "if_pathe_closed": "Terminar; no interior sustitutivo ficticio."
+    }
+  ],
+  "day_checks": [
+    {
+      "condition": "Cartel/programación disponible Champo o Filmothèque",
+      "check": "Cartel en puerta o páginas oficiales antes de iniciar",
+      "failure": "Si ambas faltan, V6 a Pathé o coda independiente; A01 no se atribuye como ejecutado."
+    },
+    {
+      "condition": "Sesión3 de noviembre, 16:30/admisión/idioma",
+      "check": "Ficha3334 y billetterie; idioma en venta/recepción antes de comprar si esencial",
+      "failure": "V1 galería €5. Sin película elegida no se programa otra por suposición."
+    },
+    {
+      "condition": "Galería: cámara, proyector y explicación legible",
+      "check": "Recepción y grupos visibles; reemplazar por función",
+      "failure": "V3 con película admitida; V4 si tampoco hay film."
+    },
+    {
+      "condition": "Puertas/calles/obras",
+      "check": "Señales y barreras reales; cruce público legible",
+      "failure": "Portal bloqueado V2; sin desvío público entre paradas, escape más próximo y V6 o terminar."
+    },
+    {
+      "condition": "Clima/fatiga",
+      "check": "Antes de salir y antes de coda",
+      "failure": "V6 directo a Pathé o salida próxima; coda omitida en lluvia fuerte/fatiga."
+    },
+    {
+      "condition": "WC/refugio",
+      "check": "Inventario sólo referencia; verificar uso real y horario Buffon",
+      "failure": "Jean Calvin, luego Buffon abierta; demora compromete film V1. Necesidad sin solución: terminar y establecimiento abierto, acceso WC no garantizado."
+    },
+    {
+      "condition": "Transporte",
+      "check": "RATP/IDFM avisos, estaciones y sentido en andén",
+      "failure": "Si traslado de coda no permite inicio antes19:00, omitir coda; no caminar transferencia larga añadida."
+    },
+    {
+      "condition": "Cour Carrée realmente abierta",
+      "check": "Puerta/avisoLouvre antes de entrar",
+      "failure": "V5 colonnade exterior; si exterior vedado, B02 solo desde calle y salida Pont Neuf."
+    }
+  ],
+  "wc_source_rows": [
+    {
+      "type": "Sanisette",
+      "statut": "En service",
+      "adresse": "75b rue monge",
+      "arrondissement": "75005",
+      "horaire": "24/24h",
+      "acces_pmr": "Oui",
+      "relais_bebe": "Non",
+      "url_fiche_equipement": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3520940005625017,
+            48.843135999716935
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3520940005625017,
+        "lat": 48.843135999716935
+      }
+    },
+    {
+      "type": "Sanisette",
+      "statut": "En service",
+      "adresse": "8 rue jean calvin",
+      "arrondissement": "75005",
+      "horaire": "24/24h",
+      "acces_pmr": "Oui",
+      "relais_bebe": "Non",
+      "url_fiche_equipement": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3487010000881967,
+            48.84164499972937
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3487010000881967,
+        "lat": 48.84164499972937
+      }
+    },
+    {
+      "type": "Sanisette",
+      "statut": "En service",
+      "adresse": "37 rue berger",
+      "arrondissement": "75001",
+      "horaire": "06h00 - 22h00",
+      "acces_pmr": "Oui",
+      "relais_bebe": "Non",
+      "url_fiche_equipement": null,
+      "geo_shape": {
+        "type": "Feature",
+        "geometry": {
+          "coordinates": [
+            2.3437489993367264,
+            48.86211700033946
+          ],
+          "type": "Point"
+        },
+        "properties": {}
+      },
+      "geo_point_2d": {
+        "lon": 2.3437489993367264,
+        "lat": 48.86211700033946
+      }
+    }
+  ],
+  "refuge": {
+    "name": "Bibliothèque Buffon",
+    "address": "15 bis rue Buffon",
+    "source_id": "buffon",
+    "published_period": [
+      "2026-09-01",
+      "2027-07-03"
+    ],
+    "hours": {
+      "Tuesday": [
+        "10:00",
+        "19:00"
+      ],
+      "Wednesday": [
+        "10:00",
+        "19:00"
+      ],
+      "Thursday": [
+        "13:00",
+        "19:00"
+      ],
+      "Friday": [
+        "13:00",
+        "19:00"
+      ],
+      "Saturday": [
+        "10:00",
+        "18:00"
+      ]
+    },
+    "closed_weekdays": [
+      "Monday",
+      "Sunday"
+    ],
+    "additional_closed_dates": [
+      "2026-11-01",
+      "2026-11-11"
+    ],
+    "wc_and_seats_published": true,
+    "free_access": true,
+    "connector_km": 1.936,
+    "extra_minutes": [
+      60,
+      75
+    ],
+    "park_crossing": false
+  },
+  "food": {
+    "required_purchase": false,
+    "primary": "Carry lunch and water",
+    "optional_shop": "Kayser 8 rue Monge before start",
+    "personal_cap_eur": 10,
+    "sandwich_price_verified": false,
+    "approach_rough_km": 0.6,
+    "approach_measured": false,
+    "failure": "Carried food; if not available resolve before start and V6/V1 for reduced time"
+  },
+  "budget": {
+    "base_experience_eur": 7,
+    "gallery_only_eur": 5,
+    "coda_exterior_eur": 0,
+    "metro_ticket_eur": 2.55,
+    "two_validations_eur": 5.1,
+    "three_validations_eur": 7.65,
+    "main_with_food_cap_two_validations_eur": 22.1,
+    "combined_with_food_cap_three_validations_eur": 24.65,
+    "transport_origin": "NOC not selected/booked; examples depend on actual origin/pass"
+  },
+  "ownership_decision": {
+    "lafayette145": "Route19 has stronger ventilation/illusion experience; removed from16,19 untouched",
+    "de_facade": "Real 2016 cinematic connection, no in-situ screening verified; does not earn16finale",
+    "grand_rex": "Not selected; obsolete long north tail removed",
+    "melies_bercy": "Research preserved in archive, not a delivered substitute route"
+  },
+  "sources": [
+    {
+      "id": "pathe_session",
+      "title": "Programme exact 3/11/2026 16:30",
+      "url": "https://www.fondation-jeromeseydoux-pathe.com/event/3334",
+      "consulted": "2026-10-05",
+      "supports_and_limits": "46 + 3 + 2 = 51 min; 4K DCP principal; admission/idioma del día no garantizados."
+    },
+    {
+      "id": "pathe_cycle",
+      "title": "Cycle 21/10–10/11/2026",
+      "url": "https://www.fondation-jeromeseydoux-pathe.com/event/3344",
+      "consulted": "2026-10-05",
+      "supports_and_limits": "Año y recuperación noruega 2014 según operador."
+    },
+    {
+      "id": "pathe_access",
+      "title": "Pathé informations pratiques",
+      "url": "https://www.fondation-jeromeseydoux-pathe.com/cms/infos-pratique",
+      "consulted": "2026-10-05",
+      "supports_and_limits": "Horario, €7 / €5, venta y maletas; no reserva por email/teléfono."
+    },
+    {
+      "id": "pathe_gallery",
+      "title": "Galerie des appareils",
+      "url": "https://www.fondation-jeromeseydoux-pathe.com/cms/galerie_appareil",
+      "consulted": "2026-10-05",
+      "supports_and_limits": "Cámara/proyector, modelos y films didácticos; objetos del día con sustitución por función."
+    },
+    {
+      "id": "pathe_building",
+      "title": "Fondation et bâtiment",
+      "url": "https://www.fondation-jeromeseydoux-pathe.com/cms/fondation",
+      "consulted": "2026-10-05",
+      "supports_and_limits": "Rodin, Renzo Piano y separación plantas privadas; práctica de piano general."
+    },
+    {
+      "id": "champo",
+      "title": "Histoire du Champo",
+      "url": "https://www.cinema-lechampo.com/le-champo",
+      "consulted": "2026-10-05",
+      "supports_and_limits": "1938, Joly, periscopio, retirada 2012; no demostración actual."
+    },
+    {
+      "id": "champo_rates",
+      "title": "Tarifs du Champo",
+      "url": "https://www.cinema-lechampo.com/tarifs-et-infos/tarifs.html",
+      "consulted": "2026-10-05",
+      "supports_and_limits": "€11.50 general; sesión extra excluida de plan/coste."
+    },
+    {
+      "id": "champo_heritage",
+      "title": "Ministère de la Culture, PA75050004",
+      "url": "https://pop.culture.gouv.fr/notice/merimee/PA75050004",
+      "consulted": "2026-10-05",
+      "supports_and_limits": "Inscrit, no classé, 2000."
+    },
+    {
+      "id": "filmotheque",
+      "title": "Filmothèque, le cinéma",
+      "url": "https://lafilmotheque.fr/le-cinema/",
+      "consulted": "2026-10-05",
+      "supports_and_limits": "Programación de repertorio y reediciones; sin títulos de noviembre inventados."
+    },
+    {
+      "id": "steps",
+      "title": "Mission Cinéma, parcours municipal 13, p.5",
+      "url": "https://cdn.paris.fr/paris/2019/07/24/d3044a4ea25d868f94b5ed9565de93ad.pdf",
+      "consulted": "2026-10-05",
+      "supports_and_limits": "Portal norte en place Abbé-Basset; no horarios heredados del PDF."
+    },
+    {
+      "id": "louvre",
+      "title": "Louvre hours and admission",
+      "url": "https://www.louvre.fr/en/visit/hours-admission",
+      "consulted": "2026-10-05",
+      "supports_and_limits": "Cour Carrée 7:30–19:45; no museo ni horario OSM22:00."
+    },
+    {
+      "id": "belphegor",
+      "title": "INA, feuilleton Belphégor 1965",
+      "url": "https://www.ina.fr/ina-eclaire-actu/1965-belphegor-un-feuilleton-a-succes-avant-l-heure-du-replay",
+      "consulted": "2026-10-05",
+      "supports_and_limits": "Ficción televisiva, cuatro episodios desde 6/3/1965; testimonio público de 4/4."
+    },
+    {
+      "id": "eleonore",
+      "title": "Ville de Paris, crocodile dans les égouts en 1984",
+      "url": "https://www.paris.fr/pages/un-crocodile-a-vecu-dans-les-egouts-de-paris-en-1984-19564",
+      "consulted": "2026-10-05",
+      "supports_and_limits": "7/3/1984, rue du Pont-Neuf; 80cm, Nil, hembra; cálculo veterinario atribuido y origen sin resolver."
+    },
+    {
+      "id": "lafayette",
+      "title": "RATP, faux bâtiments de ventilation",
+      "url": "https://askip.ratpgroup.com/question/jai-entendu-quil-y-avait-de-faux-batiments-dedies-a-la-ventilation-dans-paris-a-quoi-servent-ils-concretement-et-ou-se-trouvent-ils/",
+      "consulted": "2026-10-05",
+      "supports_and_limits": "Fuente 28/8/2025; decisión de propiedad a 19 sin modificar 19."
+    },
+    {
+      "id": "de_facade",
+      "title": "Le Fresnoy, De façade, Paul Heintz, 2016",
+      "url": "https://www.lefresnoy.net/exposition/657/oeuvre/692/",
+      "consulted": "2026-10-05",
+      "supports_and_limits": "Conexión cinematográfica real; no pase in situ confirmado para viaje."
+    },
+    {
+      "id": "wc",
+      "title": "Ville de Paris, sanisettesparis",
+      "url": "https://opendata.paris.fr/explore/dataset/sanisettesparis/",
+      "consulted": "2026-10-05",
+      "supports_and_limits": "Inventario y horario, no inspección en vivo."
+    },
+    {
+      "id": "buffon",
+      "title": "Bibliothèque Buffon, calendario fechado",
+      "url": "https://www.paris.fr/lieux/bibliotheque-buffon-1682",
+      "consulted": "2026-10-05",
+      "supports_and_limits": "1/9/2026–3/7/2027; WC/asientos; cierres 1 y 11 de noviembre."
+    },
+    {
+      "id": "library_access",
+      "title": "Règlement bibliothèques, article1",
+      "url": "https://bibliotheques.paris.fr/reglement.aspx",
+      "consulted": "2026-10-05",
+      "supports_and_limits": "Acceso libre biblioteca de préstamo."
+    },
+    {
+      "id": "food",
+      "title": "Kayser 8 Monge",
+      "url": "https://maison-kayser.com/boulangerie/8-monge/",
+      "consulted": "2026-10-05",
+      "supports_and_limits": "Sándwich/horario diario; sin precio certificado."
+    },
+    {
+      "id": "ticket",
+      "title": "IDFM Ticket Métro-Train-RER",
+      "url": "https://www.iledefrance-mobilites.fr/titres-et-tarifs/detail/ticket-metro-train-rer",
+      "consulted": "2026-10-05",
+      "supports_and_limits": "€2.55, tarifa 2026, fuera aeropuerto; no bus/tram."
+    },
+    {
+      "id": "metro7",
+      "title": "RATP ligne7",
+      "url": "https://www.ratp.fr/plans-lignes/metro/7",
+      "consulted": "2026-10-05",
+      "supports_and_limits": "Gobelins/Châtelet y sentido La Courneuve; servicio del día no certificado."
+    },
+    {
+      "id": "metro1",
+      "title": "RATP ligne1",
+      "url": "https://www.ratp.fr/plans-lignes/metro/1",
+      "consulted": "2026-10-05",
+      "supports_and_limits": "Transbordo Châtelet/Louvre–Rivoli hacia La Défense."
+    },
+    {
+      "id": "router",
+      "title": "Valhalla API",
+      "url": "https://valhalla.github.io/valhalla/api/route/api-reference/",
+      "consulted": "2026-10-05",
+      "supports_and_limits": "Parámetros de break, polilínea6 y opciones; one-way sólo WC_JeanCalvin."
+    }
+  ],
+  "closure": {
+    "criteria": "routes/DEFINITION_OF_DONE.md",
+    "agent_controlled_work_complete": true,
+    "day_conditions_have_responses": true,
+    "external_review_required_before_done": false,
+    "route02_reopened_or_modified": false
+  },
+  "delivery_verification": {
+    "checked_date": "2026-10-05",
+    "route_version": "16-v10-20261005",
+    "result": "PASS",
+    "protected_files_unchanged": 13,
+    "protected_manifest_records_unchanged": [
+      "02",
+      "21",
+      "22"
+    ],
+    "protected_geojson_features_unchanged": 30,
+    "exact_preclosure_archive_sha256": "b69716dabf3f92f57cc4219bc558fa4cbbb80b175769c3eb18d404155d5b2192",
+    "fixed_tracks": 17,
+    "independent_variant_tracks": 16,
+    "checked_local_links": 100,
+    "core_script_words": {
+      "A01": 569,
+      "A03": 691,
+      "B01": 585,
+      "B02": 528
+    },
+    "max_observation_endpoint_shift_m": 10.1,
+    "max_consecutive_vertex_distance_m": 150.7,
+    "runs": [
+      {
+        "name": "main",
+        "track_name": "16_nucleo_Champo_Pathe",
+        "distance_km": 2.555,
+        "geometry_approx_km": 2.5539,
+        "max_observation_endpoint_shift_m": 3.8,
+        "max_consecutive_vertex_distance_m": 92.0,
+        "legs": 3
+      },
+      {
+        "name": "no_steps",
+        "track_name": "V2_sin_portal",
+        "distance_km": 2.35,
+        "geometry_approx_km": 2.3478,
+        "max_observation_endpoint_shift_m": 3.8,
+        "max_consecutive_vertex_distance_m": 150.7,
+        "legs": 2
+      },
+      {
+        "name": "arrival",
+        "track_name": "Llegada_Cluny_Champo",
+        "distance_km": 0.164,
+        "geometry_approx_km": 0.1622,
+        "max_observation_endpoint_shift_m": 3.8,
+        "max_consecutive_vertex_distance_m": 70.5,
+        "legs": 1
+      },
+      {
+        "name": "return",
+        "track_name": "Salida_Pathe_LesGobelins",
+        "distance_km": 0.217,
+        "geometry_approx_km": 0.2178,
+        "max_observation_endpoint_shift_m": 3.2,
+        "max_consecutive_vertex_distance_m": 92.0,
+        "legs": 1
+      },
+      {
+        "name": "coda",
+        "track_name": "Coda_Belphegor_Eleonore",
+        "distance_km": 0.505,
+        "geometry_approx_km": 0.5096,
+        "max_observation_endpoint_shift_m": 10.1,
+        "max_consecutive_vertex_distance_m": 56.3,
+        "legs": 2
+      },
+      {
+        "name": "coda_arrival",
+        "track_name": "Llegada_coda_LouvreRivoli",
+        "distance_km": 0.259,
+        "geometry_approx_km": 0.2586,
+        "max_observation_endpoint_shift_m": 3.8,
+        "max_consecutive_vertex_distance_m": 106.6,
+        "legs": 1
+      },
+      {
+        "name": "coda_return",
+        "track_name": "Salida_coda_PontNeuf",
+        "distance_km": 0.148,
+        "geometry_approx_km": 0.1492,
+        "max_observation_endpoint_shift_m": 10.1,
+        "max_consecutive_vertex_distance_m": 54.8,
+        "legs": 1
+      },
+      {
+        "name": "coda_closed_court",
+        "track_name": "V5_coda_sin_patio",
+        "distance_km": 0.397,
+        "geometry_approx_km": 0.4014,
+        "max_observation_endpoint_shift_m": 10.1,
+        "max_consecutive_vertex_distance_m": 56.3,
+        "legs": 2
+      },
+      {
+        "name": "coda_closed_arrival",
+        "track_name": "Llegada_V5_colonnade",
+        "distance_km": 0.102,
+        "geometry_approx_km": 0.1017,
+        "max_observation_endpoint_shift_m": 2.7,
+        "max_consecutive_vertex_distance_m": 67.8,
+        "legs": 1
+      },
+      {
+        "name": "wc_calvin",
+        "track_name": "WC_JeanCalvin_ida_vuelta",
+        "distance_km": 1.245,
+        "geometry_approx_km": 1.2483,
+        "max_observation_endpoint_shift_m": 4.5,
+        "max_consecutive_vertex_distance_m": 120.4,
+        "legs": 6
+      },
+      {
+        "name": "wc_berger",
+        "track_name": "WC_Berger_ida_vuelta",
+        "distance_km": 0.756,
+        "geometry_approx_km": 0.7513,
+        "max_observation_endpoint_shift_m": 3.0,
+        "max_consecutive_vertex_distance_m": 68.1,
+        "legs": 2
+      },
+      {
+        "name": "refuge_buffon",
+        "track_name": "Refugio_Buffon_ida_vuelta",
+        "distance_km": 1.936,
+        "geometry_approx_km": 1.934,
+        "max_observation_endpoint_shift_m": 4.5,
+        "max_consecutive_vertex_distance_m": 145.6,
+        "legs": 4
+      },
+      {
+        "name": "direct_pathe",
+        "track_name": "V6_Pathe_directo",
+        "distance_km": 0.217,
+        "geometry_approx_km": 0.2178,
+        "max_observation_endpoint_shift_m": 3.2,
+        "max_consecutive_vertex_distance_m": 92.0,
+        "legs": 1
+      },
+      {
+        "name": "partial_champo",
+        "track_name": "V4_carteleras_salida",
+        "distance_km": 0.293,
+        "geometry_approx_km": 0.292,
+        "max_observation_endpoint_shift_m": 3.8,
+        "max_consecutive_vertex_distance_m": 70.5,
+        "legs": 2
+      },
+      {
+        "name": "escape_cardinal",
+        "track_name": "Escape_CardinalLemoine",
+        "distance_km": 0.397,
+        "geometry_approx_km": 0.3958,
+        "max_observation_endpoint_shift_m": 3.0,
+        "max_consecutive_vertex_distance_m": 94.8,
+        "legs": 1
+      },
+      {
+        "name": "escape_monge",
+        "track_name": "Escape_PlaceMonge",
+        "distance_km": 0.022,
+        "geometry_approx_km": 0.0228,
+        "max_observation_endpoint_shift_m": 6.6,
+        "max_consecutive_vertex_distance_m": 15.9,
+        "legs": 1
+      },
+      {
+        "name": "escape_censier",
+        "track_name": "Escape_CensierDaubenton",
+        "distance_km": 0.303,
+        "geometry_approx_km": 0.3055,
+        "max_observation_endpoint_shift_m": 4.5,
+        "max_consecutive_vertex_distance_m": 57.4,
+        "legs": 1
+      }
+    ],
+    "map_review": "Reviewed by Cruce against OSM: façade/front/north portal, surface metro endpoints, patio north approach/east exit, upper public streets, outside park and away from covered passages/parking ramps. Not field survey or external model review."
+  }
+}

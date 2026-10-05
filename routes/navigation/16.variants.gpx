@@ -1,0 +1,944 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Cruce — 16-v10-20261005">
+  <metadata>
+    <name>Ruta 16 — 16-v10-20261005</name>
+    <desc>Cartografía OSM/Valhalla, 5 octubre 2026. No inspección presencial. Tracks independientes; elegir los aplicables. © OpenStreetMap contributors, ODbL.</desc>
+  </metadata>
+  <wpt lat="48.85001" lon="2.343145">
+    <name>C01 — Champo, esquina Écoles/Champollion</name>
+    <desc>Acera ante 51 rue des Écoles; no entrar en la sala.</desc>
+  </wpt>
+  <wpt lat="48.84951" lon="2.342795">
+    <name>C01b — Filmothèque, 9 rue Champollion</name>
+    <desc>Comparación dentro de A01; no nueva biografía.</desc>
+  </wpt>
+  <wpt lat="48.83339" lon="2.354433">
+    <name>C03 — Pathé, 73 avenue des Gobelins</name>
+    <desc>Acceso por avenue des Gobelins; no entrada de investigadores o Pathé Les Fauvettes.</desc>
+  </wpt>
+  <wpt lat="48.851267" lon="2.343361">
+    <name>Llegada — Cluny–La Sorbonne, Saint-Germain/Saint-Michel</name>
+    <desc>Extremo superior en superficie; no andén ni fondo de escalera.</desc>
+  </wpt>
+  <wpt lat="48.835102" lon="2.353237">
+    <name>Salida — Les Gobelins, rue Le Brun</name>
+    <desc>Pavimento en superficie junto a la boca, antes de bajar.</desc>
+  </wpt>
+  <wpt lat="48.86049" lon="2.33868">
+    <name>B01 — Cour Carrée, junto a la fuente</name>
+    <desc>Lado de la fuente sobre el pavimento; no borde de fuente ni interior del museo.</desc>
+  </wpt>
+  <wpt lat="48.859312" lon="2.340997">
+    <name>Control — rue des Prêtres-Saint-Germain-l’Auxerrois</name>
+    <desc>Control del recorrido a nivel de calle; no bajada a ribera.</desc>
+  </wpt>
+  <wpt lat="48.8591073" lon="2.3430364">
+    <name>B02 — rue du Pont-Neuf, tramo sur</name>
+    <desc>Acera occidental cartografiada OSM 1162926784; fuera del acceso al parking. No manhole autenticado.</desc>
+  </wpt>
+  <wpt lat="48.860762" lon="2.340922">
+    <name>Llegada coda — Louvre–Rivoli, Rivoli/Amiral de Coligny</name>
+    <desc>Pavimento exterior, antes de escaleras.</desc>
+  </wpt>
+  <wpt lat="48.858666" lon="2.342385">
+    <name>Salida coda — Pont Neuf, quai du Louvre</name>
+    <desc>Boca en superficie, nivel superior; no riverbank ni escalera inferior.</desc>
+  </wpt>
+  <wpt lat="48.86019" lon="2.34032">
+    <name>B01 V5 — colonnade, exterior place du Louvre</name>
+    <desc>Acera pública exterior si patio cerrado; sin atravesar puerta bloqueada.</desc>
+  </wpt>
+  <wpt lat="48.843136" lon="2.352094">
+    <name>WC — 75b rue Monge</name>
+    <desc>Fila municipal: en servicio, 24 h; inventario no confirma estado en vivo.</desc>
+  </wpt>
+  <wpt lat="48.84285" lon="2.348196">
+    <name>Control — Pot de Fer / Tournefort</name>
+    <desc>Fija un desvío sin pasaje cubierto.</desc>
+  </wpt>
+  <wpt lat="48.841678" lon="2.348235">
+    <name>Control — Tournefort / Lhomond / Jean Calvin</name>
+    <desc>Acceso occidental a Jean Calvin, antes del tramo cubierto oriental.</desc>
+  </wpt>
+  <wpt lat="48.841645" lon="2.348701">
+    <name>WC alternativo — 8 rue Jean Calvin</name>
+    <desc>Fila municipal: en servicio, 24 h. Llegada por Tournefort/Lhomond y tramo occidental de Jean Calvin.</desc>
+  </wpt>
+  <wpt lat="48.862117" lon="2.343749">
+    <name>WC coda — 37 rue Berger</name>
+    <desc>Fila municipal: en servicio, 06–22 h, junto a borde sur de Les Halles.</desc>
+  </wpt>
+  <wpt lat="48.841177" lon="2.355964">
+    <name>Control — Geoffroy-Saint-Hilaire / Buffon</name>
+    <desc>Esquina de calles públicas, fuera del Jardin des Plantes.</desc>
+  </wpt>
+  <wpt lat="48.842573" lon="2.361884">
+    <name>Refugio — bibliothèque Buffon, 15 bis rue Buffon</name>
+    <desc>Entrada por rue Buffon; horario y WC/asientos publicados.</desc>
+  </wpt>
+  <wpt lat="48.846777" lon="2.347878">
+    <name>C02 — Portal norte, place de l’Abbé-Basset</name>
+    <desc>Observación desde plaza; no portal principal del Panthéon, umbral o escalera.</desc>
+  </wpt>
+  <wpt lat="48.846535" lon="2.351915">
+    <name>Escape — Cardinal Lemoine</name>
+    <desc>Pavimento junto a boca; no continuidad subterránea en GPX.</desc>
+  </wpt>
+  <wpt lat="48.84304" lon="2.352105">
+    <name>Escape — Place Monge</name>
+    <desc>Boca en superficie junto al servicio WC.</desc>
+  </wpt>
+  <wpt lat="48.840616" lon="2.351629">
+    <name>Escape — Censier-Daubenton, rue Monge</name>
+    <desc>Boca en superficie; servicio del metro se comprueba el día.</desc>
+  </wpt>
+  <trk>
+    <name>V2_sin_portal</name>
+    <desc>2.350 km de red; referencia en 16.evidence.json: no_steps. Superficie; interiores y transporte no medidos.</desc>
+    <trkseg>
+      <trkpt lat="48.850043" lon="2.343134" />
+      <trkpt lat="48.850028" lon="2.343103" />
+      <trkpt lat="48.849882" lon="2.343018" />
+      <trkpt lat="48.849730" lon="2.342895" />
+      <trkpt lat="48.849515" lon="2.342774" />
+      <trkpt lat="48.849259" lon="2.342630" />
+      <trkpt lat="48.848804" lon="2.342371" />
+      <trkpt lat="48.848779" lon="2.342359" />
+      <trkpt lat="48.848666" lon="2.342838" />
+      <trkpt lat="48.848627" lon="2.342824" />
+      <trkpt lat="48.848614" lon="2.342816" />
+      <trkpt lat="48.848567" lon="2.342791" />
+      <trkpt lat="48.848483" lon="2.342747" />
+      <trkpt lat="48.848453" lon="2.342753" />
+      <trkpt lat="48.848420" lon="2.342735" />
+      <trkpt lat="48.848396" lon="2.342721" />
+      <trkpt lat="48.848393" lon="2.342733" />
+      <trkpt lat="48.848388" lon="2.342755" />
+      <trkpt lat="48.848383" lon="2.342777" />
+      <trkpt lat="48.848377" lon="2.342798" />
+      <trkpt lat="48.848333" lon="2.342785" />
+      <trkpt lat="48.848207" lon="2.342718" />
+      <trkpt lat="48.848177" lon="2.342707" />
+      <trkpt lat="48.847929" lon="2.342562" />
+      <trkpt lat="48.847840" lon="2.342510" />
+      <trkpt lat="48.847819" lon="2.342525" />
+      <trkpt lat="48.847813" lon="2.342519" />
+      <trkpt lat="48.847791" lon="2.342502" />
+      <trkpt lat="48.847760" lon="2.342476" />
+      <trkpt lat="48.847753" lon="2.342470" />
+      <trkpt lat="48.847753" lon="2.342438" />
+      <trkpt lat="48.847234" lon="2.342103" />
+      <trkpt lat="48.847177" lon="2.342071" />
+      <trkpt lat="48.847168" lon="2.342081" />
+      <trkpt lat="48.847149" lon="2.342071" />
+      <trkpt lat="48.847081" lon="2.342030" />
+      <trkpt lat="48.847027" lon="2.341998" />
+      <trkpt lat="48.847000" lon="2.341981" />
+      <trkpt lat="48.847008" lon="2.341955" />
+      <trkpt lat="48.846951" lon="2.341913" />
+      <trkpt lat="48.846699" lon="2.341712" />
+      <trkpt lat="48.846673" lon="2.341709" />
+      <trkpt lat="48.846668" lon="2.341704" />
+      <trkpt lat="48.846637" lon="2.341680" />
+      <trkpt lat="48.846594" lon="2.341647" />
+      <trkpt lat="48.846583" lon="2.341639" />
+      <trkpt lat="48.846558" lon="2.341604" />
+      <trkpt lat="48.846133" lon="2.341268" />
+      <trkpt lat="48.846112" lon="2.341259" />
+      <trkpt lat="48.845990" lon="2.341320" />
+      <trkpt lat="48.845980" lon="2.341343" />
+      <trkpt lat="48.845961" lon="2.341348" />
+      <trkpt lat="48.845934" lon="2.341356" />
+      <trkpt lat="48.845882" lon="2.341371" />
+      <trkpt lat="48.845861" lon="2.341380" />
+      <trkpt lat="48.844577" lon="2.342031" />
+      <trkpt lat="48.844517" lon="2.342087" />
+      <trkpt lat="48.844490" lon="2.342117" />
+      <trkpt lat="48.844470" lon="2.342140" />
+      <trkpt lat="48.844462" lon="2.342145" />
+      <trkpt lat="48.844439" lon="2.342173" />
+      <trkpt lat="48.844353" lon="2.342158" />
+      <trkpt lat="48.844282" lon="2.342172" />
+      <trkpt lat="48.844159" lon="2.342241" />
+      <trkpt lat="48.843860" lon="2.342377" />
+      <trkpt lat="48.843303" lon="2.342660" />
+      <trkpt lat="48.842654" lon="2.342978" />
+      <trkpt lat="48.842614" lon="2.343021" />
+      <trkpt lat="48.842583" lon="2.343039" />
+      <trkpt lat="48.842562" lon="2.343048" />
+      <trkpt lat="48.842547" lon="2.343053" />
+      <trkpt lat="48.842540" lon="2.343055" />
+      <trkpt lat="48.842509" lon="2.343056" />
+      <trkpt lat="48.842165" lon="2.343251" />
+      <trkpt lat="48.841973" lon="2.343336" />
+      <trkpt lat="48.841724" lon="2.343449" />
+      <trkpt lat="48.841430" lon="2.343606" />
+      <trkpt lat="48.841411" lon="2.343670" />
+      <trkpt lat="48.841402" lon="2.343707" />
+      <trkpt lat="48.841397" lon="2.343730" />
+      <trkpt lat="48.841391" lon="2.343754" />
+      <trkpt lat="48.841382" lon="2.343790" />
+      <trkpt lat="48.841305" lon="2.343749" />
+      <trkpt lat="48.841277" lon="2.343748" />
+      <trkpt lat="48.841264" lon="2.343740" />
+      <trkpt lat="48.841254" lon="2.343732" />
+      <trkpt lat="48.841198" lon="2.343682" />
+      <trkpt lat="48.841162" lon="2.343650" />
+      <trkpt lat="48.841155" lon="2.343644" />
+      <trkpt lat="48.841147" lon="2.343637" />
+      <trkpt lat="48.840595" lon="2.345026" />
+      <trkpt lat="48.840350" lon="2.345644" />
+      <trkpt lat="48.840271" lon="2.345843" />
+      <trkpt lat="48.840221" lon="2.345906" />
+      <trkpt lat="48.840213" lon="2.345927" />
+      <trkpt lat="48.840187" lon="2.345986" />
+      <trkpt lat="48.840163" lon="2.346044" />
+      <trkpt lat="48.840155" lon="2.346061" />
+      <trkpt lat="48.840175" lon="2.346087" />
+      <trkpt lat="48.839815" lon="2.347003" />
+      <trkpt lat="48.839779" lon="2.347052" />
+      <trkpt lat="48.839769" lon="2.347078" />
+      <trkpt lat="48.839753" lon="2.347118" />
+      <trkpt lat="48.839745" lon="2.347135" />
+      <trkpt lat="48.839733" lon="2.347169" />
+      <trkpt lat="48.839725" lon="2.347230" />
+      <trkpt lat="48.839684" lon="2.347331" />
+      <trkpt lat="48.839008" lon="2.349051" />
+      <trkpt lat="48.839014" lon="2.349072" />
+      <trkpt lat="48.839019" lon="2.349081" />
+      <trkpt lat="48.839048" lon="2.349138" />
+      <trkpt lat="48.839016" lon="2.349216" />
+      <trkpt lat="48.838978" lon="2.349319" />
+      <trkpt lat="48.838948" lon="2.349395" />
+      <trkpt lat="48.838804" lon="2.349801" />
+      <trkpt lat="48.838765" lon="2.349896" />
+      <trkpt lat="48.838740" lon="2.349956" />
+      <trkpt lat="48.838657" lon="2.350157" />
+      <trkpt lat="48.838619" lon="2.350240" />
+      <trkpt lat="48.838548" lon="2.350395" />
+      <trkpt lat="48.838434" lon="2.350648" />
+      <trkpt lat="48.838369" lon="2.350709" />
+      <trkpt lat="48.838018" lon="2.351017" />
+      <trkpt lat="48.837961" lon="2.351057" />
+      <trkpt lat="48.837859" lon="2.351121" />
+      <trkpt lat="48.837707" lon="2.351219" />
+      <trkpt lat="48.837644" lon="2.351262" />
+      <trkpt lat="48.837292" lon="2.351502" />
+      <trkpt lat="48.837267" lon="2.351519" />
+      <trkpt lat="48.836963" lon="2.351744" />
+      <trkpt lat="48.836787" lon="2.351849" />
+      <trkpt lat="48.836670" lon="2.351932" />
+      <trkpt lat="48.836632" lon="2.351958" />
+      <trkpt lat="48.836604" lon="2.351978" />
+      <trkpt lat="48.836275" lon="2.352204" />
+      <trkpt lat="48.836250" lon="2.352222" />
+      <trkpt lat="48.836223" lon="2.352241" />
+      <trkpt lat="48.835975" lon="2.352422" />
+      <trkpt lat="48.835937" lon="2.352450" />
+      <trkpt lat="48.835843" lon="2.352517" />
+      <trkpt lat="48.835774" lon="2.352566" />
+      <trkpt lat="48.835465" lon="2.352781" />
+      <trkpt lat="48.835260" lon="2.352925" />
+      <trkpt lat="48.835063" lon="2.353060" />
+      <trkpt lat="48.835032" lon="2.353082" />
+      <trkpt lat="48.834874" lon="2.353191" />
+      <trkpt lat="48.834771" lon="2.353263" />
+      <trkpt lat="48.834659" lon="2.353341" />
+      <trkpt lat="48.834497" lon="2.353457" />
+      <trkpt lat="48.834472" lon="2.353474" />
+      <trkpt lat="48.834491" lon="2.353563" />
+      <trkpt lat="48.834514" lon="2.353621" />
+      <trkpt lat="48.834464" lon="2.353665" />
+      <trkpt lat="48.834442" lon="2.353656" />
+      <trkpt lat="48.834411" lon="2.353680" />
+      <trkpt lat="48.834378" lon="2.353706" />
+      <trkpt lat="48.834372" lon="2.353734" />
+      <trkpt lat="48.834307" lon="2.353756" />
+      <trkpt lat="48.833556" lon="2.354280" />
+      <trkpt lat="48.833512" lon="2.354298" />
+      <trkpt lat="48.833501" lon="2.354307" />
+      <trkpt lat="48.833471" lon="2.354328" />
+      <trkpt lat="48.833447" lon="2.354345" />
+      <trkpt lat="48.833421" lon="2.354363" />
+      <trkpt lat="48.833378" lon="2.354393" />
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Llegada_Cluny_Champo</name>
+    <desc>0.164 km de red; referencia en 16.evidence.json: arrival. Superficie; interiores y transporte no medidos.</desc>
+    <trkseg>
+      <trkpt lat="48.851250" lon="2.343368" />
+      <trkpt lat="48.851254" lon="2.343351" />
+      <trkpt lat="48.851238" lon="2.343303" />
+      <trkpt lat="48.851234" lon="2.343286" />
+      <trkpt lat="48.851224" lon="2.343247" />
+      <trkpt lat="48.850617" lon="2.342973" />
+      <trkpt lat="48.850602" lon="2.342965" />
+      <trkpt lat="48.850569" lon="2.342950" />
+      <trkpt lat="48.850537" lon="2.342935" />
+      <trkpt lat="48.850523" lon="2.342929" />
+      <trkpt lat="48.850377" lon="2.342832" />
+      <trkpt lat="48.850323" lon="2.342842" />
+      <trkpt lat="48.850302" lon="2.342838" />
+      <trkpt lat="48.850244" lon="2.342807" />
+      <trkpt lat="48.850193" lon="2.342779" />
+      <trkpt lat="48.850180" lon="2.342773" />
+      <trkpt lat="48.850080" lon="2.343035" />
+      <trkpt lat="48.850078" lon="2.343041" />
+      <trkpt lat="48.850066" lon="2.343073" />
+      <trkpt lat="48.850049" lon="2.343119" />
+      <trkpt lat="48.850043" lon="2.343134" />
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Salida_Pathe_LesGobelins</name>
+    <desc>0.217 km de red; referencia en 16.evidence.json: return. Superficie; interiores y transporte no medidos.</desc>
+    <trkseg>
+      <trkpt lat="48.833378" lon="2.354393" />
+      <trkpt lat="48.833421" lon="2.354363" />
+      <trkpt lat="48.833447" lon="2.354345" />
+      <trkpt lat="48.833471" lon="2.354328" />
+      <trkpt lat="48.833501" lon="2.354307" />
+      <trkpt lat="48.833512" lon="2.354298" />
+      <trkpt lat="48.833556" lon="2.354280" />
+      <trkpt lat="48.834307" lon="2.353756" />
+      <trkpt lat="48.834372" lon="2.353734" />
+      <trkpt lat="48.834378" lon="2.353706" />
+      <trkpt lat="48.834411" lon="2.353680" />
+      <trkpt lat="48.834442" lon="2.353656" />
+      <trkpt lat="48.834464" lon="2.353665" />
+      <trkpt lat="48.834514" lon="2.353621" />
+      <trkpt lat="48.834878" lon="2.353366" />
+      <trkpt lat="48.834889" lon="2.353341" />
+      <trkpt lat="48.834943" lon="2.353304" />
+      <trkpt lat="48.835025" lon="2.353250" />
+      <trkpt lat="48.835082" lon="2.353308" />
+      <trkpt lat="48.835093" lon="2.353287" />
+      <trkpt lat="48.835075" lon="2.353228" />
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Coda_Belphegor_Eleonore</name>
+    <desc>0.505 km de red; referencia en 16.evidence.json: coda. Superficie; interiores y transporte no medidos.</desc>
+    <trkseg>
+      <trkpt lat="48.860475" lon="2.338634" />
+      <trkpt lat="48.860323" lon="2.338749" />
+      <trkpt lat="48.860193" lon="2.339317" />
+      <trkpt lat="48.860124" lon="2.339628" />
+      <trkpt lat="48.859994" lon="2.340205" />
+      <trkpt lat="48.859952" lon="2.340225" />
+      <trkpt lat="48.859927" lon="2.340336" />
+      <trkpt lat="48.859903" lon="2.340443" />
+      <trkpt lat="48.859896" lon="2.340466" />
+      <trkpt lat="48.859887" lon="2.340494" />
+      <trkpt lat="48.859884" lon="2.340507" />
+      <trkpt lat="48.859594" lon="2.340345" />
+      <trkpt lat="48.859516" lon="2.340304" />
+      <trkpt lat="48.859497" lon="2.340294" />
+      <trkpt lat="48.859468" lon="2.340280" />
+      <trkpt lat="48.859444" lon="2.340268" />
+      <trkpt lat="48.859436" lon="2.340263" />
+      <trkpt lat="48.859431" lon="2.340285" />
+      <trkpt lat="48.859314" lon="2.340807" />
+      <trkpt lat="48.859283" lon="2.340975" />
+      <trkpt lat="48.859282" lon="2.340979" />
+      <trkpt lat="48.859306" lon="2.340994" />
+      <trkpt lat="48.859139" lon="2.341717" />
+      <trkpt lat="48.859145" lon="2.341810" />
+      <trkpt lat="48.858763" lon="2.341646" />
+      <trkpt lat="48.858760" lon="2.341695" />
+      <trkpt lat="48.858772" lon="2.341919" />
+      <trkpt lat="48.858718" lon="2.342173" />
+      <trkpt lat="48.858673" lon="2.342417" />
+      <trkpt lat="48.858646" lon="2.342442" />
+      <trkpt lat="48.858629" lon="2.342494" />
+      <trkpt lat="48.859080" lon="2.342841" />
+      <trkpt lat="48.859030" lon="2.342965" />
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Llegada_coda_LouvreRivoli</name>
+    <desc>0.259 km de red; referencia en 16.evidence.json: coda_arrival. Superficie; interiores y transporte no medidos.</desc>
+    <trkseg>
+      <trkpt lat="48.860781" lon="2.340900" />
+      <trkpt lat="48.860818" lon="2.340777" />
+      <trkpt lat="48.860848" lon="2.340677" />
+      <trkpt lat="48.860858" lon="2.340601" />
+      <trkpt lat="48.860885" lon="2.340584" />
+      <trkpt lat="48.860900" lon="2.340565" />
+      <trkpt lat="48.860913" lon="2.340548" />
+      <trkpt lat="48.860930" lon="2.340509" />
+      <trkpt lat="48.861347" lon="2.339199" />
+      <trkpt lat="48.861362" lon="2.339151" />
+      <trkpt lat="48.861386" lon="2.339077" />
+      <trkpt lat="48.861080" lon="2.338919" />
+      <trkpt lat="48.860877" lon="2.338816" />
+      <trkpt lat="48.860867" lon="2.338810" />
+      <trkpt lat="48.860510" lon="2.338608" />
+      <trkpt lat="48.860475" lon="2.338634" />
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Salida_coda_PontNeuf</name>
+    <desc>0.148 km de red; referencia en 16.evidence.json: coda_return. Superficie; interiores y transporte no medidos.</desc>
+    <trkseg>
+      <trkpt lat="48.859030" lon="2.342965" />
+      <trkpt lat="48.858981" lon="2.343088" />
+      <trkpt lat="48.858965" lon="2.343133" />
+      <trkpt lat="48.858949" lon="2.343192" />
+      <trkpt lat="48.858526" lon="2.342808" />
+      <trkpt lat="48.858539" lon="2.342668" />
+      <trkpt lat="48.858547" lon="2.342639" />
+      <trkpt lat="48.858629" lon="2.342494" />
+      <trkpt lat="48.858646" lon="2.342442" />
+      <trkpt lat="48.858673" lon="2.342417" />
+      <trkpt lat="48.858718" lon="2.342173" />
+      <trkpt lat="48.858614" lon="2.342269" />
+      <trkpt lat="48.858649" lon="2.342377" />
+    </trkseg>
+  </trk>
+  <trk>
+    <name>V5_coda_sin_patio</name>
+    <desc>0.397 km de red; referencia en 16.evidence.json: coda_closed_court. Superficie; interiores y transporte no medidos.</desc>
+    <trkseg>
+      <trkpt lat="48.860193" lon="2.340309" />
+      <trkpt lat="48.860016" lon="2.340215" />
+      <trkpt lat="48.859994" lon="2.340205" />
+      <trkpt lat="48.859952" lon="2.340225" />
+      <trkpt lat="48.859927" lon="2.340336" />
+      <trkpt lat="48.859903" lon="2.340443" />
+      <trkpt lat="48.859896" lon="2.340466" />
+      <trkpt lat="48.859887" lon="2.340494" />
+      <trkpt lat="48.859884" lon="2.340507" />
+      <trkpt lat="48.859594" lon="2.340345" />
+      <trkpt lat="48.859516" lon="2.340304" />
+      <trkpt lat="48.859497" lon="2.340294" />
+      <trkpt lat="48.859468" lon="2.340280" />
+      <trkpt lat="48.859444" lon="2.340268" />
+      <trkpt lat="48.859436" lon="2.340263" />
+      <trkpt lat="48.859431" lon="2.340285" />
+      <trkpt lat="48.859314" lon="2.340807" />
+      <trkpt lat="48.859283" lon="2.340975" />
+      <trkpt lat="48.859282" lon="2.340979" />
+      <trkpt lat="48.859306" lon="2.340994" />
+      <trkpt lat="48.859139" lon="2.341717" />
+      <trkpt lat="48.859145" lon="2.341810" />
+      <trkpt lat="48.858763" lon="2.341646" />
+      <trkpt lat="48.858760" lon="2.341695" />
+      <trkpt lat="48.858772" lon="2.341919" />
+      <trkpt lat="48.858718" lon="2.342173" />
+      <trkpt lat="48.858673" lon="2.342417" />
+      <trkpt lat="48.858646" lon="2.342442" />
+      <trkpt lat="48.858629" lon="2.342494" />
+      <trkpt lat="48.859080" lon="2.342841" />
+      <trkpt lat="48.859030" lon="2.342965" />
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Llegada_V5_colonnade</name>
+    <desc>0.102 km de red; referencia en 16.evidence.json: coda_closed_arrival. Superficie; interiores y transporte no medidos.</desc>
+    <trkseg>
+      <trkpt lat="48.860781" lon="2.340900" />
+      <trkpt lat="48.860818" lon="2.340777" />
+      <trkpt lat="48.860848" lon="2.340677" />
+      <trkpt lat="48.860858" lon="2.340601" />
+      <trkpt lat="48.860852" lon="2.340606" />
+      <trkpt lat="48.860840" lon="2.340612" />
+      <trkpt lat="48.860809" lon="2.340618" />
+      <trkpt lat="48.860791" lon="2.340619" />
+      <trkpt lat="48.860768" lon="2.340615" />
+      <trkpt lat="48.860193" lon="2.340309" />
+    </trkseg>
+  </trk>
+  <trk>
+    <name>WC_JeanCalvin_ida_vuelta</name>
+    <desc>1.245 km de red; referencia en 16.evidence.json: wc_calvin. Superficie; interiores y transporte no medidos.</desc>
+    <trkseg>
+      <trkpt lat="48.843172" lon="2.352123" />
+      <trkpt lat="48.843165" lon="2.352086" />
+      <trkpt lat="48.843176" lon="2.352053" />
+      <trkpt lat="48.843177" lon="2.352036" />
+      <trkpt lat="48.843190" lon="2.352036" />
+      <trkpt lat="48.843197" lon="2.352093" />
+      <trkpt lat="48.843237" lon="2.352101" />
+      <trkpt lat="48.843273" lon="2.352106" />
+      <trkpt lat="48.843282" lon="2.352094" />
+      <trkpt lat="48.843324" lon="2.352129" />
+      <trkpt lat="48.843599" lon="2.352166" />
+      <trkpt lat="48.843621" lon="2.352153" />
+      <trkpt lat="48.843670" lon="2.352162" />
+      <trkpt lat="48.843704" lon="2.352183" />
+      <trkpt lat="48.843736" lon="2.352188" />
+      <trkpt lat="48.843784" lon="2.352160" />
+      <trkpt lat="48.843897" lon="2.351647" />
+      <trkpt lat="48.843887" lon="2.351612" />
+      <trkpt lat="48.843900" lon="2.351605" />
+      <trkpt lat="48.843909" lon="2.351562" />
+      <trkpt lat="48.843913" lon="2.351538" />
+      <trkpt lat="48.843917" lon="2.351521" />
+      <trkpt lat="48.843913" lon="2.351510" />
+      <trkpt lat="48.843920" lon="2.351501" />
+      <trkpt lat="48.843931" lon="2.351487" />
+      <trkpt lat="48.843952" lon="2.351399" />
+      <trkpt lat="48.843943" lon="2.351342" />
+      <trkpt lat="48.844141" lon="2.350438" />
+      <trkpt lat="48.844177" lon="2.350410" />
+      <trkpt lat="48.844228" lon="2.350185" />
+      <trkpt lat="48.844314" lon="2.349791" />
+      <trkpt lat="48.844337" lon="2.349737" />
+      <trkpt lat="48.844339" lon="2.349659" />
+      <trkpt lat="48.844321" lon="2.349334" />
+      <trkpt lat="48.844310" lon="2.349321" />
+      <trkpt lat="48.844308" lon="2.349306" />
+      <trkpt lat="48.844305" lon="2.349288" />
+      <trkpt lat="48.844302" lon="2.349267" />
+      <trkpt lat="48.844301" lon="2.349257" />
+      <trkpt lat="48.844484" lon="2.349217" />
+      <trkpt lat="48.844489" lon="2.349205" />
+      <trkpt lat="48.844488" lon="2.349185" />
+      <trkpt lat="48.844473" lon="2.348780" />
+      <trkpt lat="48.844452" lon="2.348552" />
+      <trkpt lat="48.844404" lon="2.348172" />
+      <trkpt lat="48.844387" lon="2.348108" />
+      <trkpt lat="48.844108" lon="2.348129" />
+      <trkpt lat="48.843918" lon="2.348133" />
+      <trkpt lat="48.843651" lon="2.348146" />
+      <trkpt lat="48.843653" lon="2.348138" />
+      <trkpt lat="48.843652" lon="2.348121" />
+      <trkpt lat="48.843597" lon="2.348126" />
+      <trkpt lat="48.843550" lon="2.348130" />
+      <trkpt lat="48.842881" lon="2.348192" />
+      <trkpt lat="48.842850" lon="2.348196" />
+      <trkpt lat="48.842794" lon="2.348203" />
+      <trkpt lat="48.841994" lon="2.348230" />
+      <trkpt lat="48.841773" lon="2.348240" />
+      <trkpt lat="48.841678" lon="2.348235" />
+      <trkpt lat="48.841627" lon="2.348405" />
+      <trkpt lat="48.841659" lon="2.348385" />
+      <trkpt lat="48.841705" lon="2.348362" />
+      <trkpt lat="48.841621" lon="2.348687" />
+      <trkpt lat="48.841705" lon="2.348362" />
+      <trkpt lat="48.841726" lon="2.348281" />
+      <trkpt lat="48.841773" lon="2.348275" />
+      <trkpt lat="48.841773" lon="2.348261" />
+      <trkpt lat="48.841773" lon="2.348240" />
+      <trkpt lat="48.841678" lon="2.348235" />
+      <trkpt lat="48.841773" lon="2.348240" />
+      <trkpt lat="48.841994" lon="2.348230" />
+      <trkpt lat="48.842794" lon="2.348203" />
+      <trkpt lat="48.842850" lon="2.348196" />
+      <trkpt lat="48.842857" lon="2.348231" />
+      <trkpt lat="48.843133" lon="2.349548" />
+      <trkpt lat="48.843115" lon="2.349559" />
+      <trkpt lat="48.843116" lon="2.349569" />
+      <trkpt lat="48.843119" lon="2.349623" />
+      <trkpt lat="48.843121" lon="2.349668" />
+      <trkpt lat="48.843122" lon="2.349686" />
+      <trkpt lat="48.843143" lon="2.349684" />
+      <trkpt lat="48.843156" lon="2.349689" />
+      <trkpt lat="48.843190" lon="2.351331" />
+      <trkpt lat="48.843189" lon="2.351338" />
+      <trkpt lat="48.843146" lon="2.351348" />
+      <trkpt lat="48.843146" lon="2.351363" />
+      <trkpt lat="48.843143" lon="2.351411" />
+      <trkpt lat="48.843137" lon="2.351478" />
+      <trkpt lat="48.843147" lon="2.351520" />
+      <trkpt lat="48.843183" lon="2.351982" />
+      <trkpt lat="48.843190" lon="2.352036" />
+      <trkpt lat="48.843177" lon="2.352036" />
+      <trkpt lat="48.843176" lon="2.352053" />
+      <trkpt lat="48.843165" lon="2.352086" />
+      <trkpt lat="48.843172" lon="2.352123" />
+    </trkseg>
+  </trk>
+  <trk>
+    <name>WC_Berger_ida_vuelta</name>
+    <desc>0.756 km de red; referencia en 16.evidence.json: wc_berger. Superficie; interiores y transporte no medidos.</desc>
+    <trkseg>
+      <trkpt lat="48.860774" lon="2.340959" />
+      <trkpt lat="48.860795" lon="2.340988" />
+      <trkpt lat="48.860808" lon="2.340997" />
+      <trkpt lat="48.860849" lon="2.341027" />
+      <trkpt lat="48.860878" lon="2.341048" />
+      <trkpt lat="48.860892" lon="2.341058" />
+      <trkpt lat="48.860907" lon="2.341069" />
+      <trkpt lat="48.860916" lon="2.341044" />
+      <trkpt lat="48.861004" lon="2.340996" />
+      <trkpt lat="48.861073" lon="2.341024" />
+      <trkpt lat="48.861085" lon="2.341048" />
+      <trkpt lat="48.861094" lon="2.341065" />
+      <trkpt lat="48.861110" lon="2.341071" />
+      <trkpt lat="48.861124" lon="2.341075" />
+      <trkpt lat="48.861138" lon="2.341079" />
+      <trkpt lat="48.861160" lon="2.341054" />
+      <trkpt lat="48.861620" lon="2.341264" />
+      <trkpt lat="48.861632" lon="2.341336" />
+      <trkpt lat="48.861650" lon="2.341343" />
+      <trkpt lat="48.861669" lon="2.341349" />
+      <trkpt lat="48.861686" lon="2.341356" />
+      <trkpt lat="48.861711" lon="2.341360" />
+      <trkpt lat="48.861736" lon="2.341365" />
+      <trkpt lat="48.862274" lon="2.341640" />
+      <trkpt lat="48.862292" lon="2.341648" />
+      <trkpt lat="48.862321" lon="2.341687" />
+      <trkpt lat="48.862140" lon="2.342467" />
+      <trkpt lat="48.862187" lon="2.342491" />
+      <trkpt lat="48.862204" lon="2.342501" />
+      <trkpt lat="48.862223" lon="2.342512" />
+      <trkpt lat="48.862238" lon="2.342547" />
+      <trkpt lat="48.862037" lon="2.343425" />
+      <trkpt lat="48.862016" lon="2.343501" />
+      <trkpt lat="48.862041" lon="2.343512" />
+      <trkpt lat="48.862031" lon="2.343554" />
+      <trkpt lat="48.862045" lon="2.343561" />
+      <trkpt lat="48.862055" lon="2.343519" />
+      <trkpt lat="48.862164" lon="2.343564" />
+      <trkpt lat="48.862122" lon="2.343751" />
+      <trkpt lat="48.862164" lon="2.343564" />
+      <trkpt lat="48.862055" lon="2.343519" />
+      <trkpt lat="48.862045" lon="2.343561" />
+      <trkpt lat="48.862031" lon="2.343554" />
+      <trkpt lat="48.862041" lon="2.343512" />
+      <trkpt lat="48.862016" lon="2.343501" />
+      <trkpt lat="48.862037" lon="2.343425" />
+      <trkpt lat="48.862019" lon="2.343393" />
+      <trkpt lat="48.862001" lon="2.343385" />
+      <trkpt lat="48.861970" lon="2.343372" />
+      <trkpt lat="48.861936" lon="2.343357" />
+      <trkpt lat="48.861982" lon="2.343160" />
+      <trkpt lat="48.862051" lon="2.342857" />
+      <trkpt lat="48.862109" lon="2.342608" />
+      <trkpt lat="48.862114" lon="2.342584" />
+      <trkpt lat="48.862119" lon="2.342560" />
+      <trkpt lat="48.862140" lon="2.342467" />
+      <trkpt lat="48.862321" lon="2.341687" />
+      <trkpt lat="48.862292" lon="2.341648" />
+      <trkpt lat="48.862274" lon="2.341640" />
+      <trkpt lat="48.861736" lon="2.341365" />
+      <trkpt lat="48.861711" lon="2.341360" />
+      <trkpt lat="48.861686" lon="2.341356" />
+      <trkpt lat="48.861669" lon="2.341349" />
+      <trkpt lat="48.861650" lon="2.341343" />
+      <trkpt lat="48.861632" lon="2.341336" />
+      <trkpt lat="48.861620" lon="2.341264" />
+      <trkpt lat="48.861160" lon="2.341054" />
+      <trkpt lat="48.861138" lon="2.341079" />
+      <trkpt lat="48.861124" lon="2.341075" />
+      <trkpt lat="48.861110" lon="2.341071" />
+      <trkpt lat="48.861094" lon="2.341065" />
+      <trkpt lat="48.861085" lon="2.341048" />
+      <trkpt lat="48.861073" lon="2.341024" />
+      <trkpt lat="48.861004" lon="2.340996" />
+      <trkpt lat="48.860916" lon="2.341044" />
+      <trkpt lat="48.860907" lon="2.341069" />
+      <trkpt lat="48.860892" lon="2.341058" />
+      <trkpt lat="48.860878" lon="2.341048" />
+      <trkpt lat="48.860849" lon="2.341027" />
+      <trkpt lat="48.860808" lon="2.340997" />
+      <trkpt lat="48.860795" lon="2.340988" />
+      <trkpt lat="48.860774" lon="2.340959" />
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Refugio_Buffon_ida_vuelta</name>
+    <desc>1.936 km de red; referencia en 16.evidence.json: refuge_buffon. Superficie; interiores y transporte no medidos.</desc>
+    <trkseg>
+      <trkpt lat="48.843172" lon="2.352123" />
+      <trkpt lat="48.843176" lon="2.352217" />
+      <trkpt lat="48.843179" lon="2.352295" />
+      <trkpt lat="48.843180" lon="2.352314" />
+      <trkpt lat="48.843066" lon="2.352302" />
+      <trkpt lat="48.843043" lon="2.352329" />
+      <trkpt lat="48.843030" lon="2.352631" />
+      <trkpt lat="48.843044" lon="2.352652" />
+      <trkpt lat="48.843038" lon="2.352664" />
+      <trkpt lat="48.843036" lon="2.352708" />
+      <trkpt lat="48.843033" lon="2.352761" />
+      <trkpt lat="48.843038" lon="2.352772" />
+      <trkpt lat="48.843014" lon="2.352813" />
+      <trkpt lat="48.843006" lon="2.352813" />
+      <trkpt lat="48.842979" lon="2.352813" />
+      <trkpt lat="48.842936" lon="2.352813" />
+      <trkpt lat="48.842927" lon="2.352819" />
+      <trkpt lat="48.842908" lon="2.353328" />
+      <trkpt lat="48.842870" lon="2.353383" />
+      <trkpt lat="48.842629" lon="2.353441" />
+      <trkpt lat="48.842409" lon="2.353496" />
+      <trkpt lat="48.842411" lon="2.353511" />
+      <trkpt lat="48.842419" lon="2.353574" />
+      <trkpt lat="48.842423" lon="2.353610" />
+      <trkpt lat="48.842425" lon="2.353622" />
+      <trkpt lat="48.842411" lon="2.353660" />
+      <trkpt lat="48.842400" lon="2.353665" />
+      <trkpt lat="48.842376" lon="2.353685" />
+      <trkpt lat="48.842342" lon="2.353712" />
+      <trkpt lat="48.842336" lon="2.353720" />
+      <trkpt lat="48.842341" lon="2.353728" />
+      <trkpt lat="48.842358" lon="2.354392" />
+      <trkpt lat="48.842337" lon="2.354422" />
+      <trkpt lat="48.842313" lon="2.354421" />
+      <trkpt lat="48.842295" lon="2.354410" />
+      <trkpt lat="48.842289" lon="2.354415" />
+      <trkpt lat="48.842258" lon="2.354423" />
+      <trkpt lat="48.842217" lon="2.354426" />
+      <trkpt lat="48.842202" lon="2.354418" />
+      <trkpt lat="48.842181" lon="2.354450" />
+      <trkpt lat="48.841952" lon="2.354507" />
+      <trkpt lat="48.841468" lon="2.354623" />
+      <trkpt lat="48.841471" lon="2.354637" />
+      <trkpt lat="48.841477" lon="2.354701" />
+      <trkpt lat="48.841483" lon="2.354754" />
+      <trkpt lat="48.841486" lon="2.354779" />
+      <trkpt lat="48.841468" lon="2.354807" />
+      <trkpt lat="48.841621" lon="2.355705" />
+      <trkpt lat="48.841627" lon="2.355717" />
+      <trkpt lat="48.841638" lon="2.355741" />
+      <trkpt lat="48.841641" lon="2.355767" />
+      <trkpt lat="48.841648" lon="2.355809" />
+      <trkpt lat="48.841587" lon="2.355824" />
+      <trkpt lat="48.841530" lon="2.355843" />
+      <trkpt lat="48.841345" lon="2.355907" />
+      <trkpt lat="48.841323" lon="2.355914" />
+      <trkpt lat="48.841177" lon="2.355964" />
+      <trkpt lat="48.841216" lon="2.356113" />
+      <trkpt lat="48.841223" lon="2.356146" />
+      <trkpt lat="48.841233" lon="2.356184" />
+      <trkpt lat="48.841595" lon="2.357587" />
+      <trkpt lat="48.841715" lon="2.358053" />
+      <trkpt lat="48.841988" lon="2.359095" />
+      <trkpt lat="48.842015" lon="2.359080" />
+      <trkpt lat="48.842024" lon="2.359081" />
+      <trkpt lat="48.842137" lon="2.359516" />
+      <trkpt lat="48.842612" lon="2.361368" />
+      <trkpt lat="48.842604" lon="2.361368" />
+      <trkpt lat="48.842585" lon="2.361379" />
+      <trkpt lat="48.842564" lon="2.361392" />
+      <trkpt lat="48.842549" lon="2.361400" />
+      <trkpt lat="48.842519" lon="2.361512" />
+      <trkpt lat="48.842608" lon="2.361863" />
+      <trkpt lat="48.842519" lon="2.361512" />
+      <trkpt lat="48.842549" lon="2.361400" />
+      <trkpt lat="48.842311" lon="2.360505" />
+      <trkpt lat="48.842069" lon="2.359563" />
+      <trkpt lat="48.842016" lon="2.359359" />
+      <trkpt lat="48.841953" lon="2.359114" />
+      <trkpt lat="48.841960" lon="2.359110" />
+      <trkpt lat="48.841988" lon="2.359095" />
+      <trkpt lat="48.842015" lon="2.359080" />
+      <trkpt lat="48.842024" lon="2.359081" />
+      <trkpt lat="48.841685" lon="2.357766" />
+      <trkpt lat="48.841528" lon="2.357167" />
+      <trkpt lat="48.841333" lon="2.356447" />
+      <trkpt lat="48.841271" lon="2.356091" />
+      <trkpt lat="48.841261" lon="2.356095" />
+      <trkpt lat="48.841216" lon="2.356113" />
+      <trkpt lat="48.841177" lon="2.355964" />
+      <trkpt lat="48.841323" lon="2.355914" />
+      <trkpt lat="48.841345" lon="2.355907" />
+      <trkpt lat="48.841530" lon="2.355843" />
+      <trkpt lat="48.841587" lon="2.355824" />
+      <trkpt lat="48.841648" lon="2.355809" />
+      <trkpt lat="48.841641" lon="2.355767" />
+      <trkpt lat="48.841638" lon="2.355741" />
+      <trkpt lat="48.841627" lon="2.355717" />
+      <trkpt lat="48.841621" lon="2.355705" />
+      <trkpt lat="48.841468" lon="2.354807" />
+      <trkpt lat="48.841486" lon="2.354779" />
+      <trkpt lat="48.841483" lon="2.354754" />
+      <trkpt lat="48.841477" lon="2.354701" />
+      <trkpt lat="48.841471" lon="2.354637" />
+      <trkpt lat="48.841468" lon="2.354623" />
+      <trkpt lat="48.841952" lon="2.354507" />
+      <trkpt lat="48.842181" lon="2.354450" />
+      <trkpt lat="48.842202" lon="2.354418" />
+      <trkpt lat="48.842217" lon="2.354426" />
+      <trkpt lat="48.842258" lon="2.354423" />
+      <trkpt lat="48.842289" lon="2.354415" />
+      <trkpt lat="48.842295" lon="2.354410" />
+      <trkpt lat="48.842313" lon="2.354421" />
+      <trkpt lat="48.842337" lon="2.354422" />
+      <trkpt lat="48.842358" lon="2.354392" />
+      <trkpt lat="48.842341" lon="2.353728" />
+      <trkpt lat="48.842336" lon="2.353720" />
+      <trkpt lat="48.842342" lon="2.353712" />
+      <trkpt lat="48.842376" lon="2.353685" />
+      <trkpt lat="48.842400" lon="2.353665" />
+      <trkpt lat="48.842411" lon="2.353660" />
+      <trkpt lat="48.842425" lon="2.353622" />
+      <trkpt lat="48.842423" lon="2.353610" />
+      <trkpt lat="48.842419" lon="2.353574" />
+      <trkpt lat="48.842411" lon="2.353511" />
+      <trkpt lat="48.842409" lon="2.353496" />
+      <trkpt lat="48.842629" lon="2.353441" />
+      <trkpt lat="48.842870" lon="2.353383" />
+      <trkpt lat="48.842908" lon="2.353328" />
+      <trkpt lat="48.842927" lon="2.352819" />
+      <trkpt lat="48.842936" lon="2.352813" />
+      <trkpt lat="48.842979" lon="2.352813" />
+      <trkpt lat="48.843006" lon="2.352813" />
+      <trkpt lat="48.843014" lon="2.352813" />
+      <trkpt lat="48.843038" lon="2.352772" />
+      <trkpt lat="48.843033" lon="2.352761" />
+      <trkpt lat="48.843036" lon="2.352708" />
+      <trkpt lat="48.843038" lon="2.352664" />
+      <trkpt lat="48.843044" lon="2.352652" />
+      <trkpt lat="48.843030" lon="2.352631" />
+      <trkpt lat="48.843043" lon="2.352329" />
+      <trkpt lat="48.843066" lon="2.352302" />
+      <trkpt lat="48.843180" lon="2.352314" />
+      <trkpt lat="48.843179" lon="2.352295" />
+      <trkpt lat="48.843176" lon="2.352217" />
+      <trkpt lat="48.843172" lon="2.352123" />
+    </trkseg>
+  </trk>
+  <trk>
+    <name>V6_Pathe_directo</name>
+    <desc>0.217 km de red; referencia en 16.evidence.json: direct_pathe. Superficie; interiores y transporte no medidos.</desc>
+    <trkseg>
+      <trkpt lat="48.835075" lon="2.353228" />
+      <trkpt lat="48.835093" lon="2.353287" />
+      <trkpt lat="48.835082" lon="2.353308" />
+      <trkpt lat="48.835025" lon="2.353250" />
+      <trkpt lat="48.834943" lon="2.353304" />
+      <trkpt lat="48.834889" lon="2.353341" />
+      <trkpt lat="48.834878" lon="2.353366" />
+      <trkpt lat="48.834514" lon="2.353621" />
+      <trkpt lat="48.834464" lon="2.353665" />
+      <trkpt lat="48.834442" lon="2.353656" />
+      <trkpt lat="48.834411" lon="2.353680" />
+      <trkpt lat="48.834378" lon="2.353706" />
+      <trkpt lat="48.834372" lon="2.353734" />
+      <trkpt lat="48.834307" lon="2.353756" />
+      <trkpt lat="48.833556" lon="2.354280" />
+      <trkpt lat="48.833512" lon="2.354298" />
+      <trkpt lat="48.833501" lon="2.354307" />
+      <trkpt lat="48.833471" lon="2.354328" />
+      <trkpt lat="48.833447" lon="2.354345" />
+      <trkpt lat="48.833421" lon="2.354363" />
+      <trkpt lat="48.833378" lon="2.354393" />
+    </trkseg>
+  </trk>
+  <trk>
+    <name>V4_carteleras_salida</name>
+    <desc>0.293 km de red; referencia en 16.evidence.json: partial_champo. Superficie; interiores y transporte no medidos.</desc>
+    <trkseg>
+      <trkpt lat="48.850043" lon="2.343134" />
+      <trkpt lat="48.850028" lon="2.343103" />
+      <trkpt lat="48.849882" lon="2.343018" />
+      <trkpt lat="48.849730" lon="2.342895" />
+      <trkpt lat="48.849515" lon="2.342774" />
+      <trkpt lat="48.849730" lon="2.342895" />
+      <trkpt lat="48.849882" lon="2.343018" />
+      <trkpt lat="48.850028" lon="2.343103" />
+      <trkpt lat="48.850043" lon="2.343134" />
+      <trkpt lat="48.850049" lon="2.343119" />
+      <trkpt lat="48.850066" lon="2.343073" />
+      <trkpt lat="48.850078" lon="2.343041" />
+      <trkpt lat="48.850080" lon="2.343035" />
+      <trkpt lat="48.850180" lon="2.342773" />
+      <trkpt lat="48.850193" lon="2.342779" />
+      <trkpt lat="48.850244" lon="2.342807" />
+      <trkpt lat="48.850302" lon="2.342838" />
+      <trkpt lat="48.850323" lon="2.342842" />
+      <trkpt lat="48.850377" lon="2.342832" />
+      <trkpt lat="48.850523" lon="2.342929" />
+      <trkpt lat="48.850537" lon="2.342935" />
+      <trkpt lat="48.850569" lon="2.342950" />
+      <trkpt lat="48.850602" lon="2.342965" />
+      <trkpt lat="48.850617" lon="2.342973" />
+      <trkpt lat="48.851224" lon="2.343247" />
+      <trkpt lat="48.851234" lon="2.343286" />
+      <trkpt lat="48.851238" lon="2.343303" />
+      <trkpt lat="48.851254" lon="2.343351" />
+      <trkpt lat="48.851250" lon="2.343368" />
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Escape_CardinalLemoine</name>
+    <desc>0.397 km de red; referencia en 16.evidence.json: escape_cardinal. Superficie; interiores y transporte no medidos.</desc>
+    <trkseg>
+      <trkpt lat="48.846798" lon="2.347863" />
+      <trkpt lat="48.846770" lon="2.347889" />
+      <trkpt lat="48.846745" lon="2.347926" />
+      <trkpt lat="48.846726" lon="2.347991" />
+      <trkpt lat="48.846618" lon="2.348908" />
+      <trkpt lat="48.846602" lon="2.348902" />
+      <trkpt lat="48.846598" lon="2.348901" />
+      <trkpt lat="48.846459" lon="2.348948" />
+      <trkpt lat="48.846399" lon="2.348986" />
+      <trkpt lat="48.846295" lon="2.349001" />
+      <trkpt lat="48.846252" lon="2.349007" />
+      <trkpt lat="48.846244" lon="2.349027" />
+      <trkpt lat="48.846229" lon="2.349101" />
+      <trkpt lat="48.846220" lon="2.349149" />
+      <trkpt lat="48.846209" lon="2.349205" />
+      <trkpt lat="48.846214" lon="2.349233" />
+      <trkpt lat="48.846184" lon="2.349238" />
+      <trkpt lat="48.845978" lon="2.350493" />
+      <trkpt lat="48.846006" lon="2.350594" />
+      <trkpt lat="48.846256" lon="2.351006" />
+      <trkpt lat="48.846331" lon="2.351110" />
+      <trkpt lat="48.846345" lon="2.351128" />
+      <trkpt lat="48.846392" lon="2.351193" />
+      <trkpt lat="48.846584" lon="2.351459" />
+      <trkpt lat="48.846596" lon="2.351445" />
+      <trkpt lat="48.846659" lon="2.351460" />
+      <trkpt lat="48.846674" lon="2.351489" />
+      <trkpt lat="48.846713" lon="2.351554" />
+      <trkpt lat="48.846746" lon="2.351615" />
+      <trkpt lat="48.846761" lon="2.351628" />
+      <trkpt lat="48.846750" lon="2.351652" />
+      <trkpt lat="48.846749" lon="2.351685" />
+      <trkpt lat="48.846732" lon="2.351688" />
+      <trkpt lat="48.846690" lon="2.351758" />
+      <trkpt lat="48.846653" lon="2.351811" />
+      <trkpt lat="48.846636" lon="2.351840" />
+      <trkpt lat="48.846622" lon="2.351854" />
+      <trkpt lat="48.846558" lon="2.351877" />
+      <trkpt lat="48.846538" lon="2.351874" />
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Escape_PlaceMonge</name>
+    <desc>0.022 km de red; referencia en 16.evidence.json: escape_monge. Superficie; interiores y transporte no medidos.</desc>
+    <trkseg>
+      <trkpt lat="48.843172" lon="2.352123" />
+      <trkpt lat="48.843176" lon="2.352217" />
+      <trkpt lat="48.843034" lon="2.352194" />
+    </trkseg>
+  </trk>
+  <trk>
+    <name>Escape_CensierDaubenton</name>
+    <desc>0.303 km de red; referencia en 16.evidence.json: escape_censier. Superficie; interiores y transporte no medidos.</desc>
+    <trkseg>
+      <trkpt lat="48.843172" lon="2.352123" />
+      <trkpt lat="48.843176" lon="2.352217" />
+      <trkpt lat="48.843004" lon="2.352189" />
+      <trkpt lat="48.842875" lon="2.352170" />
+      <trkpt lat="48.842781" lon="2.352153" />
+      <trkpt lat="48.842690" lon="2.352137" />
+      <trkpt lat="48.842610" lon="2.352120" />
+      <trkpt lat="48.842170" lon="2.352053" />
+      <trkpt lat="48.842092" lon="2.352041" />
+      <trkpt lat="48.841763" lon="2.351993" />
+      <trkpt lat="48.841717" lon="2.351986" />
+      <trkpt lat="48.841660" lon="2.351979" />
+      <trkpt lat="48.841577" lon="2.351967" />
+      <trkpt lat="48.841527" lon="2.351960" />
+      <trkpt lat="48.841014" lon="2.351882" />
+      <trkpt lat="48.840969" lon="2.351875" />
+      <trkpt lat="48.840974" lon="2.351828" />
+      <trkpt lat="48.840978" lon="2.351786" />
+      <trkpt lat="48.840908" lon="2.351723" />
+      <trkpt lat="48.840887" lon="2.351727" />
+      <trkpt lat="48.840857" lon="2.351707" />
+      <trkpt lat="48.840841" lon="2.351694" />
+      <trkpt lat="48.840827" lon="2.351660" />
+      <trkpt lat="48.840793" lon="2.351689" />
+      <trkpt lat="48.840719" lon="2.351678" />
+      <trkpt lat="48.840663" lon="2.351611" />
+      <trkpt lat="48.840641" lon="2.351585" />
+      <trkpt lat="48.840630" lon="2.351578" />
+    </trkseg>
+  </trk>
+</gpx>
