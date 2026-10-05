@@ -1,0 +1,381 @@
+{
+  "route_id": "05",
+  "title": "Quién puede ser Francia — República y representación",
+  "status": "DONE",
+  "version": "05-v10-20261005",
+  "review_date": "2026-10-05",
+  "producer": "Cruce",
+  "narrator": "Cruce",
+  "timezone": "Europe/Paris",
+  "field_verified": false,
+  "external_review": "After closure; not performed",
+  "canonical_document": "routes/05_paris_of_republic.md",
+  "navigation_document": "routes/navigation/05_navigation.md",
+  "operations_document": "routes/navigation/05_access_operations.md",
+  "canonical_order": [
+    "republique",
+    "pantheon",
+    "senate",
+    "assembly"
+  ],
+  "main_distance_km": 6.244,
+  "arrival_km": 0.026,
+  "return_km": 0.215,
+  "main_surface_total_km": 6.485,
+  "viewing_circulation_estimate_km": [
+    0.1,
+    0.2
+  ],
+  "viewing_circulation_measured": false,
+  "indoor_optional_estimate_km": [
+    0.2,
+    0.4
+  ],
+  "metro_interior_distance_included": false,
+  "duration_minutes": [
+    180,
+    210
+  ],
+  "start_window": [
+    "09:30",
+    "11:00"
+  ],
+  "latest_start": "13:00",
+  "finish_by": "16:30",
+  "main_slot_scores": {
+    "morning": 9,
+    "afternoon": 7,
+    "evening": 3,
+    "night": 1
+  },
+  "base_price_eur": 0,
+  "base_reservation_required": false,
+  "optional_pantheon": {
+    "variant": "V1",
+    "price_eur": 13,
+    "hours_october_march": [
+      "10:00",
+      "18:00"
+    ],
+    "last_admission": "17:15",
+    "first_working_monday_opens": "12:00",
+    "trip_first_working_monday": "2026-11-02",
+    "free_first_sunday": "2026-11-01",
+    "latest_arrival_for_route": "12:30",
+    "queue_cap_minutes": 20,
+    "interior_minutes": [
+      60,
+      75
+    ],
+    "total_duration_minutes": [
+      240,
+      315
+    ],
+    "start_window": [
+      "09:30",
+      "10:30"
+    ],
+    "latest_start": "11:00",
+    "reservation": "Check individual ticket conditions/slots the day before; none booked. Free first Sunday does not require a cashier stop under current published rule; no invented mandatory reservation.",
+    "panorama_open": false,
+    "failure": "Use full exterior core; no need for substitute interior."
+  },
+  "points": {
+    "republique": [
+      48.8673278,
+      2.3639785
+    ],
+    "pantheon": [
+      48.8462948,
+      2.3450732
+    ],
+    "senate": [
+      48.849333,
+      2.337175
+    ],
+    "assembly": [
+      48.8626764,
+      2.3192975
+    ],
+    "arrival": [
+      48.8673234,
+      2.3641234
+    ],
+    "return": [
+      48.861277,
+      2.320414
+    ],
+    "lux_rer": [
+      48.8467379,
+      2.3402788
+    ],
+    "wc_republique": [
+      48.868409,
+      2.363409
+    ],
+    "wc_michel": [
+      48.846136,
+      2.340046
+    ],
+    "wc_germain": [
+      48.854459,
+      2.33099
+    ],
+    "malraux": [
+      48.847872,
+      2.327749
+    ],
+    "alt_assembly": [
+      48.86389,
+      2.319665
+    ],
+    "wc_marais": [
+      48.860068,
+      2.360703
+    ],
+    "bridge_alt": [
+      48.853254,
+      2.346181
+    ],
+    "end_alt_metro": [
+      48.8661835,
+      2.3239337
+    ],
+    "bypass_start": [
+      48.866669,
+      2.356249
+    ],
+    "odeon": [
+      48.8523166,
+      2.3389386
+    ],
+    "alternate_start_metro": [
+      48.8654619,
+      2.3555429
+    ],
+    "alternate_start_view": [
+      48.866454,
+      2.356505
+    ],
+    "wc_pantheon_end": [
+      48.846136,
+      2.340046
+    ],
+    "return_metro": [
+      48.8612624,
+      2.3203741
+    ]
+  },
+  "wc": {
+    "retrieved_date": "2026-10-05",
+    "url": "https://opendata.paris.fr/api/explore/v2.1/catalog/datasets/sanisettesparis/records?limit=100&where=adresse%20in%20%28%2712bv%20pl%20de%20la%20republique%27%2C%272%20rue%20des%20quatre%20fils%27%2C%2758b%20bd%20saint-michel%27%2C%27184b%20bd%20saint-germain%27%29",
+    "response": {
+      "total_count": 4,
+      "results": [
+        {
+          "type": "Sanisette",
+          "statut": "En service",
+          "adresse": "12bv pl de la republique",
+          "arrondissement": "75010",
+          "horaire": "24/24h",
+          "acces_pmr": "Oui",
+          "relais_bebe": "Non",
+          "url_fiche_equipement": null,
+          "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+              "coordinates": [
+                2.3634090001921604,
+                48.86840899962093
+              ],
+              "type": "Point"
+            },
+            "properties": {}
+          },
+          "geo_point_2d": {
+            "lon": 2.3634090001921604,
+            "lat": 48.86840899962093
+          }
+        },
+        {
+          "type": "Sanisette",
+          "statut": "En service",
+          "adresse": "2 rue des quatre fils",
+          "arrondissement": "75003",
+          "horaire": "06h00 - 22h00",
+          "acces_pmr": "Oui",
+          "relais_bebe": "Non",
+          "url_fiche_equipement": null,
+          "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+              "coordinates": [
+                2.36070300013047,
+                48.860068000390896
+              ],
+              "type": "Point"
+            },
+            "properties": {}
+          },
+          "geo_point_2d": {
+            "lon": 2.36070300013047,
+            "lat": 48.860068000390896
+          }
+        },
+        {
+          "type": "Sanisette",
+          "statut": "En service",
+          "adresse": "58b bd saint-michel",
+          "arrondissement": "75006",
+          "horaire": "24/24h",
+          "acces_pmr": "Oui",
+          "relais_bebe": "Non",
+          "url_fiche_equipement": null,
+          "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+              "coordinates": [
+                2.3400460002316805,
+                48.84613600025297
+              ],
+              "type": "Point"
+            },
+            "properties": {}
+          },
+          "geo_point_2d": {
+            "lon": 2.3400460002316805,
+            "lat": 48.84613600025297
+          }
+        },
+        {
+          "type": "Sanisette",
+          "statut": "En service",
+          "adresse": "184b bd saint-germain",
+          "arrondissement": "75006",
+          "horaire": "24/24h",
+          "acces_pmr": "Oui",
+          "relais_bebe": "Non",
+          "url_fiche_equipement": null,
+          "geo_shape": {
+            "type": "Feature",
+            "geometry": {
+              "coordinates": [
+                2.3309899996955994,
+                48.85445899991381
+              ],
+              "type": "Point"
+            },
+            "properties": {}
+          },
+          "geo_point_2d": {
+            "lon": 2.3309899996955994,
+            "lat": 48.85445899991381
+          }
+        }
+      ]
+    }
+  },
+  "refuge": {
+    "name": "Bibliothèque André Malraux",
+    "address": "112 rue de Rennes",
+    "coordinates": [
+      48.847872,
+      2.327749
+    ],
+    "hours": {
+      "Mo": "closed",
+      "Tu": "13:00-19:00",
+      "We": "10:00-19:00",
+      "Th": "13:00-19:00",
+      "Fr": "13:00-19:00",
+      "Sa": "10:00-18:00",
+      "Su": "closed"
+    },
+    "closed_trip_dates": [
+      "2026-11-01",
+      "2026-11-11"
+    ],
+    "toilets": true,
+    "distance_from_senate_km": 0.791,
+    "continuation_to_assembly_km": 1.828,
+    "added_vs_base_km": 0.394,
+    "stop_minutes": [
+      20,
+      30
+    ],
+    "unavailable": "Do not wait for opening; use V0 to Odéon. No free guaranteed indoor refuge on first leg or on library closed days."
+  },
+  "food": {
+    "required_purchase": false,
+    "base": "Carry water and snack or sandwich; eat outside at Panthéon pause.",
+    "emergency_purchase": "Optional cafe only if needed, cap €8 including drink; read posted menu before ordering; no restaurant or price promised."
+  },
+  "contingencies": {
+    "V0": {
+      "trigger": "Fatigue, worsening rain, all practical sightlines/security closed",
+      "action": "End at Panthéon → Luxembourg RER B (0.467 km), or Sénat → Odéon (0.433 km).",
+      "loss": "Assembly final lost; derivative is partial, not full base."
+    },
+    "V1": {
+      "trigger": "Budget/time permit paid monument interior",
+      "action": "Same surface line; predefined finite reading of nave, Zola, Curie, Baker/Justes, 60–75 minutes; queue cap20.",
+      "failure": "Base exterior unchanged; no wait beyond cap."
+    },
+    "V2": {
+      "trigger": "Closure around island bridges/cathedral before leaving République",
+      "action": "Replace first leg3.228 with bypass3.597; full route6.613 km.",
+      "loss": "Quiet Marais/eastern islands transition lost, three cores remain."
+    },
+    "V3": {
+      "trigger": "Sustained rain/cold after Panthéon, library verified open",
+      "action": "Replace Sénat→Assembly2.225 by Sénat→Malraux0.791 + Malraux→Assembly1.828; main6.638 km.",
+      "failure": "V0 Odéon; do not continue wet for a closed refuge."
+    },
+    "V4": {
+      "trigger": "Local south-bank Assembly sidewalk/bridge-end security restrictions; north-bank approach open",
+      "action": "Replace Sénat→Assembly by north-bank2.623 via Pont Royal; core6.642 km, exitConcorde0.531.",
+      "loss": "Distant sculpture legibility; no stair/statue approach. Three chapters preserved with shortened distant viewing instructions.",
+      "failure": "If Pont Royal/northquays or sightline also blocked, V0; never weave through security perimeter."
+    },
+    "V5": {
+      "trigger": "République inaccessible due gathering/security before starting",
+      "action": "Start Arts et Métiers exit5 rueTurbigo → Panthéon2.923, then base legs .791+2.225;5.939 km.",
+      "loss": "Opening sculpture absent; contextual intro only, not full monument narration. Partial thematic derivative."
+    }
+  },
+  "day_checks": [
+    {
+      "check": "Demonstrations/barriers at République and cathedral crossing approach, observed before first leg",
+      "failure": "V5 before start; V2 for cathedral sector; if broader closures prevent both, postpone route rather than invent crossing."
+    },
+    {
+      "check": "Panthéon façade/inscription visible from public west approach; exceptional opening/slot/queue if V1",
+      "failure": "Exterior retained if only interior closed; if all façade sightlines blocked, partial V0 or reschedule."
+    },
+    {
+      "check": "Sénat north sidewalk access",
+      "failure": "Do not enter forecourt; skip short hinge if opposite sidewalk remains open, otherwise V0."
+    },
+    {
+      "check": "Assembly south view and northbank alternative",
+      "failure": "V4 or partial V0 if whole area/sightline unavailable."
+    },
+    {
+      "check": "WC actual operating status and Malraux current hours/closures",
+      "failure": "Next identified sanisette/library; if no refuge or necessary WC usable, end at defined transit exit."
+    },
+    {
+      "check": "RATP/IDFM service to approach and return lodging",
+      "failure": "Use official live journey planner; surface exit coordinates remain fixed; no unverified NOC connector."
+    }
+  ],
+  "delivery_files": [
+    "05.gpx",
+    "05.variants.gpx",
+    "05.geojson",
+    "05.evidence.json",
+    "05.operations.json",
+    "05_navigation.md",
+    "05_access_operations.md"
+  ]
+}

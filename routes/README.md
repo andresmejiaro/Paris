@@ -2,7 +2,7 @@
 
 # Paris — working experience index
 
-Read [Definition of Done](DEFINITION_OF_DONE.md) and [Cruce production reset v9](cruce_production_reset_v9.md) first. The fifteen-row architecture pool is inherited from v6; it is not an acceptance or completion count. Routes 02 and 16 are closed under DoD; other route headers identify controlling changes and older bodies retain research until reconciled. External review by several models follows completion; no such acceptance is claimed here.
+Read [Definition of Done](DEFINITION_OF_DONE.md) and [Cruce production reset v9](cruce_production_reset_v9.md) first. The fifteen-row architecture pool is inherited from v6; it is not an acceptance or completion count. Routes 02, 05 and 16 are closed under DoD; other route headers identify controlling changes and older bodies retain research until reconciled. External review by several models follows completion; no such acceptance is claimed here.
 
 | Experience | Current state | Working artifact |
 |---|---|---|
@@ -12,7 +12,7 @@ Read [Definition of Done](DEFINITION_OF_DONE.md) and [Cruce production reset v9]
 | Water, Pressure, and Flood | Strong candidate | [file](13_engineered_city.md) |
 | Canal Changes Jobs | Strong candidate | [file](18_canal_paris.md) |
 | Cinema, Projection, and Modern Monsters | **DONE · 16-v10-20261005 · reviewed 5 October 2026.** Aster; 2.555 km Champollion → north portal → Pathé; real 3 November 16:30 programme or €5 gallery V1. Independent Noctámbulo coda 0.505 km; V1–V6 and day checks resolved. La Fayette belongs to 19; no long north tail. External review follows closure. | [canonical](16_cinema_paris.md) · [navigation](navigation/16_navigation.md) · [GPX](navigation/16.gpx) · [operations](navigation/16_access_operations.md) · [JSON](navigation/16.operations.json) |
-| Republic and Representation | Transition condition | [file](05_paris_of_republic.md) |
+| Republic and Representation | **DONE · 05-v10-20261005.** Cruce; 6.244 km, 3–3½ h, free exterior base: République → Panthéon → Sénat → Assembly. V0–V5; external review follows closure. | [canonical](05_paris_of_republic.md) · [navigation](navigation/05_navigation.md) · [GPX](navigation/05.gpx) · [operations](navigation/05_access_operations.md) |
 | Spy Paris | Anchor/access condition | [file](09_spy_paris.md) |
 | Art Nouveau Thresholds | Visibility condition | [file](08_art_nouveau_paris.md) |
 | Paris on Stage After Dark | Active-night condition | [file](10_burlesque_paris.md) |

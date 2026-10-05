@@ -119,3 +119,6 @@ Rumbo se calculó en dos peticiones por el límite de diez puntos del servicio, 
 Las direcciones de tiendas se respaldan en [ruta 21](../21_paris_popular_flavours.md). Las posiciones de parvis/ábside son puntos de observación seleccionados sobre cartografía, no observaciones presenciales de visibilidad.
 
 Rutas 02 y 16 cerradas bajo [Definition of Done](../DEFINITION_OF_DONE.md): incertidumbres del día con alternativas explícitas y revisión externa posterior. Para 21 y 22 se conserva su estado de producción anterior: acceso del día y QA independiente pendientes. No se ha simulado aceptación externa ni inspección presencial.
+
+## 05 — Cruce: Republic and Representation
+**DONE — 05-v10-20261005.** 6.244 km base, 6.485 km with arrival/return;3–3½h. [Canonical](../05_paris_of_republic.md) · [instructions](05_navigation.md) · [operations](05_access_operations.md) · [GPX](05.gpx) · [15 independent additional tracks](05.variants.gpx) · [standalone GeoJSON](05.geojson) · [JSON](05.operations.json) · [raw evidence](05.evidence.json). V0–V5, travel-day checks and subsequent external review explicit. Combined manifest/GeoJSON retain previous scope; standalone05 files control this route.

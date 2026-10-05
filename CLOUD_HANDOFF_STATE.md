@@ -2,7 +2,7 @@
 
 # Paris — current production handoff
 
-Updated 5 October 2026 by Cruce on completion of the active Route 16 assignment. Route 02 remains closed and unchanged.
+Updated 5 October 2026 by Cruce on publication of Route 05. Closed routes: 02, 05 and 16. Routes 02 and 16 remain unchanged.
 
 ## Read first
 1. [routes/DEFINITION_OF_DONE.md](routes/DEFINITION_OF_DONE.md) — controlling closure criteria, day uncertainties and later external review.
@@ -12,6 +12,7 @@ Updated 5 October 2026 by Cruce on completion of the active Route 16 assignment.
 5. routes/mystery_calibration_anchors.md — spoken dark-route calibration.
 
 ## Actual state
+The inherited two-route count below is superseded: **Routes 02, 05 and 16 are DONE**. Route05 closure is recorded at the end of this handoff.
 Fifteen inherited architectures are not fifteen finished products. **Routes 02 and 16 are DONE under Definition of Done**: 02-v10-20261004, reviewed 4 October 2026, and 16-v10-20261005, reviewed 5 October 2026. Other routes retain their previous production status; the inherited candidate counts are historical, not closure counts. Valuable compact experiences remain first-class outings. External review by several models and feedback follow closure and have not occurred. Shared-pavement overlap is estimated, not GIS-measured. Navigation for routes 02, 16, 21 and 22 is produced under routes/navigation. Navigation for the remaining portfolio and the website are pending.
 Discovery batches D/E/F were saved; the old seven-route paused checkpoint is historical.
 Seven kilometres is no longer an acceptance test. Do not extend a route simply to clear it; do not suppress the new gastronomic commission to preserve a fifteen-route ceiling.
@@ -62,3 +63,11 @@ NOC/transport are planning candidates, not bookings. Keep PC13 excluded unless a
 
 ## Historical record
 v2–v5, main_portfolio_decision.md, portfolio_manifest.md and inherited route-body decisions preserve earlier work. They do not override this handoff or v9. Discovery/geometry files preserve measurements and their limits.
+
+## Route 05 closure — 5 October 2026
+
+**DONE — 05-v10-20261005.** Cruce narrates République → Panthéon → exterior Sénat hinge → Assemblée nationale. Three complete chapters and one brief hinge; exterior base €0, **6.244 km**, **6.485 km** with arrival/return, **3–3½ h**, preferred start09:30–11:00, latest13:00, finish16:30. Optional Panthéon interior has price, hours and queue limit. V0–V5 resolve fatigue/rain exits, optional interior, island bypass, Malraux refuge, alternate final viewpoint and inaccessible start. WC and refuge hours/failures explicit.
+
+[Canonical](routes/05_paris_of_republic.md) · [navigation](routes/navigation/05_navigation.md) · [operations](routes/navigation/05_access_operations.md) · [JSON](routes/navigation/05.operations.json) · [GPX](routes/navigation/05.gpx) · [15 additional tracks](routes/navigation/05.variants.gpx) · [GeoJSON](routes/navigation/05.geojson) · [raw evidence](routes/navigation/05.evidence.json) · [archive](routes/archive/05_before_dod_20261005.md).
+
+Recorded validation:463 base points, zero joining gaps, geometric6.236km versus routed6.244km; valid coordinate bounds. No field inspection or external review claimed. External multi-model review and feedback follow closure. Routes02/16/21/22 unchanged. Combined navigation manifest/GeoJSON retain previous scope;05 standalone files control this route. No subagent remains active. Western Green delivery remains local and unpublished. Architect prompt records completed16 assignment; this handoff additionally records05 closure.

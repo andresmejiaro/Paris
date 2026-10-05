@@ -1,145 +1,74 @@
-> **Narrator correction — Andrés, 3 October 2026:** Cruce owns all route design, research, selection, verification, navigation and complete script preparation. Rumbo narrates Coulée Verte; Hilo narrates Medieval Devils; Miga narrates the affordable Paris flavours route. These are narrator assignments, not delegated work. No companion research or response is awaited. This overrides earlier commission/author/reviewer wording below.
+# 05 — Quién puede ser Francia
 
-<!-- CRUCE CURRENT STATE: 2026-10-03; controlling production decision v9 -->
-> **Current working state: Republic and Representation — Transition condition.** Distance: 7.359 km inherited detour version. The Marais/Cité deviation is not required merely to pass seven kilometres. Compare direct walking quality and label any chosen connector honestly. Nation belongs to Revolutionary. External QA and visitor-ready delivery remain pending. See [production reset](cruce_production_reset_v9.md). The older body below preserves research and earlier decisions; it does not override this notice.
+República y representación · **Cruce** · **05-v10-20261005** · revisada el **5 de octubre de 2026**.
 
-# 05 — Paris of the Republic: Who Gets to Be France?
+> **DONE — versión 05-v10-20261005, revisada el 2026-10-05.** Esta es la versión elegida para el viaje y cumple los criterios de aceptación bajo control del agente. Comprobaciones del día: barreras y visibilidad de los tres exteriores; pasos por las islas; aceras de Sénat/Asamblea; funcionamiento de WC y Malraux; servicio de transporte; condiciones de CMN solo si se elige V1. Cada fallo tiene consecuencia y alternativa en [operaciones](navigation/05_access_operations.md). Variantes **V0–V5**. Revisión externa por varios modelos y feedback: posterior al cierre. No se afirma inspección de campo ni evaluación externa.
 
-Priority C. Controller KEEP; ownership applied and Spanish narration revised 2 October 2026. External Claude acceptance pending. Initial proposals and investigations below are preserved as research history; the revised operational walk and Spanish scripts govern delivery.
+[Ficha de navegación](navigation/05_navigation.md) · [GPX base](navigation/05.gpx) · [GPX de variantes y apoyos](navigation/05.variants.gpx) · [GeoJSON](navigation/05.geojson) · [operaciones](navigation/05_access_operations.md) · [JSON](navigation/05.operations.json) · [evidencia reproducible](navigation/05.evidence.json) · [Definition of Done](DEFINITION_OF_DONE.md).
 
-## Phase 1 hypothesis
+## La experiencia elegida
 
-Thesis: the Republic makes promises in bronze, operates inside inherited palaces, and repeatedly revises the people it chooses to represent France. Focus on institutions, citizenship and the public manufacture of national belonging. Revolutionary Paris concerns events and street sovereignty; this route concerns the durable machinery and symbols left afterward.
+Una mujer preside una urna que las mujeres reales no pudieron usar hasta décadas después. Una patria agradecida selecciona sus muertos ejemplares. Una cámara elegida hace leyes dentro de una fachada imperial. El paseo pregunta **quién participa, quién representa la vida de Francia y quién decide por los vivos**. Su razón es la distancia entre las promesas públicas y las decisiones que las vuelven concretas.
 
-Initial geometry: République → Hôtel de Ville → Panthéon → Luxembourg/Sénat → Assemblée nationale. Approximately 8–9 km, with Nation considered as an exceptional alternative opening rather than a padding extension. Daytime Cruce route; opening promise → civic government → membership in national memory → representation.
+**République → Panthéon → Sénat exterior, bisagra breve → Palais Bourbon.** Tres capítulos completos y una conexión corta. Base gratuita y enteramente exterior; el Panthéon por dentro es una ampliación definida, no una condición de la experiencia. El final es la Asamblea, no un museo ni otro monumento añadido después.
 
-| Candidate | Coordinates | Signal/type | Why it may belong / geographic role | Investigation question |
-|---|---|---|---|---|
-| République monument | 48.8675, 2.3639 | Strong; political/architectural/cultural memory | Read a Republic personified as a woman above a voting box; clear opening accessible from transit. | Which visible symbols prove the promise; how distinguish later civic use from revolutionary-event route? |
-| Hôtel de Ville | 48.8566, 2.3522 | Strong; political/architectural | Civic palace rebuilt after destruction and used for repeated regime declarations; southward hinge. | Is an exterior explainer about municipal citizenship distinct and compelling? |
-| Panthéon | 48.8462, 2.3464 | Strong; political/cultural memory | National membership rendered in stone and selected dead; central payoff candidate. | Which tangible details and finite indoor objects demonstrate changing inclusion? |
-| Luxembourg/Sénat | 48.8483, 2.3372 | Medium; institutional | A queen's palace occupied by the republican upper chamber; adjacent respite. | Does the representative contrast justify its own five-minute stop? |
-| Palais Bourbon/Assemblée | 48.8618, 2.3186 | Strong; architectural/institutional | An imperial stage becomes elected representation; western ending. | Can the visible façade explain inherited power without requiring interior access? |
-| Nation/Dalou | 48.8484, 2.3958 | Strong; political/art | Alternative sculptural opening; geographically costs ~4 km to République. | Does it repeat the opening or justify a two-statue comparison? |
+La línea seleccionada mide **6.244 km**; llegada desde salida 1 de République **0.026 km**, regreso hasta acceso 1 de Assemblée nationale **0.215 km**: **6.485 km de superficie**. Añadir aproximadamente **0.1–0.2 km** de movimientos para mirar, no medidos. El interior opcional estima **0.2–0.4 km** aparte. No incluye escaleras/corredores de métro ni desplazamiento al alojamiento.
 
-Initial time scores: morning 9 (legible sculpture, daytime garden access); afternoon 8 (same strengths with gate deadlines); evening 4 (façades remain but symbols fade and gardens close); night 2 (no theme-specific gain, weak physical detail).
+**3–3½ horas**, con narración, observación y pausa corta. Inicio preferente **09:30–11:00**; máximo **13:00**; terminar las escenas exteriores **antes de 16:30**. En V1, **4–5¼ horas**, inicio preferente 09:30–10:30 y máximo 11:00. Las cifras son planificación con margen, no tiempos impuestos por el motor.
 
-## Investigation 1 — République: KEEP
-
-Historical and narrative importance both strong. Free outdoor civic square; demonstrations/security can temporarily interrupt use. Documented iconography: lion guards ballot urn, female personification stands above Liberty, Equality, Fraternity and twelve bronze historical reliefs. The 1883 monument celebrates universal suffrage that was masculine. Women gained voting eligibility in 1944 and first voted in municipal elections in 1945. The interpretation is visible contradiction, not invented folklore.
-
-Validated explainer: Start with the lion. It guards a ballot urn: this Republic wants you to understand that its strength comes from voting. Now look up. The Republic herself is a woman. In 1883 women could personify the nation in public sculpture but could not vote in its elections. That makes the monument a promise with an exclusion built into it. The correction came sixty-one years later, in 1944; the first municipal ballots followed in 1945. Walk around the reliefs: conflict has been organized into the Republic's own story. Then look beyond the pedestal at the space where people continue to demand something from that Republic. When it says everyone, whom does it mean?
-
-What to notice: lion/urn, female Republic, three values, chosen chronology, pedestrian space. Overlap: Revolutionary Paris strong for regime-change reliefs; Republic's franchise question is different. No ownership decision.
-
-Sources: [City place history](https://www.paris.fr/pages/1-lieu-3-histoires-la-place-de-la-republique-33595); [City council iconography](https://a06-v7.apps.paris.fr/a06/jsp/site/Portal.jsp?fq=seance_string%3AAVRIL+2019&id_document=148362&items_per_page=20&page=ods-solr.display_document&query=Agent+technique+des+%C3%A9coles&sort_name=&sort_order=&terms=Agent+technique+des+%C3%A9coles); [Assembly women's enfranchisement](https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/deuxieme-guerre-mondiale/l-accession-des-femmes-au-droit-de-vote). Facts documented; political visual reading is interpretation.
-
-## Investigation 2 — Panthéon: KEEP
-
-Historical and narrative importance very high. Exterior is a full free stop; interior is optional. Documented fact: a church became civic necropolis in 1791, subsequently changed functions, and national honors are decisions rather than automatic recognition. Modern admissions are presidential. Baker is represented by a cenotaph; Curie entered for her achievements in 1995. Do not quote occupant totals: the CMN crypt page calls Baker latest and omits newer arrivals, so it is demonstrably stale on chronology. Robert Badinter entered 9 October 2025, verified by Élysée.
-
-Validated explainer: Read the inscription before looking at the dome: “Aux grands hommes, la Patrie reconnaissante.” Great men; a grateful nation. Above it, a woman personifies the nation distributing honors. Women could embody France more readily than enter its national pantheon through their own achievements. The building makes gratitude look permanent; the selection behind it is political. Consider Zola: honoring him recognized his challenge to the state over Dreyfus. At the 1908 admission ceremony, an attacker shot and wounded Dreyfus. A ceremony of national agreement exposed a continuing fracture. Does a nation honor people because they obeyed it, or because they forced it to become better? Curie, Veil and Baker bring science, legal reform and an international biography into its preferred account of itself. Badinter's 2025 admission adds abolition of the death penalty: the argument is still being revised.
-
-Notice: inscription, monumental stairs, female nation and mostly male figures in David d'Angers's pediment. Optional 45–60-minute eight-target raid, plus queue: inscription; pediment; nave's church/civic contrast; Zola/Hugo/Dumas vault; Curie memorials; Veil memorials; Baker cenotaph; Justes de France inscription. Use current onsite visitor map, avoid collecting every vault.
-
-Operations checked: October–March 10:00–18:00, last admission 17:15 (may be earlier under demand), €13. First working Monday opens noon. Standing first-Sunday November rule makes 1 November 2026 free; official free category does not establish compulsory individual advance reservations. Panorama currently closed. Exterior can retain theme if budget or queue rules out entry.
-
-Sources: [CMN history](https://www.paris-pantheon.fr/en/discover/history-of-the-pantheon), [CMN crypt](https://www.paris-pantheon.fr/decouvrir/la-crypte), [Angers pediment identification](https://ow-mba.angers.fr/fr/notice/mba-858-1-fronton-du-pantheon-7199f03f-7300-4f6d-bf24-9e631546e947), [Senate Zola ceremony archive](https://www.senat.fr/connaitre-le-senat/lhistoire-du-senat/dossiers-dhistoire/1906-1908-les-parlementaires-portent-zola-au-pantheon/la-ceremonie.html), [Élysée Badinter ceremony](https://www.elysee.fr/emmanuel-macron/2025/10/05/robert-badinter-au-pantheon), [CMN practical access](https://www.paris-pantheon.fr/visiter/informations-pratiques).
-
-Overlap flags: Revolutionary creation of canon; Scientific Curie; Occupied deportation/resistance occupants; Cosmopolitan Baker; Reads literary graves. This route's subject remains how public recognition changes national membership. No ownership decision.
-
-## Investigation 3 — Hôtel de Ville: historical KEEP; removed by controller
-
-Controller ownership: Route 06 Revolutionary Paris owns this narrated stop. Research below is archival only; Route 05 may pass the square but gives no second narration or scheduled viewing pause here.
-
-Historical and narrative importance strong. Documented: Ballu and Deperthes rebuilt after 1871 in Renaissance idiom; council selected worthy Paris-born figures with exception for Italian Boccador. Paris had municipal councillors but no elected central mayor until restored office in 1977, elected indirectly. Interpretation: symbolic representation and actual political power do not advance together. Free parvis viewing; events can obstruct façade. Upper names need zoom/binoculars. Seine-side garden is optional weekend access, not required.
-
-Validated explainer: Imagine you have never heard “city hall.” Steep roofs, elaborate stone and ranks of statues suggest a palace. Municipal government has been given extraordinary architectural dignity. The apparent age is deceptive: this is a nineteenth-century rebuilding. Republican identity did not require abandoning old grandeur. Find a name beneath a figure: these are selected citizens rather than a royal dynasty. Birth in Paris was the criterion, with an exception for the original Italian architect. Even a local hall of fame needed an immigrant exception. Behind this proud façade, Paris lacked an elected central mayor until 1977. Government-appointed prefects held executive power. The stone celebrates what Paris contributes; the institution asks how much control its inhabitants should have over it. Being represented in an image is different from being represented in government.
-
-Notice Molière/Voltaire niches, names, civic allegories versus portraits, R/F lettering where visible. Do not identify rooftop cities casually or quote unsupported counts. No folklore strengthens this institutional reading.
-
-Sources: [City building chronology](https://www.paris.fr/pages/l-histoire-de-l-hotel-de-ville-en-sept-dates-marquantes-7667); [City historical questions](https://www.paris.fr/pages/parhistoire-repond-a-vos-questions-sur-le-patrimoine-et-l-histoire-de-paris-3568); [September 2026 female façade inventory](https://www.paris.fr/pages/matrimoine-decouvrez-les-6-statues-de-femmes-illustres-sur-la-facade-de-l-hotel-de-ville-36367); [UNESCO heritage](https://whc.unesco.org/fr/atlas-patrimoine-urbain/Paris/).
-
-Overlap: Revolutionary Commune/fire, Occupied Liberation speech very strong; use only brief rebuilding background here. Illusions false-old architectural appearance moderate; Cosmopolitan Boccador moderate; Scientific portraits moderate. No ownership decision.
-
-## Investigation 4 — Palais Bourbon: KEEP
-
-Historical and narrative importance high. Documented façade commissioned under Empire, twelve columns aligned toward bridge/Madeleine instead of actual chamber, seventeen-degree adjustment; royal regimes replaced original imperial pediment. Cortot's surviving relief executed 1838–1841 calls an elite to lawmaking. Royal ministers remain in external statuary. Free public sidewalk view; do not assume stairs/forecourt access. Interior free visits require advance registration and are a separate activity.
-
-Validated explainer: Count twelve columns: a temple-like stage makes government dignified before you hear a word inside. Its architectural trick is alignment: the façade turns toward the bridge and Madeleine while the chamber sits at a different angle behind it. Steps raise the columns above the bridge's hump. Examine the triangle. Napoleon's Austerlitz glory was replaced by the Bourbons' charter, then by the July Monarchy's image of France calling an elite to make laws. Republican representatives inherited that sculpture and royal administrators. Who speaks for France, and how much older authority survives when the speakers change? The Assembly itself relates a legend that Napoleon wanted to fire artillery at the colonnade because he disliked it. Enjoy it as legend, not a verified quotation: even rulers argue with their own scenery.
-
-Notice sightline, raised steps, France/Justice/Force, Athena/Themis, royal ministers, security separation. Facts documented except explicitly labeled Napoleon LEGEND.
-
-Sources: [Assembly façade history](https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/consulat-et-premier-empire/la-nouvelle-facade-du-palais-bourbon); [Assembly sculptures](https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/patrimoine/palais-bourbon-et-hotel-de-lassay/l-histoire-du-palais-bourbon-et-de-l-hotel-de-lassay/statues-et-bas-reliefs); [Assembly Napoleon legend](https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/patrimoine/palais-bourbon-et-hotel-de-lassay/l-histoire-du-palais-bourbon-et-de-l-hotel-de-lassay/les-travaux-realises-sous-le-premier-empire); [Visits](https://www.assemblee-nationale.fr/dyn/visite).
-
-Overlap: Illusions strong engineered façade; Revolutionary medium aristocratic property transformed; Colonial medium Colbert subject to separate focused investigation. No ownership decision.
-
-## Investigation 5 — Nation/Dalou: BORDERLINE; rejected from final geometry
-
-Very strong history and strong distinct story, weaker value on this central route. Labour/blacksmith, Justice, Freedom and Abundance drive a collective Republic, rather than Morice's voting urn. Dalou's Commune participation, London exile, rejected 1879 République competition entry and final Nation bronze in 1899 are documented. Official Jardin de Marianne ordinarily open 24h, free, pedestrian crossings necessary. The two statues differ meaningfully but adding ~4 km creates two opening-scale statements before institutions; retain as alternate eastern/social-rights opening, not filler.
-
-Validated reserve explainer: Look at the people beneath the Republic. Labour is a blacksmith; Justice accompanies the chariot; Freedom guides it. Voting authorizes the Republic, but this moving society asks what carries it forward. Dalou had participated in the Commune and fled to London. His 1879 design lost the République competition, yet the city commissioned it for Nation, completed in bronze in 1899. A man driven out after insurrection returned to make one of the Republic's great public images. Does government only contain conflict, or absorb some aspirations that threatened it? The latter is interpretation based on visible composition and biography.
-
-Notice hammer, Justice, Freedom, lions and Peace/Abundance behind. No meaningful folklore found. Exact 1899 inauguration day unresolved across institutional accounts; year sufficient. Overlap Revolutionary very strong Commune/exile, sculpture strong.
-
-Sources: [Petit Palais interpretation](https://www.petitpalais.paris.fr/en/node/579), [Dalou biography](https://www.petitpalais.paris.fr/decouvrir-la-programmation/expositions/dalou-1838-1902), [Paris Musées competition record](https://www.parismuseescollections.paris.fr/fr/petit-palais/oeuvres/le-triomphe-de-la-republique), [Jardin de Marianne](https://www.paris.fr/lieux/jardin-de-marianne-19517), [official garden hours](https://www.paris.fr/lieux/parcs-jardins-et-bois/tous-les-horaires).
-
-## Investigation 6 — Luxembourg/Sénat: BORDERLINE; optional pause retained
-
-High history, moderate narrative: institutional work invisible but public garden/royal palace juxtaposition useful. Documented residence of Marie de Médicis, later prison/Directoire/upper chambers; garden façade advanced thirty metres for parliamentary rooms under July Monarchy. Senate elected indirectly and represents territorial communities; do not claim this objectively produces better representation.
-
-Validated short explainer: Chairs and strolling make the garden easy to read. The palace was a queen's residence, a prison, then successive governments' home; its façade even moved thirty metres into the garden to make room for parliamentary functions. Inside, the second chamber is elected indirectly through local representatives. Should government hear people only as individual voters, or give their towns and regions another voice? Ordinary public life fills the foreground while a different mechanism of representation operates behind the walls.
-
-Notice axis/basin, royal architecture, informal recreation, gate boundaries. Garden free; 1–15 November 08:00–17:00, then 08:00–16:45. Rue de Vaugirard north exterior fallback has weaker leisure/power contrast: shorten explanation or skip. Interior requires sponsored visits/Heritage Days and is excluded from November walk.
-
-Sources: [Senate building history](https://www.senat.fr/connaitre-le-senat/patrimoine/lhistoire-du-palais-du-luxembourg.html), [elections](https://www.senat.fr/connaitre-le-senat/role-et-fonctionnement/mode-delection-des-senateurs.html), [official garden hours](https://jardin.senat.fr/infos-pratiques/horaires-douverture.html), [Senate visits](https://www.senat.fr/le-senat-et-vous/visiter-le-senat.html). No strengthening folklore found. Overlap Revolutionary prison/Directoire strong; Lovers fountain strong but separate; Occupied possible needs own investigation.
-
-## Architect revision and recommendation
-
-**Controller KEEP as a compact independent daylight route; ownership applied; external Claude QA pending.** Three narrated cores develop one argument: who can participate, whose life embodies the nation, and how representatives exercise public power. Hôtel de Ville belongs to Route 06 and is passing scenery only. Nation remains the rejected eastern alternative; Senate remains optional.
-
-- Title: **Who Gets to Be France? — Paris of the Republic**
-- Vibe: observant, argumentative, monumental with human contradictions.
-- Guide: **Cruce**.
-- Start: République monument; finish: south end of Pont de la Concorde, facing Palais Bourbon.
-- Walking estimate: **6.5–7.5 km direct three-core line**, approximately **7–8 km with Senate garden pause**. Provisionally République→Panthéon 3.7–4.1 km and Panthéon→Palais Bourbon 2.5–2.9 km, plus viewing movement. Removing the municipal narration saves time rather than magically removing the necessary river crossing: the sensible direct street line can still pass its square. These are street estimates, not measured pedestrian routing; Claude must verify crossings and garden entry/exit.
-- Duration: **2½–3½ hours with three substantial narrations and observation**, allow **3–4 hours with lunch/rest or Senate**; optional Panthéon raid adds **45–60 minutes plus queue**. Granada's stop-inclusive pace is a baseline; do not add all ordinary pauses twice.
-- Transit: reach République by Métro from NOC rather than adding lodging mileage automatically. Finish Assemblée nationale line12, or Concorde across bridge; transit home. No transit required inside normal route.
-- Costs: exterior route free; optional Panthéon €13 or standing Nov1 free rule. Reservations handled in separate calendar layer; no booking made.
-
-| Slot | Score | Reason |
+| Franja | Nota /10 | Lectura |
 |---|---:|---|
-| Morning | 9 | Monument reliefs and pediments visible, civic square less congested, garden available. Start around 09:00–10:00 if interior is wanted. |
-| Afternoon | 8 | Equally legible material, but leave enough daylight and reach garden well before 17:00. Museum queue can erode final daylight. |
-| Evening | 4 | Lit façades retain scale but inscriptions/sculpture weaken; garden and optional interior disappear. No specific nocturnal republican gain. |
-| Night | 2 | Most citizenship evidence is visual detail; night leaves a sequence of exterior buildings rather than the complete experience. |
+| Mañana | 9 | Detalle del bronce y de los frontones; margen para observar y elegir interior. |
+| Tarde | 7 | Funciona empezando antes de 13:00; dejar museo si compromete el final. |
+| Noche temprana | 3 | Columnas y masas visibles; relieves/inscripción pierden legibilidad y la transición se enfría. |
+| Noche | 1 | No aporta una escena propia que compense perder detalles; no es la versión elegida. |
 
-### Ordered operational walk
+## Escenas y transferencias
 
-1. **République — core.** Why selected: the urn and female allegory expose the gap between membership promised and franchise granted. Use Spanish script below. Take Rue du Temple, cross by Pont d'Arcole and Petit Pont, then Rue Saint-Jacques toward Panthéon: approximately 3.7–4.1 km. Hôtel de Ville is passing only; Notre-Dame/Sorbonne are transfer scenery. Transition: from those entitled to a vote to those chosen to embody France. Free square; event/security fallback is perimeter viewing.
-2. **Panthéon — core exterior, optional interior raid.** Why selected: national honors are a continuing selection of exemplary lives, including people who challenged the state. Use Spanish script below. Direct westward line via Rue Soufflot/Rue de Vaugirard, Rue du Bac and Rue de l'Université toward Palais Bourbon: approximately 2.5–2.9 km, map validation pending. Optional Senate garden adds viewpoint/entry circulation. Transition: the Republic chooses its dead exemplars, but must also choose living representatives. Eight-target raid and access/budget constraints remain above.
-3. **Luxembourg/Sénat — optional short rest**, between the two final cores. Why selected: territorial representation contrasts with direct electoral mandate. Garden/palace only; no Fontaine Médicis narration. Short Spanish connective below. Allow 10–15 minutes including sitting, respect November gate deadlines; omit first on fatigue or rain.
-4. **Palais Bourbon — core payoff.** Why selected: elected lawmaking occupies a stage constructed by earlier regimes. Use Spanish script below. Public sidewalk near south bridge end; security can require opposite-bank perspective. Conclude with the urn→canon→representative machinery connection, rather than an architectural inventory. Escape at Assemblée nationale; crossing to Concorde is exit movement.
+| Escena | Observación real y tiempo | Papel |
+|---|---|---|
+| République | Pavimento peatonal al sur del monumento; moverse a león/urna y tres alegorías, sin pisar tráfico. 15–20 min. | Promesa del sufragio y exclusión: apertura visible. |
+| Panthéon | Acera occidental, ante el frente de rue Soufflot; inscripción y figura central del frontón, zoom para detalles. 15–20 min. | Reconocimiento nacional como selección que sigue cambiando. |
+| Sénat | Acera norte de rue de Vaugirard frente al acceso 15, sin pasar verja. 5–8 min. | Bisagra entre elección indirecta y directa; no capítulo de jardín. |
+| Palais Bourbon | Acera pública al pie sur del Pont de la Concorde; mirar hacia la fachada de la Asamblea. No escalinata ni recinto. 15–20 min. | Payoff: representantes vivos trabajan en un escenario de autoridad heredado. |
 
-### Infrastructure and degradation
+**Transferencias declaradas:** 3.228 km al Panthéon por pequeñas calles del Marais, Pont Louis-Philippe, Pont Saint-Louis y Pont de l’Archevêché; 0.791 km al Sénat por rue Soufflot/Médicis/Vaugirard; 2.225 km a la Asamblea por Tournon/Seine/Jacob/Université y Saint-Germain. El primer tramo tarda unos 50–60 min con cruces y cuesta arriba al final; es un paseo de transición agradable, sin fingir que cada calle prueba la tesis. El último requiere 35–45 min: llega deliberadamente a un final que sí sostiene el argumento. Las instrucciones y coordenadas están fijadas en navegación.
 
-Food/rest opportunities: cafés/supermarkets around République and Hôtel de Ville, deliberate meal in Latin Quarter before optional raid; Luxembourg chairs only when garden open. These are area opportunities, not verified restaurant bookings. Toilets: use [official Paris toilet map](https://opendata.paris.fr/explore/dataset/sanisettesparis/map/) around Hôtel de Ville/Saint-Martin and Luxembourg; the [city network](https://www.paris.fr/pages/les-toilettes-publiques-a-paris-27216) records a sanisette at 14 Rue Saint-Martin. Check live availability; no unit guaranteed operational. Paid attraction toilet access cannot be assumed without admission.
+Se comparó la línea directa con el rodeo histórico: **7.359 km** heredados y **8.496 km** de una consulta preliminar forzada no son metas ni versiones vigentes. La primera pierna directa ahorra **1.210 km** frente a la preliminar. No se visita Hôtel de Ville para añadir otra explicación: su relato pertenece a Revolucionaria; la base elegida ni siquiera pasa por su parvis. Nation pertenece a esa ruta. Fontaine Médicis y el jardín quedan fuera de esta entrega. Senado cambia del antiguo descanso entre sillas a un breve exterior: el punto anterior estaba en Tournon y no sostenía aquella escena.
 
-Indoor refuge: [BHVP official listing](https://www.paris.fr/lieux/bibliotheque-historique-de-la-ville-de-paris-bhvp-16) is a nearby specialist library east of Hôtel de Ville, but confirm reader access/identification and hours before relying on it. A patronized café is the immediate fallback. Métro escapes: République, Hôtel de Ville, Cluny/Place Monge vicinity for Panthéon, Luxembourg RER B, Assemblée nationale line12. Ordinary line services still require travel-date check.
+## Ritmo y decisiones de bolsillo
 
-Fatigue/rain: remove Senate and museum first; **République→Panthéon** is approximately 3.7–4.1 km before viewing circulation and retains franchise→national belonging. End there if necessary; label this a shortened derivative because representative machinery is lost. Transit may replace the westward transfer only if energy permits the final stop. If outdoors becomes unpleasant, take refuge/return NOC. Lodging mileage counts toward 20k/30k/40k day bands.
+Ejemplo sin interior, inicio 10:00: República hasta 10:20; Panthéon aproximadamente 11:15, observación y agua hasta 11:55; Sénat aproximadamente 12:10; paseo al final y observación hasta 13:10–13:30. La pausa incluye margen de cruces, fotos y cansancio; no existe sesión que obligue a correr.
 
-### Controller flags and unresolved risks
+**Coste base €0**, sin reserva. Llevar agua y un bocadillo o tentempié; comer fuera, en la pausa del Panthéon. Compras opcionales solo si hacen falta: leer precio y fijar **tope €8** para bebida/comida sencilla; no se promete un restaurante concreto ni una carta verificada. V1 cuesta **€13** general, o gratuidad según condición; transporte y comida van aparte. No se ha comprado ni reservado nada.
 
-Controller ownership applied: Hôtel de Ville narrated core goes to Route 06; République, baseline Panthéon and Palais Bourbon belong to Route 05. Route 17's Panthéon pendulum is an alternative variant, not a second full admission/raid. No Fontaine Médicis narration. Nation remains rejected. Senate is optional constitutional contrast. The three-core line requires spoken and mapped QA to confirm that transfers remain worthwhile.
+WC previstos: République 12bv plaza, 2 rue des Quatre-Fils durante el Marais, 58bis boulevard Saint-Michel después del Panthéon y 184bis boulevard Saint-Germain. Registros municipales consultados 5 octubre: en servicio; esto no garantiza el día de la caminata. Malraux es refugio interior gratuito y tiene WC, a 0.791 km del Sénat; **cerrada domingos, lunes y 1/11 y 11/11**, y no abre hasta 13:00 martes/jueves/viernes. Si no está abierta, no esperarla bajo la lluvia: terminar por Odéon. No se promete un refugio interior gratuito en la primera transferencia. Descanso breve en bancos de République si disponibles; después pausa exterior occidental del Panthéon, con escalones solo donde se permita sentarse. Jardín y escalinatas controladas no son infraestructura necesaria.
 
-Recheck event barricades/security, sculpture visibility/works, November garden hours, CMN admission rules and queue conditions near travel. Upper sculptural details need zoom; bring the story down to visible elements if resolution is poor. Exact walking geometry is unverified. Website/photos and machine-readable route will be generated at portfolio level from this canonical artifact. **External Claude evaluation has not occurred; this is architect-revised, not accepted.**
+## Panthéon por dentro — V1
 
-## Revised Spanish on-site scripts
+La entrada conserva la misma caminata y amplía la escena de cómo se fabrica la memoria nacional. Horario publicado octubre–marzo **10:00–18:00**, último acceso **17:15** y posible adelanto por afluencia. Primer lunes laborable del mes abre **12:00**: durante el viaje es **2 de noviembre**. **1 de noviembre de 2026** corresponde al primer domingo gratuito; no se inventa obligación de reservar que la regla oficial no declara. Revisar avisos y billetterie la víspera; no hay plaza o reserva garantizada. Panorama cerrado.
 
-The short English explainers preserved above are research synopses, superseded for delivery by these scripts. Principal historical claims retain the sources in each investigation. Visual/political readings are explicitly interpretation; no invented eyewitness testimony. Deliver with pauses for looking, not while crossing roads. Each core supports approximately 450–900 words; optional Senate is deliberately shorter.
+Decidir a más tardar ante el monumento: estar dispuesto a entrar **antes de 12:30**, con **cola máxima de 20 min** y **60–75 min dentro**. Si no encaja, mantener el capítulo exterior y seguir. El 2/11 no esperar desde las 11 hasta mediodía solo para entrar; elegir otro día para V1 o usar base. El 1/11 la gratuidad no justifica exceder la cola.
 
-### République — la mujer, el león y la urna
+Búsqueda finita con el plano actual del visitante: nave como antigua iglesia/templo cívico; reconocimiento de Zola para unirlo al conflicto de 1908; Curie como honor por mérito propio; cenotafio Baker e inscripción de los Justos para comparar maneras de reconocimiento. Si una sección está cerrada, no dar vueltas buscando un sustituto: conservar los objetos accesibles y el capítulo exterior. No se promete ver cada tumba ni se fija GPS dentro de la cripta. La exposición de Marc Bloch, incluida en el billete y vigente durante el viaje según CMN, es contexto disponible; **no añade otra visita obligatoria** ni sustituye esta selección. El pendulo pertenece a Científica si se quiere una experiencia científica; no se duplica la visita por cuota.
+
+## Degradaciones resueltas
+
+**V0:** lluvia fuerte o fatiga → terminar tras el Panthéon por Luxembourg RER B, 0.467 km, o tras Sénat por Odéon, 0.433 km. Conserva primeras preguntas; pierde el final representativo. Es una derivada parcial, no la base completa.
+
+**V2:** cierre de puentes/entorno de catedral → primera pierna alternativa 3.597 km por Pont au Change y Pont Saint-Michel; total del núcleo 6.613 km. Cruza la Cité occidental, no el sector de Notre-Dame. Conserva los tres capítulos; pierde Marais/islas orientales. Elegir antes de salir de République; si el aviso llega tarde, volver al último cruce abierto y no atravesar un cordón.
+
+**V3:** lluvia sostenida y Malraux verificada abierta → Sénat→Malraux 0.791 + Malraux→Asamblea 1.828 km; núcleo **6.638 km**, +0.394 respecto a base, más 20–30 min de refugio. Si cerrada o ya no hay margen de luz, V0 a Odéon. No convertir un refugio lejano en visita cultural obligatoria.
+
+**V4:** acera sur del final restringida → desde Sénat, desviar por Pont Royal y aceras altas de la ribera norte, **2.623 km** hasta el extremo norte del Pont de la Concorde; núcleo **6.642 km**, salida Concorde **0.531 km**. Ver columnas y relación fachada/puente desde lejos; omitir nombres de esculturas ilegibles. No cruza jardines ni baja a las berges. Si ambos sectores están cerrados o la fachada completamente tapada, V0 o posponer: una narración de memoria no reemplaza una escena invisible.
+
+**V5:** República inaccesible antes de empezar → Arts et Métiers salida 5 rue de Turbigo → Panthéon **2.923 km**, luego dos piernas base; núcleo **5.939 km**. Pierde monumento inicial: usar introducción contextual breve que figura abajo, no fingir observar la urna. Es una derivada con dos capítulos fuertes. Si se puede volver otro día, preferir base completa.
+
+## Guiones para escuchar en el lugar
+
+Leer detenido; dejar silencios para buscar objetos y decidir por dónde caminar. Cada capítulo identifica interpretación y leyenda cuando cambia el registro. No escuchar durante cruces. El breve Sénat y las adaptaciones están dimensionados por su material, sin imponerles 450 palabras.
+
+### A01 — République: la mujer, el león y la urna
 
 Ponte donde puedas ver al león sin tener que acercarte al tráfico. Antes de mirar a la figura de arriba, busca lo que protege el animal. Es una urna electoral. No un cofre con joyas, ni el tesoro de un rey: una caja para votos. El monumento nos propone una relación bastante clara entre fuerza y autoridad. La República necesita fuerza, pero quiere que entendamos que su legitimidad sale de esa caja. Vamos a recorrer París siguiendo esa promesa y viendo qué ocurrió cuando hubo que convertirla en personas, honores y decisiones.
 
@@ -155,7 +84,8 @@ Mira ahora fuera del pedestal. Esta plaza también es un espacio en el que la ge
 
 Nuestro siguiente destino será el Panthéon. Allí cambiaremos de caja: de la urna que recoge votos al edificio que recibe a quienes Francia elige como figuras ejemplares. Llévate una pregunta de aquí. Cuando una comunidad dice todos, ¿está describiendo una realidad o anunciando un trabajo pendiente? Antes de irnos, vuelve a mirar a la mujer y al león. Ya no deberían parecer dos detalles decorativos independientes.
 
-### Panthéon — una patria que elige a sus muertos
+
+### A02 — Panthéon: una patria que elige a sus muertos
 
 Detente donde puedas leer la inscripción del pórtico sin subir a una zona cerrada. «Aux grands hommes, la Patrie reconnaissante»: a los grandes hombres, la patria agradecida. Ahora busca en el frontón la figura femenina que representa a la nación repartiendo honores. Venimos de una mujer en bronce que presidía una urna vedada durante décadas a las mujeres reales. Aquí encontramos otra mujer alegórica, encargada de reconocer a figuras históricas. La repetición nos sirve para preguntar quién puede encarnar a Francia y quién consigue ser reconocido por ella.
 
@@ -167,19 +97,26 @@ Piensa en Émile Zola. Su reconocimiento no celebraba solamente libros. Había d
 
 Vuelve a las columnas. Su orden no garantiza el acuerdo que parecen expresar. Esa es nuestra lectura del lugar: la solemnidad puede dar forma al conflicto sin haberlo terminado. Y aparece una pregunta más incómoda que la lista de nombres célebres: ¿la patria agradece a quienes la obedecieron, o a quienes la obligaron a cambiar?
 
-Marie Curie ingresó por sus propios méritos en 1995. Simone Veil incorpora otra trayectoria de supervivencia y reforma legal. Joséphine Baker, nacida en Estados Unidos, complica una definición estrecha del origen que debe tener una figura nacional francesa; su reconocimiento aquí es un cenotafio. Robert Badinter entró en octubre de 2025, vinculando de nuevo este lugar con la abolición de la pena de muerte. No necesitamos un total de ocupantes: algunas páginas institucionales conservan recuentos desactualizados. Lo importante es que el relato continúa recibiendo capítulos.
+Marie Curie ingresó por sus propios méritos en 1995. Simone Veil incorpora otra trayectoria de supervivencia y reforma legal. Joséphine Baker, nacida en Estados Unidos, complica una definición estrecha del origen que debe tener una figura nacional francesa; su reconocimiento aquí es un cenotafio. Robert Badinter entró en octubre de 2025, vinculando de nuevo este lugar con la abolición de la pena de muerte. En junio de 2026 llegó otro reconocimiento: Marc Bloch, historiador y resistente asesinado por los nazis, acompañado de su esposa Simonne. Sus restos siguen en la Creuse; aquí llegaron cenotafios. No todos los reconocimientos significan traer un cuerpo. Francia puede incorporar una vida a su relato nacional sin trasladar su sepultura. La diferencia importa cuando caminamos por la cripta: una caja con un nombre no nos autoriza a prometer lo que contiene.
 
-Si entramos, llevaremos una búsqueda breve: el contraste entre antigua iglesia y templo cívico, algunos memoriales seleccionados y la inscripción de los Justos de Francia. No una colección completa de sepulturas. Si el presupuesto, la cola o el cansancio aconsejan quedarnos fuera, esta pregunta sigue siendo visible en el pórtico.
+No necesitamos un total de ocupantes. Lo importante es que el relato continúa recibiendo capítulos.
+
+Si entramos, llevaremos una búsqueda breve: el contraste entre antigua iglesia y templo cívico, el reconocimiento de Zola, la tumba de Curie y la diferencia entre un cenotafio como el de Baker y una inscripción colectiva como la de los Justos de Francia. Buscaremos estos lugares con el plano actual, sin convertir la cripta en una colección completa de sepulturas. Si el presupuesto, la cola o el cansancio aconsejan quedarnos fuera, esta pregunta sigue siendo visible en el pórtico.
 
 En République vimos quién podía introducir una papeleta. Aquí vemos quién merece representar la vida de la nación después de morir. Nos falta una tercera elección: quién puede hablar y decidir por los vivos. La Asamblea será el final. Mira una última vez la inscripción. La patria agradecida también es una patria que selecciona.
 
-### Sénat — breve conexión opcional
 
-Mira las sillas y el palacio al mismo tiempo. La vida cotidiana ocupa el primer plano; detrás funciona otra forma de representación. Esta fue la residencia de una reina, pasó por otros usos y se adaptó a sucesivos gobiernos. Bajo la Monarquía de Julio, su fachada avanzó treinta metros hacia el jardín para hacer sitio a funciones parlamentarias. Hasta una frontera que parece inmóvil puede haber cambiado por necesidades políticas.
+### Bisagra — Sénat: dos maneras de escuchar
 
-Los senadores son elegidos indirectamente, mediante un colegio electoral dominado por representantes locales. La idea es dar voz a los territorios y comunidades de Francia. No significa automáticamente que este sistema represente mejor a todos; plantea una opción constitucional distinta. Hemos visto una urna y un lugar de reconocimiento nacional. Aquí podemos preguntar si una república escucha únicamente a personas individuales o también a los lugares en los que viven. Descansa si hay sillas disponibles. Después iremos a la cámara elegida directamente. La Fontaine Médicis pertenece a otro recorrido: nuestra observación hoy es la convivencia entre jardín público y poder parlamentario.
+Quédate en la acera pública de rue de Vaugirard, enfrente del acceso del palacio. La verja marca un límite bastante útil para nuestra pregunta: el edificio puede formar parte de la ciudad y, al mismo tiempo, trabajar con puertas que no están abiertas a cualquiera. Hoy lo leemos desde fuera. No necesitamos entrar para ver que la representación republicana se ha instalado en una casa construida para una reina.
 
-### Palais Bourbon — el escenario y quienes hablan dentro
+Marie de Médicis encargó este palacio en el siglo XVII. Después fue prisión, sede del Directorio y lugar de distintas cámaras. No vamos a recitar todos sus ocupantes. Quédate con la capacidad del edificio para cambiar de función sin dejar de parecer un palacio. El detalle enlaza con el final que nos espera: las instituciones nuevas heredan espacios y formas de autoridad anteriores.
+
+El Senado representa a las colectividades territoriales; sus miembros son elegidos mediante un colegio de otros representantes. Es una elección indirecta. La Asamblea que veremos después se elige directamente. La diferencia plantea dos maneras de escuchar a una comunidad: como conjunto de votantes individuales y como territorio de municipios y regiones. No prueba que una sea automáticamente más justa que la otra.
+
+Venimos de una urna y de un edificio donde se decide a quién honrar. Esta es una bisagra, no otro capítulo monumental. Mira el acceso y las cubiertas un momento; luego volvemos a la calle. Nos falta el lugar donde representantes vivos convierten sus voces en leyes.
+
+### A03 — Palais Bourbon: el escenario y quienes hablan dentro
 
 Busca una posición en la acera pública desde la que puedas ver la fachada sin interferir con controles de seguridad. No necesitamos subir la escalinata. Cuenta las columnas: doce. El conjunto se parece a un templo y quiere ser legible desde lejos. Antes de saber qué se está debatiendo dentro, ya hemos recibido un mensaje de orden y dignidad. Venimos de preguntar quién puede votar y a quién elige la nación para honrar. Aquí llegamos a quienes convierten representación en leyes.
 
@@ -195,4 +132,38 @@ Vuelve a las columnas. Detrás de ese orden exterior hay una cámara destinada a
 
 Ahora podemos unir las tres escenas del recorrido. En République, la urna prometía una participación que dejaba fuera a mujeres reales. En el Panthéon, la nación seleccionaba vidas ejemplares, incluso las de quienes la habían desafiado. Aquí, representantes vivos trabajan dentro de un escenario heredado. La República aparece como algo que se administra, discute y corrige; la igualdad es una exigencia que sus instituciones deben volver concreta. Antes de irte, mira desde el edificio hacia la ciudad. La fachada ordena las columnas. A quienes gobiernan les corresponde algo más difícil: dar una forma justa a las voces que llegan de fuera.
 
-Narration QA: three Spanish cores expanded from investigated material; scripts remain pending spoken rehearsal and external Claude review. No full Hôtel de Ville delivery in this route. No paid admission or booking authorized by this editorial revision.
+
+### Introducción de V5 — sin la escultura inicial
+
+Hoy la plaza no permite comenzar ante el monumento. Conservamos dos preguntas que sí podremos mirar: a quién elige Francia para representar su memoria y quién decide por quienes siguen vivos. La apertura completa relacionaba una República representada como mujer con un sufragio que en 1883 excluía a las mujeres reales. Aquí lo doy como contexto documentado, no como un objeto que tengamos delante. Vamos al Panthéon por la línea de las calles y dejaremos que sus inscripciones se encarguen de la segunda pregunta.
+
+### Adaptación de V4 — el final desde la ribera norte
+
+Quédate en la acera del extremo norte del puente y mira hacia la columnata de la Asamblea. La escala sigue funcionando; el detalle pequeño puede fallar. Lee el guion de Palais Bourbon conservando columnas, orientación y escenario heredado. El frontón puede describirse como historia documentada si no se resuelven sus figuras, pero no busques identificar rostros lejanos ni acerques el cuerpo a un paso cerrado. El hecho de que el edificio deba organizarse para ser visto desde este otro lado ayuda a entender la decisión arquitectónica de Poyet. Cerramos aquí; no necesitamos cruzar para que la última pregunta tenga sentido.
+
+## Evidencia y límites
+
+Las historias proceden de las fuentes institucionales siguientes; las conexiones entre promesa, selección y representación son lectura de Cruce. Única leyenda conservada: la artillería imaginada de Napoleón, recogida explícitamente como tal por la Asamblea. No se inventan testigos ni se atribuyen opiniones a personas presentes.
+
+| ID | Fuente y uso |
+|---|---|
+| S01 | [Ville de Paris: place de la République](https://www.paris.fr/pages/1-lieu-3-histoires-la-place-de-la-republique-33595): 1883, alegorías, relieves y usos de la plaza. |
+| S02 | [Conseil de Paris, 2019](https://a06-v7.apps.paris.fr/a06/jsp/site/Portal.jsp?id_document=148362&page=ods-solr.display_document): lion y sufragio entonces masculino; apoyo institucional a la lectura visible. |
+| S03 | [Assemblée: derecho de voto de las mujeres](https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/deuxieme-guerre-mondiale/l-accession-des-femmes-au-droit-de-vote) y [Éducation nationale: primer voto](https://eduscol.education.gouv.fr/6594/le-29-avril-1945-les-francaises-votent?menu_id=4983): abril1944/abril1945. |
+| S04 | [CMN: historia](https://www.paris-pantheon.fr/en/discover/history-of-the-pantheon): iglesia/funciones cívicas, 1791 y cambios. La cronología final de esa página es antigua; no usar su afirmación de última incorporación. |
+| S05 | [Musées d’Angers: frontón](https://ow-mba.angers.fr/fr/notice/mba-858-1-fronton-du-pantheon-7199f03f-7300-4f6d-bf24-9e631546e947): David d’Angers y Patria femenina distribuyendo honores. |
+| S06 | [Sénat: ceremonia de Zola](https://www.senat.fr/connaitre-le-senat/lhistoire-du-senat/dossiers-dhistoire/1906-1908-les-parlementaires-portent-zola-au-pantheon/la-ceremonie.html): ataque a Dreyfus en 1908. |
+| S07 | [CMN: cripta](https://www.paris-pantheon.fr/decouvrir/la-crypte): elección presidencial, Curie, Baker cenotafio, Justos inscripción. No adoptar recuentos ni su etiqueta de Baker como última entrada. |
+| S08 | [Élysée: Badinter](https://www.elysee.fr/emmanuel-macron/2025/10/05/robert-badinter-au-pantheon): ceremonia 9oct2025 y abolición; la página muestra un encabezado de publicación anterior a la ceremonia, por eso se usa fecha del discurso y texto, no el encabezado. |
+| S09 | [Ville: Marc y Simonne Bloch, 24jun2026](https://www.paris.fr/pages/l-historien-et-resistant-marc-bloch-entre-au-pantheon-35606): entrada23jun, cenotafios y restos que permanecen en Creuse. |
+| S10 | [Sénat: historia del palacio](https://www.senat.fr/connaitre-le-senat/patrimoine/lhistoire-du-palais-du-luxembourg.html) y [elección indirecta](https://www.senat.fr/connaitre-le-senat/role-et-fonctionnement/mode-delection-des-senateurs.html): residencia real reutilizada e instituciones; no se reproduce cronología electoral desactualizada. |
+| S11 | [Assemblée: nueva fachada](https://www.assemblee-nationale.fr/dyn/histoire-et-patrimoine/consulat-et-premier-empire/la-nouvelle-facade-du-palais-bourbon): columnas, desfase17°, escalinata y leyenda etiquetada. |
+| S12 | [Assemblée: esculturas y relieves](https://www2.assemblee-nationale.fr/decouvrir-l-assemblee/patrimoine/palais-bourbon-et-hotel-de-lassay/l-histoire-du-palais-bourbon-et-de-l-hotel-de-lassay/statues-et-bas-reliefs): cambios de frontón/Cortot1838–1841. Página recuperada por índice de búsqueda; fetch directo timeout, sin afirmar lectura completa nueva. |
+| S13 | [CMN: operaciones](https://www.paris-pantheon.fr/visiter/informations-pratiques) y [exposición Bloch](https://www.paris-pantheon.fr/agenda/marc-bloch-l-esprit-de-l-histoire): horario/coste/gratuidad/panorama; agenda contextual. |
+| S14 | [Ville: Malraux](https://www.paris.fr/lieux/bibliotheque-andre-malraux-1691): dirección, WC y cierres específicos1/11–11/11. |
+| S15 | [Datos municipales de sanitarios](https://opendata.paris.fr/explore/dataset/sanisettesparis/map/): registro fechado e incluido en operations JSON; estado no equivale a inspección. |
+| S16 | [Assemblée: visitas](https://www.assemblee-nationale.fr/dyn/visite): interiores requieren inscripción, excluidos; no se presenta la acera como entrada. |
+
+Consultas operativas e históricas realizadas **5 octubre 2026**, conservando la investigación anterior cuando sigue válida. GPX/GeoJSON reproducen Valhalla/OSM, no un levantamiento GPS. Revisión cartográfica de cruces/niveles y puntos contra datos OSM; sin recorrido físico. Fachadas altas pueden necesitar zoom. Las condiciones futuras siguen siendo comprobaciones del día con variantes, no hechos ya inspeccionados.
+
+La investigación histórica previa está en [archivo anterior al cierre](archive/05_before_dod_20261005.md); sus distancias, jardín, QA bloqueante y promesas de navegación no gobiernan esta versión.
