@@ -1,5 +1,7 @@
 # Discovery batch E — Spy, Cosmopolitan North/East, Northwestern Belt
 
+**Resumption addendum, 5 October 2026:** the saved discovery is preserved below. The final addendum corrects the Mare Saint-James destination from a water centroid to a bank-approach pin and supersedes the earlier Northwestern total with **7.809 km**. Additional screened alternatives are retained there. These are architecture recommendations, not DONE deliveries. Under the controlling CLOUD_HANDOFF/v9, seven kilometres is no longer an acceptance requirement; the historical v5 gate language below must not be used to pad or demote valuable compact experiences.
+
 Research and routing: 3 October 2026. This is candidate discovery and an architecture/geometry gate, not narration, a live street survey, or a guarantee of November access. Sources are preferentially municipal, institutional, or primary collection records. Distances come from the anonymous Valhalla OSM endpoint with `costing: pedestrian` and `units: kilometers`; coordinates are public standing/wayfinding points, not invitations to enter diplomatic, school, construction, or ticketed premises.
 
 ## Decisions at a glance
@@ -109,3 +111,45 @@ Batch E earns **three full-walk slots**, but not at equal confidence:
 1. **Cosmopolitan** is the cleanest rescue: the added stop independently passes the theme and the same tested line reaches 7.356 km.
 2. **Northwestern Belt** passes at 7.690 km and finally has the missing metropolitan-edge payoff; its risk is operational path quality, not thematic padding.
 3. **Spy** should pass architecture because Passy is now locatable and legible, Beauharnais remains exact, and geometry already passes. Preserve an explicit operational condition: recheck the Passy inscription and Champs hoarding close to departure. If the Passy inscription is unexpectedly covered or inaccessible, demote/rebuild rather than allowing Mata Hari’s construction wrap to become the sole endpoint evidence.
+
+## Resumption completion — candidate comparisons and geometry correction
+
+### Spy: preserve leads without manufacturing a replacement
+
+The two accepted/conditional candidates above remain the Passy marker and Mata Hari's exact arrest block. Their evidentiary status differs: the registry photograph and society inventory establish an identifiable inscription, **not an October 2026 field inspection**; the 2023 and 2025 municipal construction documents establish earlier work and wrapping, **not the present exposure or November condition of the façade**. Current web retrieval does not change the date of the underlying evidence. Retain Spy as **conditional architecture / operational rebuild**, not a completed validated route.
+
+Two further exact-site leads were screened before routing:
+
+- **93 rue Lauriston, approximately 48.8674194, 2.2881165 — reject as a replacement operation for now.** The former Carlingue headquarters has a commemorative-plaque lead and strong counterintelligence/repression relevance, but this investigation has not established one sufficiently exact document transfer, network arrest or surveillance operation physically anchored to the doorway. The [municipal 2005 plaque authorization](https://a06-v7.apps.paris.fr/a06/jsp/site/Portal.jsp?fq=seance_string%3AJUILLET+2005&id_document=87153&items_per_page=20&page=ods-solr.display_document&query=&sort_name=date&sort_order=asc&terms=) remains a partial lead: retrieval on resumption failed, so it is not presented as freshly reverified. A [2014 report of the plaque's restoration](https://www.leparisien.fr/paris-75/le-93-rue-lauriston-a-retrouve-sa-memoire-15-11-2014-4292583.php) is dated secondary evidence, not proof of present visibility. Strong overlap with Occupied City. No routing promotion merely for a plaque or an extra kilometre.
+- **Ritz, 15 place Vendôme / Chanel–Modellhut — reject.** Chanel's residence and the operation's general biography do not establish a specific operational meeting or exchange at this Paris doorway. A celebrity sleeping address is not an operation. No route test was performed for this theme-failed candidate.
+
+If Passy is covered on the day, retain the surviving substantiated scenes as a compact experience or rebuild from new exact-operation evidence; do not make Mata Hari's inaccessible architectural surface the sole justification. No current hotel view, embassy admission or school access is promised.
+
+### Cosmopolitan: two alternatives pass theme, but CENTQUATRE remains preferred
+
+The three exact production/translation candidates are CENTQUATRE (selected above), Maison des Métallos and La Colline. The following tests use the identical Brady/Bouffes/ICI/Belleville/Dénoyez/Piat pins in the saved CENTQUATRE comparison, avoiding a misleading comparison between different starts.
+
+| Candidate | Evidence and visible/public encounter | Valhalla screen | Decision |
+|---|---|---|---|
+| **Maison des Métallos, 94 rue Jean-Pierre Timbaud**, 48.8673647, 2.3780287 | The [municipal event record](https://www.paris.fr/evenements/darkness-picnic-spectacle-de-dom-114115), updated 17 June 2026 and retrieved 5 October, identifies *Darkness Picnic*, 5–8 November 2026, performed in Italian with French/English surtitles. This is actual translation and collaborative production, not residents treated as scenery. Exterior venue is public; performance admission is separate and availability unverified. | Brady → Bouffes → ICI → Métallos → Belleville → Dénoyez → Piat: **7.228 km**. Legs **1.522 / 0.876 / 3.308 / 0.640 / 0.172 / 0.707 km**. | **Reserve.** Strong event-specific alternative, but ICI→Timbaud goes south before climbing north again to Belleville. Do not add alongside CENTQUATRE merely to lengthen the day. |
+| **La Colline, 15 rue Malte-Brun**, 48.8644164, 2.3973107 | The [theatre's multilingual production page](https://www.colline.fr/un-printemps-travers-le-moyen-orient) explicitly documents multilingual work and Arabic/Levantine and Lebanese performances with French surtitles. The page has spring dates without an explicit year in its displayed text: institutional evidence, **not a verified November programme**. Public façade/programme threshold, paid performance optional. | Brady → Bouffes → ICI → Belleville → Dénoyez → Piat → Colline: **7.592 km**. Legs **1.522 / 0.876 / 2.784 / 0.172 / 0.707 / 1.528 km**. | **Reserve / alternate eastern finale.** Natural southeast extension without a return loop, but it displaces the elevated Belleville ending. Choose only if the concrete translation chapter and actual day programme are stronger than the selected production-hall encounter. |
+
+Both requests used the public Valhalla endpoint on 5 October 2026 with `costing: pedestrian`, `units: kilometers`, ordered coordinates above. Router response proves mapped geometry only. The routes are not access audits, nor tickets. The preferred CENTQUATRE line remains **7.356 km**; if closed on the chosen day, a shorter meaningful version is legitimate under current production rules rather than an automatic failure.
+
+### Northwestern: correct the bank pin, retain the non-looping concept
+
+The original **48.87597, 2.25899** Mare Saint-James pin is a waterbody centroid, not a certified standing position. It must not appear in final navigation as a pond destination. Replace it at discovery level with **48.87650, 2.26000**, an approximate north/east bank-path approach. This is still a routing/observation candidate, not a surveyed bench or exact accessible platform.
+
+Fresh Valhalla tests, 5 October 2026:
+
+- Same eight base coordinates, Batignolles → square → MLK south → MLK north → Saussure PC17 access → Pereire PC17 exit → promenade Pereire → Maillot: **5.164 km**, legs **0.296 / 0.428 / 0.752 / 1.000 / 0.326 / 0.681 / 1.678 km**. This reproduces the earlier baseline on Valhalla rather than mixing an OSRM baseline with new Valhalla legs.
+- Maillot → Parodi retains the saved **0.272 km** mapped leg.
+- Parodi **48.87664, 2.28125** → corrected Mare bank approach **48.87650, 2.26000** → Madrid **48.87411, 2.25497**: **2.373 km**, legs **1.669 + 0.704 km**, router movement time approximately **30 minutes**. The response snaps points to its pedestrian network; this is not proof that a waterside route is dry, paved, lit or gate-free.
+
+[Reproducible corrected extension](https://valhalla1.openstreetmap.de/route?json=%7B%22locations%22%3A%5B%7B%22lat%22%3A48.87664%2C%22lon%22%3A2.28125%7D%2C%7B%22lat%22%3A48.8765%2C%22lon%22%3A2.26%7D%2C%7B%22lat%22%3A48.87411%2C%22lon%22%3A2.25497%7D%5D%2C%22costing%22%3A%22pedestrian%22%2C%22units%22%3A%22kilometers%22%7D).
+
+**Corrected composite total: 5.164 + 0.272 + 2.373 = 7.809 km**, not the earlier 7.690. It preserves the one-way Maillot→constructed-water→designed-gate argument without a park circuit. Accept the architecture, rebuild precise daylight navigation/access before delivery. The small pin correction is not a reason to add another lake or paid attraction. Jardin rail remains a connective reserve; Fondation remains rejected. Historical pavilion records prove historical objects, not open interiors or their current unobstructed appearance. Planned Parodi completion dates do not certify all paths were delivered.
+
+### Final recommendation under the current handoff
+
+**Accept Cosmopolitan's CENTQUATRE architecture and Northwestern's non-looping threshold architecture for production; retain Spy conditionally with a physical-view/access rebuild.** These are researched candidates, not three DONE routes. All work is saved in this file; no narration, closed-route edit, field survey, booking or external review was performed. The earlier v5 distance-pass count is historical and does not control current portfolio completion.
