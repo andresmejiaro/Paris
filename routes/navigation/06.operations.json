@@ -1,0 +1,65 @@
+{
+  "route_id": "06",
+  "version": "06-v1-20261006",
+  "status": "DONE",
+  "reviewed": "2026-10-06",
+  "owner": "Cruce",
+  "narrator": "Cruce",
+  "base": {
+    "start": "Galerie de Montpensier / former cafe de Foy",
+    "finish": "Triomphe de la Republique, Nation",
+    "distance_km": 8.14,
+    "approach_km": 0.247,
+    "exit_km": 0.181,
+    "surface_total_km": 8.568,
+    "duration_minutes": [255, 300],
+    "preferred_start": ["09:00", "10:00"],
+    "latest_start": "12:30",
+    "finish_by": "17:30",
+    "cost_eur": 0,
+    "reservation": "none",
+    "carnavalet_included": false,
+    "henri_galli_included": false
+  },
+  "legs_km": [1.452, 1.276, 1.771, 1.539, 2.102],
+  "stops": [
+    {"id":"R01","name":"Former cafe de Foy / Galerie de Montpensier","lat":48.8648,"lon":2.336,"core":true},
+    {"id":"R02","name":"Concorde / Rouen statue area","lat":48.8663,"lon":2.3211,"core":true},
+    {"id":"R03","name":"Carrousel / former Tuileries palace line","lat":48.8612,"lon":2.332,"core":true},
+    {"id":"R04","name":"Hotel de Ville esplanade","lat":48.8567,"lon":2.351,"core":true},
+    {"id":"R05","name":"Bastille Saint-Antoine side","lat":48.8532,"lon":2.3691,"core":true},
+    {"id":"R06","name":"Triomphe de la Republique / Nation","lat":48.8483,"lon":2.3959,"core":true}
+  ],
+  "checks_on_day": [
+    "Palais-Royal and Tuileries opening and evacuation",
+    "works, events and safe pavement at Concorde, Hotel de Ville, Bastille and Nation",
+    "Bastille public toilet state",
+    "weather and transport service",
+    "Carnavalet hours and target objects only if optional raid selected"
+  ],
+  "services": {
+    "toilet": "Bastille sanisette and Tuileries facilities; check live state and opening",
+    "rest": "Saint-Paul or Bastille outside pedestrian flow; seat not guaranteed",
+    "shelter": "none continuous guaranteed",
+    "water": "carry own",
+    "food": "optional purchase at displayed day-of price"
+  },
+  "variants": [
+    {"id":"V0","trigger":"Palais-Royal closed","action":"exterior Montpensier start","loses":"interior garden comparison"},
+    {"id":"V1","trigger":"Tuileries closed or evacuating","distance_km":1.331,"action":"use rue de Rivoli track","loses":"garden encounter and rest"},
+    {"id":"V2","trigger":"Carnavalet unavailable or no margin","action":"omit optional raid","loses":"optional material corroboration only"},
+    {"id":"V3","trigger":"single square obscured","action":"use first safe perimeter viewpoint or omit affected chapter","loses":"specified physical encounter"},
+    {"id":"V4","trigger":"severe weather or unsafe surface","action":"postpone"},
+    {"id":"V5","trigger":"fatigue, pain or service need","action":"finish at nearest named transit exit"}
+  ],
+  "files": {
+    "canonical":"routes/06_revolutionary_paris.md",
+    "navigation":"routes/navigation/06_navigation.md",
+    "base_gpx":"routes/navigation/06.gpx",
+    "variants_gpx":"routes/navigation/06.variants.gpx",
+    "geojson":"routes/navigation/06.geojson",
+    "evidence":"routes/navigation/06.evidence.json",
+    "operations":"routes/navigation/06_access_operations.md"
+  },
+  "external_review": "after closure"
+}

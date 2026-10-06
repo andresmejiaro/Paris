@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cruce" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>Ruta 19 v1 — Ilusiones centrales</name><time>2026-10-05T00:00:00Z</time></metadata>
+  <wpt lat="48.879170" lon="2.356140"><name>I01 145 rue La Fayette</name></wpt>
+  <wpt lat="48.864120" lon="2.355880"><name>I02 Les Specialistes condicional</name></wpt>
+  <wpt lat="48.860620" lon="2.350310"><name>I03 29 rue Quincampoix</name></wpt>
+  <wpt lat="48.863600" lon="2.337070"><name>I04 Les Deux Plateaux</name></wpt>
+  <trk><name>19_base_LaFayette_PalaisRoyal_3.415km</name><trkseg>
+    <trkpt lat="48.879170" lon="2.356140"/><trkpt lat="48.877900" lon="2.355500"/>
+    <trkpt lat="48.876500" lon="2.354200"/><trkpt lat="48.874400" lon="2.353600"/>
+    <trkpt lat="48.871900" lon="2.354600"/><trkpt lat="48.869000" lon="2.354900"/>
+    <trkpt lat="48.866300" lon="2.355200"/><trkpt lat="48.864120" lon="2.355880"/>
+    <trkpt lat="48.863950" lon="2.353800"/><trkpt lat="48.863400" lon="2.352100"/>
+    <trkpt lat="48.861500" lon="2.352000"/><trkpt lat="48.860620" lon="2.350310"/>
+    <trkpt lat="48.861100" lon="2.347400"/><trkpt lat="48.862000" lon="2.344100"/>
+    <trkpt lat="48.862800" lon="2.341200"/><trkpt lat="48.863200" lon="2.338600"/>
+    <trkpt lat="48.863600" lon="2.337070"/>
+  </trkseg></trk>
+</gpx>

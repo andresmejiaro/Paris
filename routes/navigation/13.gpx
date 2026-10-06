@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cruce" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>Route 13 Water Pressure Flood base</name><desc>Simplified upper-level public-street decision corridor; archived 7.013 km router measurement controls.</desc></metadata>
+  <wpt lat="48.864900" lon="2.275200"><name>W01 Lamartine</name></wpt>
+  <wpt lat="48.848100" lon="2.264800"><name>W02 Jean-Lorrain</name></wpt>
+  <wpt lat="48.846300" lon="2.273200"><name>W03 Auteuil</name></wpt>
+  <wpt lat="48.864000" lon="2.301300"><name>W08 Zouave viewpoint</name></wpt>
+  <wpt lat="48.862600" lon="2.302700"><name>W09 Sewer museum threshold</name></wpt>
+  <trk><name>R13 base simplified upper corridor</name><trkseg>
+    <trkpt lat="48.864900" lon="2.275200"/><trkpt lat="48.860900" lon="2.271900"/><trkpt lat="48.856300" lon="2.269000"/><trkpt lat="48.852000" lon="2.266000"/><trkpt lat="48.848100" lon="2.264800"/>
+    <trkpt lat="48.847500" lon="2.268500"/><trkpt lat="48.846800" lon="2.271300"/><trkpt lat="48.846300" lon="2.273200"/><trkpt lat="48.847155" lon="2.275417"/>
+    <trkpt lat="48.849500" lon="2.277000"/><trkpt lat="48.852700" lon="2.279400"/><trkpt lat="48.854000" lon="2.282400"/><trkpt lat="48.856000" lon="2.287300"/>
+    <trkpt lat="48.858000" lon="2.289200"/><trkpt lat="48.860500" lon="2.292100"/><trkpt lat="48.861600" lon="2.296200"/><trkpt lat="48.864000" lon="2.301300"/>
+    <trkpt lat="48.863300" lon="2.302400"/><trkpt lat="48.862600" lon="2.302700"/>
+  </trkseg></trk>
+</gpx>

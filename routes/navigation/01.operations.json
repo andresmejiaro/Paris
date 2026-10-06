@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "route_id": "01",
+  "version": "01-v1-20261006",
+  "status": "DONE",
+  "reviewed": "2026-10-06",
+  "owner": "Cruce",
+  "narrator": "Aster",
+  "title": "Lovers’ Paris: Who Gets to Tell the Love Story?",
+  "base": {"distance_km": 8.925, "cost_eur": 0, "duration_min": [245, 290], "start_recommended": "10:00–11:15", "latest_start_november": "11:45", "late_start_action": "do not start the full route; defer it or use a declared reduction", "geometry_basis": "five archived Valhalla/OSM pedestrian legs; GPX/GeoJSON are simplified decision corridors, not dense router or surveyed traces"},
+  "stops": [
+    {"id":"L01","name":"Colette, 9 rue de Beaujolais","lat":48.8666,"lon":2.3375,"core":true,"script_words":535},
+    {"id":"L02","name":"Pont des Arts","lat":48.8583,"lon":2.3378,"core":true,"script_words":529,"leg_km":1.348},
+    {"id":"L03","name":"Héloïse–Abélard, 9–11 quai aux Fleurs","lat":48.8538,"lon":2.3506,"core":true,"script_words":516,"leg_km":1.403},
+    {"id":"L04","name":"Fontaine Médicis","lat":48.8496,"lon":2.3372,"core":true,"script_words":523,"leg_km":1.452},
+    {"id":"L05","name":"Musée Rodin exterior","lat":48.8555,"lon":2.3155,"core":true,"script_words":495,"leg_km":2.098},
+    {"id":"L06","name":"Pont de Bir-Hakeim","lat":48.8555,"lon":2.2897,"core":true,"script_words":538,"leg_km":2.622}
+  ],
+  "separate_raids": [
+    {"name":"Musée de la Vie romantique","in_base":false,"cost_eur":0},
+    {"name":"Musée Rodin interior","in_base":false,"duration_min":[45,65],"current_full_price_eur":14,"condition":"route started no later than 10:15; arrive before 14:30; leave by 15:45; verify admission and displayed works; always continue to Bir-Hakeim"}
+  ],
+  "variants": [
+    {"id":"V1","trigger":"fatigue before L04","finish":"Luxembourg","loses":"L05–L06"},
+    {"id":"V2","trigger":"fatigue after L04","finish":"Varenne","loses":"Bir-Hakeim payoff"},
+    {"id":"V3","trigger":"wind, severe rain or Bir-Hakeim restriction","finish":"permitted Passy-side viewpoint or cancel chapter","loses":"under-viaduct experience"},
+    {"id":"V4","trigger":"quai aux Fleurs frontage inaccessible","finish":"continue to L04","loses":"close medallion inspection"},
+    {"id":"V5","trigger":"broad central closure or severe fatigue","finish":"Bir-Hakeim via uncharted transport","loses":"continuous walk and middle chapters"}
+  ],
+  "day_checks": ["Palais-Royal and Luxembourg access","works and barriers","weather, wind and flood","WC and refuge","return transport","Rodin conditions only if raid selected"],
+  "distance_rounding_note": "published rounded legs sum to 8.923 km; authoritative archived whole-query result is 8.925 km",
+  "claims_not_made": ["field inspection","dense router polyline in GPX","GPS survey","booking or purchase","audio rehearsal","external review","website publication"]
+}

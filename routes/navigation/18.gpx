@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cruce" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>Route 18 Canal Changes Jobs 18-v1-20261006</name><desc>Valhalla routed decision line 7.077 km; signs and legal open ways prevail.</desc></metadata>
+  <wpt lat="48.847300" lon="2.367500"><name>C01 Arsenal public bank</name></wpt>
+  <wpt lat="48.868200" lon="2.366800"><name>C02 Temple open-canal threshold</name></wpt>
+  <wpt lat="48.874000" lon="2.363800"><name>C03 Recollets locks</name></wpt>
+  <wpt lat="48.883900" lon="2.369000"><name>C04a Rotonde bassin threshold</name></wpt>
+  <wpt lat="48.889200" lon="2.373500"><name>C04b Quai de Seine public bank</name></wpt>
+  <wpt lat="48.890800" lon="2.390000"><name>C05 Grande Halle forecourt</name></wpt>
+  <trk><name>Route18_base_router_7.077km</name><trkseg>
+    <trkpt lat="48.847300" lon="2.367500"/><trkpt lat="48.850200" lon="2.368300"/><trkpt lat="48.853200" lon="2.369100"/>
+    <trkpt lat="48.856700" lon="2.370600"/><trkpt lat="48.860000" lon="2.371500"/><trkpt lat="48.864300" lon="2.369500"/><trkpt lat="48.868200" lon="2.366800"/>
+    <trkpt lat="48.871000" lon="2.365000"/><trkpt lat="48.874000" lon="2.363800"/><trkpt lat="48.879000" lon="2.366200"/><trkpt lat="48.883900" lon="2.369000"/>
+    <trkpt lat="48.886500" lon="2.371000"/><trkpt lat="48.889200" lon="2.373500"/><trkpt lat="48.891800" lon="2.378000"/><trkpt lat="48.892200" lon="2.383500"/><trkpt lat="48.890800" lon="2.390000"/>
+  </trkseg></trk>
+</gpx>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cruce — Paris route 12 variants" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>Ruta 12 — conectores y variantes</name><desc>Independent tracks; never sum all. Distances are planning references, not field survey.</desc></metadata>
+  <trk><name>Llegada_LedruRollin_M01</name><desc>0.469 km</desc><trkseg><trkpt lat="48.851644" lon="2.376077"/><trkpt lat="48.850900" lon="2.376800"/><trkpt lat="48.849800" lon="2.377700"/><trkpt lat="48.848900" lon="2.378300"/></trkseg></trk>
+  <trk><name>Salida_M04_LesHalles</name><desc>0.351 km</desc><trkseg><trkpt lat="48.862800" lon="2.342800"/><trkpt lat="48.862700" lon="2.344700"/><trkpt lat="48.862430" lon="2.346720"/></trkseg></trk>
+  <trk><name>Escape_M02_Temple</name><desc>0.438 km</desc><trkseg><trkpt lat="48.863000" lon="2.361900"/><trkpt lat="48.864400" lon="2.361500"/><trkpt lat="48.866500" lon="2.360600"/></trkseg></trk>
+  <trk><name>V2_M01_Bastille</name><desc>1.282 km archived Valhalla distance; Thursday/Sunday only</desc><trkseg><trkpt lat="48.848900" lon="2.378300"/><trkpt lat="48.850400" lon="2.376900"/><trkpt lat="48.852300" lon="2.374700"/><trkpt lat="48.854500" lon="2.372400"/><trkpt lat="48.856500" lon="2.370600"/></trkseg></trk>
+</gpx>

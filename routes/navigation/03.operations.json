@@ -1,0 +1,63 @@
+{
+  "route_id": "03",
+  "title": "Los muertos se hacen públicos",
+  "subtitle": "Espectáculos, espíritus y un cuerpo político",
+  "status": "DONE",
+  "version": "03-v10-20261005",
+  "review_date": "2026-10-05",
+  "producer": "Cruce",
+  "narrator": "Noctámbulo",
+  "timezone": "Europe/Paris",
+  "field_verified": false,
+  "external_review": "After closure; not performed",
+  "canonical_document": "routes/03_ghosts_revolution_nineteenth.md",
+  "navigation_document": "routes/navigation/03_navigation.md",
+  "operations_document": "routes/navigation/03_access_operations.md",
+  "gpx": "routes/navigation/03.gpx",
+  "variants_gpx": "routes/navigation/03.variants.gpx",
+  "geojson": "routes/navigation/03.geojson",
+  "evidence": "routes/navigation/03.evidence.json",
+  "cost_eur": 0,
+  "reservation_required": false,
+  "decision_polyline_km": 1.086,
+  "real_walking_planning_band_km": [1.3, 1.8],
+  "duration_minutes": [105, 135],
+  "recommended_start": "09:30-13:30",
+  "last_start_by_published_close": {
+    "17:30": "14:45",
+    "18:00": "15:15"
+  },
+  "exit_target_minutes_before_close": 30,
+  "canonical_order": ["main_gate", "robertson", "kardec", "victor_noir", "gambetta_gate"],
+  "points": [
+    {"id":"main_gate","label":"Porte principale","latitude":48.859969,"longitude":2.389222,"role":"entry"},
+    {"id":"robertson","label":"Robertson, division 8","latitude":48.859933,"longitude":2.390947,"role":"story"},
+    {"id":"kardec","label":"Allan Kardec, division 44","latitude":48.862320,"longitude":2.394350,"role":"story"},
+    {"id":"victor_noir","label":"Victor Noir, division 92","latitude":48.860819,"longitude":2.396543,"role":"story"},
+    {"id":"gambetta_gate","label":"Porte Gambetta","latitude":48.863384,"longitude":2.397162,"role":"exit"}
+  ],
+  "access": {
+    "base": "Free public cemetery during published opening hours",
+    "evacuation": "Begins 15 minutes before closure; no admission from then",
+    "toilets": ["Porte principale", "Porte du Repos", "Porte Gambetta"],
+    "food": "Picnic prohibited; eat outside",
+    "audio": "No amplified sound; scripts delivered quietly",
+    "accessibility": "No step-free or wheelchair-accessible chain certified"
+  },
+  "variants": [
+    {"id":"V0","trigger":"fatigue or rain after Robertson","result":"return to main gate; Robertson only"},
+    {"id":"V1","trigger":"path to division 8 closed","result":"staff-confirmed public detour; otherwise V0/V3"},
+    {"id":"V2","trigger":"tomb not found in 10 minutes, ceremony, barrier or conservation","result":"skip without intrusion; degraded route and Gambetta exit"},
+    {"id":"V3","trigger":"general/weather closure, under two hours, unusable gates","result":"do not enter; postpone"},
+    {"id":"V4","trigger":"fatigue/rain after Victor Noir","result":"direct Gambetta exit; all three stories retained"}
+  ],
+  "day_checks": [
+    "Live City cemetery hours and exceptional weather closure",
+    "RATP/IDFM service and usable station entrance",
+    "Actual opening of main and Gambetta gates",
+    "Visibility and respectful public-path access at all three tombs",
+    "Working toilets at entry/exit",
+    "Remaining light and exit margin"
+  ],
+  "trace_note": "Decision polyline checked against municipal plan; not a routed survey. Stay on visible paths and obey barriers/staff; straight device segments never authorize crossing graves."
+}

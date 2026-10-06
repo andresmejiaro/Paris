@@ -1,0 +1,60 @@
+{
+  "route_id": "12",
+  "version": "12-v1-20261005",
+  "status": "DONE",
+  "reviewed": "2026-10-05",
+  "narrator": "Cruce",
+  "base": {
+    "days": ["Wednesday", "Saturday"],
+    "start": "Aligre/Beauvau",
+    "finish": "Bourse de Commerce exterior",
+    "distance_km": 4.214,
+    "approach_km": 0.469,
+    "exit_km": 0.351,
+    "surface_total_km": 5.034,
+    "duration_minutes": [180, 220],
+    "preferred_start": ["08:00", "08:25"],
+    "latest_start": "08:40",
+    "cost_eur": 0,
+    "reservation": "none",
+    "market_circulation_included": false
+  },
+  "stops": [
+    {"id":"M01","name":"Aligre/Beauvau","lat":48.848900,"lon":2.378300,"core":true},
+    {"id":"M02","name":"Marche des Enfants Rouges","lat":48.863000,"lon":2.361900,"core":true,"condition":"producer session checked on arrival"},
+    {"id":"C03","name":"rue Montorgueil contextual passage","lat":48.864600,"lon":2.347700,"core":false},
+    {"id":"M04","name":"Bourse de Commerce exterior","lat":48.862800,"lon":2.342800,"core":true}
+  ],
+  "checks_on_day": [
+    "Aligre outdoor and Beauvau actual operation",
+    "Enfants Rouges producer presence",
+    "open legal entrances and safe stopping positions",
+    "11 November holiday exception if proposed",
+    "weather, toilet and transport service"
+  ],
+  "services": {
+    "toilet": "sanisette 37 rue Berger; check live state; no market toilet promised",
+    "rest": "place des Vosges exterior only if open, dry and seating available",
+    "shelter": "partial market cover during opening; none continuous guaranteed",
+    "water": "carry own",
+    "food": "optional purchase at displayed day-of price"
+  },
+  "variants": [
+    {"id":"V0","trigger":"one Aligre component closed","loses":"street-versus-hall comparison"},
+    {"id":"V1","trigger":"producer absent","loses":"time-specific producer encounter"},
+    {"id":"V2","trigger":"Thursday or Sunday alternative","distance_km":1.282,"loses":"producer, contested-use and wholesale chapters"},
+    {"id":"V3","trigger":"Bourse inaccessible or obscured","loses":"architectural and system-scale finale"},
+    {"id":"V4","trigger":"heavy rain, ice or alert","action":"postpone"},
+    {"id":"V5","trigger":"fatigue, crowding or service need","action":"finish at nearest named transit exit"}
+  ],
+  "files": {
+    "canonical":"routes/12_market_morning.md",
+    "navigation":"routes/navigation/12_navigation.md",
+    "base_gpx":"routes/navigation/12.gpx",
+    "variants_gpx":"routes/navigation/12.variants.gpx",
+    "geojson":"routes/navigation/12.geojson",
+    "evidence":"routes/navigation/12.evidence.json",
+    "operations":"routes/navigation/12_access_operations.md"
+  },
+  "external_review": "after closure"
+}

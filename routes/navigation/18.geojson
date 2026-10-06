@@ -1,0 +1,8 @@
+{
+  "type":"FeatureCollection",
+  "name":"route18_18-v1-20261006",
+  "features":[
+    {"type":"Feature","properties":{"kind":"base_decision_line","routed_distance_km":7.077,"router":"Valhalla pedestrian, 2026-10-03"},"geometry":{"type":"LineString","coordinates":[[2.3675,48.8473],[2.3691,48.8532],[2.3715,48.86],[2.3668,48.8682],[2.3638,48.874],[2.369,48.8839],[2.3735,48.8892],[2.39,48.8908]]}},
+    {"type":"Feature","properties":{"kind":"stops"},"geometry":{"type":"MultiPoint","coordinates":[[2.3675,48.8473],[2.3668,48.8682],[2.3638,48.874],[2.369,48.8839],[2.3735,48.8892],[2.39,48.8908]]}}
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "route_id":"15",
+  "version":"15-v1-20261005",
+  "status":"DONE",
+  "reviewed":"2026-10-05",
+  "narrator":"Cruce",
+  "base":{"start":"Bouquinistes, quai de Conti","finish":"Salle Ovale, 5 rue Vivienne","distance_km":1.684,"approach_km":0.184,"exit_km":0.210,"surface_total_km":2.078,"duration_minutes":[155,195],"days":["Tuesday","Wednesday","Thursday","Friday","Saturday"],"preferred_start":["11:00","13:30"],"latest_start":"14:00","cost_eur":0,"reservation":"none"},
+  "stops":[
+    {"id":"B01","name":"Bouquinistes, quai de Conti","lat":48.856910,"lon":2.341330,"core":true,"condition":"use an actually open stall"},
+    {"id":"B02","name":"Bibliotheque Mazarine","lat":48.857270,"lon":2.337400,"core":true,"condition":"visitor badge, physical ID, 44 stairs"},
+    {"id":"B03","name":"Librairie Jousseaume","lat":48.866730,"lon":2.339550,"core":true,"condition":"shop and gallery open"},
+    {"id":"B04","name":"Salle Ovale","lat":48.868100,"lon":2.338550,"core":true,"condition":"access open; seat not guaranteed"}
+  ],
+  "checks_on_day":["weather, wind and river crossings","an open bouquiniste stall","Mazarine exceptional agenda and access","Jousseaume and galerie Vivienne opening","Salle Ovale access and occupancy","crossings, toilet and transport status"],
+  "services":{"toilet":"follow BnF signs or check official Paris public-toilet map; no live guarantee","rest":"Salle Ovale seat only if available","shelter":"interiors and galerie only during actual access","water":"carry own","food":"not required; optional purchase only"},
+  "variants":[
+    {"id":"V0","trigger":"stalls closed, strong rain or wind","action":"start B02 on wet route","loses":"outdoor living trade"},
+    {"id":"V1","trigger":"Mazarine closed, no ID or mobility barrier","action":"5-7 minute exterior account","loses":"historic collection interior"},
+    {"id":"V2","trigger":"Jousseaume closed or impracticable","action":"exterior only if visible","loses":"protected commercial comparison"},
+    {"id":"V3","trigger":"galerie Vivienne closed","distance_km":0.214,"action":"external bypass","loses":"Jousseaume"},
+    {"id":"V4","trigger":"Salle Ovale closed","action":"postpone if known; otherwise partial finish","loses":"reading payoff"},
+    {"id":"V5","trigger":"two essential interiors fail","action":"end partial route at named metro"},
+    {"id":"V6","trigger":"fatigue, pain, toilet need or delay","action":"nearest named escape"}
+  ],
+  "files":{"canonical":"routes/15_paris_reads.md","navigation":"routes/navigation/15_navigation.md","base_gpx":"routes/navigation/15.gpx","variants_gpx":"routes/navigation/15.variants.gpx","geojson":"routes/navigation/15.geojson","evidence":"routes/navigation/15.evidence.json","operations":"routes/navigation/15_access_operations.md","archive":"routes/archive/15_paris_reads_pre_done_20261005.md"},
+  "external_review":"after closure"
+}

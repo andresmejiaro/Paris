@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cruce" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>03 Los muertos se hacen públicos</name><desc>03-v10-20261005. Línea de decisión cartográfica; permanecer en caminos visibles y obedecer barreras/personal.</desc></metadata>
+  <wpt lat="48.859969" lon="2.389222"><name>03 Entrada principal</name></wpt>
+  <wpt lat="48.859933" lon="2.390947"><name>03 Robertson div. 8</name></wpt>
+  <wpt lat="48.862320" lon="2.394350"><name>03 Allan Kardec div. 44</name></wpt>
+  <wpt lat="48.860819" lon="2.396543"><name>03 Victor Noir div. 92</name></wpt>
+  <wpt lat="48.863384" lon="2.397162"><name>03 Salida Gambetta</name></wpt>
+  <trk><name>03_base_main_Robertson_Kardec_Noir_Gambetta_1.086km_decision_line</name><trkseg>
+    <trkpt lat="48.859969" lon="2.389222"/><trkpt lat="48.860100" lon="2.389550"/><trkpt lat="48.860040" lon="2.390000"/><trkpt lat="48.859933" lon="2.390947"/>
+    <trkpt lat="48.860450" lon="2.391200"/><trkpt lat="48.860950" lon="2.391550"/><trkpt lat="48.861350" lon="2.391900"/><trkpt lat="48.861700" lon="2.392500"/><trkpt lat="48.861950" lon="2.393100"/><trkpt lat="48.862150" lon="2.393750"/><trkpt lat="48.862320" lon="2.394350"/>
+    <trkpt lat="48.862350" lon="2.394800"/><trkpt lat="48.862250" lon="2.395300"/><trkpt lat="48.861850" lon="2.395650"/><trkpt lat="48.861400" lon="2.396000"/><trkpt lat="48.861000" lon="2.396350"/><trkpt lat="48.860819" lon="2.396543"/>
+    <trkpt lat="48.860900" lon="2.397000"/><trkpt lat="48.861350" lon="2.397250"/><trkpt lat="48.862000" lon="2.397350"/><trkpt lat="48.862650" lon="2.397300"/><trkpt lat="48.863384" lon="2.397162"/>
+  </trkseg></trk>
+</gpx>

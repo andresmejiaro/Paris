@@ -1,0 +1,31 @@
+{
+  "route_id": "06",
+  "route_version": "06-v1-20261006",
+  "retrieved_date": "2026-10-06",
+  "crs": "WGS84",
+  "on_ground_verified": false,
+  "geometry": {
+    "source": "routes/discovery_batch_d.md; Valhalla/OpenStreetMap pedestrian measurement",
+    "distance_km": 8.14,
+    "archived_unrounded_total_km": 8.147,
+    "published_legs_km": [1.452, 1.276, 1.771, 1.539, 2.102],
+    "delivery_geometry": "simplified public-street reference trace; not a new router response",
+    "license": "OpenStreetMap contributors, ODbL"
+  },
+  "sources": [
+    {"scene":"palais_royal","type":"official","urls":["https://parcoursrevolution.paris.fr/fr/points-interet/98-camille-desmoulins-et-les-orateurs-du-palais-royal","https://www.culture.gouv.fr/actualites/quatre-cents-ans-d-histoire-s-au-domaine-national-du-palais-royal","https://www.domaine-palais-royal.fr/visiter/informations-pratiques"],"claims":"speech site, revolutionary public life, current seasonal opening"},
+    {"scene":"concorde","type":"municipal","urls":["https://parcoursrevolution.paris.fr/fr/points-interet/44-la-guillotine","https://parcoursrevolution.paris.fr/fr/quartiers/12-le-quartier-de-la-place-de-la-concorde"],"claims":"approximate execution position, scaffold movements and selected names"},
+    {"scene":"tuileries","type":"institutional","urls":["https://parcoursrevolution.paris.fr/fr/points-interet/62-le-retour-du-roi-aux-tuileries-et-la-chute-de-la-monarchie","https://histoire-image.org/etudes/chute-royaute","https://collections.louvre.fr/ark:/53355/cl010067563"],"claims":"1792 attack, later representation and lost palace line"},
+    {"scene":"hotel_de_ville","type":"municipal_museum","urls":["https://parcoursrevolution.paris.fr/en/points-of-interest/47-the-hotel-de-ville-headquarters-of-the-parisian-revolution","https://www.paris.fr/pages/l-histoire-de-l-hotel-de-ville-en-sept-dates-marquantes-7667","https://www.parismuseescollections.paris.fr/en/node/153297"],"claims":"repeated political threshold, rebuilt facade and Lamartine representation"},
+    {"scene":"bastille","type":"official_institutional","urls":["https://www.elysee.fr/la-presidence/la-fete-nationale-du-14-juillet","https://gallica.bnf.fr/essentiels/repere/prise-bastille-1789","https://parcoursrevolution.paris.fr/fr/points-interet/3-les-pierres-de-la-bastille-des-objets-de-memoire","https://www.colonne-de-juillet.fr/decouvrir/histoire-de-la-colonne-de-juillet","https://www.colonne-de-juillet.fr/decouvrir/une-colonne-chargee-de-symboles"],"claims":"1789 function and fall, memory objects, 1830 column and iconography"},
+    {"scene":"nation_dalou","type":"municipal_museum","urls":["https://www.parismuseescollections.paris.fr/de/node/228117","https://www.petitpalais.paris.fr/decouvrir-la-programmation/expositions/dalou-1838-1902","https://cdn.paris.fr/paris/2020/09/16/f12191087c738e2f327156340b015615.pdf","https://parcoursrevolution.paris.fr/en/neighborhoods/15-the-place-de-la-nation-and-its-neighborhood"],"claims":"commission, 1889/1899 chronology, iconography, Dalou and Commune, place names"},
+    {"scene":"optional_carnavalet","type":"official_museum","urls":["https://www.carnavalet.paris.fr/le-nouveau-parcours","https://www.carnavalet.paris.fr/collections/la-bastille-oeuvre-executee-dans-un-bloc-de-pierre-provenant-de-la-bastille?page=1","https://www.carnavalet.paris.fr/visiter/informations-pratiques?page=9"],"claims":"candidate objects and current general visitor conditions; display not guaranteed"},
+    {"scene":"services","type":"municipal","urls":["https://www.paris.fr/pages/les-toilettes-publiques-a-paris-27216"],"claims":"municipal public-toilet inventory; live operation not guaranteed"}
+  ],
+  "limits": [
+    "No field inspection, reservation, purchase, voice rehearsal or external review",
+    "Construction, barriers, toilet operation, displays and transport remain day conditions",
+    "GPX and GeoJSON are simplified reference lines; the archived router measurement controls distance",
+    "Interpretive readings are identified in the spoken scripts and are not attributed as source claims"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "route_id":"01",
+  "reviewed":"2026-10-06",
+  "sources":[
+    {"claim":"Palais-Royal winter hours, free access and no public toilets","url":"https://www.domaine-palais-royal.fr/visiter/informations-pratiques","checked":"2026-10-06"},
+    {"claim":"Luxembourg half-month November hours","url":"https://jardin.senat.fr/infos-pratiques/horaires-douverture.html","checked":"2026-10-06"},
+    {"claim":"Fontaine Médicis history and sculpture","url":"https://jardin.senat.fr/histoire-patrimoine/patrimoine/la-fontaine-medicis/lhistoire-de-la-fontaine-medicis.html","checked":"2026-10-06"},
+    {"claim":"Rodin hours, €14, free first Sunday Oct–Mar, toilets, loans warning","url":"https://www.musee-rodin.fr/preparer-sa-visite/informations-pratiques","checked":"2026-10-06"},
+    {"claim":"Claudel interpretation and independent work","url":"https://www.musee-rodin.fr/ressources/rodin-et-artistes/camille-claudel","checked":"2026-10-06"},
+    {"claim":"Bir-Hakeim construction, two levels, renaming and wedding/photo use","url":"https://www.paris.fr/pages/le-pont-bir-hakeim-retrouve-une-seconde-jeunesse-cet-ete-8169","checked":"2026-10-06"},
+    {"claim":"Pont des Arts locks and present bridge context","url":"https://www.paris.fr/pages/a-la-decouverte-des-ponts-parisiens-les-plus-romantiques-18806","checked":"2026-10-06"}
+  ],
+  "geometry":{"source":"routes/geometry_batch_b.md","query_date":"2026-10-03","service":"Valhalla/OSM pedestrian","legs_km_rounded":[1.348,1.403,1.452,2.098,2.622],"rounded_legs_sum_km":8.923,"whole_query_km":8.925,"limitation":"navigation geometries are simplified decision corridors; no dense shape was retained"}
+}

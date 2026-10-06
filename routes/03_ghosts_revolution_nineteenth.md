@@ -1,7 +1,55 @@
-> **Narrator correction — Andrés, 3 October 2026:** Cruce owns all route design, research, selection, verification, navigation and complete script preparation. Rumbo narrates Coulée Verte; Hilo narrates Medieval Devils; Miga narrates the affordable Paris flavours route. These are narrator assignments, not delegated work. No companion research or response is awaited. This overrides earlier commission/author/reviewer wording below.
+> **DONE — versión 03-v10-20261005, revisada el 5 de octubre de 2026.**
+> Esta es la versión elegida para el viaje y cumple los criterios de aceptación bajo control del agente.
+> Comprobaciones del día: horario/avisos meteorológicos, apertura de puertas, visibilidad y acceso respetuoso a las tres sepulturas, aseos y transporte.
+> Variantes operativas: [V0–V4 y apoyos](navigation/03_access_operations.md) · [navegación fija](navigation/03_navigation.md) · [GPX](navigation/03.gpx).
+> Revisión externa por varios modelos y feedback: posterior al cierre.
+
+> **Auditoría interna Cruce — 6 octubre 2026:** narración, operaciones, geometría y variantes conformes. El material histórico incrustado se reclasificó como anexo documental no operativo para que sus estimaciones y propuestas descartadas no puedan confundirse con la ejecución cerrada. Sin cambio de ruta ni versión.
+
+# 03 — Los muertos se hacen públicos
+
+**Subtítulo:** espectáculos, espíritus y un cuerpo político · **Narrador:** Noctámbulo · **Estado:** DONE · **Versión:** 03-v10-20261005 · **Revisión:** 2026-10-05.
+
+Experiencia compacta protegida, gratuita y diurna dentro de Père-Lachaise. La longitud responde a tres objetos y no a una cuota: puerta principal → Robertson (div. 8) → Allan Kardec (div. 44) → Victor Noir (div. 92) → puerta Gambetta. La línea de decisión cartográfica mide **1.086 km**; hay que presupuestar **1.3–1.8 km reales** por curvas de caminos, búsqueda dentro de divisiones y ajustes alrededor de ceremonias. Los accesos desde Philippe-Auguste y hacia métro Gambetta son exteriores y se contabilizan aparte. Duración elegida: **1 h 45–2 h 15**, incluidos tres guiones de 5–7 minutos, observación, orientación, pendiente y margen de salida.
+
+La tesis cerrada es sencilla: el siglo XIX hizo públicas distintas relaciones con los muertos. Robertson fabricó apariciones; Kardec organizó como doctrina comunicaciones atribuidas a espíritus; el monumento político de Victor Noir recibió después deseos de fertilidad y amor. Hechos, creencias y folklore cambian de registro dentro de cada guion. No se promete aparición, devoto, ofrenda ni ritual visible.
+
+## Ejecución elegida
+
+| Orden | Llegada WGS84 | Qué se experimenta | Tiempo |
+|---|---|---|---:|
+| Entrada | 48.859969, 2.389222 | Porte principale; tomar plano y comprobar la hora efectiva de evacuación. | 5–10 min |
+| 1 · Robertson | 48.859933, 2.390947 | Relieves de fantasmagoría y globo; guion «Fabricar un regreso». | 15–20 min |
+| 2 · Allan Kardec | 48.862320, 2.394350 | Dolmen, busto y, solo si existen, ofrendas; guion «La muerte no tiene por qué ser silencio». | 15–20 min |
+| 3 · Victor Noir | 48.860819, 2.396543 | Gisant, sombrero y cambios de pátina; guion «El monumento al que cambiaron la pregunta». | 15–20 min |
+| Salida | 48.863384, 2.397162 | Porte Gambetta; WC y salida a transporte. | 15–25 min desde Noir |
+
+Inicio recomendado **09:30–13:30**; último inicio conservador **14:45** con cierre 17:30 o **15:15** con cierre 18:00. La evacuación comienza quince minutos antes y el objetivo es cruzar Gambetta treinta minutos antes del cierre publicado. No se inicia si quedan menos de dos horas. El cementerio es de 43 ha, accidentado y con decenas de kilómetros de caminos; el plano descargado y las placas de división son parte de la navegación, no una ayuda opcional.
+
+La llegada exacta, nombres de ejes, instrucciones entre todas las escenas, cuentas, enlaces de mapa y límites de la traza están en [03_navigation.md](navigation/03_navigation.md). Horarios, normas, aseos, refugio, costes, transporte, V0–V4 y controles del día están en [03_access_operations.md](navigation/03_access_operations.md). El [JSON operativo](navigation/03.operations.json), [GeoJSON](navigation/03.geojson), [GPX base](navigation/03.gpx), [GPX de variantes](navigation/03.variants.gpx) y [registro de evidencia](navigation/03.evidence.json) usan la misma versión y puntos.
+
+## Guiones canónicos
+
+Los tres guiones de ejecución son los que figuran más abajo bajo «Guiones canónicos en español»: Robertson, Allan Kardec y Victor Noir. Se leen en voz baja desde camino público, sin pisar concesiones ni tocar monumentos. Una ceremonia, personal del cementerio o alguien recogido tiene prioridad absoluta: esperar, pasar a la siguiente escena o usar V2. Las acotaciones entre corchetes no se recitan.
+
+## Decisiones de cierre
+
+- Nerval, Capucines, Picpus y Montparnasse no pertenecen a la base ni a una variante: añadirlos convertiría una experiencia densa en traslado o repetición.
+- Noctámbulo narra de día; «paranormal» describe el asunto cultural, no una promesa de oscuridad o fenómeno.
+- La ruta no es un juego, búsqueda del tesoro ni sesión espiritista. No usa altavoz, velas, comida, alcohol, contacto con tumbas ni recreación de rituales.
+- La línea GPX fija los hitos y ejes de decisión contra el plano municipal; dentro de una división se obedecen caminos, cierres, placas y personal. Sus segmentos rectos no autorizan atravesar sepulturas. Por esa razón se declara una banda real y no una falsa distancia de red al metro.
+- No hay inspección de campo ni revisión externa simuladas. Las incertidumbres permitidas tienen acción y final concretos en V0–V4.
+
+---
+
+## Anexo documental no operativo
+
+> **No ejecutar ninguna ruta, distancia, horario, preludio o alternativa descrita en este anexo.** Se conserva únicamente porque contiene la investigación y los tres guiones fuente. La única ejecución autorizada es la definida en «Ejecución elegida», [navegación](navigation/03_navigation.md) y [operaciones](navigation/03_access_operations.md): puerta principal → Robertson → Kardec → Victor Noir → Gambetta, 1,086 km de línea de decisión y 1,3–1,8 km reales previstos. En particular, Nerval, Picpus, Montparnasse y cualquier aproximación central quedan fuera.
+
+El cuerpo siguiente conserva la investigación, descartes y guiones que sustentan la entrega. Donde diga «pending», «candidate», «estimate only» o proponga un preludio, manda el cierre anterior.
 
 <!-- CRUCE CURRENT STATE: 2026-10-03; controlling production decision v9 -->
-> **Current working state: The Dead Become Public — Protected priority compact experience.** Distance: about 2.5–4 km. Canonical Robertson→Kardec→Victor Noir→Gambetta exit. Integrate full scripts against calibration. v7 cross-city extension is a workbench only. Daylight cemetery operation. External QA and visitor-ready delivery remain pending. See [production reset](cruce_production_reset_v9.md). The older body below preserves research and earlier decisions; it does not override this notice.
+> **Estado histórico previo al cierre.** Las cifras, pendientes y propuestas que siguen no son instrucciones vigentes. El bloque DONE superior y los archivos operativos enlazados controlan la experiencia.
 
 # 03 — Ghosts of Revolution and the Nineteenth Century
 

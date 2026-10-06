@@ -1,57 +1,26 @@
-> **Narrator correction — Andrés, 3 October 2026:** Cruce owns all route design, research, selection, verification, navigation and complete script preparation. Rumbo narrates Coulée Verte; Hilo narrates Medieval Devils; Miga narrates the affordable Paris flavours route. These are narrator assignments, not delegated work. No companion research or response is awaited. This overrides earlier commission/author/reviewer wording below.
+# Ruta 06 — París revolucionario: cuando la calle tomó la palabra
 
-<!-- CRUCE CURRENT STATE: 2026-10-03; controlling production decision v9 -->
-> **Current working state: Revolutionary Paris — Strong candidate.** Distance: 8.140 km. Use Nation/Dalou after Bastille. Integrate its full narration and remove Henri-Galli as the distance repair. See discovery_batch_d.md. External QA and visitor-ready delivery remain pending. See [production reset](cruce_production_reset_v9.md). The older body below preserves research and earlier decisions; it does not override this notice.
+Autoría, investigación, narración y operaciones: Cruce. Revisión: 6 octubre 2026.
 
-# Revolutionary Paris — Cuando la calle tomó la palabra
+> **DONE — versión 06-v1-20261006, revisada el 6 octubre 2026.**
+>
+> Esta es la versión elegida para el viaje y cumple los criterios de aceptación bajo control del agente.
+>
+> Comprobaciones del día: apertura y evacuación de Palais-Royal/Tuileries; obras o barreras en Concorde y las plazas; estado de la sanisette; meteorología y transporte. Carnavalet solo si se elige la incursión opcional y se confirman horario y salas.
+>
+> Variantes operativas: V0–V5 en [operaciones](navigation/06_access_operations.md) y [trazas](navigation/06.variants.gpx).
+>
+> Revisión externa por varios modelos y feedback: posterior al cierre.
 
-Priority: S. Research date: 1 October 2026. Bounded source/narration/operations audit corrected: 3 October 2026. Controller **KEEP as an independent compact daytime route**; external Claude QA remains pending. This is a working researched route, not an externally accepted itinerary.
+## Versión elegida
 
-## Identity and operational envelope
+**Palais-Royal → Concorde → Carrousel/Tuileries → Hôtel de Ville → Bastille → Nation/Dalou.** La ruta sigue cómo la calle pasa de hablar a derribar autoridad, ocupar sus umbrales, fabricar memoria y finalmente convertirse en una imagen oficial de la República. Cruce narra los seis capítulos. Nation pertenece aquí; Henri-Galli queda excluido del recorrido y de las variantes porque invertía la marcha solo para reparar distancia.
 
-Thesis: Parisian public spaces repeatedly changed from places of commerce and circulation into places where crowds tried to seize authority. Follow the transformation from speech to force, from liberation to punishment, and from rebellion to its official memorial.
+La traza peatonal fijada mide **8,140 km**: 1,452 + 1,276 + 1,771 + 1,539 + 2,102 km (los tramos redondeados suman 8,140). Aproximación desde la boca seleccionada de Palais-Royal–Musée du Louvre: **0,247 km**; salida del monumento a una boca exterior de Nation: **0,181 km**; total planificado en superficie **8,568 km**. Jardines, interiores y circulación alrededor de los monumentos no se añaden. [Navegación](navigation/06_navigation.md) · [GPX](navigation/06.gpx) · [GeoJSON](navigation/06.geojson) · [operaciones](navigation/06_access_operations.md) · [JSON](navigation/06.operations.json).
 
-Vibe: concrete political drama, uneasy victories, people acting under pressure. Guide: **Cruce**. Narrations are in Spanish to match the user's Granada delivery benchmark.
+Duración **4 h 15–5 h**: marcha 115–135 min, seis narraciones/observación 115–135 min y pausa 25–30 min. Inicio preferido **09:00–10:00**, último inicio **12:30**, final antes de **17:30** en otoño. Exterior **€0**, sin reserva. La incursión Carnavalet es opcional, gratuita y añade 45–60 min; no se cuenta en distancia ni duración base.
 
-Start: garden of Palais-Royal, Galerie de Montpensier beside former café de Foy. Finish: Bastille, with optional short continuation to the recovered Bastille masonry in square Henri-Galli. Main walking estimate **7–8 km**, including garden approaches and the return from Concorde through Tuileries. This is a planning estimate, not measured turn-by-turn routing. Optional Carnavalet raid and Henri-Galli continuation bring approximately **8–9 km**. Do not add kilometres merely to reach 12–14 km.
-
-Duration: **3½–4½ hours** outdoors with substantial stories, food/rest pause and crossings; **4½–5½ hours** with Carnavalet. The Granada 3.3 km/h pace already includes ordinary stops; the longer estimate explicitly accounts for five unusually substantial narrations and pauses. Transit to start is normally preferable from NOC Bessières; lodging approach and return are outside these figures. Métro Palais-Royal–Musée du Louvre at start; Concorde, Louvre/Palais-Royal, Hôtel de Ville, Saint-Paul and Bastille provide exits. Verify services nearer the chosen day.
-
-Core cost: **€0**. Optional Carnavalet permanent collection also free. No paid monument entry required. Gardens: Palais-Royal **08:00–20:30 October–March**; Tuileries **07:00–21:00 in October, 07:30–19:30 in November**, evacuation 30 minutes before closure. Official present schedule governs over older press releases. [Palais-Royal practical information](https://www.domaine-palais-royal.fr/visiter/informations-pratiques), [Louvre current hours](https://www.louvre.fr/visiter/horaires-tarifs).
-
-| Slot | Score | Reason |
-|---|---:|---|
-| Morning | 9 | Arcades, erased palace footprint, monument inscriptions and pavement traces are most legible in daylight. Start after 08:00; optional museum from 10:00. |
-| Afternoon | 8 | Equally coherent; museum possible if reached before 17:15, but late-autumn light fades and paid/rest decisions must not rush the finale. |
-| Evening | 5 | Exterior architecture survives; garden closing windows and reduced visibility weaken spatial evidence. Complete western garden anchors before closure. |
-| Night | 2 | Palais-Royal/Tuileries unavailable late; darkness contributes little to the essential argument. City-square exteriors alone would be a defective substitute. |
-
-## Phase 1 proposal and questions
-
-Initial broad proposal tested a cross-century route with Palais-Royal, Tuileries, Concorde, Hôtel de Ville, Saint-Merri, Carnavalet, Bastille and a possible Commune tail to Père-Lachaise. Candidate significance was established through the City of Paris's historian-led Parcours Révolution, museum collections and institutional histories.
-
-| Candidate and approximate coordinates (lat,lon) | Signal/type | Geographic role and initial question |
-|---|---|---|
-| Palais-Royal former café de Foy, 48.8648, 2.3360 | Strong / speech, political memory | Opening north of Louvre. Can an exact gallery and a concrete 12 July 1789 scene replace generic revolution trivia? |
-| Concorde near statue of Rouen, 48.8663, 2.3211 | Strong / execution and renaming | Western limit. Can revolutionary sovereignty and its costs be told without reproducing haunted monarchy route? |
-| Tuileries former palace line/Carrousel, 48.8612, 2.3320 | Strong / insurgent attack | Return east through garden. Is the vanished palace spatially legible enough for 10 August 1792? |
-| Hôtel de Ville esplanade, 48.8567, 2.3510 | Strong / municipal insurrection | Eastern transition. Can 1789, 1848, 1871 form an authored scene rather than a date list? |
-| Saint-Merri/rue du Cloître-Saint-Merri, 48.8590, 2.3500 | Medium / 1832, literary memory | Small detour. Would actual uprising evidence beat the familiar Les Misérables association? |
-| Carnavalet, 48.8573, 2.3625 | Strong / objects and memory | Optional indoor raid between municipal square and Bastille. Which 6–10 targeted objects materially improve evidence? |
-| Bastille/column, 48.8532, 2.3691 | Strong / 1789 and 1830 | Finale east. What remains; does the July Column commemorate the event most visitors assume? |
-| Père-Lachaise Mur des Fédérés, 48.8598, 2.3970 | Strong / Commune repression | Exceptional eastern tail, not convenient. Does its payoff justify distance and cemetery closing, and duplicate ghost route 03? |
-
-## Investigation and revision record
-
-The Bastille anchor was delegated to a genuine Waypoint Investigator. The other four were researched and authored directly by the Route Architect after runtime slot denial, then independently reviewed by that investigator in a separate turn. Review corrections strengthened factual scenes, source attribution, physical image dependencies and operational timings. This is a real review, not four claimed single-waypoint investigation passes.
-
-Current decisions: Palais-Royal KEEP; Tuileries KEEP; Concorde KEEP; Hôtel de Ville KEEP; Bastille KEEP; investigator result integrated. Each has a distinct dramatic function and a substantial site-specific narration below. The 3 October bounded audit checked the exact Concorde neighbourhood URL, corrected movement/naming chronology, strengthened the Guards françaises and Lamartine scenes, verified both Tuileries historical image links, and made garden clearance/toilet locations operational. Source-derived passages are distributed across the relevant institutional records; original spatial interpretation is not presented as a quotation or additional documentary claim.
-
-Saint-Merri: **SKIP in this route**. Not rejected as historically irrelevant; the proposed version depended too heavily on a literary association and would add another uprising before the main anchors had room to breathe. It needs independent research if revived for Cinema/Reads. Père-Lachaise: **SKIP as an appended tail**. A strong Commune memorial deserves its own geographical logic; adding it after this route would change the finale and overlap route 03's strongest setting. Commune material retained at Hôtel de Ville is a different civic-conflict use and does not claim cemetery ownership.
-
-Carnavalet: **optional evidence raid**, not a sixth required lecture. Henri-Galli: optional physical epilogue. Invalides arms raid: not included; geographically expensive additional western loop, though historically important. Procope, Marat's bath, Danton's statue and Conciergerie: not included; their person/court stories would dilute this route's public-space thesis and create additional Lovers/Republic/Ghosts overlaps.
-
-Final order deliberately goes Palais-Royal→Concorde→Tuileries→Hôtel de Ville→[Carnavalet optional]→Bastille. The short western return is justified: it places revolutionary execution before the narration looks back at the destruction of royal authority. The guide explicitly signals the time change. Walking order is thematic, not a false chronology.
+Los seis guiones completos se ejecutan en el orden siguiente. Las posiciones, calles, servicios y respuestas ante fallos están cerrados en los archivos de navegación.
 
 ## 1. Palais-Royal — Una mesa se convierte en tribuna
 
@@ -74,10 +43,6 @@ El Palais-Royal tenía una ventaja particular para quienes se oponían al gobier
 Por eso quiero que te quedes con esta contradicción al empezar. La revolución no necesitó esperar a que existiera un lugar puro, diseñado para ella. Encontró margen en un lugar que ya existía y lo utilizó.
 
 Mira una última vez las sillas y las terrazas, si están montadas. Hoy puedes elegir dónde sentarte. Aquel día alguien eligió dónde ponerse de pie. Nuestra ruta comienza con esa diferencia de altura. Más adelante veremos qué ocurre cuando una ciudad que aprende a hablar descubre también cómo obligar a escuchar.
-
-### On site, transition, risks
-
-Notice: covered gallery, repeated shop bays, relationship of tables to open garden; contrast with institutional buildings around it. Walk via rue Saint-Honoré to Concorde (approximately 1.5–1.8 km). The next scene asks what becomes of the authority the speaker helped challenge. Overlap: Lovers' Colette/Palais-Royal and Illusions have legitimate alternate uses; controller should compare actual narration and avoid scheduling repeated long visits.
 
 ## 2. Concorde — La autoridad condenada a muerte
 
@@ -105,10 +70,6 @@ Vuelve a buscar Rouen. La estatua es posterior a la ejecución y nos ayuda a loc
 
 Antes de marcharnos, di el nombre actual en voz baja: Concorde. Y recuerda cuántas decisiones irreconciliables se hicieron aquí antes de poder llamarla así. Vamos a volver hacia el palacio desde el cual el rey había intentado gobernar. Ya sabemos cómo acabó su vida. Falta entender cómo perdió el lugar desde el que ejercía el poder.
 
-### On site, transition, risks
-
-Notice Rouen statue, scale/open sight lines, contrast of current ornament with absent scaffold, historical naming. Return through Tuileries towards Carrousel (about 1.2 km). This is an explicit 1793→1792 rewind. High overlap with Ghosts 03 monarchist memory: this version owns political judgement, not apparition or martyr folklore. Concorde public works and event barriers can change pavement access; current 2026 municipal planning is not proof of any exact November closure. Recheck [city restrictions](https://www.paris.fr/pages/les-perturbations-a-paris-31469).
-
 ## 3. Tuileries/Carrousel — El palacio que se convirtió en obstáculo
 
 Core. Decision KEEP. Selected because the palace's missing line is a legible political absence, and 10 August 1792 turns debate into an armed overthrow. Approximate 48.8612, 2.3320. Position near Carrousel with Flore and Marsan wings visible; explain the lost western closing range using a historical image rather than claiming an extant palace.
@@ -134,10 +95,6 @@ Es una pintura posterior al combate, y no garantiza cada gesto. Mira cómo oblig
 El palacio sobrevivió a 1792. Su desaparición física pertenece a otra insurrección: fue incendiado durante la Comuna de 1871 y sus ruinas se retiraron después. Vamos a encontrar de nuevo esa fecha al llegar al Ayuntamiento. [City of Paris: Commune sites](https://www.paris.fr/pages/les-150-ans-de-la-commune-les-lieux-emblematiques-2-5-16972).
 
 Mira por última vez el hueco que deja la fachada desaparecida. Para nosotros facilita una perspectiva hermosa. Para entender la ruta, úsalo como una ausencia incómoda: primero se tomó el edificio; mucho después ardió; finalmente la ciudad hizo que pudieras mirar a través de donde había estado.
-
-### On site, transition, risks
-
-Notice Flore/Marsan wings, open east-west sight line, difference between standing Louvre and lost Tuileries. Walk east on street-level riverside pavements via Louvre/Pont-Neuf to Hôtel de Ville (about 2.4–2.8 km, exact crossing choice pending). Avoid riverbank descent in poor weather; no necessary underground access. Garden benches provide rest. **Free toilets at two exact entrance areas:** Tuileries entrance on **place de la Concorde**, and **rue de Rivoli entrance facing rue du 29 Juillet**. Both depend on garden access; verify service onsite. [Louvre official facilities](https://www.louvre.fr/visiter/horaires-tarifs). November clearance begins **19:00**, October **20:30**. Complete the crossing and exit before these times; do not plan entry at clearance time. If clearance has begun, use rue de Rivoli to reach the Carrousel instead of relying on the garden shortcut. Story overlap with Illusions concerns erased architecture; this route's primary claim is armed political action.
 
 ## 4. Hôtel de Ville — Ganar la plaza, perder la ciudad
 
@@ -167,18 +124,6 @@ Empezamos junto a una mesa convertida en tribuna. Hemos pasado por el cadalso y 
 
 Antes de seguir, vuelve a mirar la puerta. Imagina el esfuerzo que requiere cruzarla como gobernante cuando has llegado hasta ella como insurgente. En la Bastilla veremos cómo se conmemora ese instante de victoria. Ya sabemos que ninguna inscripción puede conservarlo entero.
 
-### On site, transition, risks
-
-Notice reconstructed historical style, central doors, square dimensions and proximity to Seine; avoid presenting any current window as Louis XVI's authentic 1789 window. Walk rue François-Miron/rue Saint-Antoine toward Bastille (approximately 1.7–2 km), optional Carnavalet detour adds about 0.6 km plus internal walking. Food, cafés and rest in Saint-Paul. Overlap Occupied: 1944 liberation would be a distinct strong claim but is deliberately omitted here. Republic: civic legitimacy alternative strong, however this narration centres insurgent seizure and loss. Controller assigns this square to Revolutionary Paris; Republic uses its other civic anchors.
-
-## Optional Carnavalet evidence raid
-
-Decision KEEP optional; useful rain refuge and material confirmation, not mandatory for route identity. Target **6–8 objects/object groups**, allow 45–60 minutes then leave. Candidate hunt grounded in official permanent-path descriptions: Hubert Robert Bastille image; original Bastille keys/irons; carved demolition stone model; Bastille-shaped stove; Declaration-of-Rights representation; portrait/personal object of Camille Desmoulins; Bailly bust; one image/object concerning 1792. These are candidates to confirm with staff/current gallery map, not guarantees that every object is simultaneously on display. [Official permanent pathway](https://www.carnavalet.paris.fr/le-nouveau-parcours), [Bastille stone model record](https://www.carnavalet.paris.fr/collections/la-bastille-oeuvre-executee-dans-un-bloc-de-pierre-provenant-de-la-bastille?page=1).
-
-Short on-site instruction: «Después de caminar por edificios ausentes, busca algo pequeño que sí haya sobrevivido. Una llave. Un fragmento de piedra. Un modelo fabricado con los escombros. La demolición de la Bastilla produjo también recuerdos transportables. No estamos completando un museo: estamos comprobando qué tuvo que conservar una ciudad para que una victoria no dependiera únicamente de palabras.»
-
-Open Tuesday–Sunday 10:00–18:00; permanent collection free/no individual reservation; last entry 17:15, rooms start closing 17:45. Closed Mondays and 1 Jan/1 May/25 Dec; operating hours must be checked for the final date. Toilet/access arrangements should be checked onsite, museum not treated as a guaranteed late-night refuge. [Current practical information](https://www.carnavalet.paris.fr/visiter/informations-pratiques?page=9).
-
 ## 5. Bastille — La victoria que no terminó la historia
 
 Core. Decision KEEP, independently investigated. Approximate 48.8532, 2.3691; start on the Saint-Antoine side outside Café Français, 3 place de la Bastille, then approach the column's pedestrian area. Selected because a monument celebrating one king's accession became the setting for the destruction of his throne. The fortress occupied the Saint-Antoine/Henri-IV side; do not equate its footprint with the column's exact position.
@@ -189,7 +134,7 @@ Quédate delante del Café Français y busca el plano de la fortaleza en la fach
 
 Después mira al suelo.
 
-La Bastilla que has venido a ver hay que recuperarla entre una placa, marcas en el pavimento y el nombre de la plaza. La enorme columna cuenta otra historia. Guarda esa diferencia: es la clave de nuestra última parada.
+La Bastilla que has venido a ver hay que recuperarla entre una placa, marcas en el pavimento y el nombre de la plaza. La enorme columna cuenta otra historia. Guarda esa diferencia: es la clave de esta penúltima escena.
 
 El 14 de julio de 1789, la multitud necesitaba pólvora. La fortaleza era una prisión real y también guardaba munición. Los insurgentes habían conseguido armas; sin pólvora, las armas servían de poco frente a las tropas cuya intervención temían. Las negociaciones con el gobernador de Launay no resolvieron la situación. Hubo combate. Cuando la fortaleza se rindió, dentro había siete presos. [Élysée: historia del 14 de julio](https://www.elysee.fr/la-presidence/la-fete-nationale-du-14-juillet).
 
@@ -219,26 +164,45 @@ Entonces llegó febrero de 1848.
 
 París se levantó de nuevo. Luis Felipe huyó. Sacaron su trono de las Tullerías, lo trajeron hasta aquí y lo quemaron al pie del monumento que él había encargado. Otros 196 muertos de la revolución fueron depositados bajo la columna.
 
-Antes estuvimos donde había un palacio. Terminamos donde había una prisión. Entre ambos, hemos visto palabras que se convierten en acción, acción que se convierte en violencia y violencia que se convierte en relato oficial.
+Antes estuvimos donde había un palacio. Aquí estamos donde había una prisión. Entre ambos, hemos visto palabras que se convierten en acción, acción que se convierte en violencia y violencia que se convierte en relato oficial.
 
 Sigue mirando la cadena rota.
 
 El rey que pagó para colocarla sobre París acabó expulsado por otra revolución. Y su trono ardió debajo de su propia celebración de la libertad.
 
-### On site, transition, access and optional epilogue
+## 6. Nation/Dalou — Cuando la revolución aprende a posar
 
-Notice plaque and interpreted pavement footprint, bronze shaft/gilded 1830 names, Liberty torch and chain, space around Arsenal basin. Exterior free; upper column not accessible. Necropolis tour is a separate French-language 1½-hour activity, currently €13 and weekends 14:30/16:30 with booking; starts at Hôtel de Sully 10 minutes early. It is excluded from this budget-conscious walking route rather than presented as a quick museum raid. [Current official practical information](https://www.colonne-de-juillet.fr/visiter/informations-pratiques).
+Ponte en la zona peatonal central y rodea el grupo solo por los pasos abiertos. No cruces carriles para conseguir una vista frontal. Busca primero el carro y los dos leones. Encima avanza la República; delante, el Genio de la Libertad guía el movimiento. A los lados aparecen el Trabajo y la Justicia; detrás, la Paz reparte frutos. No son personas sorprendidas en una jornada revolucionaria: son alegorías construidas para decir qué debía mover a una nación. [Ficha de la obra, Paris Musées](https://www.parismuseescollections.paris.fr/de/node/228117).
 
-Optional physical epilogue: relocated Liberty Tower stones at square Henri-Galli, near Seine/Pont de Sully (roughly 0.8–1 km from Bastille; reversing west). They are authentic relocated material, not an in-place preserved prison tower. Better visit as a short connective stop before Bastille if the walking line passes near them; do not force the epilogue after a satisfying finale. [City historian on Bastille's revolutionary memories](https://www.paris.fr/pages/mathilde-lemerre-la-bastille-est-un-concentre-des-memoires-revolutionnaires-du-19e-siecle-7411).
+Venimos de la Bastilla, donde una fortaleza desaparecida dejó marcas y recuerdos fabricados. Aquí no falta el objeto. Es enorme, visible y deliberado. La pregunta cambia: ¿qué hace un gobierno cuando quiere apropiarse de la energía que antes derribaba gobiernos?
 
-Overlap: Republic has a strong claim to 1880 commemoration; Paris Below a conditional necropolis claim. This route owns recurrence of insurrection and the burnt throne. No supernatural material invented. Final investigator decision KEEP.
+En 1879, París convocó un concurso para un monumento a la República. Ganaron los hermanos Morice y su obra terminó en la plaza de la República. El proyecto de Jules Dalou no ganó, pero gustó lo suficiente para que la ciudad encargara una versión monumental destinada a esta plaza. La versión de yeso se mostró aquí durante el centenario de 1889; el bronce definitivo se inauguró en 1899. No confundas ambas fechas ni presentes este metal como testigo de 1789. [Historia urbana de Nation, Ville de Paris](https://cdn.paris.fr/paris/2020/09/16/f12191087c738e2f327156340b015615.pdf).
 
-## Controller handoff, uncertainty and deliverables
+Dalou conocía otra revolución desde dentro. Había participado en la Comuna de 1871, se exilió en Londres y regresó tras la amnistía de los comuneros. Después recibió encargos de la Tercera República. Esa biografía no convierte cada figura del monumento en un mensaje secreto de la Comuna. Sí hace visible una consecuencia política: un artista perseguido por una insurrección podía acabar dando forma pública al régimen que quiso presentarse como heredero estable de las revoluciones. [Petit Palais: Dalou, escultor de la República](https://www.petitpalais.paris.fr/decouvrir-la-programmation/expositions/dalou-1838-1902).
 
-Independent route identity passes: this route tells **how crowds act on power**. Republic tells institutions/rights/citizenship; Occupied tells occupation-era choices; Colonial Afterlives tells empire. Keeping those separate requires source-backed distinctions, not title distinctions. Revolutionary has exceptionally strong morning capability and should be preserved in a portfolio congested with night routes.
+Da unos pasos y compara los cuerpos. El Trabajo no aparece sentado ante un escritorio: es un herrero. La Libertad no espera detrás del carro: tira de la escena hacia delante. Los leones prestan fuerza; la Justicia acompaña; la Paz promete abundancia. Esta identificación procede de la ficha del museo. La lectura que hacemos ahora es nuestra: el bronce ordena fuerzas conflictivas para que todas avancen en la misma dirección.
 
-Recommended ownership claims: Palais-Royal speech site, lost Tuileries palace, Concorde political-execution reading, Hôtel de Ville insurrection square, Bastille. Highest conflict: Concorde with Ghosts 03; Hôtel de Ville with Republic 05. Repeated short transit through a shared square is not automatically a duplicate narrated stop. Full repeated narrations require controller justification.
+La plaza también cambió de nombre. Antes fue place du Trône; durante la Revolución se llamó place du Trône-Renversé. Recibió el nombre de Nation el 14 de julio de 1880. El monumento no cayó sobre un lugar vacío: se instaló donde cada régimen ya había intentado volver legible el espacio. La remodelación contemporánea ha ampliado la zona peatonal central, pero no garantiza que hoy no haya obras, actos o barreras; manda el acceso real.
 
-Failure/degradation: skip museum first; in cold/wet weather travel between western anchors and Hôtel de Ville by transit rather than enduring an exposed river walk. If the main outdoor experience stops being enjoyable, use Carnavalet during opening hours or return to NOC. Do not substitute an anemic all-exterior night version just because this file exists.
+Mira hacia atrás, en dirección a la larga rue du Faubourg-Saint-Antoine por la que hemos llegado. Nuestra ruta comenzó con una mesa utilizada sin permiso como tribuna. Terminó con un encargo municipal de toneladas de bronce. Entre ambas imágenes hay una diferencia esencial: la primera intentaba abrir una acción; la última intenta fijar su significado.
 
-Distance and coordinates remain approximate. Exact pedestrian map, segment verification and current works must precede acceptance. No Claude evaluation has been performed; **external QA pending**. Machine-readable geometry and photo-bearing route website remain downstream artifacts, not falsely claimed complete here. Narration is independently reviewable in this file and must also be evaluated for spoken rhythm, repetition and factual integrity.
+No hace falta decidir que una es verdadera y la otra falsa. La mesa dependía del momento y desapareció. El monumento sobrevivió, pero necesita que alguien reconozca sus figuras y recuerde quién decidió reunirlas. La revolución puede romper símbolos. También puede convertirse en uno.
+
+Antes de salir, busca una última vez al Genio de la Libertad tirando de los leones. En Bastille vimos una cadena rota colocada por un rey que después fue expulsado. Aquí vemos a la República representándose en marcha. Ese movimiento está inmóvil. La calle, en cambio, continúa alrededor.
+
+### Posición, transición y límites
+
+El capítulo empieza en el borde peatonal central, aproximadamente **48.848300, 2.395900**, con una vista oblicua segura; la posición exacta se adapta a pasos y barreras. Se observa el grupo desde el espacio abierto, sin subir al basamento ni prometer una cara despejada por vegetación o instalación temporal. La salida elegida de métro Nation queda a 0,181 km. El monumento y su exterior son gratuitos y no requieren reserva.
+## Operación cerrada
+
+El Domaine national publica Palais-Royal **08:00–20:30 del 1 de octubre al 31 de marzo**, acceso libre. Tuileries publica cierres estacionales y evacuación previa; comprobar el horario vigente el día y usar rue de Rivoli si el jardín está cerrado. Ninguno de los demás capítulos exige interior. Carnavalet no rescata una salida demasiado tarde: solo se usa durante su horario confirmado y con V2.
+
+WC previsto: sanisette municipal en el entorno de Bastille, ubicación exacta en navegación y estado a comprobar; los aseos de Tuileries dependen de apertura. Refugio continuo no garantizado. Pausa principal en Saint-Paul/Bastille fuera del flujo; sentarse o consumir es opcional. Llevar agua y una capa de lluvia. No hubo inspección de campo, compra, reserva, ensayo de voz, evaluación externa ni publicación web.
+
+## Evidencia, límites y cierre
+
+Las fuentes primarias e institucionales permanecen enlazadas dentro de cada guion. [El registro de evidencia](navigation/06.evidence.json) identifica alcance, procedencia y límites; [operaciones](navigation/06_access_operations.md) fija V0–V5. Los relatos posteriores y las imágenes de reconstrucción se nombran como tales; las lecturas espaciales de Cruce no se atribuyen a las instituciones.
+
+La medida de 8,140 km procede del cálculo peatonal Valhalla/OSM archivado. GPX y GeoJSON fijan el corredor público simplificado y los seis extremos; no son inspección de campo ni autorización para atravesar una barrera. Señalización, pasos, obras y agentes mandan el día de ejecución.
+
+No hubo inspección presencial, compra, reserva, llamada, ensayo de voz, evaluación externa ni publicación web. Solo permanecen las comprobaciones del día declaradas en el bloque de cierre, cada una con respuesta en V0–V5.

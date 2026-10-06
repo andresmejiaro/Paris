@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cruce" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>Ruta 08 Art Nouveau Thresholds 08-v1-20261006</name><desc>Corredor simplificado; 6.658 km Valhalla/OSM controla.</desc></metadata>
+  <wpt lat="48.871500" lon="2.276800"><name>W01 Porte Dauphine</name></wpt>
+  <wpt lat="48.852500" lon="2.273800"><name>W02 Castel Beranger</name></wpt>
+  <wpt lat="48.851900" lon="2.273500"><name>W03 Rue Agar</name></wpt>
+  <wpt lat="48.850800" lon="2.270000"><name>W04 Hotel Mezzara exterior</name></wpt>
+  <wpt lat="48.850700" lon="2.279800"><name>W05 Pont de Grenelle oeste</name></wpt>
+  <wpt lat="48.858500" lon="2.300500"><name>W06 29 avenue Rapp</name></wpt>
+  <wpt lat="48.862400" lon="2.301300"><name>W07 Alma salida</name></wpt>
+  <trk><name>Ruta08_base_simplificada</name><trkseg>
+    <trkpt lat="48.871500" lon="2.276800"/><trkpt lat="48.866000" lon="2.276300"/><trkpt lat="48.858500" lon="2.274500"/><trkpt lat="48.852500" lon="2.273800"/>
+    <trkpt lat="48.851900" lon="2.273500"/><trkpt lat="48.850800" lon="2.270000"/><trkpt lat="48.850700" lon="2.279800"/><trkpt lat="48.851800" lon="2.287000"/>
+    <trkpt lat="48.854000" lon="2.294000"/><trkpt lat="48.858500" lon="2.300500"/><trkpt lat="48.862400" lon="2.301300"/>
+  </trkseg></trk>
+</gpx>

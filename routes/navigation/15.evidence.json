@@ -1,0 +1,18 @@
+{
+  "route_id":"15",
+  "version":"15-v1-20261005",
+  "created":"2026-10-05",
+  "method":"authored pedestrian trace over OSM-referenced public ways; no live router response or field inspection claimed",
+  "license":"OpenStreetMap contributors, ODbL",
+  "distance_basis":"haversine sum over fixed polyline, rounded to 0.001 km; identifies selected version rather than survey precision",
+  "base":{"distance_km":1.684,"legs_km":[0.291,1.210,0.183],"stops":[[48.856910,2.341330],[48.857270,2.337400],[48.866730,2.339550],[48.868100,2.338550]]},
+  "connectors":{"approach_pont_neuf_km":0.184,"exit_bourse_km":0.210,"surface_total_km":2.078,"escape_b02_palais_royal_km":0.676,"v3_gallery_closed_km":0.214,"v0_wet_b02_b04_km":1.394},
+  "access_sources":[
+    {"subject":"bouquinistes","url":"https://www.paris.fr/pages/ventes-sur-l-espace-public-3513","checked":"2026-10-05"},
+    {"subject":"Mazarine","url":"https://www.bibliotheque-mazarine.fr/fr/pratique/acces","checked":"2026-10-05"},
+    {"subject":"Jousseaume","url":"https://www.librairiejousseaume.fr/","checked":"2026-10-05"},
+    {"subject":"Salle Ovale","url":"https://salleovale.bnf.fr/fr/salle-ovale-informations-pratiques","checked":"2026-10-05"}
+  ],
+  "qa":["base starts and ends at canonical stops","all four stop coordinates synchronized","base avoids station interiors","lower quays excluded","gallery closure has external bypass","approach and exit excluded from base","canonical and operations use same timing and access window"],
+  "limits":["no on-site inspection","no live accessibility certification beyond operator statement for Mazarine","no live stall, shop, seat, toilet or transport guarantee","street works, exceptional closures and barriers checked on day"]
+}

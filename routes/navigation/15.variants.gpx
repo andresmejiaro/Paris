@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cruce" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>Route 15 connectors and variants 15-v1-20261005</name></metadata>
+  <trk><name>Llegada_PontNeuf_B01_0.184km</name><trkseg><trkpt lat="48.858450" lon="2.342160"/><trkpt lat="48.857800" lon="2.341800"/><trkpt lat="48.857200" lon="2.341650"/><trkpt lat="48.856910" lon="2.341330"/></trkseg></trk>
+  <trk><name>Salida_B04_Bourse_0.210km</name><trkseg><trkpt lat="48.868100" lon="2.338550"/><trkpt lat="48.868450" lon="2.339200"/><trkpt lat="48.868650" lon="2.340200"/><trkpt lat="48.868820" lon="2.341150"/></trkseg></trk>
+  <trk><name>Escape_B02_PalaisRoyal_0.676km</name><trkseg><trkpt lat="48.857270" lon="2.337400"/><trkpt lat="48.858550" lon="2.337550"/><trkpt lat="48.859850" lon="2.337550"/><trkpt lat="48.860550" lon="2.337600"/><trkpt lat="48.861050" lon="2.336300"/><trkpt lat="48.862100" lon="2.336100"/><trkpt lat="48.862780" lon="2.336550"/></trkseg></trk>
+  <trk><name>V3_Galerie_cerrada_0.214km</name><trkseg><trkpt lat="48.866300" lon="2.339050"/><trkpt lat="48.866500" lon="2.338700"/><trkpt lat="48.867200" lon="2.338450"/><trkpt lat="48.868100" lon="2.338550"/></trkseg></trk>
+  <trk><name>V4_Mojada_B02_B04_1.394km</name><trkseg><trkpt lat="48.857270" lon="2.337400"/><trkpt lat="48.858550" lon="2.337550"/><trkpt lat="48.859850" lon="2.337550"/><trkpt lat="48.860550" lon="2.337600"/><trkpt lat="48.861050" lon="2.336300"/><trkpt lat="48.862100" lon="2.336100"/><trkpt lat="48.862600" lon="2.336000"/><trkpt lat="48.863200" lon="2.336200"/><trkpt lat="48.864150" lon="2.336550"/><trkpt lat="48.865200" lon="2.337000"/><trkpt lat="48.865550" lon="2.337150"/><trkpt lat="48.866100" lon="2.338400"/><trkpt lat="48.866300" lon="2.339050"/><trkpt lat="48.866730" lon="2.339550"/><trkpt lat="48.867200" lon="2.339620"/><trkpt lat="48.867650" lon="2.339350"/><trkpt lat="48.868100" lon="2.338550"/></trkseg></trk>
+</gpx>

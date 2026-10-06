@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cruce — Paris route 12" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>Ruta 12 — Mercados y abastecimiento</name><desc>12-v1-20261005; 4.214 km archived Valhalla pedestrian total; OSM contributors, ODbL; coarse public-street reference, not field surveyed.</desc></metadata>
+  <wpt lat="48.848900" lon="2.378300"><name>M01 Aligre Beauvau</name></wpt>
+  <wpt lat="48.863000" lon="2.361900"><name>M02 Enfants Rouges</name></wpt>
+  <wpt lat="48.864600" lon="2.347700"><name>C03 rue Montorgueil passage</name></wpt>
+  <wpt lat="48.862800" lon="2.342800"><name>M04 Bourse de Commerce exterior</name></wpt>
+  <trk><name>12_base_Aligre_EnfantsRouges_Montorgueil_Bourse</name><desc>4.214 km archived routed distance; market circulation excluded</desc><trkseg>
+    <trkpt lat="48.848900" lon="2.378300"/><trkpt lat="48.850200" lon="2.376900"/><trkpt lat="48.852000" lon="2.374300"/><trkpt lat="48.854200" lon="2.372000"/><trkpt lat="48.855900" lon="2.369400"/><trkpt lat="48.858200" lon="2.367000"/><trkpt lat="48.860500" lon="2.364400"/><trkpt lat="48.863000" lon="2.361900"/><trkpt lat="48.863500" lon="2.357700"/><trkpt lat="48.864100" lon="2.353000"/><trkpt lat="48.864600" lon="2.347700"/><trkpt lat="48.863800" lon="2.345600"/><trkpt lat="48.862800" lon="2.342800"/>
+  </trkseg></trk>
+</gpx>

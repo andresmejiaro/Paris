@@ -1,0 +1,11 @@
+{
+  "type":"FeatureCollection",
+  "features":[
+    {"type":"Feature","properties":{"route_id":"13","name":"base simplified upper corridor","distance_control_km":7.013,"geometry_limit":"not dense router output or field survey"},"geometry":{"type":"LineString","coordinates":[[2.2752,48.8649],[2.2719,48.8609],[2.269,48.8563],[2.266,48.852],[2.2648,48.8481],[2.2685,48.8475],[2.2713,48.8468],[2.2732,48.8463],[2.275417,48.847155],[2.277,48.8495],[2.2794,48.8527],[2.2824,48.854],[2.2873,48.856],[2.2892,48.858],[2.2921,48.8605],[2.2962,48.8616],[2.3013,48.864],[2.3024,48.8633],[2.3027,48.8626]]}},
+    {"type":"Feature","properties":{"id":"W01","name":"Lamartine"},"geometry":{"type":"Point","coordinates":[2.2752,48.8649]}},
+    {"type":"Feature","properties":{"id":"W02","name":"Jean-Lorrain"},"geometry":{"type":"Point","coordinates":[2.2648,48.8481]}},
+    {"type":"Feature","properties":{"id":"W03","name":"Auteuil"},"geometry":{"type":"Point","coordinates":[2.2732,48.8463]}},
+    {"type":"Feature","properties":{"id":"W08","name":"Zouave viewpoint"},"geometry":{"type":"Point","coordinates":[2.3013,48.864]}},
+    {"type":"Feature","properties":{"id":"W09","name":"Sewer museum threshold"},"geometry":{"type":"Point","coordinates":[2.3027,48.8626]}}
+  ]
+}

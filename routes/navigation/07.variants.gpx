@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cruce" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>Route 07 independent connectors and escapes</name><desc>Tracks are alternatives/connectors; do not concatenate all.</desc></metadata>
+  <trk><name>Llegada_Denfert_O01 0.132 km</name><trkseg><trkpt lat="48.833010" lon="2.331350"/><trkpt lat="48.833700" lon="2.332400"/></trkseg></trk>
+  <trk><name>Salida_O05_Voltaire 0.389 km</name><trkseg><trkpt lat="48.855875" lon="2.382466"/><trkpt lat="48.856700" lon="2.381700"/><trkpt lat="48.857730" lon="2.380560"/></trkseg></trk>
+  <trk><name>Escape_O02_SevresBabylone 0.183 km</name><trkseg><trkpt lat="48.851400" lon="2.327100"/><trkpt lat="48.851100" lon="2.325000"/></trkseg></trk>
+  <trk><name>Escape_O03_SaintSulpice 0.326 km</name><trkseg><trkpt lat="48.851600" lon="2.331900"/><trkpt lat="48.851000" lon="2.336000"/></trkseg></trk>
+  <trk><name>Escape_O04_PontMarie 0.337 km</name><trkseg><trkpt lat="48.855000" lon="2.356200"/><trkpt lat="48.853900" lon="2.357700"/></trkseg></trk>
+  <trk><name>Escape_O05_Charonne 0.524 km</name><trkseg><trkpt lat="48.855875" lon="2.382466"/><trkpt lat="48.854000" lon="2.385000"/></trkseg></trk>
+</gpx>

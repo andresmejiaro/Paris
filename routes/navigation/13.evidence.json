@@ -1,0 +1,23 @@
+{
+  "route_id":"13",
+  "route_version":"13-v1-20261006",
+  "retrieved_date":"2026-10-06",
+  "crs":"WGS84",
+  "on_ground_verified":false,
+  "geometry": {
+    "source":"routes/geometry_batch_b.md; archived Valhalla/OpenStreetMap pedestrian measurement",
+    "distance_km":7.013,
+    "published_legs_km":[2.268,0.885,0.198,1.819,1.563,0.278],
+    "rounded_legs_sum_km":7.011,
+    "delivery_geometry":"simplified upper-level public-street decision corridor; not dense router output or field survey",
+    "license":"OpenStreetMap contributors, ODbL"
+  },
+  "sources":[
+    {"scene":"lamartine","type":"municipal_operator","urls":["https://www.paris.fr/lieux/square-lamartine-2614","https://www.paris.fr/pages/l-eau-potable-2266","https://www.eaudeparis.fr/sites/default/files/2022-08/DP_Geothermie.pdf"],"claims":"location, dated gate hours, Albian outlet, replacement wells, reserve and iron regulation"},
+    {"scene":"wallace","type":"municipal_operator","urls":["https://cdn.paris.fr/paris/2022/09/14/6b6781223df8d088b72cb5bf79b214e2.pdf","https://www.eaudeparis.fr/actualit%C3%A9s/fontaines-wallace-licone-150-ans","https://www.paris.fr/pages/l-eau-potable-2266"],"claims":"Jean-Lorrain identification, general 1872 history, mechanics and winterization"},
+    {"scene":"auteuil","type":"official_registry_operator","urls":["https://pop.culture.gouv.fr/notice/merimee/PA75160013","https://www.paris.fr/pages/l-eau-potable-2266","https://rapportannuel2021.eaudeparis.fr/","https://www.eaudeparis.fr/sites/default/files/2023-05/EDP%20-%20Rapport%20annuel%202022%20Eau%20de%20Paris.pdf"],"claims":"site identity, potable/non-potable distinction, planned abandonment and site release"},
+    {"scene":"alma","type":"municipal","urls":["https://www.paris.fr/pages/une-vie-en-seine-le-zouave-barometre-de-la-montee-des-eaux-34985","https://www.paris.fr/pages/crues-5472/"],"claims":"statue history and popular role; official Austerlitz measurement and flood response"},
+    {"scene":"museum_independent","type":"official_museum","urls":["https://musee-egouts.paris.fr/","https://musee-egouts.paris.fr/venir/","https://musee-egouts.paris.fr/preparer/","https://musee-egouts.paris.fr/faq/","https://billetterie-egouts.paris.fr/fr-FR/produits"],"claims":"current availability, 9 euro full and 7 euro reduced tariff, hours, last entry, annual closures, duration, access, toilets and possible operational/flood closure"}
+  ],
+  "limits":["No field inspection, booking, purchase, call, voice rehearsal or external review","Square hours retrieved only through 24 October 2026; later date is a day check","Fountain flow and public-toilet operation are not guaranteed","Museum is an independent optional activity and its live tariff must be read before purchase","GPX/GeoJSON are simplified decision corridors; archived router totals control"]
+}

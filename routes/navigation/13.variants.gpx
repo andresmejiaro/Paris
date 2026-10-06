@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cruce" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>Route 13 independent connectors and variants</name><desc>Choose only the applicable track; straight/simplified references, not router measurements.</desc></metadata>
+  <trk><name>Llegada_AvenueHenriMartin_W01</name><trkseg><trkpt lat="48.864390" lon="2.272960"/><trkpt lat="48.864900" lon="2.275200"/></trkseg></trk>
+  <trk><name>Salida_W09_AlmaMarceau</name><trkseg><trkpt lat="48.862600" lon="2.302700"/><trkpt lat="48.863500" lon="2.301900"/><trkpt lat="48.864520" lon="2.300930"/></trkseg></trk>
+  <trk><name>V0_Perimetro_Lamartine</name><trkseg><trkpt lat="48.865050" lon="2.275050"/><trkpt lat="48.864900" lon="2.275200"/></trkseg></trk>
+  <trk><name>V1_W01_W02_directo</name><trkseg><trkpt lat="48.864900" lon="2.275200"/><trkpt lat="48.848100" lon="2.264800"/></trkseg></trk>
+  <trk><name>V3_W03_Mirabeau</name><trkseg><trkpt lat="48.846300" lon="2.273200"/><trkpt lat="48.847155" lon="2.275417"/></trkseg></trk>
+  <trk><name>V4_W06_Passy</name><trkseg><trkpt lat="48.856000" lon="2.287300"/><trkpt lat="48.857250" lon="2.285700"/></trkseg></trk>
+</gpx>

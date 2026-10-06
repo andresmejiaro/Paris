@@ -1,0 +1,24 @@
+{
+  "route_id":"18","version":"18-v1-20261006","status":"DONE","reviewed":"2026-10-06","narrator":"Cruce",
+  "base":{"start":"Jardin du Port de l'Arsenal public bank","finish":"Grande Halle public forecourt","distance_km":7.077,"duration_minutes":[225,275],"preferred_start":["09:30","10:30"],"latest_start":"11:00","cost_eur":0,"reservation":"none"},
+  "stops":[
+    {"id":"C01","name":"Arsenal","lat":48.8473,"lon":2.3675,"core":true},
+    {"id":"C02","name":"Temple covered/open threshold","lat":48.8682,"lon":2.3668,"core":true},
+    {"id":"C03","name":"Recollets locks","lat":48.874,"lon":2.3638,"core":true},
+    {"id":"C04","name":"Rotonde and Bassin staged chapter","lat":48.8839,"lon":2.369,"core":true},
+    {"id":"C05","name":"Grande Halle","lat":48.8908,"lon":2.39,"core":true}
+  ],
+  "checks_on_day":["Arsenal current hours and gate","canal notices","street works and legal detours","lock and bridge visibility","La Villette event barriers","weather, WC and transit"],
+  "services":{"toilet":"Arsenal listed; verify; municipal sanisette map fallback","rest":"public benches where open and dry","shelter":"none continuously guaranteed","water":"carry own","food":"carry snack; optional purchase at displayed price"},
+  "variants":[
+    {"id":"V0","trigger":"Arsenal closed","action":"public upper observation or V1"},
+    {"id":"V1","trigger":"short day or Arsenal unavailable","start":"Temple","distance_km":4.418,"duration_minutes":[155,195]},
+    {"id":"V2","trigger":"fatigue or compact choice","start":"Recollets","distance_km":3.674,"duration_minutes":[130,170]},
+    {"id":"V3","trigger":"lock or footbridge hidden","action":"legal viewpoint then omit mechanism if invisible"},
+    {"id":"V4","trigger":"La Villette event fencing","action":"public view or reduced finish Porte de Pantin"},
+    {"id":"V5","trigger":"severe weather","action":"postpone or nearest named exit"},
+    {"id":"V6","trigger":"fatigue, WC or excessive detour","action":"nearest named transit exit"}
+  ],
+  "files":{"canonical":"routes/18_canal_paris.md","navigation":"routes/navigation/18_navigation.md","base_gpx":"routes/navigation/18.gpx","variants_gpx":"routes/navigation/18.variants.gpx","geojson":"routes/navigation/18.geojson","evidence":"routes/navigation/18.evidence.json","operations":"routes/navigation/18_access_operations.md"},
+  "external_review":"after closure"
+}

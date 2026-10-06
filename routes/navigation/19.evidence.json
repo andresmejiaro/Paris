@@ -1,0 +1,12 @@
+{
+  "route_id":"19",
+  "version":"19-v1-20261005",
+  "created":"2026-10-05",
+  "method":"fixed authored pedestrian street trace over OSM-referenced public streets; no live router response claimed",
+  "license":"OpenStreetMap contributors, ODbL",
+  "distance_basis":"polyline/street-leg measurement rounded to 0.001 km; identifies selected version, not survey precision",
+  "base":{"distance_km":3.415,"legs_km":[1.728,0.661,1.027],"stops":[[48.879170,2.356140],[48.864120,2.355880],[48.860620,2.350310],[48.863600,2.337070]]},
+  "connectors":{"approach_gare_du_nord_km":0.462,"exit_palais_royal_km":0.168,"escape_i02_rambuteau_km":0.438,"v2_without_chapon_km":2.194,"v3_external_finish_km":1.109},
+  "qa":["base begins/ends at canonical stops","street-level only","no station interior","no Forum or Pompidou interior","cour access conditional","coordinates and local links synchronized"],
+  "limits":["no on-site inspection","no live accessibility certification","street works and barriers checked on day"]
+}

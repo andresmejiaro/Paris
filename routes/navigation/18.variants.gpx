@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cruce" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>Route 18 independent variants and connectors</name></metadata>
+  <trk><name>V1_Temple_C05_router_4.418km</name><trkseg><trkpt lat="48.868200" lon="2.366800"/><trkpt lat="48.874000" lon="2.363800"/><trkpt lat="48.883900" lon="2.369000"/><trkpt lat="48.889200" lon="2.373500"/><trkpt lat="48.890800" lon="2.390000"/></trkseg></trk>
+  <trk><name>V2_Recollets_C05_router_3.674km</name><trkseg><trkpt lat="48.874000" lon="2.363800"/><trkpt lat="48.883900" lon="2.369000"/><trkpt lat="48.889200" lon="2.373500"/><trkpt lat="48.890800" lon="2.390000"/></trkseg></trk>
+  <trk><name>Approach_Bastille_C01_surface_approx</name><trkseg><trkpt lat="48.853000" lon="2.369500"/><trkpt lat="48.850000" lon="2.368600"/><trkpt lat="48.847300" lon="2.367500"/></trkseg></trk>
+  <trk><name>Exit_C05_PortePantin_surface_approx</name><trkseg><trkpt lat="48.890800" lon="2.390000"/><trkpt lat="48.889800" lon="2.392000"/></trkseg></trk>
+  <trk><name>Escape_C03_Jaures_surface_approx</name><trkseg><trkpt lat="48.874000" lon="2.363800"/><trkpt lat="48.882800" lon="2.370000"/></trkseg></trk>
+</gpx>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cruce" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>Route 07 Occupied Paris 07-v1-20261006</name><desc>Simplified public-street decision corridor; controlling routed distance 7.268 km.</desc></metadata>
+  <wpt lat="48.833700" lon="2.332400"><name>O01 Musée de la Libération</name></wpt>
+  <wpt lat="48.851400" lon="2.327100"><name>O02 Hôtel Lutetia</name></wpt>
+  <wpt lat="48.851600" lon="2.331900"><name>O03 48 rue du Four</name></wpt>
+  <wpt lat="48.855000" lon="2.356200"><name>O04 Mémorial de la Shoah</name></wpt>
+  <wpt lat="48.854900" lon="2.356500"><name>O04b Mur des Justes</name></wpt>
+  <wpt lat="48.855875" lon="2.382466"><name>O05 Gymnase Japy</name></wpt>
+  <trk><name>07 base 7.268 km</name><trkseg>
+    <trkpt lat="48.833700" lon="2.332400"/><trkpt lat="48.837400" lon="2.330800"/><trkpt lat="48.842400" lon="2.328900"/><trkpt lat="48.847600" lon="2.326900"/><trkpt lat="48.851400" lon="2.327100"/>
+    <trkpt lat="48.851350" lon="2.329500"/><trkpt lat="48.851600" lon="2.331900"/>
+    <trkpt lat="48.852200" lon="2.338300"/><trkpt lat="48.853000" lon="2.345000"/><trkpt lat="48.854100" lon="2.350600"/><trkpt lat="48.855000" lon="2.356200"/><trkpt lat="48.854900" lon="2.356500"/>
+    <trkpt lat="48.854300" lon="2.361900"/><trkpt lat="48.853300" lon="2.367900"/><trkpt lat="48.853300" lon="2.373600"/><trkpt lat="48.854700" lon="2.378100"/><trkpt lat="48.855875" lon="2.382466"/>
+  </trkseg></trk>
+</gpx>

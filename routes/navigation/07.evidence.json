@@ -1,0 +1,20 @@
+{
+  "route_id": "07",
+  "version": "07-v1-20261006",
+  "created": "2026-10-06",
+  "geometry": {"source": "routes/discovery_batch_d.md", "router": "Valhalla pedestrian over OSM", "checked": "2026-10-03", "base_km": 7.268, "legs_km": [2.25, 0.416, 2.236, 0.026, 2.338], "note": "GPX/GeoJSON preserve a simplified public-street decision corridor; router distance controls."},
+  "access_sources": [
+    {"subject": "Musée de la Libération current hours, entry, security and accessibility", "url": "https://www.museeliberation-leclerc-moulin.paris.fr/venir-au-musee/informations-pratiques", "checked": "2026-10-06"},
+    {"subject": "Musée permanent collection and command-post arrangements", "url": "https://www.museeliberation-leclerc-moulin.paris.fr/en-individuel", "checked": "2026-10-06", "uncertainty": "capacity and individual objects may change"},
+    {"subject": "Mémorial de la Shoah current French practical information", "url": "https://www.memorialdelashoah.org/acces-horaires-et-infos-pratiques.html", "checked": "2026-10-06"},
+    {"subject": "Gymnase Japy current municipal listing", "url": "https://www.paris.fr/lieux/gymnase-japy-3045", "checked": "2026-10-06", "uncertainty": "route uses exterior only"}
+  ],
+  "history_sources": [
+    {"subject": "Billet vert photographic sequence and acquisition", "url": "https://www.memorialdelashoah.org/98-photos-inedites-sur-la-rafle-du-billet-vert.html", "scope": "Japy interior, families, buses and camps; German propaganda provenance"},
+    {"subject": "2026 Billet vert exhibition and photographer identification", "url": "https://www.memorialdelashoah.org/evenements-et-expositions/expositions/expositions-temporaires/exposition-rafle-du-billet-vert.html", "checked": "2026-10-06"},
+    {"subject": "CNR meeting", "url": "https://www.defense.gouv.fr/actualites/premiere-reunion-du-conseil-national-resistance-27-mai-1943-moment-fondateur-resistance-francaise"},
+    {"subject": "Memorial institutional history", "url": "https://www.memorialdelashoah.org/le-memorial/qui-sommes-nous/histoire-du-memorial-de-la-shoah.html"}
+  ],
+  "qa": ["Japy integrated after Memorial without claiming equivalent functions", "no gym, hotel or apartment interior promised", "Memorial wall recognized as controlled interior", "citywide arrest totals not assigned to Japy", "photographs identified as propaganda records", "all decision coordinates synchronized", "day failures have explicit non-equivalence"],
+  "limits": ["no field inspection", "no live object or plaque visibility certification", "no command-post capacity guarantee", "no toilet or transit guarantee", "works and security checked on day"]
+}

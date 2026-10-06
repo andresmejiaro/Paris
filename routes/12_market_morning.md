@@ -1,7 +1,49 @@
+# Ruta 12 — Mercados y abastecimiento: antes de que París se siente a comer
+
+Autoría, investigación, narración y operaciones: Cruce. Revisión: 5 octubre 2026.
+
+> **DONE — versión 12-v1-20261005, revisada el 5 octubre 2026.**
+>
+> Esta es la versión elegida para el viaje y cumple los criterios de aceptación bajo control del agente.
+>
+> Comprobaciones del día: operación real de Aligre y Beauvau; presencia del puesto de productor en Enfants Rouges; entradas abiertas y espacio seguro de detención; meteorología, WC y transporte. Cada fallo tiene respuesta cerrada.
+>
+> Variantes operativas: V0–V5 en [operaciones](navigation/12_access_operations.md) y [trazas](navigation/12.variants.gpx).
+>
+> Revisión externa por varios modelos y feedback: posterior al cierre.
+
+> **Auditoría interna Cruce — 6 octubre 2026:** narración, operaciones, geometría y variantes conformes. El material previo se reclasificó como anexo documental no operativo; sus antiguas estimaciones de 5–7 km y alternativas no gobiernan la salida. Sin cambio de ruta ni versión.
+
+## Experiencia elegida
+
+Una mañana para seguir tres escalas del abastecimiento: el trabajo recurrente de calle y halle en Aligre/Beauvau; la mezcla de productor, compra doméstica y comida preparada en Enfants Rouges; y la arquitectura que queda después de que el sistema mayorista abandonara Les Halles. No es una degustación, una lista de mercados ni una excusa para observar comerciantes como decorado.
+
+**Orden fijo, miércoles o sábado:** Aligre/Beauvau → Enfants Rouges → paso contextual por rue Montorgueil → Bourse de Commerce/Les Halles exterior. Montorgueil no es una cuarta parada narrada: fija el paso por las antiguas calles de abastecimiento y evita fabricar otro capítulo comercial.
+
+Traza base: **4,214 km** (2,342 + 1,242 + 0,629; la suma publicada de tramos redondea a 4,213). Aproximación desde Ledru-Rollin: **0,469 km**; salida a Les Halles, acceso rue Berger: **0,351 km**; total de superficie **5,034 km**. Circulación libre dentro de los mercados y desvíos para comprar, aparte. [Navegación](navigation/12_navigation.md) · [GPX](navigation/12.gpx) · [GeoJSON](navigation/12.geojson) · [operaciones](navigation/12_access_operations.md) · [JSON](navigation/12.operations.json).
+
+Duración **3 h–3 h 40**: marcha 65–80 min, guiones/observación 95–115 min y pausa 20–25 min. Inicio preferido **08:00–08:25**; último inicio **08:40** para llegar a Enfants Rouges con margen antes de las 13:00. Exterior y mercados de acceso libre, **€0**, sin reserva. Compras y café son opcionales y no forman parte del coste base.
+
+Los tres guiones completos y sus registros de evidencia están en las secciones Aligre/Beauvau, Enfants Rouges y Bourse/Les Halles de esta ficha. En el guion de Enfants Rouges, «si hemos venido un miércoles o sábado» se ejecuta como condición cerrada de la versión base, no como elección pendiente. En Montorgueil solo se indica: «Atravesamos una calle comercial activa camino del antiguo centro mayorista; mira lo que se vende hoy sin atribuirle continuidad automática con Les Halles». No se detiene ante Stohrer ni se duplica la Ruta 21.
+
+## Operación cerrada
+
+Aligre exterior publica miércoles 07:30–13:30 y sábado 07:30–14:30; Beauvau, miércoles 08:00–13:00 y sábado 08:00–19:30; Enfants Rouges publica mercado desde 08:30 y puesto de productor miércoles/sábado 08:30–13:00. Los horarios regulares no garantizan festivos: **11 noviembre de 2026 exige confirmación expresa o reprogramación**. El exterior de Bourse es el final; no se requiere entrada al museo.
+
+No hay WC público publicado dentro de los tres mercados. Servicio previsto: sanisette de **37 rue Berger**, cerca del final, inventario municipal y estado a comprobar; una necesidad anterior activa V5 o un café legítimo por elección. Beauvau y Enfants Rouges dan techo parcial mientras están abiertos, no asiento ni refugio meteorológico completo. Pausa exterior en place des Vosges solo si está abierta, seca y hay asiento; una consumición nunca es obligatoria.
+
+No hubo inspección presencial, compra, llamada, reserva, prueba de audio ni revisión externa. El estado futuro se resuelve en [operaciones](navigation/12_access_operations.md); no queda una decisión de diseño delegada al visitante.
+
+---
+
+## Anexo documental no operativo
+
+> **No ejecutar ninguna distancia, orden, horario o alternativa descrita en este anexo.** Se conserva para sostener fuentes y guiones. La única versión autorizada es la del bloque «Experiencia elegida», [navegación](navigation/12_navigation.md) y [operaciones](navigation/12_access_operations.md): Aligre/Beauvau → Enfants Rouges → paso contextual Montorgueil → Bourse, miércoles o sábado, 4,214 km base. Las estimaciones de 5–7 km y las arquitecturas con Bastille que aparecen debajo son historia de producción.
+
 > **Narrator correction — Andrés, 3 October 2026:** Cruce owns all route design, research, selection, verification, navigation and complete script preparation. Rumbo narrates Coulée Verte; Hilo narrates Medieval Devils; Miga narrates the affordable Paris flavours route. These are narrator assignments, not delegated work. No companion research or response is awaited. This overrides earlier commission/author/reviewer wording below.
 
-<!-- CRUCE CURRENT STATE: 2026-10-03; controlling production decision v9 -->
-> **Current working state: Markets and Supply — Protected compact experience.** Distance: 4.678 km. Active-market morning remains valuable. Miga's newly commissioned tasting route has a different purpose: eating affordable Paris flavours, not explaining supply institutions. External QA and visitor-ready delivery remain pending. See [production reset](cruce_production_reset_v9.md). The older body below preserves research and earlier decisions; it does not override this notice.
+<!-- CRUCE ARCHIVE STATE: superseded by 12-v1-20261005 above -->
+> **Estado histórico previo al cierre.** Sus cifras y lenguaje pendiente no son operativos; el bloque DONE superior controla.
 
 # Market Morning — Antes de que París se siente a comer
 

@@ -1,75 +1,36 @@
-> **Narrator correction — Andrés, 3 October 2026:** Cruce owns all route design, research, selection, verification, navigation and complete script preparation. Rumbo narrates Coulée Verte; Hilo narrates Medieval Devils; Miga narrates the affordable Paris flavours route. These are narrator assignments, not delegated work. No companion research or response is awaited. This overrides earlier commission/author/reviewer wording below.
+# Ruta 07 — París ocupado: lo que una ciudad permite, lo que una ciudad recuerda
 
-<!-- CRUCE CURRENT STATE: 2026-10-03; controlling production decision v9 -->
-> **Current working state: Occupied City — Strong candidate.** Distance: 7.275 km. End at exterior Japy memorial frontage. Integrate Japy narration; Shoah/Justes is one complex. No gym interior promised. External QA and visitor-ready delivery remain pending. See [production reset](cruce_production_reset_v9.md). The older body below preserves research and earlier decisions; it does not override this notice.
+Autoría, investigación, narración y operaciones: Cruce. Revisión: 6 octubre 2026.
 
-# Occupied Paris — Lo que una ciudad permite, lo que una ciudad recuerda
+> **DONE — versión 07-v1-20261006, revisada el 6 octubre 2026.**
+>
+> Esta es la versión elegida para el viaje y cumple los criterios de aceptación bajo control del agente.
+>
+> Comprobaciones del día: avisos, horario y control de bolsas del Musée de la Libération; plaza disponible para el puesto de mando solo si se desea; horario, seguridad y acceso efectivo al Mémorial; visibilidad de placas/fachadas en Lutetia, rue du Four y Japy; obras, meteorología, WC y transporte.
+>
+> Variantes operativas: V0–V6 en [operaciones](navigation/07_access_operations.md) y [trazas](navigation/07.variants.gpx).
+>
+> Revisión externa por varios modelos y feedback: posterior al cierre.
 
-Priority: S. Research resumed 2 October 2026. Architect recommendation: **KEEP as an independent compact daytime route**, subject to controller ownership and external Claude QA. Four investigated core stops have substantial Spanish narrations; this is a researched working artifact, not an externally accepted itinerary.
+## Versión elegida
 
-## Phase 1 reconstructed proposal
+**Musée de la Libération → Hôtel Lutetia → 48 rue du Four → Mémorial de la Shoah/Mur des Justes → Gymnase Japy.** La ruta muestra cómo la ocupación entra en objetos y trámites ordinarios, cómo una institución y una dirección pueden ser apropiadas o puestas al servicio de una respuesta, y cómo la ciudad documenta hoy una persecución que también utilizó un gimnasio municipal. El Memorial conserva su capítulo central de nombres y archivo; Japy no lo sustituye ni ofrece un final de victoria: devuelve esa memoria a una fachada de uso cotidiano.
 
-Thesis: occupation changes ordinary transactions, addresses and institutions. Begin with the constraints of everyday life, examine the appropriation of a luxury hotel and its later use for returning deportees, find the small doorway behind a clandestine political coalition, and finish with the names of people the city could not bring home.
+La traza peatonal controladora mide **7,268 km**. Los tramos archivados redondeados son 2,250; 0,416; 2,236; 0,026 y 2,338 km; su suma visible difiere 0,002 km del total no redondeado del router. La llegada desde la boca seleccionada de Denfert-Rochereau mide **0,132 km** y la salida a Voltaire **0,389 km**; total de superficie planificado **7,789 km**. Circulación interior y búsquedas en salas no se suman. [Navegación](navigation/07_navigation.md) · [GPX](navigation/07.gpx) · [GeoJSON](navigation/07.geojson) · [operaciones](navigation/07_access_operations.md) · [JSON](navigation/07.operations.json).
 
-Guide: **Cruce**. Vibe: precise human consequences, difficult choices, institutional responsibility and unfinished memory. Spanish on-site narration follows the Granada benchmark. A triumphal liberation ending would weaken this particular argument.
+Duración **4 h 45–5 h 45** sin puesto de mando: marcha 100–120 min; cinco guiones y observación **incluidas** la incursión finita del primer museo y la visita concentrada al Memorial, 145–165 min; controles/espera 15–25 min; pausa 25–35 min. Total no solapado: **285–345 min**. El puesto subterráneo añade 35–45 min y unas cien escaleras; no es necesario. Inicio preferido **10:00–10:20**, último **10:45**, martes–viernes o domingo; objetivo de salida del Memorial 15:15 y llegada a Japy antes de 16:15. Base **€0**, sin reserva individual; la plaza subterránea se solicita en recepción y nunca se promete.
 
-| Candidate; approximate latitude,longitude | Signal and type | Geographic role | Research question |
-|---|---|---|---|
-| Musée de la Libération, avenue du Colonel Henri Rol-Tanguy;48.8337,2.3325 | Strong; museum objects, daily life, political history | Southern indoor opening | Can a finite six-to-ten-target raid establish occupation through actual objects rather than a generic heroic chronology? Distinguish the authentic 1944 command post from the modern museum exhibition. |
-| Hôtel Lutetia,45 boulevard Raspail;48.8507,2.3270 | Strong; requisition, intelligence, return and testimony | Northern turn from Montparnasse into Saint-Germain | Does the exterior support a substantial story about appropriation and 1945 reception without promising access to a working luxury hotel? |
-| 48 rue du Four;48.8516,2.3319 | Strong; clandestine coalition | Small ordinary threshold after monumental hotel | What precisely occurred here on27May1943; what can be seen; does coalition-building earn a different story from Spy Paris? |
-| Mémorial de la Shoah,17 rue Geoffroy-l’Asnier;48.8550,2.3562 | Strong; deportation, naming, contemporary memory | Eastern final anchor through Saint-Germain/Seine | Can Mur des Noms and adjacent Mur des Justes sustain a humane ending without replacing victims with an abstract moral lesson? |
+Los cinco guiones completos se ejecutan en este orden. Las posiciones, instrucciones y contingencias están fijadas en los archivos de navegación.
 
-Initial geometry: Denfert → boulevard Raspail/Lutetia → rue du Four → a street-level Seine crossing and Marais → Mémorial. Initial main walking estimate **5.8–6.5km**, excluding museum circulation and accommodation approaches; exact pedestrian routing pending. Four substantial stories plus two finite indoor visits make a compact half-day plausible. Distance padding to12–14km would destroy the advantage of this shape.
-
-Initial narrative: shortage and classification → unequal comfort and requisition → organized opposition → disappearance, evidence and names. These are complementary processes, not a representative account of everything that happened during1940–1944.
-
-Initial time-slot hypothesis: morning8, afternoon8, evening3, night1. Museums, wall access and inscription visibility should determine the final scores. A museum morning beginning10:00 can reach the memorial with ample afternoon margin. Monday and Saturday availability conflict and require explicit treatment.
-
-## Revised operating envelope
-
-Main walking estimate **5.8–6.5km**, plus indoor circulation; approximately **4–5hours** with a45–60minute opening museum raid, four substantial narrations, a25–40minute memorial wall visit and a rest/food break. An optional45–75minute memorial exhibition adds time and internal walking. Geometry is provisional until pedestrian-map measurement; this is not a claimed GPS track. Walking pace is not calculated by adding full narrations twice to Granada's stop-inclusive3.3km/h benchmark.
-
-Start: entrance to Musée de la Libération opposite the Catacombs, avenue du Colonel Henri Rol-Tanguy. Finish: Mémorial de la Shoah complex,17rueGeoffroy-l’Asnier, with an unhurried return to a selected name. Transit to Denfert-Rochereau is the practical assumption from NOC Bessières; lodge approach/return excluded. Intermediate exits: Raspail, Notre-Dame-des-Champs, Sèvres-Babylone, Saint-Sulpice/Saint-Germain-des-Prés. Finish exits: Pont-Marie, Saint-Paul or Hôtel-de-Ville. Exact service/works checks remain a calendar-layer task.
-
-Core cost **€0** using permanent museum collection, hotel exterior, rue du Four pavement and free memorial. The working luxury hotel is not promised as free public refuge or toilet access. Museum permanent collection is free without an individual reservation,Tuesday–Sunday10:00–18:00,last access17:30,rooms close17:45. Memorial individual access is free;Sunday–Friday10:00–18:00,Thursday until21:00. [Museum current practical information](https://www.museeliberation-leclerc-moulin.paris.fr/venir-au-musee/informations-pratiques),[Memorial current practical information](https://www.memorialdelashoah.org/acces-horaires-et-infos-pratiques.html).
-
-**Complete version operates Tuesday–Friday and Sunday.** Monday loses the opening museum;Saturday loses the memorial core. Do not sell either as equivalent: reschedule or explicitly use a shorter partial block. Check current exceptional closures, exhibitions, security/access changes and holiday service before execution; no reservations or visits have been booked.
-
-| Slot | Score | Evidence-based reason |
-|---|---:|---|
-| Morning |8| Begin at10:00 for the museum, read façades and plaque in daylight, reach the final walls well before closing. A pre10:00 start cannot deliver the intended opening. |
-| Afternoon |8| Equally coherent when started early enough to preserve45–60minutes at each indoor anchor; a late afternoon start risks turning the finale into a closed gate. |
-| Evening |3| Thursday extends memorial access until21:00 but does not extend the opening museum. A late-afternoon-to-evening Thursday variant is possible; an evening-only version has a different, weaker opening. |
-| Night |1| Both essential indoor experiences closed late; darkness contributes little to object/inscription evidence. Hotel illumination alone cannot sustain the route. |
-
-Walking line: boulevard Raspail from Denfert to Lutetia; short approach to rue du Four via Saint-Germain; then return east through the Saint-Germain streets and a selected street-level Seine crossing toward rueGeoffroy-l’Asnier. Choose the final crossing for pedestrian coherence when mapped, rather than adding a themed stop at every landmark passed. Approximate segment estimates:Denfert→Lutetia2.4–2.8km;Lutetia→48rue du Four0.5–0.7km;rue du Four→Memorial2.6–3.0km. These broad estimates are not turn-by-turn measurements.
-
-## Rejected extensions and repetition control
-
-- **Hôtel de Ville liberation finale:** SKIP in this hypothesis. It would restore a conventional victorious ending after the route has deliberately developed consequences and absence. Route06already makes a strong independent claim through insurrection and municipal power; passing near the square does not oblige another core story.
-- **Invalides/full military chronology:** SKIP as a commission here. It expands the route toward war leadership and collection-completion at the expense of everyday occupation; no expensive investigation commissioned merely to add length.
-- **Vel d’Hiv site detour:** not rejected historically, but excluded from this geographic version. Its roundup is told explicitly at the Memorial as a citywide event, never claimed to have occurred at17rueGeoffroy-l’Asnier. A western detour would need to replace or redesign this compact shape, not become padding.
-- **Drancy:** not a walking extension. It merits a separate transit-led visit when wanted; its authentic camp setting cannot be simulated by the Paris museum. The institution identifies the former camp and its permanent exhibition separately. [Drancy permanent exhibition](https://drancy.memorialdelashoah.org/activites/expositions/exposition-permanente.html).
-- **Random school plaques/café anecdotes:** do not add a string of technically connected markers between researched anchors. An exceptional precise personal story could justify a replacement investigation, but repetitive plaques cannot repair an unsatisfactory core.
-
-## Investigator findings and on-site narrations
-
-The results below preserve their distinctions between exact-site facts, later memory and authored interpretation. Prior interrupted Shoah research was recovered as a narration spine and source list; its full wording was unavailable. The final investigator reconstructs that spine and verifies it, rather than claiming the earlier650-word script was retrieved verbatim.
-
-### Investigations 1–2: Denfert museum and Lutetia
-
-Research checked 2 October 2026. Both KEEP; Denfert museum core indoors, command post optional. Lutetia exterior core. Neither should supply a triumphant liberation finale.
-
-## Musée de la Libération — KEEP
+## 1. Musée de la Libération — El poder cabe en un papel
 
 Historical significance: the actual western-pavilion shelter housed Rol’s regional FFI command post, 20–28 August 1944; museum collections above make ordinary occupation and clandestine resistance tangible. Narrative significance: the contrast between a ration coupon and a forged identity makes administration visible as both coercion and rescue. No credible site-specific supernatural tradition found or needed.
 
-### Access and site today
+### Acceso y posición
 
 4 avenue du Colonel Henri Rol-Tanguy, opposite Catacombs; métro 4/6, RER B. Official current hours Tuesday–Sunday 10–18, last admission 17:30, rooms close 17:45; permanent collections free without reservation. Closed Mondays, 1 January, 1 May, 25 December. Museum is accessible; command post has roughly 100 stairs, no lift, 20 m below ground. Free 30-minute underground visits reserved at reception, capacity dependent; request first on arrival. Official listed slots 10:30–12:30 half hourly, 13:30, 14:00, 14:30 and 17:15. Mixed-reality slots 15:00, 15:45, 16:30, 45 minutes; unnecessary for this raid. Permanent galleries 40–50 minutes; with shelter 75–90 minutes. Do not promise underground entry or treat closed museum exterior as equivalent.
 
-### Finite raid — eight targets, officially attested display groups
+### Incursión finita — ocho grupos oficialmente documentados
 
 These are documented in the museum’s own room-by-room guide, rather than inferred from collection ownership. Individual loans/rotation remain possible; substitute within a stated group and never hunt an absent object indefinitely.
 
@@ -84,11 +45,11 @@ These are documented in the museum’s own room-by-room guide, rather than infer
 
 Optional ninth group: shelter rooms and original bicycle generator, physically verified in official guide. Exit without requiring galleries devoted to tank campaigns or parade.
 
-### Why selected
+### Razón de la parada
 
 Free, finite encounter with the small objects through which occupation controlled ordinary lives and resistance altered those lives.
 
-### Spanish on-site narration — core, substantial script
+### Guion presencial
 
 Antes de entrar, mira el pabellón. Luego mira la entrada de las Catacumbas al otro lado. Esta plaza permite bajar al subsuelo por dos historias distintas. Nosotros vamos a entrar en una historia que también se hizo debajo de la ciudad, pero empieza con algo bastante menos espectacular: un papel.
 
@@ -108,30 +69,30 @@ Mira el espacio disponible. Pregúntate qué significa que una orden tenga que s
 
 Volvamos arriba. La liberación tiene sus imágenes públicas, y este museo también las conserva. Pero nuestra ruta todavía necesita seguir las consecuencias de la ocupación: los privilegios de unos, el riesgo de otros y las personas a quienes ninguna celebración podía devolver. Guarda una imagen más pequeña que un desfile. Un papel en una mano. Lo que autoriza. Lo que prohíbe. Y lo que alguien arriesga al cambiarlo.
 
-### What to notice / transition / overlaps
+### Posición y transición
 
-Contrast the two pavilion exteriors, ordinary documents versus clandestine printing, the body implied by personal effects, shelter scale and generator if admitted. Continue toward left-bank occupation sites carrying the distinction between administrative control and agency. Strong overlap Paris Below (shelter technology), Spy (false papers), Republic (political unity). Occupied route claim remains everyday constraint; avoid repeating CNR history in full at museum if rue du Four follows.
+Entrar por 4 avenue du Colonel Henri Rol-Tanguy y usar únicamente los grupos de objetos enumerados. La visita termina al volver a superficie. Salir hacia boulevard Raspail conservando la diferencia entre un documento que limita una vida y otro que intenta protegerla; la siguiente fachada muestra cómo un edificio puede cambiar de función sin cambiar de aspecto.
 
-### Source notes
+### Fuentes
 
 - [Practical operations](https://www.museeliberation-leclerc-moulin.paris.fr/venir-au-musee/informations-pratiques): hours, address, accessibility, closures.
 - [Individual visits](https://www.museeliberation-leclerc-moulin.paris.fr/en-individuel): free collections, reception reservations, underground schedule and stairs.
 - [Official displayed room groups](https://www.museeliberation-leclerc-moulin.paris.fr/en/museum/au-fil-du-parcours): eight-target raid. English page has an obvious impossible Moulin death typo (June 8 after June 21 arrest); do not copy it. Museum French educational page states 8 July 1943.
 - [Place history](https://www.museeliberation-leclerc-moulin.paris.fr/le-musee/lhistoire-du-musee): shelter dates and real command-post use.
 
-## Hôtel Lutetia — KEEP
+## 2. Hôtel Lutetia — Regresar no repara la ausencia
 
 Historical significance: requisitioned for German military intelligence during occupation, then for care and processing of returning camp survivors in spring/summer 1945. Narrative significance: the same luxury building connected administrative power to both persecution and reception. No invented spy encounter, ghost or composite testimony needed.
 
-### Site today / access
+### Acceso y posición
 
 Operating Mandarin Oriental Lutetia, 45 boulevard Raspail, at rue de Sèvres. Exterior public sidewalk free, no ticket/hour dependency; keep clear of entrance and staff. Current official hotel site confirms name/address and operation. Commemorative plaque documented by institutional history; find it on facade rather than specifying an unverified side. Local history calls it rue de Rennes despite hotel’s Raspail/Sèvres footprint: location description conflicts, so do not navigate by that wording. Interior is a working luxury hotel; no promised historical rooms or free museum access, and no paid drink required. Core stop 10–15 minutes.
 
-### Why selected
+### Razón de la parada
 
 A surviving hotel exposes the distance between liberation as a public event and return as an unfinished personal ordeal.
 
-### Spanish on-site narration — core, substantial script
+### Guion presencial
 
 Quédate en la acera, dejando libre la entrada, y mira cómo funciona el hotel. Gente que llega. Equipaje que desaparece hacia dentro. Una puerta que organiza quién entra y quién espera. Todo parece dispuesto para que el paso entre la calle y el interior sea cómodo.
 
@@ -155,11 +116,11 @@ Por eso no vamos a contar este hotel como un final feliz después de la liberaci
 
 Antes de seguir, vuelve a la placa. Es pequeña comparada con el edificio. Tiene que trabajar contra la facilidad con que una fachada vuelve a parecer solamente hermosa. Llévate esa desproporción: todo el hotel para recibir a quienes regresaban, y ninguna habitación capaz de alojar a quienes nunca volverían.
 
-### What to notice / transition / overlaps
+### Posición y transición
 
-Luxury facade, functioning entrance, plaque and scale between memorial text and whole hotel. This anticipates deportation/absence rather than closing the route. Spy claim very strong for Abwehr; Occupied should own civilian return/absence framing if controller chooses distinct uses. Art Nouveau can interpret architecture separately. Cosmopolitan can use prewar German exile circles, but avoid adding those here if time limited.
+Observar desde la acera pública, sin bloquear la entrada ni usar servicios del hotel. Buscar la placa solo si es visible desde una posición legal. Continuar por rue de Sèvres y rue du Four: del edificio monumental que recibió a supervivientes se pasa a una puerta ordinaria donde organizarse exigía ocultar incluso la dirección.
 
-### Source notes and uncertainties
+### Fuentes y límites
 
 - [Current official hotel](https://www.mandarinoriental.com/en/paris/lutetia): active hotel and exact address; no historic interior access promise.
 - [Cartorik, OFAJ/DFJW historical project](https://cartorik.dfjw.org/fr/pois/parishotellutetia/story): Abwehr, returning survivors, family notices, plaque; historian Henning Fauser. It dates opening 19 April, while other histories date arrivals/operational opening 26 April. Use spring 1945 without settling discrepancy.
@@ -170,27 +131,23 @@ Luxury facade, functioning entrance, plaque and scale between memorial text and 
 Epistemic status: requisitions, institutional roles, displayed museum groups DOCUMENTED FACT; narrative contrast and reading of facade INTERPRETATION; individual survivor stories only as verified testimony metadata, never invented dialogue. No folklore asserted.
 
 
-### Investigations 3–4: CNR and Shoah
+## 3. 48 rue du Four — Una coalición detrás de una puerta
 
-Investigated 2 October 2026. The prior Shoah research spine was recovered during work; this narration was reconstructed and verified against current official sources. Both core explainers are substantial Spanish delivery scripts. They are editorial interpretation anchored in facts, not witness testimony.
-
-## 48 rue du Four — KEEP, core
-
-### Significance / exact-site facts
+### Hechos del lugar
 
 Historical: very strong. Jean Moulin chaired the clandestine meeting of 27 May 1943 in René Corbin's apartment at this exact address. Sixteen representatives attended with Moulin: eight Resistance movements, six political tendencies and two unions. The designation was initially Conseil de la Résistance; CNR is the familiar retrospective label. Political unification and demonstrating de Gaulle's legitimacy to the Allies were related objectives, not an instantaneous merger of every French resistance network.
 
 Narrative: unusually strong ordinary-address contrast; coalition-building becomes a physically risky action. Do not invent footsteps, weather, remembered dialogue, German patrols outside or meeting duration. No substantial local supernatural legend was found; commemorative memory is the relevant cultural register.
 
-### Site today / operations
+### Acceso y posición
 
 Exterior pavement stop, 48 rue du Four, 75006. Commemorative plaque establishes the exact-site connection; no public access to the apartment is assumed. Residential/commercial building: keep entrance clear, do not ring bells. Free exterior stop, daylight preferable for plaque reading; 10–15 minutes with narration and observation. Exact facade configuration and temporary scaffolding need an on-trip visual check.
 
-### Why selected
+### Razón de la parada
 
 An ordinary doorway makes visible the risk involved in turning fragmented resistance into a political coalition under occupation.
 
-### Explainer — Spanish
+### Guion presencial
 
 Busca el número 48. Después encuentra la placa. Quédate en un punto donde puedas ver la entrada sin impedir que nadie pase.
 
@@ -208,29 +165,25 @@ Venimos de lugares donde la ocupación convirtió hábitos cotidianos y edificio
 
 Cuando sigamos, deja que la puerta vuelva a ser una puerta. Las personas que viven aquí no son figurantes de nuestra historia. Esa normalidad permite entender la escala del riesgo: algo que hoy podemos señalar abiertamente exigió entonces ocultar su propia dirección.
 
-### What to notice / transition
+### Posición y transición
 
 House number and commemorative plaque; ordinary threshold against political consequence. Continue toward the Shoah Memorial as a deliberate change of subject: coalition-making does not supply a triumphant explanation or remedy for persecution and deportation.
 
-### Overlap / uncertainty
+## 4. Mémorial de la Shoah — Nombrar sin inventar una vida
 
-Republic route: very strong alternative claim through republican and social reconstruction. Spy route: medium, clandestine rendezvous logistics, but this stop's primary story is political coordination rather than intelligence gathering. Modern building access not verified beyond exterior plaque; do not promise interiors.
-
-## Mémorial de la Shoah — KEEP, core, timed finish
-
-### Significance / exact-site facts
+### Hechos del lugar
 
 Very strong thematic and narrative value. This is a postwar memorial and documentation institution, not an original deportation departure site. Paris memorial inaugurated in 1956; ashes deposited in the crypt in 1957. Archival institutional origins are the clandestine 1943 Grenoble initiative of Isaac Schneersohn, not a wartime meeting at this Paris address. The 2005 Wall of Names records approximately 76,000 Jews deported from France, including survivors; do not label every name a murdered person or equate the wall with all Shoah victims. A 2024 digital monument complements it for other categories of victims.
 
-### Site today / operations
+### Acceso y posición
 
-17 rue Geoffroy-l'Asnier, 75004. Official French practical page: individual entry free without reservation; Sunday–Friday 10:00–18:00, Thursday to 21:00; Saturday closed. Listed annual closures: 25 December, 1 January, 1 May, 14 July; listed 2026 Jewish holiday closures fall outside the proposed late-Oct/Nov envelope. Still recheck close to travel for exceptional closure/security restrictions. Wall, courtyard and crypt require entry into the institution's controlled site; never describe Wall access as an unrestricted street frontage. Allow 45–75 minutes for a concentrated visit, longer for exhibition; security queue allowance 15 minutes provisional, not an official guarantee. Saint-Paul, Hôtel-de-Ville or Pont-Marie transit escapes. Interior closure defeats this core ending: schedule route to arrive well before 18:00, or use Thursday evening; no Saturday substitute of equivalent depth verified.
+17 rue Geoffroy-l'Asnier, 75004. Official French practical page: individual entry free without reservation; Sunday–Friday 10:00–18:00, Thursday to 21:00; Saturday closed. Listed annual closures: 25 December, 1 January, 1 May, 14 July; listed 2026 Jewish holiday closures fall outside the proposed late-Oct/Nov envelope. Still recheck close to travel for exceptional closure/security restrictions. Wall, courtyard and crypt require entry into the institution's controlled site; never describe Wall access as an unrestricted street frontage. Allow 45–75 minutes for a concentrated visit, longer for exhibition; reserve 15 minutes for security as a planning allowance, not an official guarantee. Saint-Paul, Hôtel-de-Ville or Pont-Marie transit escapes. Interior closure defeats this core chapter: schedule route to arrive well before 18:00; no Saturday substitute of equivalent depth is verified, and continuing to Japy does not repair its loss.
 
-### Why selected
+### Razón de la parada
 
-A finish that turns the walk's account of occupation into names, records and irreparable absences, while refusing a victory ending.
+A central encounter that turns the walk's account of occupation into names, records and irreparable absences, while refusing a victory narrative before the route continues to Japy.
 
-### Explainer — Spanish
+### Guion presencial
 
 Cuando hayas entrado, encuentra el Muro de los Nombres. Antes de recorrerlo, detente ante una pequeña parte. Puedes leer un nombre en silencio. No necesitas elegir el más conocido ni encontrar una historia que ya hayas oído.
 
@@ -250,32 +203,56 @@ En el Lutetia hablamos de regresos. Este muro impide convertirlos en una conclus
 
 Si bajamos a la cripta, guarda la narración y permite un momento de silencio. Si nos quedamos aquí, vuelve al nombre que elegiste al llegar. No vamos a inventarle una despedida.
 
-Nuestra caminata termina. Su historia no queda resuelta porque nosotros salgamos a una ciudad libre. Antes de buscar la puerta, lee ese nombre una vez más.
+Este capítulo termina aquí. Su historia no queda resuelta porque nosotros salgamos a una ciudad libre. Antes de buscar la puerta, lee ese nombre una vez más. Después volveremos a la calle para reconocer en Japy uno de los lugares donde una citación se convirtió en arresto; no atribuyas al nombre elegido ese itinerario sin prueba individual.
 
-### What to notice / narrative closure
+### Observación y transición
 
-Names and birth dates, restrained scale of one small section against extensive lists; crypt as a separate quiet space. Do not instruct spoken recital in a crowded devotional setting. Archival work and memorial correction are cultural memory, not folklore. The ending is consequence and incomplete recovery, not catharsis or liberation applause.
+Names and birth dates, restrained scale of one small section against extensive lists; crypt as a separate quiet space. Do not instruct spoken recital in a crowded devotional setting. Archival work and memorial correction are cultural memory, not folklore. The chapter is consequence and incomplete recovery, not catharsis or liberation applause.
 
-### Source notes / overlap
+### Fuentes y límites de acceso
 
-[Current official practical information](https://www.memorialdelashoah.org/acces-horaires-et-infos-pratiques.html) governs French opening hours; English auxiliary pages conflict on specialist room/bookshop hours and are not used for main venue timing. [Room of Names](https://www.memorialdelashoah.org/le-memorial/les-espaces-du-musee-memorial/la-salle-des-noms.html) is a research service, not interchangeable with Wall of Names. Republic route has a strong competing claim through state responsibility and public remembrance; Cosmopolitan route through Jewish Paris also strong, but neither should monopolize genocide remembrance. No supernatural register warranted. Building is controlled entry; photography, bag rules and exact day restrictions require a final operational recheck.
+La [información práctica oficial vigente](https://www.memorialdelashoah.org/acces-horaires-et-infos-pratiques.html) gobierna el horario. La [Salle des Noms](https://www.memorialdelashoah.org/le-memorial/les-espaces-du-musee-memorial/la-salle-des-noms.html) es un servicio de investigación y no se confunde con el Mur des Noms. El Mur des Noms, el patio y la cripta están dentro del recinto de acceso controlado; no se prometen desde la calle. Fotografías, bolsas y restricciones del día se someten al personal.
 
-### Adjacent Mur des Justes — optional connective, same complex
+### Mur des Justes — conexión exterior opcional del mismo complejo
 
-Visit **before controlled entry** if wanted, so the core narration can finish by rereading the chosen deportee's name without repeated security entry. The wall occupies the public alley beside the Memorial and the institution explicitly lists it as accessible continuously. It commemorates recognized rescuers in France, with names of over3900people on the page consulted; do not present that count as every rescuer or as a current worldwide total. This adjacent wall does not replace the locked Mur des Noms onSaturday. [Official Mur des Justes access and meaning](https://www.memorialdelashoah.org/le-memorial/les-espaces-du-musee-memorial/le-mur-des-justes.html).
+Si se desea, visitar **antes del control de entrada**, para que la narración central pueda terminar releyendo el nombre elegido sin atravesar dos veces la seguridad. El muro ocupa el callejón público junto al Memorial y la institución lo declara accesible de forma continua. Conmemora a salvadores reconocidos en Francia; la página consultada reúne más de 3.900 nombres, cifra que no representa a todos los salvadores ni constituye un total mundial actualizado. Este muro adyacente no sustituye al Mur des Noms interior cuando el recinto está cerrado. [Acceso y sentido oficial del Mur des Justes](https://www.memorialdelashoah.org/le-memorial/les-espaces-du-musee-memorial/le-mur-des-justes.html).
 
 Connective narration: «Mira los nombres de este muro exterior. Son personas reconocidas por haber contribuido a salvar judíos en Francia durante la guerra, arriesgando sus propias vidas. Nos permiten recordar una capacidad de acción concreta: esconder, ayudar, proteger. Pero no vamos a convertir dos muros en una contabilidad donde el valor de unos compense lo que otros sufrieron. Los rescates tuvieron consecuencias reales; las deportaciones también. Entraremos ahora para leer otros nombres. La historia de quienes pudieron ayudar no debe impedirnos detenernos ante la de quienes no regresaron.»
 
-## Architect revision and controller handoff
+## 5. Gymnase Japy — Un gimnasio convertido en dispositivo de arresto
 
-**Final order: Denfert museum → Lutetia exterior →48rue du Four →Shoah Memorial complex.** All four investigator decisions KEEP, but individual strength is not automatic portfolio ownership. The arc survives without a liberation parade and without padding geography. Optional command post is removed first if queue, stairs, fatigue or timetable interferes; it is not necessary for the everyday-life opening. Optional Mur des Justes remains part of one complex, not a fifth major stop.
+Parada exterior en la acera pública frente o en oblicuo al 2 rue Japy, manteniendo libres las puertas y el paso de usuarios. El interior no forma parte de la ruta. Usar la placa si está visible; si queda tapada, el edificio y su umbral siguen siendo la referencia física. Las fotografías de 1941 fueron realizadas por un fotógrafo de propaganda alemán: son documentos, no una mirada neutral o transparente.
 
-**Occupied Paris should provisionally remain distinct from Spy Paris.** This route earns its identity through rationing and identity control, a hotel's transition from intelligence offices to survivor reception, clandestine political coalition, deportation and the later work of naming. Spy may own specific operations, espionage techniques and geopolitical ambiguity over a wider period. Shared techniques or a shared hotel do not demonstrate that the routes should merge. The controller must judge Spy's eventual investigated material before committing either decision.
+### Guion presencial
 
-Ownership conflicts requiring controller evidence: Lutetia strongest competing Spy claim through Abwehr, Art Nouveau claim through its architecture; CNR strongest Republic claim through representation and later social reconstruction; Denfert shelter strong Paris Below claim and false papers medium/strong Spy claim; Shoah complex strong Cosmopolitan/Jewish Paris and Republic/state-responsibility alternatives. Repeated narrations are justified only if both genuinely earn their distinct experience. Suggested portfolio allocation: keep survivor return and names in Occupied; let Spy seek equally concrete operations elsewhere before duplicating Lutetia.
+Busca el número 2 y reconoce primero el edificio como lo que es hoy: un gimnasio municipal. Si la placa está visible, léela después. No bloquees la entrada ni intentes entrar. Nuestro último capítulo ocurre en la acera porque la actividad deportiva actual no está al servicio de esta visita.
 
-Infrastructure: permanent museum provides the main opening indoor refuge, lockers and visitor facilities—confirm toilets at reception rather than assume access outside hours. Memorial provides the ending indoor refuge during actual access hours. Between anchors, cafés/food near Raspail and Saint-Germain support a paid rest stop; hotel services are not counted as public infrastructure. Use current City sanisette map nearer travel instead of inventing a precise toilet that has not been verified. In rain or fatigue, remove underground option/exhibition first, then transit the long eastbound connective stretch; in sustained discomfort preserve one museum/memorial visit or return to NOC. Do not force the full walk for completion's sake.
+El 14 de mayo de 1941 este lugar formó parte de una operación muy distinta. Miles de hombres judíos extranjeros habían recibido una citación impresa en una tarjeta verde. Debían presentarse para un examen de su situación. La expresión administrativa ocultaba la consecuencia: en varios centros de París fueron arrestados por policías franceses, por iniciativa de las autoridades alemanas. Japy fue uno de esos centros. No trasladaremos aquí una cifra de toda la redada como si todos hubieran pasado por esta puerta. La precisión espacial también es una forma de respeto. [Mémorial de la Shoah: investigación fotográfica](https://www.memorialdelashoah.org/98-photos-inedites-sur-la-rafle-du-billet-vert.html).
 
-Risks and remaining checks: pedestrian segment distances and facade/plaques are approximate and require mapping/visual QA; bilingual museum text contains a known Moulin-date typo deliberately avoided; Lutetia exactApril1945opening date and plaque-side descriptions conflict so the script uses spring1945and asks the walker to find the plaque; individual museum objects may rotate despite attested room groups; memorial names include survivors and are not synonymous with all murder victims; security or late closure can defeat the intended finish. No invented individual witness, dialogue or supernatural narrative fills any gap.
+Mira la relación entre entrada y calle. Una citación no necesita derribar una puerta. Convoca a la persona y presenta la comparecencia como un trámite. Familiares acompañaron a algunos hombres o esperaron fuera. Las fotografías conservan hombres dentro del gimnasio, despedidas, policías, autobuses y el traslado hacia la estación de Austerlitz; después aparecen los campos de Pithiviers y Beaune-la-Rolande. Ese encadenamiento importa: papel, lugar de reunión, custodia, vehículo, tren, internamiento. Ninguna pieza aislada parece explicar por sí sola toda la persecución. Juntas forman una operación.
 
-**External Claude QA pending.** Distance validation, precise machine-readable geometry, photo-bearing website and spoken-script QA remain downstream deliverables. This independent investigation supports compact KEEP; the main controller retains keep/merge/split/kill authority after all20hypotheses have evidence.
+Ahora cambia el registro. Las imágenes no son una ventana inocente. El Mémorial identificó el reportaje como obra de Harry Croner, fotógrafo de una compañía de propaganda alemana. El conjunto reapareció décadas después en planchas de contacto; la censura alemana había impedido entonces su difusión completa. Podemos utilizarlas como documentos del lugar y de la secuencia sin adoptar la mirada para la que fueron producidas. Una fotografía puede aportar prueba y seguir exigiendo preguntas sobre quién eligió el encuadre, qué pretendía mostrar y qué dejó fuera. [Exposición oficial 2026](https://www.memorialdelashoah.org/evenements-et-expositions/expositions/expositions-temporaires/exposition-rafle-du-billet-vert.html).
+
+Venimos del Muro de los Nombres. Allí la piedra reúne identidades después de la deportación. Aquí una fachada permite reconstruir un momento anterior: las personas todavía estaban en París, delante de familiares, dentro de una institución ordinaria, y una administración estaba transformando una convocatoria en cautiverio. No sabemos que el nombre que hayas leído en el Memorial pasara por Japy. No unas dos documentos para fabricar una biografía individual.
+
+La placa conmemorativa pertenece al presente de la ciudad. El gimnasio sigue teniendo horarios, asociaciones y cuerpos que llegan para hacer deporte. Esa continuidad no borra 1941; evita que tratemos el edificio como una escenografía congelada. El mecanismo de persecución necesitó espacios que servían para otras cosas, funcionarios que podían tramitar papeles y vehículos que circulaban por calles normales.
+
+Al empezar la ruta miramos un cupón y un documento falso. Terminamos ante otra relación entre papel y cuerpo: una tarjeta que llevó a personas hasta un lugar donde su libertad terminó. Mira una última vez la puerta. No es una reliquia aislada del resto de París. Esa es la consecuencia final de la ruta: una ciudad puede continuar pareciendo cotidiana mientras sus instituciones hacen posible algo extraordinariamente violento.
+
+### Posición, evidencia y cierre
+
+El encuentro se realiza desde la acera pública en **48.855875, 2.382466**. La historia de las 98 fotografías y su secuencia procede del Mémorial; la función y dirección actuales, de la Ville de Paris. La interpretación del papel, el umbral y la continuidad cotidiana es de Cruce. La placa o la fachada pueden quedar tapadas; no se promete una comparación visual exacta ni una exposición en el gimnasio. Voltaire es la salida elegida.
+
+## Operación cerrada
+
+La experiencia completa opera martes–viernes o domingo. El Musée de la Libération y el Mémorial son los dos interiores esenciales; el puesto de mando es opcional. Lutetia, 48 rue du Four y Japy son paradas exteriores. El Mur des Justes está en el callejón público exterior y, si se visita, se hace antes del control de entrada; nunca sustituye al Mur des Noms interior.
+
+La pausa principal se hace en Saint-Germain si el reloj permite llegar al Mémorial con 55 minutos útiles. Confirmar WC en recepción del museo; no depender del hotel ni del gimnasio. No existe refugio gratuito continuo entre los interiores. V0–V6 en [operaciones](navigation/07_access_operations.md) distinguen reprogramación, versión parcial y omisión opcional sin presentar una pérdida esencial como equivalente.
+
+## Evidencia, límites y cierre
+
+La medida controladora procede del cálculo peatonal Valhalla/OSM archivado el 3 de octubre de 2026. El GPX y el GeoJSON fijan un corredor público simplificado entre las decisiones; no son una polilínea densa del router, una inspección de campo ni permiso para cruzar una barrera. Señales, obras, personal y seguridad mandan el día.
+
+No hubo inspección presencial, llamada, reserva, ensayo de voz, evaluación externa ni publicación web. El estado visible de las tres fachadas y placas exteriores es una comprobación del día con respuesta utilizable: observar desde el primer punto seguro, omitir el detalle invisible y no entrar. Un cierre del Memorial no tiene sustituto equivalente; V3 ordena reprogramar o declarar una versión parcial, nunca fingir el cierre narrativo.
+
+Los guiones tienen respectivamente **492, 510, 507, 712 y 518 palabras** en el recuento editorial (enlaces excluidos; el cuarto incluye su transición nueva a Japy) y cumplen el estándar presencial de 450–900. Los hechos documentados, la memoria pública, la naturaleza propagandística de las fotografías y la interpretación de Cruce se distinguen. [Evidencia estructurada](navigation/07.evidence.json).

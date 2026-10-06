@@ -1,0 +1,11 @@
+{
+  "type":"FeatureCollection",
+  "name":"route_15_v1_20261005",
+  "features":[
+    {"type":"Feature","properties":{"route_id":"15","version":"15-v1-20261005","name":"base","distance_km":1.684},"geometry":{"type":"LineString","coordinates":[[2.341330,48.856910],[2.340200,48.856970],[2.338900,48.857080],[2.337400,48.857270],[2.337550,48.858550],[2.337550,48.859850],[2.337600,48.860550],[2.336300,48.861050],[2.336100,48.862100],[2.336000,48.862600],[2.336200,48.863200],[2.336550,48.864150],[2.337000,48.865200],[2.337150,48.865550],[2.338400,48.866100],[2.339050,48.866300],[2.339550,48.866730],[2.339620,48.867200],[2.339350,48.867650],[2.338550,48.868100]]}},
+    {"type":"Feature","properties":{"id":"B01","name":"Bouquinistes, quai de Conti"},"geometry":{"type":"Point","coordinates":[2.341330,48.856910]}},
+    {"type":"Feature","properties":{"id":"B02","name":"Bibliotheque Mazarine"},"geometry":{"type":"Point","coordinates":[2.337400,48.857270]}},
+    {"type":"Feature","properties":{"id":"B03","name":"Librairie Jousseaume"},"geometry":{"type":"Point","coordinates":[2.339550,48.866730]}},
+    {"type":"Feature","properties":{"id":"B04","name":"Salle Ovale"},"geometry":{"type":"Point","coordinates":[2.338550,48.868100]}}
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "route_id": "09",
+  "route_version": "09-v1-20261006",
+  "retrieved_date": "2026-10-06",
+  "crs": "WGS84",
+  "on_ground_verified": false,
+  "geometry": {
+    "source": "routes/discovery_batch_e.md; archived Valhalla/OpenStreetMap pedestrian measurement",
+    "distance_km": 8.281,
+    "published_legs_km": [1.192,1.849,2.160,0.642,2.030,0.405],
+    "rounded_legs_sum_km": 8.278,
+    "delivery_geometry": "simplified public-street decision corridor; not dense router output or field survey",
+    "license": "OpenStreetMap contributors, ODbL"
+  },
+  "sources": [
+    {"scene":"passy_marker","type":"historical_society_and_registry","urls":["https://www.histoire-auteuil-passy.org/archives/grands-personnages-du-xvie-arrondissement/benjamin-franklin","https://www.uswarmemorials.org/html/monument_details.php?MemID=1357&SiteID=499","https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/maison-de-franklin-rue-raynouard-a-passy-aout-1909-actuellement-maison-des"],"claims":"exact 1 rue Singer marker, public exterior placement, lost former building"},
+    {"scene":"bancroft","type":"official_historical_research","urls":["https://www.cia.gov/resources/csi/static/Edward-Bancroft-Estimable-Spy.pdf","https://www.dni.gov/files/NCSC/documents/ci/CI_Reader_Vol1.pdf","https://history.state.gov/milestones/1776-1783/b-franklin"],"claims":"Passy diplomatic headquarters, Bancroft access and British activity; Franklin awareness disputed"},
+    {"scene":"dreyfus","type":"official_institutional","urls":["https://www.defense.gouv.fr/drm/actualites/2e-bureau-matrice-du-renseignement-militaire-contemporain-laffaire-dreyfus-27","https://www.justice.gouv.fr/actualites/actualite/laffaire-dreyfus","https://allemagneenfrance.diplo.de/fr-fr/missions-allemandes/botschaft-seite/4-residence"],"claims":"embassy-document chain, wrongful case, current diplomatic-residence status and optional registered visits"},
+    {"scene":"mata_hari","type":"official_archive_and_defence","urls":["https://www.servicehistorique.sga.defense.gouv.fr/en/node/373974","https://www.defense.gouv.fr/chemins-memoire/histoire-memoires/personnalites/personnalites-lettre-e-lettre-m/mata-hari","https://pop.culture.gouv.fr/notice/merimee/PA00088892"],"claims":"arrest address/date, seized objects, Vittel permit, disputed operational interpretation, protected exterior record and lost interiors"},
+    {"scene":"champs_current_condition","type":"municipal","urls":["https://cdn.paris.fr/paris/2025/04/30/103-avenue-des-champs-elysees-8eme-t13ab4-ns-micro-4g-bouygues-OeA4.pdf"],"claims":"103-111 block identified with Louis Vuitton works context in 2025; not proof of day condition"},
+    {"scene":"services","type":"municipal_and_operator","urls":["https://opendata.paris.fr/explore/dataset/sanisettesparis/map/","https://www.paris.fr/lieux/jardins-des-champs-elysees-2471","https://www.ratp.fr/aide-contact/questions/preparer-mon-trajet/information-trafic/gares-stations-accessibles"],"claims":"toilet dataset, no WC in gardens, limited metro accessibility and need for live check"}
+  ],
+  "limits": ["No field inspection, booking, purchase, call, voice rehearsal or external review","Marker registry does not prove day visibility","2025 work record does not prove 2026 hoarding state","No school, diplomatic, hotel or monument interior is included","GPX and GeoJSON are simplified; archived router total controls"]
+}

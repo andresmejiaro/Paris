@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cruce" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>Route 09 Spy Paris 09-v1-20261006</name><desc>Simplified decision corridor; archived Valhalla total 8.281 km controls.</desc></metadata>
+  <wpt lat="48.855390" lon="2.279660"><name>W01 Singer Raynouard inscription</name></wpt>
+  <wpt lat="48.862100" lon="2.288000"><name>W02 Trocadero</name></wpt>
+  <wpt lat="48.853593" lon="2.303284"><name>W03 Ecole Militaire</name></wpt>
+  <wpt lat="48.858400" lon="2.323400"><name>W04 Hotel Beauharnais</name></wpt>
+  <wpt lat="48.863000" lon="2.319700"><name>W05 Pont de la Concorde north</name></wpt>
+  <wpt lat="48.872100" lon="2.300500"><name>W06 Former Elysee Palace</name></wpt>
+  <wpt lat="48.873800" lon="2.296500"><name>W07 Arc coda</name></wpt>
+  <trk><name>09 base simplified corridor</name><trkseg>
+    <trkpt lat="48.855390" lon="2.279660"/><trkpt lat="48.862100" lon="2.288000"/><trkpt lat="48.853593" lon="2.303284"/><trkpt lat="48.858400" lon="2.323400"/><trkpt lat="48.863000" lon="2.319700"/><trkpt lat="48.872100" lon="2.300500"/><trkpt lat="48.873800" lon="2.296500"/>
+  </trkseg></trk>
+</gpx>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cruce" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata><name>03 variantes y conectores</name><desc>Tracks independientes. Orientación, no levantamiento GPS; comprobar caminos, cruces y puertas.</desc></metadata>
+  <trk><name>03_arrival_PhilippeAuguste_mainGate</name><trkseg><trkpt lat="48.858239" lon="2.390269"/><trkpt lat="48.858650" lon="2.389900"/><trkpt lat="48.859200" lon="2.389550"/><trkpt lat="48.859969" lon="2.389222"/></trkseg></trk>
+  <trk><name>03_return_GambettaGate_metro</name><trkseg><trkpt lat="48.863384" lon="2.397162"/><trkpt lat="48.863900" lon="2.397500"/><trkpt lat="48.864400" lon="2.398050"/><trkpt lat="48.864964" lon="2.398800"/></trkseg></trk>
+  <trk><name>03_V1_mainGate_Robertson_return</name><trkseg><trkpt lat="48.859969" lon="2.389222"/><trkpt lat="48.860100" lon="2.389550"/><trkpt lat="48.860040" lon="2.390000"/><trkpt lat="48.859933" lon="2.390947"/><trkpt lat="48.860040" lon="2.390000"/><trkpt lat="48.860100" lon="2.389550"/><trkpt lat="48.859969" lon="2.389222"/></trkseg></trk>
+  <trk><name>03_V2_Kardec_Gambetta_direct</name><trkseg><trkpt lat="48.862320" lon="2.394350"/><trkpt lat="48.862500" lon="2.395000"/><trkpt lat="48.862700" lon="2.396000"/><trkpt lat="48.863000" lon="2.396700"/><trkpt lat="48.863384" lon="2.397162"/></trkseg></trk>
+</gpx>

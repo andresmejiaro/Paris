@@ -1,0 +1,61 @@
+{
+  "route_id": "13",
+  "version": "13-v1-20261006",
+  "status": "DONE",
+  "reviewed": "2026-10-06",
+  "owner": "Cruce",
+  "narrator": "Aster",
+  "base": {
+    "start": "Square Lamartine Albian fountain",
+    "finish": "Musee des Egouts exterior threshold",
+    "distance_km": 7.013,
+    "duration_minutes": [210, 250],
+    "preferred_start": ["09:30", "10:30"],
+    "latest_start": "12:30",
+    "finish_by": "16:40",
+    "cost_eur": 0,
+    "reservation": "none",
+    "museum_included": false
+  },
+  "legs_km": [2.268, 0.885, 0.198, 1.819, 1.563, 0.278],
+  "rounded_legs_sum_km": 7.011,
+  "stops": [
+    {"id":"W01","name":"Square Lamartine fountain","lat":48.8649,"lon":2.2752,"core":true},
+    {"id":"W02","name":"Wallace fountain place Jean-Lorrain","lat":48.8481,"lon":2.2648,"core":true},
+    {"id":"W03","name":"Former Auteuil waterworks exterior","lat":48.8463,"lon":2.2732,"core":true},
+    {"id":"W04","name":"Pont Mirabeau west","lat":48.847155,"lon":2.275417,"core":false},
+    {"id":"W05","name":"Radio France Kennedy frontage","lat":48.8527,"lon":2.2794,"core":false},
+    {"id":"W06","name":"Bir-Hakeim west pavement","lat":48.856,"lon":2.2873,"core":false},
+    {"id":"W07","name":"Avenue de New York upper pavement","lat":48.8605,"lon":2.2921,"core":false},
+    {"id":"W08","name":"Alma upper-bank Zouave viewpoint","lat":48.864,"lon":2.3013,"core":true},
+    {"id":"W09","name":"Musee des Egouts exterior threshold","lat":48.8626,"lon":2.3027,"core":false}
+  ],
+  "checks_on_day": ["Square Lamartine date-specific gate hours", "fountain visibility and potable operation", "weather, flood notices and upper-bank barriers", "public toilet state", "transport", "museum opening, ticket and industrial conditions only if independently selected"],
+  "services": {
+    "toilet": "municipal sanisettes near Mirabeau and Alma; verify live state; museum WC only with admission",
+    "rest": "Auteuil or Mirabeau outside pedestrian flow; seat not guaranteed",
+    "shelter": "none continuous guaranteed",
+    "water": "carry own; fountains may be winterized",
+    "food": "carry snack or optional purchase at displayed price"
+  },
+  "variants": [
+    {"id":"V0","trigger":"Lamartine square closed","action":"narrate from perimeter","loses":"fountain and possible flow"},
+    {"id":"V1","trigger":"Wallace absent or obscured","action":"omit W02 and continue","loses":"public-access interface"},
+    {"id":"V2","trigger":"Auteuil exterior illegible","action":"safe perimeter or omit","loses":"double-network chapter"},
+    {"id":"V3","trigger":"unsafe weather or flood conditions","action":"postpone or finish at Mirabeau after W03","loses":"river, flood and threshold"},
+    {"id":"V4","trigger":"fatigue or pain","action":"use Mirabeau, Passy/Bir-Hakeim or Alma exit"},
+    {"id":"V5","trigger":"museum unavailable","action":"finish at exterior threshold","loses":"independent museum visit only"},
+    {"id":"V6","trigger":"Zouave or south crossing blocked","action":"use first safe upper viewpoint and finish W08 if needed","loses":"figure or sewer threshold"}
+  ],
+  "files": {
+    "canonical":"routes/13_engineered_city.md",
+    "navigation":"routes/navigation/13_navigation.md",
+    "operations":"routes/navigation/13_access_operations.md",
+    "base_gpx":"routes/navigation/13.gpx",
+    "variants_gpx":"routes/navigation/13.variants.gpx",
+    "geojson":"routes/navigation/13.geojson",
+    "evidence":"routes/navigation/13.evidence.json",
+    "archive":"routes/archive/13_engineered_city_pre_done_20261006.md"
+  },
+  "external_review": "after closure"
+}

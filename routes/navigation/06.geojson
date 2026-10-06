@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "name": "06_revolutionary_paris",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {"route_id":"06","version":"06-v1-20261006","name":"Palais-Royal to Nation","distance_km":8.14,"geometry_kind":"simplified_reference","on_ground_verified":false},
+      "geometry": {"type":"LineString","coordinates":[
+        [2.336,48.8648],[2.33472,48.86503],[2.33285,48.86535],[2.33055,48.86568],[2.32832,48.86599],[2.3259,48.86623],[2.32325,48.86636],[2.3211,48.8663],
+        [2.32238,48.86592],[2.32403,48.86541],[2.32618,48.86473],[2.32822,48.86393],[2.33,48.86298],[2.33133,48.86198],[2.332,48.8612],
+        [2.33405,48.86079],[2.33652,48.86048],[2.33905,48.86006],[2.34145,48.85965],[2.34382,48.85924],[2.34605,48.85872],[2.34822,48.85801],[2.34965,48.85729],[2.351,48.8567],
+        [2.3525,48.85654],[2.3544,48.8566],[2.3562,48.85635],[2.35842,48.85598],[2.36075,48.85559],[2.36305,48.85512],[2.36525,48.85465],[2.3673,48.85411],[2.3691,48.8532],
+        [2.371,48.85285],[2.37345,48.85245],[2.3759,48.85208],[2.3785,48.85176],[2.3811,48.85143],[2.38378,48.85107],[2.38655,48.85069],[2.38925,48.85026],[2.39185,48.84982],[2.3941,48.84925],[2.3959,48.8483]
+      ]}
+    },
+    {"type":"Feature","properties":{"id":"R01","name":"Palais-Royal"},"geometry":{"type":"Point","coordinates":[2.336,48.8648]}},
+    {"type":"Feature","properties":{"id":"R02","name":"Concorde"},"geometry":{"type":"Point","coordinates":[2.3211,48.8663]}},
+    {"type":"Feature","properties":{"id":"R03","name":"Carrousel"},"geometry":{"type":"Point","coordinates":[2.332,48.8612]}},
+    {"type":"Feature","properties":{"id":"R04","name":"Hotel de Ville"},"geometry":{"type":"Point","coordinates":[2.351,48.8567]}},
+    {"type":"Feature","properties":{"id":"R05","name":"Bastille"},"geometry":{"type":"Point","coordinates":[2.3691,48.8532]}},
+    {"type":"Feature","properties":{"id":"R06","name":"Nation / Dalou"},"geometry":{"type":"Point","coordinates":[2.3959,48.8483]}}
+  ]
+}

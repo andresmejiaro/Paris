@@ -1,0 +1,13 @@
+{
+  "route_id":"18","version":"18-v1-20261006","created":"2026-10-06",
+  "geometry":{"source":"routes/geometry_batch_c_data.json record 13_canal_full","router":"Valhalla pedestrian over OSM","checked":"2026-10-03","base_km":7.077,"legs_km":[0.756,0.861,1.040,0.744,1.300,0.770,1.602],"short_temple_km":4.418,"short_recollets_km":3.674,"note":"GPX/GeoJSON preserve the selected decision corridor; router total, not sparse-point chord length, is controlling."},
+  "access_sources":[
+    {"subject":"canal navigation and notices","url":"https://www.paris.fr/pages/tmp-canaux-7834","checked":"2026-10-06"},
+    {"subject":"Arsenal garden","url":"https://www.paris.fr/lieux/jardin-du-port-de-l-arsenal-1783","checked":"2026-10-06","uncertainty":"specific interval ends 2026-10-24; check day"},
+    {"subject":"all garden hours","url":"https://www.paris.fr/lieux/parcs-jardins-et-bois/tous-les-horaires","checked":"2026-10-06"},
+    {"subject":"street works","url":"https://www.paris.fr/pages/chantiers-de-voirie-3207","checked":"2026-10-06"},
+    {"subject":"La Villette access","url":"https://www.lavillette.com/horaires-et-acces/","checked":"2026-10-06"}
+  ],
+  "qa":["base begins Arsenal and ends Grande Halle","all decision coordinates synchronized","covered canal is surface-only","no private pontoon or interior required","boat and bridge movement not promised","short variants independent","day uncertainties have actions"],
+  "limits":["no field inspection","no live accessibility certification","no toilet, boat, object visibility or transit guarantee","works and barriers checked on day"]
+}

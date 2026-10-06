@@ -1,0 +1,11 @@
+{
+  "type": "FeatureCollection",
+  "name": "route_12_v1_20261005",
+  "features": [
+    {"type":"Feature","properties":{"route_id":"12","version":"12-v1-20261005","name":"base","distance_km":4.214,"distance_source":"archived Valhalla run"},"geometry":{"type":"LineString","coordinates":[[2.378300,48.848900],[2.376900,48.850200],[2.374300,48.852000],[2.372000,48.854200],[2.369400,48.855900],[2.367000,48.858200],[2.364400,48.860500],[2.361900,48.863000],[2.357700,48.863500],[2.353000,48.864100],[2.347700,48.864600],[2.345600,48.863800],[2.342800,48.862800]]}},
+    {"type":"Feature","properties":{"id":"M01","name":"Aligre/Beauvau","core":true},"geometry":{"type":"Point","coordinates":[2.378300,48.848900]}},
+    {"type":"Feature","properties":{"id":"M02","name":"Marche des Enfants Rouges","core":true},"geometry":{"type":"Point","coordinates":[2.361900,48.863000]}},
+    {"type":"Feature","properties":{"id":"C03","name":"rue Montorgueil contextual passage","core":false},"geometry":{"type":"Point","coordinates":[2.347700,48.864600]}},
+    {"type":"Feature","properties":{"id":"M04","name":"Bourse de Commerce exterior","core":true},"geometry":{"type":"Point","coordinates":[2.342800,48.862800]}}
+  ]
+}

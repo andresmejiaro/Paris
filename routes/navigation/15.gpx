@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cruce" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>Route 15 Books in Circulation 15-v1-20261005</name></metadata>
+  <wpt lat="48.856910" lon="2.341330"><name>B01 Bouquinistes quai de Conti</name></wpt>
+  <wpt lat="48.857270" lon="2.337400"><name>B02 Bibliotheque Mazarine</name></wpt>
+  <wpt lat="48.866730" lon="2.339550"><name>B03 Librairie Jousseaume</name></wpt>
+  <wpt lat="48.868100" lon="2.338550"><name>B04 Salle Ovale</name></wpt>
+  <trk><name>Route15_base_1.684km</name><trkseg>
+    <trkpt lat="48.856910" lon="2.341330"/><trkpt lat="48.856970" lon="2.340200"/><trkpt lat="48.857080" lon="2.338900"/><trkpt lat="48.857270" lon="2.337400"/>
+    <trkpt lat="48.858550" lon="2.337550"/><trkpt lat="48.859850" lon="2.337550"/><trkpt lat="48.860550" lon="2.337600"/><trkpt lat="48.861050" lon="2.336300"/><trkpt lat="48.862100" lon="2.336100"/><trkpt lat="48.862600" lon="2.336000"/><trkpt lat="48.863200" lon="2.336200"/><trkpt lat="48.864150" lon="2.336550"/><trkpt lat="48.865200" lon="2.337000"/><trkpt lat="48.865550" lon="2.337150"/><trkpt lat="48.866100" lon="2.338400"/><trkpt lat="48.866300" lon="2.339050"/><trkpt lat="48.866730" lon="2.339550"/>
+    <trkpt lat="48.867200" lon="2.339620"/><trkpt lat="48.867650" lon="2.339350"/><trkpt lat="48.868100" lon="2.338550"/>
+  </trkseg></trk>
+</gpx>

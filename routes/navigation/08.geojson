@@ -1,0 +1,13 @@
+{
+  "type":"FeatureCollection",
+  "features":[
+    {"type":"Feature","properties":{"route_id":"08","version":"08-v1-20261006","name":"base simplified","distance_km_control":6.658,"geometry_note":"decision corridor, not dense router output"},"geometry":{"type":"LineString","coordinates":[[2.2768,48.8715],[2.2763,48.866],[2.2745,48.8585],[2.2738,48.8525],[2.2735,48.8519],[2.27,48.8508],[2.2798,48.8507],[2.287,48.8518],[2.294,48.854],[2.3005,48.8585],[2.3013,48.8624]]}},
+    {"type":"Feature","properties":{"id":"W01","name":"Porte Dauphine","core":true},"geometry":{"type":"Point","coordinates":[2.2768,48.8715]}},
+    {"type":"Feature","properties":{"id":"W02","name":"Castel Beranger","core":true},"geometry":{"type":"Point","coordinates":[2.2738,48.8525]}},
+    {"type":"Feature","properties":{"id":"W03","name":"Rue Agar","core":false},"geometry":{"type":"Point","coordinates":[2.2735,48.8519]}},
+    {"type":"Feature","properties":{"id":"W04","name":"Hotel Mezzara exterior","core":false},"geometry":{"type":"Point","coordinates":[2.27,48.8508]}},
+    {"type":"Feature","properties":{"id":"W05","name":"Pont de Grenelle west","core":false},"geometry":{"type":"Point","coordinates":[2.2798,48.8507]}},
+    {"type":"Feature","properties":{"id":"W06","name":"29 avenue Rapp","core":true},"geometry":{"type":"Point","coordinates":[2.3005,48.8585]}},
+    {"type":"Feature","properties":{"id":"W07","name":"Alma exit","core":false},"geometry":{"type":"Point","coordinates":[2.3013,48.8624]}}
+  ]
+}

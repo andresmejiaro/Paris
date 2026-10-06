@@ -1,0 +1,43 @@
+{
+  "route_id": "07",
+  "version": "07-v1-20261006",
+  "status": "DONE",
+  "reviewed": "2026-10-06",
+  "narrator": "Cruce",
+  "base": {
+    "start": "Musée de la Libération visitor entrance",
+    "finish": "Gymnase Japy public frontage",
+    "distance_km": 7.268,
+    "arrival_km": 0.132,
+    "exit_km": 0.389,
+    "surface_total_km": 7.789,
+    "duration_minutes": [285, 345],
+    "preferred_start": ["10:00", "10:20"],
+    "latest_start": "10:45",
+    "operating_days": ["Tuesday", "Wednesday", "Thursday", "Friday", "Sunday"],
+    "cost_eur": 0,
+    "reservation": "none for individuals"
+  },
+  "stops": [
+    {"id": "O01", "name": "Musée de la Libération", "lat": 48.8337, "lon": 2.3324, "core": true},
+    {"id": "O02", "name": "Hôtel Lutetia exterior", "lat": 48.8514, "lon": 2.3271, "core": true},
+    {"id": "O03", "name": "48 rue du Four exterior", "lat": 48.8516, "lon": 2.3319, "core": true},
+    {"id": "O04", "name": "Mémorial de la Shoah", "lat": 48.855, "lon": 2.3562, "core": true},
+    {"id": "O04b", "name": "Mur des Justes", "lat": 48.8549, "lon": 2.3565, "core": false},
+    {"id": "O05", "name": "Gymnase Japy exterior", "lat": 48.8558751, "lon": 2.3824662, "core": true}
+  ],
+  "geometry": {"source": "routes/discovery_batch_d.md", "router": "Valhalla pedestrian over OSM", "checked": "2026-10-03", "legs_km": [2.25, 0.416, 2.236, 0.026, 2.338]},
+  "checks_on_day": ["museum notices and bag control", "optional command-post capacity", "Memorial hours and security", "facade and plaque visibility", "street works and legal crossings", "weather, WC and transit"],
+  "services": {"toilet": "confirm at museum reception; municipal inventory fallback", "rest": "Saint-Germain or after Memorial if schedule allows", "shelter": "museum and Memorial only during actual access", "water": "carry own", "food": "carry snack; optional purchase at displayed price"},
+  "variants": [
+    {"id": "V0", "trigger": "opening museum unavailable", "action": "reprogram; exterior partial version only if already there"},
+    {"id": "V1", "trigger": "command post unavailable or stairs unsuitable", "action": "omit optional underground visit"},
+    {"id": "V2", "trigger": "Lutetia or rue du Four obscured", "action": "safe exterior narration; omit invisible detail"},
+    {"id": "V3", "trigger": "Memorial unavailable or insufficient margin", "action": "reprogram; named partial version is not equivalent"},
+    {"id": "V4", "trigger": "Mur des Justes inaccessible", "action": "omit and enter Memorial once"},
+    {"id": "V5", "trigger": "Japy obscured or event-blocked", "action": "safe public view; no gym entry"},
+    {"id": "V6", "trigger": "severe weather, fatigue or service need", "action": "postpone or nearest named transit exit"}
+  ],
+  "files": {"canonical": "routes/07_occupied_paris.md", "navigation": "routes/navigation/07_navigation.md", "base_gpx": "routes/navigation/07.gpx", "variants_gpx": "routes/navigation/07.variants.gpx", "geojson": "routes/navigation/07.geojson", "evidence": "routes/navigation/07.evidence.json", "operations": "routes/navigation/07_access_operations.md"},
+  "external_review": "after closure"
+}

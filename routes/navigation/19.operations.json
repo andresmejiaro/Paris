@@ -1,0 +1,26 @@
+{
+  "route_id": "19",
+  "version": "19-v1-20261005",
+  "status": "DONE",
+  "reviewed": "2026-10-05",
+  "narrator": "Aster",
+  "base": {"start":"145 rue La Fayette","finish":"Les Deux Plateaux, Palais-Royal","distance_km":3.415,"approach_km":0.462,"exit_km":0.168,"surface_total_km":4.045,"duration_minutes":[140,175],"preferred_start":["09:30","13:30"],"latest_start":"14:00","cost_eur":0,"reservation":"none"},
+  "stops":[
+    {"id":"I01","name":"145 rue La Fayette","lat":48.879170,"lon":2.356140,"core":true},
+    {"id":"I02","name":"Les Specialistes, 1 bis rue Chapon","lat":48.864120,"lon":2.355880,"core":false,"condition":"narrate only if visible"},
+    {"id":"I03","name":"29 rue Quincampoix","lat":48.860620,"lon":2.350310,"core":true},
+    {"id":"I04","name":"Les Deux Plateaux","lat":48.863600,"lon":2.337070,"core":true}
+  ],
+  "checks_on_day":["I01 and I03 visibility and legal pavement position","Chapon artwork visibility only if narrating","Palais-Royal courtyard access","weather and pavement","public toilet and transport service"],
+  "services":{"toilet":"sanisette 37 rue Berger; check live state","rest":"Square Emile-Chautemps exterior if open and dry","shelter":"none guaranteed without purchase","water":"carry own"},
+  "variants":[
+    {"id":"V0","trigger":"La Fayette obscured","loses":"first physical reveal"},
+    {"id":"V1","trigger":"Quincampoix obscured or illegible","loses":"painted-facade core"},
+    {"id":"V2","trigger":"rue Chapon blocked","distance_km":2.194,"loses":"optional miniature only"},
+    {"id":"V3","trigger":"cour d'honneur closed","distance_i03_to_finish_km":1.109,"loses":"Buren spatial core"},
+    {"id":"V4","trigger":"heavy rain, ice or alert","action":"postpone"},
+    {"id":"V5","trigger":"fatigue, service need or two visual failures","action":"finish at nearest named metro"}
+  ],
+  "files":{"canonical":"routes/19_paris_illusions.md","navigation":"routes/navigation/19_navigation.md","base_gpx":"routes/navigation/19.gpx","variants_gpx":"routes/navigation/19.variants.gpx","geojson":"routes/navigation/19.geojson","evidence":"routes/navigation/19.evidence.json","operations":"routes/navigation/19_access_operations.md"},
+  "external_review":"after closure"
+}

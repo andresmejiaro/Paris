@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cruce" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>Ruta 19 v1 — variantes y conectores independientes</name><time>2026-10-05T00:00:00Z</time></metadata>
+  <trk><name>Llegada_GareNord_I01_0.462km</name><trkseg><trkpt lat="48.879550" lon="2.355380"/><trkpt lat="48.880000" lon="2.356800"/><trkpt lat="48.879170" lon="2.356140"/></trkseg></trk>
+  <trk><name>Salida_I04_PalaisRoyal_0.168km</name><trkseg><trkpt lat="48.863600" lon="2.337070"/><trkpt lat="48.862850" lon="2.336520"/></trkseg></trk>
+  <trk><name>Escape_I02_Rambuteau_0.438km</name><trkseg><trkpt lat="48.864120" lon="2.355880"/><trkpt lat="48.863700" lon="2.354000"/><trkpt lat="48.861280" lon="2.353280"/></trkseg></trk>
+  <trk><name>V2_I01_I03_sin_Chapon_2.194km</name><trkseg><trkpt lat="48.879170" lon="2.356140"/><trkpt lat="48.876500" lon="2.354200"/><trkpt lat="48.871900" lon="2.354600"/><trkpt lat="48.866300" lon="2.354000"/><trkpt lat="48.862500" lon="2.353000"/><trkpt lat="48.860620" lon="2.350310"/></trkseg></trk>
+  <trk><name>V3_I03_PalaisRoyal_exterior_1.109km</name><trkseg><trkpt lat="48.860620" lon="2.350310"/><trkpt lat="48.861100" lon="2.347400"/><trkpt lat="48.862000" lon="2.344100"/><trkpt lat="48.862800" lon="2.341200"/><trkpt lat="48.862850" lon="2.336520"/></trkseg></trk>
+</gpx>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Cruce — Paris route 06 variants">
+  <metadata><name>06 independent connectors and variants</name><desc>Choose only the applicable independent track; distances are planning values</desc></metadata>
+  <trk><name>Llegada_PalaisRoyal_R01</name><desc>0.247 km</desc><trkseg><trkpt lat="48.862859" lon="2.335838"/><trkpt lat="48.863700" lon="2.336050"/><trkpt lat="48.864800" lon="2.336000"/></trkseg></trk>
+  <trk><name>Salida_R06_Nation</name><desc>0.181 km</desc><trkseg><trkpt lat="48.848300" lon="2.395900"/><trkpt lat="48.848120" lon="2.396900"/><trkpt lat="48.848069" lon="2.397982"/></trkseg></trk>
+  <trk><name>Escape_R03_PalaisRoyal</name><desc>0.354 km</desc><trkseg><trkpt lat="48.861200" lon="2.332000"/><trkpt lat="48.861900" lon="2.334000"/><trkpt lat="48.862859" lon="2.335838"/></trkseg></trk>
+  <trk><name>Escape_R04_HotelDeVille</name><desc>0.188 km</desc><trkseg><trkpt lat="48.856700" lon="2.351000"/><trkpt lat="48.857050" lon="2.351650"/><trkpt lat="48.857400" lon="2.352150"/></trkseg></trk>
+  <trk><name>Escape_R05_Bastille</name><desc>0.214 km</desc><trkseg><trkpt lat="48.853200" lon="2.369100"/><trkpt lat="48.853000" lon="2.370200"/><trkpt lat="48.852650" lon="2.371200"/></trkseg></trk>
+  <trk><name>V1_R02_R03_Rivoli</name><desc>1.331 km; substitutes for garden leg when Tuileries closed</desc><trkseg><trkpt lat="48.866300" lon="2.321100"/><trkpt lat="48.866150" lon="2.323800"/><trkpt lat="48.865850" lon="2.326600"/><trkpt lat="48.864900" lon="2.328700"/><trkpt lat="48.863700" lon="2.330300"/><trkpt lat="48.862300" lon="2.331300"/><trkpt lat="48.861200" lon="2.332000"/></trkseg></trk>
+</gpx>

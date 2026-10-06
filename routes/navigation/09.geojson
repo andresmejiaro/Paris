@@ -1,0 +1,1 @@
+{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"route_id":"09","version":"09-v1-20261006","distance_km":8.281,"geometry_note":"simplified decision corridor"},"geometry":{"type":"LineString","coordinates":[[2.27966,48.85539],[2.28800,48.86210],[2.303284,48.853593],[2.32340,48.85840],[2.31970,48.86300],[2.30050,48.87210],[2.29650,48.87380]]}}]}

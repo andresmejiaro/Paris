@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" version="1.1" creator="Cruce — Paris route 06">
+  <metadata><name>06 Revolutionary Paris</name><desc>06-v1-20261006; 8.140 km archived Valhalla pedestrian measurement; simplified street reference; no field inspection</desc></metadata>
+  <wpt lat="48.864800" lon="2.336000"><name>R01 Palais-Royal</name></wpt>
+  <wpt lat="48.866300" lon="2.321100"><name>R02 Concorde</name></wpt>
+  <wpt lat="48.861200" lon="2.332000"><name>R03 Carrousel</name></wpt>
+  <wpt lat="48.856700" lon="2.351000"><name>R04 Hotel de Ville</name></wpt>
+  <wpt lat="48.853200" lon="2.369100"><name>R05 Bastille</name></wpt>
+  <wpt lat="48.848300" lon="2.395900"><name>R06 Nation Dalou</name></wpt>
+  <trk><name>06_base_PalaisRoyal_Nation</name><desc>8.140 km controlling routed distance; simplified street-level line; obey crossings and closures</desc><trkseg>
+    <trkpt lat="48.864800" lon="2.336000"/><trkpt lat="48.865030" lon="2.334720"/><trkpt lat="48.865350" lon="2.332850"/><trkpt lat="48.865680" lon="2.330550"/><trkpt lat="48.865990" lon="2.328320"/><trkpt lat="48.866230" lon="2.325900"/><trkpt lat="48.866360" lon="2.323250"/><trkpt lat="48.866300" lon="2.321100"/>
+    <trkpt lat="48.865920" lon="2.322380"/><trkpt lat="48.865410" lon="2.324030"/><trkpt lat="48.864730" lon="2.326180"/><trkpt lat="48.863930" lon="2.328220"/><trkpt lat="48.862980" lon="2.330000"/><trkpt lat="48.861980" lon="2.331330"/><trkpt lat="48.861200" lon="2.332000"/>
+    <trkpt lat="48.860790" lon="2.334050"/><trkpt lat="48.860480" lon="2.336520"/><trkpt lat="48.860060" lon="2.339050"/><trkpt lat="48.859650" lon="2.341450"/><trkpt lat="48.859240" lon="2.343820"/><trkpt lat="48.858720" lon="2.346050"/><trkpt lat="48.858010" lon="2.348220"/><trkpt lat="48.857290" lon="2.349650"/><trkpt lat="48.856700" lon="2.351000"/>
+    <trkpt lat="48.856540" lon="2.352500"/><trkpt lat="48.856600" lon="2.354400"/><trkpt lat="48.856350" lon="2.356200"/><trkpt lat="48.855980" lon="2.358420"/><trkpt lat="48.855590" lon="2.360750"/><trkpt lat="48.855120" lon="2.363050"/><trkpt lat="48.854650" lon="2.365250"/><trkpt lat="48.854110" lon="2.367300"/><trkpt lat="48.853200" lon="2.369100"/>
+    <trkpt lat="48.852850" lon="2.371000"/><trkpt lat="48.852450" lon="2.373450"/><trkpt lat="48.852080" lon="2.375900"/><trkpt lat="48.851760" lon="2.378500"/><trkpt lat="48.851430" lon="2.381100"/><trkpt lat="48.851070" lon="2.383780"/><trkpt lat="48.850690" lon="2.386550"/><trkpt lat="48.850260" lon="2.389250"/><trkpt lat="48.849820" lon="2.391850"/><trkpt lat="48.849250" lon="2.394100"/><trkpt lat="48.848300" lon="2.395900"/>
+  </trkseg></trk>
+</gpx>

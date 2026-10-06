@@ -1,0 +1,32 @@
+{
+  "route_id": "03",
+  "version": "03-v10-20261005",
+  "retrieved": "2026-10-05",
+  "field_verified": false,
+  "geometry_method": "Selected decision points checked against the City cemetery plans and open mapping; geodesic polyline measurement. No network router or field survey.",
+  "operational_sources": [
+    {"id":"city_information","type":"primary","url":"https://www.paris.fr/pages/cimetiere-du-pere-lachaise-informations-17576","supports":["free access","43 ha and uneven ground","downloadable plans","rules","interactive map"]},
+    {"id":"city_live_place","type":"primary","url":"https://www.paris.fr/lieux/cimetiere-du-pere-lachaise-4080","supports":["live hours","15-minute evacuation","gate addresses and coordinates","three toilets","exceptional notices"]},
+    {"id":"city_personalities_plan","type":"primary","url":"https://cdn.paris.fr/paris/2022/06/15/3dbd768b1111f73737d2b8c303f6d236.pdf","supports":["divisions 8/44/92","Robertson","Kardec","Victor Noir","gates","named paths","seasonal reference hours"]},
+    {"id":"city_concessions_plan","type":"primary","url":"https://cdn.paris.fr/paris/2025/10/03/doc-concessions_a5f-pere-lachaise-250925-bd-2Iw9.pdf","supports":["current division layout","gates","toilets"]}
+  ],
+  "story_sources": [
+    {"scene":"robertson","type":"primary_or_institutional","urls":["https://expositions.bnf.fr/cnac/grand/cir_3674.htm","https://cirque-cnac.bnf.fr/en/juggling/grand-illusions/presence","https://fr.wikisource.org/wiki/Les_principaux_monuments_fun%C3%A9raires/Robertson"],"claims":"phantasmagoria, former convent setting, monument programme; chronology deliberately approximate"},
+    {"scene":"kardec","type":"catalogue_and_scholarship","urls":["https://catalogue.bnf.fr/rechercher.do?depart=0&motRecherche=Allan+Kardec","https://journals.openedition.org/terrain/3617"],"claims":"1857/1858 publications and documented devotional practices; spiritual efficacy not asserted"},
+    {"scene":"victor_noir","type":"institutional_primary_secondary","urls":["https://www.museedubarreaudeparis.com/wp-content/uploads/2020/06/Victor-Noir.pdf","https://fr.wikisource.org/wiki/La_Sculpture_dans_les_cimeti%C3%A8res_de_Paris/P%C3%A8re-Lachaise","https://www.leparisien.fr/paris-75/une-sepulture-protegee-des-frottements-indecents-07-10-2004-2005347732.php"],"claims":"1870 killing, 1891 Dalou monument, later documented contact custom; origin/efficacy not asserted"}
+  ],
+  "coordinate_sources": [
+    {"point":"main_gate","source":"City live place page","latitude":48.859969,"longitude":2.389222},
+    {"point":"robertson","source":"APPL record plus open mapping","latitude":48.859933,"longitude":2.390947},
+    {"point":"kardec","source":"OSM way 1210651131 / open mapping","latitude":48.862320,"longitude":2.394350},
+    {"point":"victor_noir","source":"OSM node 2610995399 / Wikidata Q106153211","latitude":48.860819,"longitude":2.396543},
+    {"point":"gambetta_gate","source":"City live place page","latitude":48.863384,"longitude":2.397162}
+  ],
+  "limitations": [
+    "No field inspection",
+    "No promise of present offerings, devotees or folklore gestures",
+    "No future opening certified",
+    "Polyline is an orientation line, not permission to leave paths",
+    "External multimodel review remains after closure"
+  ]
+}

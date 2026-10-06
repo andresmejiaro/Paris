@@ -1,0 +1,39 @@
+{
+  "route_id": "12",
+  "version": "12-v1-20261005",
+  "created": "2026-10-05",
+  "method": "canonical route and leg distances selected from archived Valhalla pedestrian run over OpenStreetMap in routes/geometry_batch_b.md; authored street trace preserves those anchors; no new live response claimed",
+  "license": "OpenStreetMap contributors, ODbL",
+  "distance_basis": "archived router total rounded to 0.001 km; leg display rounding differs by 0.001 km",
+  "base": {
+    "distance_km": 4.214,
+    "legs_km": [2.342, 1.242, 0.629],
+    "displayed_legs_sum_km": 4.213,
+    "stops": [[48.848900,2.378300],[48.863000,2.361900],[48.864600,2.347700],[48.862800,2.342800]]
+  },
+  "connectors": {
+    "approach_ledru_rollin_km": 0.469,
+    "exit_les_halles_km": 0.351,
+    "escape_m02_temple_km": 0.438,
+    "v2_aligre_bastille_km": 1.282
+  },
+  "source_record": {
+    "file": "routes/geometry_batch_b.md",
+    "section": "11 — Markets and Supply",
+    "note": "The inherited optional Canopée return and its level artefact are excluded."
+  },
+  "qa": [
+    "base begins and ends at canonical stops",
+    "surface street line only",
+    "no Forum, museum or closed passage required",
+    "market circulation excluded",
+    "Canopée backtrack excluded",
+    "coordinates and local links synchronized"
+  ],
+  "limits": [
+    "no on-site inspection",
+    "no new router retrieval because network unavailable",
+    "coarse GPX reference is not survey geometry",
+    "street works, crossings and market gates checked on day"
+  ]
+}

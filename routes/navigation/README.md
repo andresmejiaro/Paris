@@ -1,5 +1,5 @@
-# Navegación seleccionada — Hilo, Aster/Noctámbulo, Miga y Rumbo
-Cruce · navegación base del 3 octubre 2026; cierres operativos de ruta 02 revisado el 4 octubre y rutas 16, 21 y 22 el 5 octubre 2026. Trazados calculados y revisados en cartografía peatonal. No son un levantamiento GPS ni una inspección presencial de puertas.
+# Navegación seleccionada — Cruce, Hilo, Aster/Noctámbulo, Miga y Rumbo
+Cruce · navegación base del 3 octubre 2026; cierre de ruta 02 revisado el 4 octubre, rutas 03, 12, 15, 16, 19, 21 y 22 el 5 octubre, y rutas 01, 06, 07, 08, 09, 13 y 18 el 6 octubre 2026. Trazados calculados o, donde se declara, líneas de decisión contrastadas con cartografía. No son un levantamiento GPS ni una inspección presencial de puertas.
 
 Cada ruta tiene instrucciones por calles, puntos de llegada, enlaces de Google Maps y un GPX fijo. Maps puede recalcular y elegir otra acera o una calle paralela: sus enlaces no son prueba de que haya seguido el GPX. El GPX contiene una línea para seguir en una aplicación compatible; no produce por sí solo avisos de giro. El [GeoJSON conjunto](routes.geojson) y el [registro de navegación](manifest.json) conservan coordenadas y maniobras.
 
@@ -10,8 +10,85 @@ Cada ruta tiene instrucciones por calles, puntos de llegada, enlaces de Google M
 | Noctámbulo, coda independiente de 16 | Cour Carrée/Belphégor → rue du Pont-Neuf/Éléonore | 0.505 km | [GPX adicional, seleccionar coda](16.variants.gpx) |
 | Miga | Stohrer → Kayser → Chartier por Réaumur/Montmartre | 0.971 km | [GPX](21.gpx) |
 | Rumbo | Escaleras de rue de Lyon → Reuilly → Sahel → salida Édouard-Lartet | 3.435 km | [GPX](22.gpx) |
+| Noctámbulo | Père-Lachaise: Robertson → Kardec → Victor Noir → Gambetta | 1.086 km de línea de decisión; 1.3–1.8 km reales previstos | [GPX](03.gpx) · [instrucciones](03_navigation.md) |
+| Aster | La Fayette → Chapon condicional → Quincampoix → Les Deux Plateaux | 3.415 km | [GPX](19.gpx) · [instrucciones](19_navigation.md) |
+| Cruce | Aligre/Beauvau → Enfants Rouges → Bourse exterior | 4.214 km | [GPX](12.gpx) · [instrucciones](12_navigation.md) |
+| Cruce | Bouquinistes → Mazarine → Jousseaume → Salle Ovale | 1.684 km | [GPX](15.gpx) · [instrucciones](15_navigation.md) |
+| Cruce | Palais-Royal → Concorde → Carrousel → Hôtel de Ville → Bastille → Nation | 8.140 km | [GPX](06.gpx) · [instrucciones](06_navigation.md) |
+| Cruce | Arsenal → canal cubierto → Récollets → Bassin de la Villette → Grande Halle | 7.077 km | [GPX](18.gpx) · [instrucciones](18_navigation.md) |
+| Aster | Colette → Pont des Arts → quai aux Fleurs → Médicis → Rodin → Bir-Hakeim | 8.925 km | [GPX](01.gpx) · [instrucciones](01_navigation.md) |
+| Cruce | Musée de la Libération → Lutetia → rue du Four → Mémorial → Japy | 7.268 km | [GPX](07.gpx) · [instrucciones](07_navigation.md) |
+| Aster | Lamartine → Jean-Lorrain → Auteuil → Sena alto → Zouave → Égouts | 7.013 km | [GPX](13.gpx) · [instrucciones](13_navigation.md) |
+| Aster | Porte Dauphine → Castel Béranger/Agar → Mezzara → Lavirotte → Alma | 6.658 km | [GPX](08.gpx) · [instrucciones](08_navigation.md) |
+| Noctámbulo | Singer/Raynouard → Trocadéro → École Militaire → Beauharnais → Élysée Palace → Arco | 8.281 km | [GPX](09.gpx) · [instrucciones](09_navigation.md) |
 
 Tres decimales reproducen la respuesta del motor; no implican exactitud de un metro. No incluyen acceso desde alojamiento, interiores ni vueltas de degustación. Los totales y conectores propios de cada experiencia se declaran por separado.
+
+## 09 — Noctámbulo: quién puede leer tus papeles
+
+**DONE — 09-v1-20261006, revisada el 6 octubre 2026.** [Ficha canónica](../09_spy_paris.md) · [instrucciones](09_navigation.md) · [operaciones](09_access_operations.md) · [JSON](09.operations.json) · [evidencia](09.evidence.json) · [GeoJSON](09.geojson).
+
+Singer/Raynouard → Trocadéro → École Militaire → Hôtel de Beauharnais → antiguo Élysée Palace → coda del Arco: 8.281 km, 4 h 05–4 h 50, €0. Tres guiones completos y V0–V6. Passy y Beauharnais son anclajes exactos; Mata Hari se narra desde un emplazamiento alterado, sin prometer la antigua fachada.
+
+## 08 — Aster: la ciudad empieza en una puerta
+
+**DONE — 08-v1-20261006, revisada el 6 octubre 2026.** [Ficha canónica](../08_art_nouveau_paris.md) · [instrucciones](08_navigation.md) · [operaciones](08_access_operations.md) · [JSON](08.operations.json) · [evidencia](08.evidence.json) · [GeoJSON](08.geojson).
+
+Porte Dauphine → Castel Béranger/Agar → Mezzara exterior → Pont de Grenelle → Lavirotte → Alma: 6.658 km, 3 h 10–3 h 50, €0. Tres guiones completos y V0–V6. Ningún interior es necesario; el futuro museo Mezzara de 2028 no se presenta como disponible en 2026.
+
+## 13 — Aster: el agua no funciona sola
+
+**DONE — 13-v1-20261006, revisada el 6 octubre 2026.** [Ficha canónica](../13_engineered_city.md) · [instrucciones](13_navigation.md) · [operaciones](13_access_operations.md) · [JSON](13.operations.json) · [evidencia](13.evidence.json) · [GeoJSON](13.geojson).
+
+Lamartine → Jean-Lorrain → antigua fábrica de Auteuil → corredor alto del Sena → Zouave → umbral del Musée des Égouts: 7.013 km, 3 h 30–4 h 10, €0. Cuatro guiones completos y V0–V6. El museo es una visita independiente de 45–75 min y no condiciona el cierre exterior.
+
+## 01 — Aster: quién consigue contar la historia de amor
+
+**DONE — 01-v1-20261006, revisada el 6 octubre 2026.** [Ficha canónica](../01_lovers_paris.md) · [instrucciones](01_navigation.md) · [operaciones](01_access_operations.md) · [JSON](01.operations.json) · [evidencia](01.evidence.json) · [GeoJSON](01.geojson).
+
+Colette → Pont des Arts → Héloïse–Abélard → Fontaine Médicis → Rodin exterior → Bir-Hakeim: 8.925 km, 4 h 05–4 h 50, €0. Seis guiones completos y V1–V5. Vie romantique y el interior Rodin son módulos separados; Rodin solo se añade con inicio hasta 10:15, llegada antes de 14:30 y salida máxima 15:45. La base siempre termina en Bir-Hakeim.
+
+## 07 — Cruce: lo que una ciudad permite y recuerda
+
+**DONE — 07-v1-20261006, revisada el 6 octubre 2026.** [Ficha canónica](../07_occupied_paris.md) · [instrucciones](07_navigation.md) · [operaciones](07_access_operations.md) · [JSON](07.operations.json) · [evidencia](07.evidence.json) · [GeoJSON](07.geojson).
+
+Musée de la Libération → Hôtel Lutetia → 48 rue du Four → Mémorial de la Shoah/Mur des Justes → Gymnase Japy: 7.268 km base; 0.132 km de llegada y 0.389 km de salida, total 7.789 km. Martes–viernes o domingo, 4 h 45–5 h 45, €0; cinco guiones y V0–V6. Mur des Noms/patio/cripta requieren acceso controlado; Mur des Justes es exterior y no los sustituye.
+
+## 06 — Cruce: de la tribuna a la República monumental
+
+**DONE — 06-v1-20261006, revisada el 6 octubre 2026.** [Ficha canónica](../06_revolutionary_paris.md) · [instrucciones](06_navigation.md) · [operaciones](06_access_operations.md) · [JSON](06.operations.json) · [evidencia](06.evidence.json) · [GeoJSON](06.geojson).
+
+Palais-Royal → Concorde → Carrousel/Tuileries → Hôtel de Ville → Bastille → Nation/Dalou: 8.140 km base; 0.247 km de llegada y 0.181 km de salida, total 8.568 km. Duración 4 h 15–5 h; seis guiones completos y V0–V5. Henri-Galli queda excluido. La distancia procede del registro Valhalla archivado; GPX y GeoJSON conservan un corredor público simplificado, no una polilínea densa ni una inspección de campo.
+
+## 18 — Cruce: el canal cambia de trabajo
+
+**DONE — 18-v1-20261006, revisada el 6 octubre 2026.** [Ficha canónica](../18_canal_paris.md) · [instrucciones](18_navigation.md) · [operaciones](18_access_operations.md) · [JSON](18.operations.json) · [evidencia](18.evidence.json) · [GeoJSON](18.geojson).
+
+Arsenal → canal cubierto → Récollets → Bassin de la Villette → Grande Halle: 7.077 km, 3 h 45–4 h 35, €0. Temple conserva 4.418 km y Récollets 3.674 km. Cinco guiones completos y V0–V6. Las distancias proceden del registro Valhalla archivado; GPX y GeoJSON son corredores de decisión simplificados y las señales del día mandan.
+
+## 03 — Noctámbulo: tres relaciones públicas con los muertos
+
+**DONE — 03-v10-20261005, revisada el 5 octubre 2026.** [Ficha canónica](../03_ghosts_revolution_nineteenth.md) · [instrucciones](03_navigation.md) · [operaciones](03_access_operations.md) · [JSON](03.operations.json) · [evidencia](03.evidence.json) · [GeoJSON](03.geojson).
+
+Porte principale → Robertson → Kardec → Victor Noir → porte Gambetta. La línea fija de decisión mide 1.086 km; el presupuesto honesto es 1.3–1.8 km por curvas, búsqueda y respeto de ceremonias. Los segmentos rectos no permiten cruzar tumbas. Duración 1 h 45–2 h 15; V0–V4 y controles del día resueltos.
+
+## 19 — Aster: la ciudad completa la imagen
+
+**DONE — 19-v1-20261005, revisada el 5 octubre 2026.** [Ficha canónica](../19_paris_illusions.md) · [instrucciones](19_navigation.md) · [operaciones](19_access_operations.md) · [JSON](19.operations.json) · [evidencia](19.evidence.json) · [GeoJSON](19.geojson).
+
+La Fayette → Chapon condicional → Quincampoix → Les Deux Plateaux: 3.415 km base; 0.462 km de llegada y 0.168 km de salida, total 4.045 km. Duración 2 h 20–2 h 55; Chapon no es núcleo; V0–V5 y controles del día resueltos. La Fayette pertenece a 19 sin reabrir la Ruta 16.
+
+## 12 — Cruce: abastecimiento antes de comer
+
+**DONE — 12-v1-20261005, revisada el 5 octubre 2026.** [Ficha canónica](../12_market_morning.md) · [instrucciones](12_navigation.md) · [operaciones](12_access_operations.md) · [JSON](12.operations.json) · [evidencia](12.evidence.json) · [GeoJSON](12.geojson).
+
+Aligre/Beauvau → Enfants Rouges → paso contextual Montorgueil → Bourse exterior: 4.214 km base; 0.469 km de llegada y 0.351 km de salida, total 5.034 km. Miércoles/sábado, 3 h–3 h 40; V0–V5. Montorgueil no duplica la degustación de Route 21.
+
+## 15 — Cruce: cuatro operaciones del libro
+
+**DONE — 15-v1-20261005, revisada el 5 octubre 2026.** [Ficha canónica](../15_paris_reads.md) · [instrucciones](15_navigation.md) · [operaciones](15_access_operations.md) · [JSON](15.operations.json) · [evidencia](15.evidence.json) · [GeoJSON](15.geojson).
+
+Bouquinistes → Mazarine → Jousseaume → Salle Ovale: 1.684 km base; 0.184 km de llegada y 0.210 km de salida, total 2.078 km. Martes–sábado, 2 h 35–3 h 15; V0–V6. La versión completa conserva selección, conservación, descripción y consulta.
 
 ## 16 — Aster: la sesión es el final; Noctámbulo: coda aparte
 

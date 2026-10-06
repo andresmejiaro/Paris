@@ -1,0 +1,53 @@
+{
+  "route_id": "09",
+  "version": "09-v1-20261006",
+  "status": "DONE",
+  "reviewed": "2026-10-06",
+  "owner": "Cruce",
+  "narrator": "Noctámbulo",
+  "base": {
+    "start": "Singer/Raynouard Franklin inscription",
+    "finish": "Arc de Triomphe Champs-side coda",
+    "distance_km": 8.281,
+    "duration_minutes": [245, 290],
+    "preferred_start": ["09:30", "10:30"],
+    "latest_start": "11:00",
+    "finish_by": "15:50",
+    "cost_eur": 0,
+    "reservation": "none",
+    "interior_required": false
+  },
+  "legs_km": [1.192, 1.849, 2.160, 0.642, 2.030, 0.405],
+  "rounded_legs_sum_km": 8.278,
+  "stops": [
+    {"id":"W01","name":"Singer Raynouard Franklin inscription","lat":48.85539,"lon":2.27966,"core":true},
+    {"id":"W02","name":"Trocadero approach","lat":48.86210,"lon":2.28800,"core":false},
+    {"id":"W03","name":"Ecole Militaire place Joffre","lat":48.853593,"lon":2.303284,"core":false},
+    {"id":"W04","name":"Hotel Beauharnais","lat":48.85840,"lon":2.32340,"core":true},
+    {"id":"W05","name":"Pont de la Concorde north approach","lat":48.86300,"lon":2.31970,"core":false},
+    {"id":"W06","name":"Former Elysee Palace block","lat":48.87210,"lon":2.30050,"core":true},
+    {"id":"W07","name":"Arc de Triomphe Champs-side coda","lat":48.87380,"lon":2.29650,"core":false}
+  ],
+  "checks_on_day": ["Singer inscription visibility","103-111 Champs-Elysees hoarding and pavement","weather and daylight","toilet state","transport and legal crossings"],
+  "services": {"water":"carry own","food":"optional purchase at displayed price","rest":"Trocadero or Ecole Militaire area","toilet":"Paris municipal dataset; verify live state","shelter":"none continuous guaranteed"},
+  "variants": [
+    {"id":"V0","trigger":"arrival disruption","action":"alternate transport to Passy or La Muette"},
+    {"id":"V1","trigger":"Singer inscription inaccessible","action":"start Trocadero reduced","loses":"Franklin physical anchor; not complete execution"},
+    {"id":"V2","trigger":"Ecole Militaire blocked","action":"omit connector and route W02 to W04"},
+    {"id":"V3","trigger":"Champs hoarding changed","action":"observe exact footprint safely or omit on-site script"},
+    {"id":"V4","trigger":"fatigue","action":"exit at named transit nodes"},
+    {"id":"V5","trigger":"unsafe weather","action":"postpone or finish after Beauharnais"},
+    {"id":"V6","trigger":"crossing blocked","action":"signed legal diversion or finish"}
+  ],
+  "files": {
+    "canonical":"routes/09_spy_paris.md",
+    "navigation":"routes/navigation/09_navigation.md",
+    "operations":"routes/navigation/09_access_operations.md",
+    "base_gpx":"routes/navigation/09.gpx",
+    "variants_gpx":"routes/navigation/09.variants.gpx",
+    "geojson":"routes/navigation/09.geojson",
+    "evidence":"routes/navigation/09.evidence.json",
+    "archive":"routes/archive/09_spy_paris_pre_done_20261006.md"
+  },
+  "external_review": "after closure"
+}

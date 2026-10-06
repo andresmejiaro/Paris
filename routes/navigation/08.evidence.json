@@ -1,0 +1,12 @@
+{
+  "route_id":"08","route_version":"08-v1-20261006","retrieved_date":"2026-10-06","crs":"WGS84","on_ground_verified":false,
+  "geometry":{"source":"routes/geometry_batch_b.md; archived Valhalla/OpenStreetMap pedestrian measurement","distance_km":6.658,"published_legs_km":[2.538,0.235,0.372,0.863,2.190,0.457],"rounded_legs_sum_km":6.655,"delivery_geometry":"simplified public-street decision corridor; not dense router output or field survey","license":"OpenStreetMap contributors, ODbL"},
+  "sources":[
+    {"scene":"porte_dauphine","type":"official_operator","urls":["https://www.ratp.fr/decouvrir/patrimoine/hector-guimard","https://www.ratp.fr/decouvrir/patrimoine/histoire-station-victor-hugo"],"claims":"original surviving covered edicule, entrance families, initial line section date"},
+    {"scene":"castel_agar","type":"municipal","urls":["https://www.paris.fr/pages/balade-architecturale-dans-le-triangle-d-or-du-16e-19113","https://www.paris.fr/pages/paris-celebre-hector-guimard-en-2024-25892"],"claims":"address, construction, Brussels encounter, materials, total-design and rental ensemble"},
+    {"scene":"mezzara","type":"national_ministry","urls":["https://www.culture.gouv.fr/presse/communiques-de-presse/signature-de-la-promesse-d-un-bail-emphyteotique-de-50-ans-pour-l-hotel-mezzara-une-premiere-etape-vers-la-valorisation-de-ce-chef-d-aeuvre-archit"],"claims":"future museum project and January 2028 target; no 2026 public interior"},
+    {"scene":"lavirotte","type":"municipal_museum","urls":["https://www.paris.fr/pages/ou-admirer-les-plus-belles-portes-de-paris-25625","https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/facade-de-l-immeuble-lavirotte-ou-immeuble-d-alexandre-bigot-construit-par"],"claims":"address, 1901 facade award, visible historical facade and Bigot association"},
+    {"scene":"lavirotte_interpretation","type":"academic","urls":["https://journals.openedition.org/craup/6556"],"claims":"attributed interpretive framework, not definitive symbol key"}
+  ],
+  "limits":["No field inspection, booking, purchase, call, voice rehearsal or external review","Official historical/current editorial pages establish exterior objects, not absence of day-specific scaffolding","No private or museum interior is included","GPX and GeoJSON are simplified; archived router total controls"]
+}

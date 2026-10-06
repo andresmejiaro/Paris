@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cruce" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>Ruta 08 variantes</name><desc>Tracks independientes y simplificados; no combinar automáticamente.</desc></metadata>
+  <trk><name>V0_PorteDauphine_acceso_exterior</name><trkseg><trkpt lat="48.871800" lon="2.277200"/><trkpt lat="48.871500" lon="2.276800"/></trkseg></trk>
+  <trk><name>V2_omitir_Mezzara_W03_W05</name><trkseg><trkpt lat="48.851900" lon="2.273500"/><trkpt lat="48.850700" lon="2.279800"/></trkseg></trk>
+  <trk><name>V4_W04_Jasmin</name><trkseg><trkpt lat="48.850800" lon="2.270000"/><trkpt lat="48.852900" lon="2.267900"/></trkseg></trk>
+  <trk><name>V5_W05_BirHakeim</name><trkseg><trkpt lat="48.850700" lon="2.279800"/><trkpt lat="48.853900" lon="2.289000"/></trkseg></trk>
+  <trk><name>V6_W06_EcoleMilitaire</name><trkseg><trkpt lat="48.858500" lon="2.300500"/><trkpt lat="48.855100" lon="2.306100"/></trkseg></trk>
+</gpx>

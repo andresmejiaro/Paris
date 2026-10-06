@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cruce" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>Route 09 variants</name><desc>Independent simplified reference tracks, not router polylines or vehicle routes.</desc></metadata>
+  <trk><name>V1 start Trocadero</name><trkseg><trkpt lat="48.862100" lon="2.288000"/><trkpt lat="48.853593" lon="2.303284"/></trkseg></trk>
+  <trk><name>V2 omit Ecole Militaire</name><trkseg><trkpt lat="48.862100" lon="2.288000"/><trkpt lat="48.858400" lon="2.323400"/></trkseg></trk>
+  <trk><name>V3 finish former Elysee Palace</name><trkseg><trkpt lat="48.863000" lon="2.319700"/><trkpt lat="48.872100" lon="2.300500"/></trkseg></trk>
+  <trk><name>V4 exit Trocadero</name><trkseg><trkpt lat="48.862100" lon="2.288000"/><trkpt lat="48.862000" lon="2.287000"/></trkseg></trk>
+  <trk><name>V4 exit Ecole Militaire</name><trkseg><trkpt lat="48.853593" lon="2.303284"/><trkpt lat="48.854000" lon="2.306000"/></trkseg></trk>
+  <trk><name>V4 exit Solferino</name><trkseg><trkpt lat="48.858400" lon="2.323400"/><trkpt lat="48.858600" lon="2.323900"/></trkseg></trk>
+  <trk><name>V5 finish Beauharnais</name><trkseg><trkpt lat="48.853593" lon="2.303284"/><trkpt lat="48.858400" lon="2.323400"/></trkseg></trk>
+  <trk><name>V6 bridge reference</name><trkseg><trkpt lat="48.858400" lon="2.323400"/><trkpt lat="48.863000" lon="2.319700"/></trkseg></trk>
+</gpx>

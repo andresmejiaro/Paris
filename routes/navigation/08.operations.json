@@ -1,0 +1,27 @@
+{
+  "route_id":"08","version":"08-v1-20261006","status":"DONE","reviewed":"2026-10-06","owner":"Cruce","narrator":"Aster",
+  "base":{"start":"Porte Dauphine Guimard edicule","finish":"Alma south-bank exit","distance_km":6.658,"duration_minutes":[190,230],"preferred_start":["09:30","11:00"],"latest_start":"12:30","finish_by":"16:20","cost_eur":0,"reservation":"none","interior_required":false},
+  "legs_km":[2.538,0.235,0.372,0.863,2.190,0.457],"rounded_legs_sum_km":6.655,
+  "stops":[
+    {"id":"W01","name":"Porte Dauphine Guimard edicule","lat":48.8715,"lon":2.2768,"core":true},
+    {"id":"W02","name":"Castel Beranger","lat":48.8525,"lon":2.2738,"core":true},
+    {"id":"W03","name":"Rue Agar junction","lat":48.8519,"lon":2.2735,"core":false},
+    {"id":"W04","name":"Hotel Mezzara exterior","lat":48.8508,"lon":2.27,"core":false},
+    {"id":"W05","name":"Pont de Grenelle west approach","lat":48.8507,"lon":2.2798,"core":false},
+    {"id":"W06","name":"29 avenue Rapp","lat":48.8585,"lon":2.3005,"core":true},
+    {"id":"W07","name":"Alma south-bank exit","lat":48.8624,"lon":2.3013,"core":false}
+  ],
+  "checks_on_day":["facade and edicule visibility","scaffolding, barriers and pavement works","weather and daylight","toilet state","transport"],
+  "services":{"water":"carry own","food":"optional purchase at displayed price","rest":"Passy or Grenelle outside pedestrian flow","toilet":"municipal sanisettes near Grenelle or Alma; verify live state","shelter":"none continuous guaranteed"},
+  "variants":[
+    {"id":"V0","trigger":"line 2 disruption","action":"reach Porte Dauphine by alternate transport"},
+    {"id":"V1","trigger":"edicule illegible","action":"omit W01 and start W02","loses":"public threshold chapter"},
+    {"id":"V2","trigger":"Castel or Mezzara obscured","action":"omit Mezzara; use Agar reduced only if Castel hidden"},
+    {"id":"V3","trigger":"Lavirotte obscured","action":"finish without claiming complete execution","loses":"final core"},
+    {"id":"V4","trigger":"unsafe weather","action":"postpone or finish after western block"},
+    {"id":"V5","trigger":"fatigue","action":"exit Jasmin, Bir-Hakeim or Alma"},
+    {"id":"V6","trigger":"Grenelle crossing blocked","action":"follow signed legal diversion or finish western block"}
+  ],
+  "files":{"canonical":"routes/08_art_nouveau_paris.md","navigation":"routes/navigation/08_navigation.md","operations":"routes/navigation/08_access_operations.md","base_gpx":"routes/navigation/08.gpx","variants_gpx":"routes/navigation/08.variants.gpx","geojson":"routes/navigation/08.geojson","evidence":"routes/navigation/08.evidence.json","archive":"routes/archive/08_art_nouveau_paris_pre_done_20261006.md"},
+  "external_review":"after closure"
+}

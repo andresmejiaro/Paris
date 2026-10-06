@@ -1,0 +1,11 @@
+{
+  "type":"FeatureCollection",
+  "name":"route_19_v1_20261005",
+  "features":[
+    {"type":"Feature","properties":{"route_id":"19","version":"19-v1-20261005","name":"base","distance_km":3.415},"geometry":{"type":"LineString","coordinates":[[2.356140,48.879170],[2.355500,48.877900],[2.354200,48.876500],[2.353600,48.874400],[2.354600,48.871900],[2.354900,48.869000],[2.355200,48.866300],[2.355880,48.864120],[2.353800,48.863950],[2.352100,48.863400],[2.352000,48.861500],[2.350310,48.860620],[2.347400,48.861100],[2.344100,48.862000],[2.341200,48.862800],[2.338600,48.863200],[2.337070,48.863600]]}},
+    {"type":"Feature","properties":{"id":"I01","name":"145 rue La Fayette","core":true},"geometry":{"type":"Point","coordinates":[2.356140,48.879170]}},
+    {"type":"Feature","properties":{"id":"I02","name":"Les Specialistes","core":false,"condition":"visible"},"geometry":{"type":"Point","coordinates":[2.355880,48.864120]}},
+    {"type":"Feature","properties":{"id":"I03","name":"29 rue Quincampoix","core":true},"geometry":{"type":"Point","coordinates":[2.350310,48.860620]}},
+    {"type":"Feature","properties":{"id":"I04","name":"Les Deux Plateaux","core":true},"geometry":{"type":"Point","coordinates":[2.337070,48.863600]}}
+  ]
+}

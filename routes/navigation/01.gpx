@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cruce" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>01 Lovers Paris base 8.925 km</name><desc>Simplified decision corridor; archived Valhalla distance, not dense router geometry or field survey.</desc></metadata>
+  <wpt lat="48.866600" lon="2.337500"><name>L01 Colette</name></wpt>
+  <wpt lat="48.858300" lon="2.337800"><name>L02 Pont des Arts</name></wpt>
+  <wpt lat="48.853800" lon="2.350600"><name>L03 Heloise Abelard</name></wpt>
+  <wpt lat="48.849600" lon="2.337200"><name>L04 Fontaine Medicis</name></wpt>
+  <wpt lat="48.855500" lon="2.315500"><name>L05 Rodin exterior</name></wpt>
+  <wpt lat="48.855500" lon="2.289700"><name>L06 Bir Hakeim</name></wpt>
+  <trk><name>01_base_8.925km_archived</name><desc>Use street instructions; points are simplified. Via Amiral-de-Coligny avoids level -1.</desc><trkseg>
+    <trkpt lat="48.866600" lon="2.337500"/><trkpt lat="48.860900" lon="2.340000"/><trkpt lat="48.858300" lon="2.337800"/><trkpt lat="48.853800" lon="2.350600"/><trkpt lat="48.849600" lon="2.337200"/><trkpt lat="48.855500" lon="2.315500"/><trkpt lat="48.855500" lon="2.289700"/>
+  </trkseg></trk>
+</gpx>

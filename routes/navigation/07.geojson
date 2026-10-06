@@ -1,0 +1,13 @@
+{
+  "type": "FeatureCollection",
+  "name": "Route 07 Occupied Paris 07-v1-20261006",
+  "features": [
+    {"type":"Feature","properties":{"name":"07 base","distance_km":7.268,"geometry_note":"simplified decision corridor; Valhalla distance controls"},"geometry":{"type":"LineString","coordinates":[[2.3324,48.8337],[2.3308,48.8374],[2.3289,48.8424],[2.3269,48.8476],[2.3271,48.8514],[2.3295,48.85135],[2.3319,48.8516],[2.3383,48.8522],[2.345,48.853],[2.3506,48.8541],[2.3562,48.855],[2.3565,48.8549],[2.3619,48.8543],[2.3679,48.8533],[2.3736,48.8533],[2.3781,48.8547],[2.3824662,48.8558751]]}},
+    {"type":"Feature","properties":{"id":"O01","name":"Musée de la Libération"},"geometry":{"type":"Point","coordinates":[2.3324,48.8337]}},
+    {"type":"Feature","properties":{"id":"O02","name":"Hôtel Lutetia"},"geometry":{"type":"Point","coordinates":[2.3271,48.8514]}},
+    {"type":"Feature","properties":{"id":"O03","name":"48 rue du Four"},"geometry":{"type":"Point","coordinates":[2.3319,48.8516]}},
+    {"type":"Feature","properties":{"id":"O04","name":"Mémorial de la Shoah"},"geometry":{"type":"Point","coordinates":[2.3562,48.855]}},
+    {"type":"Feature","properties":{"id":"O04b","name":"Mur des Justes"},"geometry":{"type":"Point","coordinates":[2.3565,48.8549]}},
+    {"type":"Feature","properties":{"id":"O05","name":"Gymnase Japy"},"geometry":{"type":"Point","coordinates":[2.3824662,48.8558751]}}
+  ]
+}
