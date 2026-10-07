@@ -1,0 +1,19 @@
+{
+  "route_id":"11","version":"11-v1-20261006","status":"DONE","reviewed":"2026-10-06","owner":"Cruce","narrator":"Cruce",
+  "base":{"start":"Passage Brady west entrance","finish":"rue Piat upper viewpoint","distance_km":7.356,"indoor_extra_km":[0.2,0.5],"duration_minutes":[315,375],"preferred_start":["10:45","11:15"],"latest_start":"11:30","finish_by":"17:30","cost_eur":0,"reservation":"none","interior_required":true},
+  "legs_km":[1.522,0.876,1.533,2.543,0.172,0.707],"rounded_legs_sum_km":7.353,
+  "stops":[
+    {"id":"W01","name":"Passage Brady west","lat":48.870700,"lon":2.355700,"core":true},
+    {"id":"W02","name":"Bouffes du Nord","lat":48.883200,"lon":2.359000,"core":true},
+    {"id":"W03","name":"ICI Leon","lat":48.887700,"lon":2.353800,"core":true},
+    {"id":"W04","name":"CENTQUATRE 5 rue Curial","lat":48.890049,"lon":2.370681,"core":true},
+    {"id":"W05","name":"Belleville crossroads","lat":48.871900,"lon":2.377900,"core":true},
+    {"id":"W06","name":"rue Denoyez west","lat":48.872200,"lon":2.378900,"core":true},
+    {"id":"W07","name":"rue Piat upper viewpoint","lat":48.871100,"lon":2.384500,"core":false}
+  ],
+  "long_transition":{"from":"W04","to":"W05","distance_km":2.543,"walking_minutes":[35,45],"interpretive_stops":0,"pause":"Villette/Jaures","escape":"Riquet, Jaures or Colonel Fabien"},
+  "checks_on_day":["ICI exhibition and opening","CENTQUATRE public access","Passage Brady","Belleville park/rue Piat","weather, toilets and transport"],
+  "services":{"water":"carry own","food":"optional purchase at displayed price","rest":"Strasbourg-Saint-Denis, ICI if authorized, Villette/Jaures or Belleville","toilet":"municipal dataset/live check; venue facilities not guaranteed","shelter":"partial only"},
+  "variants":[{"id":"V0","trigger":"arrival disruption"},{"id":"V1","trigger":"Brady closed"},{"id":"V2","trigger":"ICI unavailable","action":"reschedule"},{"id":"V3","trigger":"CENTQUATRE closed","action":"reduced exterior chapter"},{"id":"V4","trigger":"fatigue on long transition","action":"exit or transit; not full walk"},{"id":"V5","trigger":"park/stairs unavailable"},{"id":"V6","trigger":"unsafe weather or crossing","action":"postpone or end early"}],
+  "external_review":"after closure"
+}

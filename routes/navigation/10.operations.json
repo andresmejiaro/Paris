@@ -1,0 +1,22 @@
+{
+  "schema_version":"1.0","route_id":"10","version":"10-v1-20261006","status":"DONE","reviewed":"2026-10-06","owner":"Cruce","narrator":"Noctámbulo","title":"París se pone en escena después del anochecer",
+  "base":{"distance_km":5.487,"cost_eur":0,"duration_min":[180,210],"script_words":2993,"spoken_minutes_at_130_wpm":23.0,"walking_minutes":[78,88],"directed_observation_minutes":[42,56],"rest_minutes":10,"crossing_orientation_crowd_minutes":[27,33],"start_recommended":"17:45–18:30","latest_start":"18:45","finish_limit":"22:30","active_night_gate":"dated visible activity at two of Folies/Garnier/Casino/Moulin and service at Lapin Agile or Madame Arthur","geometry_basis":"six archived Valhalla/OSM pedestrian legs; simplified decision trace"},
+  "stops":[
+    {"id":"S01","name":"Folies Bergère","lat":48.8741,"lon":2.3446,"core":true,"script_words":460},
+    {"id":"S02","name":"Palais Garnier","lat":48.8720,"lon":2.3316,"core":true,"script_words":410,"leg_km":1.240},
+    {"id":"S03","name":"Casino de Paris","lat":48.8785,"lon":2.3303,"core":true,"script_words":404,"leg_km":0.855},
+    {"id":"S04","name":"Moulin Rouge","lat":48.8841,"lon":2.3322,"core":true,"script_words":456,"leg_km":0.802},
+    {"id":"S05","name":"Au Lapin Agile","lat":48.8893,"lon":2.3396,"core":true,"script_words":408,"leg_km":1.140},
+    {"id":"S06","name":"Sacré-Cœur forecourt","lat":48.8867,"lon":2.3430,"core":true,"script_words":401,"leg_km":0.777},
+    {"id":"S07","name":"Madame Arthur","lat":48.8825,"lon":2.3399,"core":true,"script_words":454,"leg_km":0.670}
+  ],
+  "variants":[
+    {"id":"V1","trigger":"inactive night, rain, limited mobility or fatigue","distance_km":3.567,"finish":"Madame Arthur","loses":"Lapin and hill chapter"},
+    {"id":"V2","trigger":"fatigue after S04","finish":"Blanche","loses":"S05-S07"},
+    {"id":"V3","trigger":"fatigue at S05","finish":"Abbesses","loses":"S06-S07"},
+    {"id":"V4","trigger":"Sacré-Cœur closure or saturation","finish":"Madame Arthur","loses":"S06"},
+    {"id":"V5","trigger":"broad closure or perceived safety problem","finish":"Pigalle via uncharted transport or terminate","loses":"continuous walk"}
+  ],
+  "day_checks":["dated programmes and active-night gate","weather and stairs","works and public access","WC/refuge/water","return transport","ticket terms only if extension selected"],
+  "claims_not_made":["field inspection","GPS survey","dense router polyline","booking or purchase","audio rehearsal","external review","website publication"]
+}

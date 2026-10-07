@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cruce" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>Route 14 connectors and variants</name><desc>Independent simplified surface tracks; no underground access geometry.</desc></metadata>
+  <trk><name>Llegada_Denfert_U01</name><trkseg><trkpt lat="48.833980" lon="2.332520"/><trkpt lat="48.834100" lon="2.332800"/></trkseg></trk>
+  <trk><name>Salida_U04_CiteUniversitaire</name><trkseg><trkpt lat="48.821000" lon="2.338000"/><trkpt lat="48.820510" lon="2.338850"/></trkseg></trk>
+  <trk><name>V1_Montsouris_micro</name><trkseg><trkpt lat="48.825100" lon="2.337200"/><trkpt lat="48.823000" lon="2.337500"/><trkpt lat="48.821000" lon="2.338000"/><trkpt lat="48.820510" lon="2.338850"/></trkseg></trk>
+  <trk><name>Escape_U03_Denfert_surface</name><trkseg><trkpt lat="48.831000" lon="2.334000"/><trkpt lat="48.833800" lon="2.332400"/></trkseg></trk>
+</gpx>

@@ -1,0 +1,38 @@
+{
+  "route_id": "17",
+  "version": "17-v1-20261006",
+  "status": "DONE",
+  "reviewed": "2026-10-06",
+  "owner": "Cruce",
+  "narrator": "Cruce",
+  "base": {
+    "name": "Scientific Spectacle finite museum raid",
+    "start": "Musee des Arts et Metiers public entrance",
+    "finish": "Saint-Martin-des-Champs pendulum demonstration",
+    "planning_distance_km": 1.1,
+    "distance_range_km": [0.8, 1.4],
+    "duration_minutes": [120, 155],
+    "slots": ["10:15-12:35", "15:15-17:35"],
+    "published_full_price_eur": 12,
+    "reservation": "not made; online fee shown separately",
+    "indoor": true
+  },
+  "stops": [
+    {"id":"W01","name":"60 rue Reaumur entrance","lat":48.86602,"lon":2.35536,"core":false},
+    {"id":"W02","name":"Arsenius astrolabe and Magny microscope","indoor":true,"core":true},
+    {"id":"W03","name":"Lavoisier instrument group","indoor":true,"core":true},
+    {"id":"W04","name":"Cugnot Fardier and Ader Avion no. 3","indoor":true,"core":true},
+    {"id":"W05","name":"Foucault pendulum demonstration","indoor":true,"core":true}
+  ],
+  "checks_on_day": ["opening and displayed tariff", "12:00 or 17:00 demonstration", "capacity", "objects and rooms", "lifts", "bag policy and lockers", "toilets", "transport"],
+  "variants": [
+    {"id":"V0","trigger":"object or room unavailable","action":"identified same-group substitution or shorten","loses":"named object"},
+    {"id":"V1","trigger":"demonstration cancelled after entry","action":"instrument raid and static device reading","loses":"active experiment"},
+    {"id":"V2","trigger":"demonstration essential and cancellation known","action":"postpone","loses":"current slot"},
+    {"id":"V3","trigger":"public holiday or free Sunday","action":"do not assume demonstration","loses":"active experiment unless confirmed"},
+    {"id":"V4","trigger":"capacity full","action":"next session only if sustainable, otherwise V1","loses":"active experiment"},
+    {"id":"V5","trigger":"fatigue or pain","action":"Fardier/Avion then church or exit","loses":"small instruments and Lavoisier"},
+    {"id":"V6","trigger":"full closure or severe transport failure","action":"cancel","loses":"whole experience"}
+  ],
+  "external_review": "after closure"
+}

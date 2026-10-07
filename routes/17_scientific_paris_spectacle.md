@@ -1,7 +1,11 @@
 > **Narrator correction — Andrés, 3 October 2026:** Cruce owns all route design, research, selection, verification, navigation and complete script preparation. Rumbo narrates Coulée Verte; Hilo narrates Medieval Devils; Miga narrates the affordable Paris flavours route. These are narrator assignments, not delegated work. No companion research or response is awaited. This overrides earlier commission/author/reviewer wording below.
 
-<!-- CRUCE CURRENT STATE: 2026-10-03; controlling production decision v9 -->
-> **Current working state: Scientific Spectacle — Targeted museum experience.** Distance: museum layer. Treat as finite object/show raids; old two-paid-museum core is an option, not portfolio obligation. Recheck demonstration/public-holiday conditions and total budget. External QA and visitor-ready delivery remain pending. See [production reset](cruce_production_reset_v9.md). The older body below preserves research and earlier decisions; it does not override this notice.
+<!-- CRUCE CURRENT STATE: 2026-10-06; controlling delivery 17-v1 -->
+> **DONE — 17-v1-20261006, revisada el 6 de octubre de 2026.**  Experiencia finita dentro del Musée des Arts et Métiers: astrolabio y microscopio → laboratorio de Lavoisier → Fardier y Avion nº3 → demostración del péndulo de Foucault. Recorrido interior de decisión de aproximadamente **1.1 km**, **2 h–2 h 35**, entrada ordinaria publicada **€12** (reducida €9 si corresponde; reserva web +€1). Ventanas elegidas: **10:15–12:20** o **15:15–17:20**, martes–domingo no festivo, sujetas a aforo y demostración efectiva. Narradora: Cruce. La experiencia no apila Panthéon, Curie y mineralogía para fabricar un día largo.
+>
+> Esta es la versión elegida para el viaje y cumple los criterios bajo control del agente. Comprobaciones del día: apertura y tarifa mostrada, demostración de las 12:00/17:00, aforo, ubicación/exposición de los objetos, ascensores, consigna y transporte. Si no hay demostración, V1 conserva una visita de instrumentos y declara perdido el experimento activo; V2 pospone si el péndulo es esencial. Variantes: [operaciones](navigation/17_access_operations.md). Revisión externa por varios modelos y feedback: posterior al cierre.
+>
+> Archivos de uso: [navegación interior](navigation/17_navigation.md) · [operaciones](navigation/17_access_operations.md) · [registro JSON](navigation/17.operations.json) · [GPX de decisión](navigation/17.gpx) · [evidencia](navigation/17.evidence.json). El cuerpo antiguo que sigue queda como investigación documental; no gobierna la ejecución.
 
 # Scientific Paris — Conseguir que lo invisible se deje mirar
 

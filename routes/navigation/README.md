@@ -1,5 +1,5 @@
 # Navegación seleccionada — Cruce, Hilo, Aster/Noctámbulo, Miga y Rumbo
-Cruce · navegación base del 3 octubre 2026; cierre de ruta 02 revisado el 4 octubre, rutas 03, 12, 15, 16, 19, 21 y 22 el 5 octubre, y rutas 01, 06, 07, 08, 09, 13 y 18 el 6 octubre 2026. Trazados calculados o, donde se declara, líneas de decisión contrastadas con cartografía. No son un levantamiento GPS ni una inspección presencial de puertas.
+Cruce · navegación base del 3 octubre 2026; cierre de ruta 02 revisado el 4 octubre, rutas 03, 12, 15, 16, 19, 21 y 22 el 5 octubre, y rutas 01, 06, 07, 08, 09, 10, 11, 13, 14, 17 y 18 el 6 octubre 2026. Trazados calculados o, donde se declara, líneas de decisión contrastadas con cartografía. No son un levantamiento GPS ni una inspección presencial de puertas.
 
 Cada ruta tiene instrucciones por calles, puntos de llegada, enlaces de Google Maps y un GPX fijo. Maps puede recalcular y elegir otra acera o una calle paralela: sus enlaces no son prueba de que haya seguido el GPX. El GPX contiene una línea para seguir en una aplicación compatible; no produce por sí solo avisos de giro. El [GeoJSON conjunto](routes.geojson) y el [registro de navegación](manifest.json) conservan coordenadas y maniobras.
 
@@ -21,6 +21,10 @@ Cada ruta tiene instrucciones por calles, puntos de llegada, enlaces de Google M
 | Aster | Lamartine → Jean-Lorrain → Auteuil → Sena alto → Zouave → Égouts | 7.013 km | [GPX](13.gpx) · [instrucciones](13_navigation.md) |
 | Aster | Porte Dauphine → Castel Béranger/Agar → Mezzara → Lavirotte → Alma | 6.658 km | [GPX](08.gpx) · [instrucciones](08_navigation.md) |
 | Noctámbulo | Singer/Raynouard → Trocadéro → École Militaire → Beauharnais → Élysée Palace → Arco | 8.281 km | [GPX](09.gpx) · [instrucciones](09_navigation.md) |
+| Noctámbulo | Folies → Garnier → Casino → Moulin → Lapin → Sacré-Cœur → Madame Arthur | 5.487 km | [GPX](10.gpx) · [instrucciones](10_navigation.md) |
+| Cruce | Brady → Bouffes → ICI Léon → CENTQUATRE → Belleville/Piat | 7.356 km | [GPX](11.gpx) · [instrucciones](11_navigation.md) |
+| Aster | Catacumbas oficiales → René-Coty → Montsouris/La Carrière | aprox. 3.4 km, incluidos 1.5 km interiores oficiales | [GPX](14.gpx) · [instrucciones](14_navigation.md) |
+| Cruce | Arts et Métiers, raid interior y péndulo | aprox. 1.1 km interior | [GPX de acceso](17.gpx) · [instrucciones](17_navigation.md) |
 
 Tres decimales reproducen la respuesta del motor; no implican exactitud de un metro. No incluyen acceso desde alojamiento, interiores ni vueltas de degustación. Los totales y conectores propios de cada experiencia se declaran por separado.
 

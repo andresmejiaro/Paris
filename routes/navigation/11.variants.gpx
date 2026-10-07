@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cruce" xmlns="http://www.topografix.com/GPX/1/1"><metadata><name>Ruta 11 variantes</name><desc>Referencias independientes; transporte no trazado.</desc></metadata>
+<trk><name>V1_Brady_exterior</name><trkseg><trkpt lat="48.870700" lon="2.355700"/><trkpt lat="48.871300" lon="2.357000"/></trkseg></trk>
+<trk><name>V4_escape_Riquet</name><trkseg><trkpt lat="48.890049" lon="2.370681"/><trkpt lat="48.888500" lon="2.373000"/></trkseg></trk>
+<trk><name>V4_escape_Jaures</name><trkseg><trkpt lat="48.883000" lon="2.370000"/><trkpt lat="48.882000" lon="2.370500"/></trkseg></trk>
+<trk><name>V5_fin_Denoyez</name><trkseg><trkpt lat="48.871900" lon="2.377900"/><trkpt lat="48.872200" lon="2.378900"/></trkseg></trk>
+</gpx>

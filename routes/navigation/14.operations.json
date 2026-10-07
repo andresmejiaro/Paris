@@ -1,0 +1,23 @@
+{
+  "route_id":"14","version":"14-v1-20261006","status":"DONE","reviewed":"2026-10-06","owner":"Cruce","narrator":"Aster",
+  "base":{"start":"Esplanade Charles-Axel-Guillaumot","finish":"La Carriere, parc Montsouris","experience_distance_km_approx":3.4,"official_underground_km":1.5,"routed_surface_km":1.83,"duration_minutes":[160,200],"preferred_start":["10:00","12:30"],"latest_recommended_start":"14:30 conditional on park margin","cost_eur_full":31,"cost_eur_reduced_eligible":25,"reservation":"strongly recommended; released seven days ahead"},
+  "stops":[
+    {"id":"U01","name":"Esplanade Charles-Axel-Guillaumot","lat":48.8341,"lon":2.3328,"core":false},
+    {"id":"U02","name":"Catacombs official entrance","lat":48.8338,"lon":2.3324,"core":true},
+    {"id":"U03","name":"Catacombs official exit","lat":48.831,"lon":2.334,"core":false},
+    {"id":"D01","name":"Parc Montsouris north gate approach","lat":48.8251,"lon":2.3372,"core":false},
+    {"id":"U04","name":"La Carriere observation area","lat":48.821,"lon":2.338,"core":true,"precision":"search area, not certified sculpture pin"}
+  ],
+  "checks_on_day":["ticket and site alerts","mobility, claustrophobia, cardiorespiratory suitability and remains sensitivity","bag compliance","park hours and alerts","relief visibility","weather, toilets and transport"],
+  "services":{"toilet":"official Catacombs entrance and exit; park toilets listed but verify","rest":"after U03 or open park bench","shelter":"no continuous free shelter guaranteed","water":"carry own; no drinking inside","food":"after exit only; optional park concession if open"},
+  "variants":[
+    {"id":"V0","trigger":"different ticket slot","action":"move only with park margin or reschedule","loses":"nothing if rescheduled"},
+    {"id":"V1","trigger":"no ticket or Catacombs closure","action":"reschedule or Montsouris micro-route","loses":"quarry interior, consolidation and ossuary"},
+    {"id":"V2","trigger":"relief unavailable","action":"landscape reading then exit","loses":"material and bodily observation"},
+    {"id":"V3","trigger":"park closed","action":"finish at perimeter","loses":"relief and park rest"},
+    {"id":"V4","trigger":"unsafe weather or paths","action":"finish at U03 or postpone","loses":"surface labor ending"},
+    {"id":"V5","trigger":"fatigue or distress","action":"do not descend or alert staff; finish after exit","loses":"uncompleted scenes"}
+  ],
+  "files":{"canonical":"routes/14_paris_below.md","navigation":"routes/navigation/14_navigation.md","operations":"routes/navigation/14_access_operations.md","base_gpx":"routes/navigation/14.gpx","variants_gpx":"routes/navigation/14.variants.gpx","geojson":"routes/navigation/14.geojson","evidence":"routes/navigation/14.evidence.json"},
+  "external_review":"after closure"
+}

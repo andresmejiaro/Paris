@@ -1,0 +1,17 @@
+{
+  "route_id":"10","reviewed":"2026-10-06","sources":[
+    {"claim":"Manet painting, Suzon, studio process and London location","url":"https://courtauld.ac.uk/highlights/a-bar-at-the-folies-bergere/","checked":"2026-10-02"},
+    {"claim":"Folies Art Deco relief and Lila Nikolska attribution","url":"https://www.foliesbergere.com/fr/100-ans-Art-Deco","checked":"2026-10-02"},
+    {"claim":"Garnier history, spaces, stage machinery and public display","url":"https://www.operadeparis.fr/apropos/theatres-et-ateliers/palais-garnier","checked":"2026-10-06"},
+    {"claim":"2026 Garnier self-guided prices, online reservation, auditorium not guaranteed","url":"https://www.operadeparis.fr/visites/palais-garnier?top=1","checked":"2026-10-06"},
+    {"claim":"Casino revue history and 1982 break","url":"https://www.casinodeparis.fr/fr/histoire","checked":"2026-10-02"},
+    {"claim":"La Goulue biography","url":"https://www.paris.fr/pages/il-etait-une-fois-la-goulue-en-podcast-24451","checked":"2026-10-02"},
+    {"claim":"Moulin opening, performers and institutional legend","url":"https://www.moulinrouge.fr/le-moulin-rouge/lhistoire/grandes-periodes/","checked":"2026-10-02"},
+    {"claim":"Lapin Agile current full tariff and drink","url":"https://au-lapin-agile.com/produit/plein-tarif/","checked":"2026-10-02"},
+    {"claim":"Sacré-Cœur origin and construction","url":"https://cdn.paris.fr/presse/2022/09/13/75881cf711826d26bd86ab4749b58342.pdf","checked":"2026-10-06"},
+    {"claim":"Madame Arthur history","url":"https://madamearthur.fr/histoire/","checked":"2026-10-02"},
+    {"claim":"Madame Arthur operating pattern and access limits","url":"https://madamearthur.fr/acces-horaires/","checked":"2026-10-02"},
+    {"claim":"April 2026 reported former-worker testimony; management invited did not respond","url":"https://www.mediatheques.strasbourg.eu/doc/RADIOFRANCE/2026C6612S0120/chez-madame-arthur-l-envers-du-cabaret","checked":"2026-10-02"}
+  ],
+  "geometry":{"source":"routes/geometry_batch_b.md","query_date":"2026-10-03","service":"Valhalla/OSM pedestrian","legs_km":[1.240,0.855,0.802,1.140,0.777,0.670],"total_km":5.487,"limitation":"rounded legs sum to 5.484; authoritative archived whole-query total is 5.487; delivered traces are simplified"}
+}

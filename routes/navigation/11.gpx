@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cruce" xmlns="http://www.topografix.com/GPX/1/1">
+ <metadata><name>Ruta 11 Cosmopolitan 11-v1-20261006</name><desc>Corredor simplificado; 7.356 km Valhalla/OSM controla.</desc></metadata>
+ <wpt lat="48.870700" lon="2.355700"><name>W01 Passage Brady</name></wpt><wpt lat="48.883200" lon="2.359000"><name>W02 Bouffes du Nord</name></wpt><wpt lat="48.887700" lon="2.353800"><name>W03 ICI Leon</name></wpt><wpt lat="48.890049" lon="2.370681"><name>W04 CENTQUATRE</name></wpt><wpt lat="48.871900" lon="2.377900"><name>W05 Belleville</name></wpt><wpt lat="48.872200" lon="2.378900"><name>W06 rue Denoyez</name></wpt><wpt lat="48.871100" lon="2.384500"><name>W07 rue Piat</name></wpt>
+ <trk><name>Ruta11_base_simplificada</name><trkseg><trkpt lat="48.870700" lon="2.355700"/><trkpt lat="48.876000" lon="2.357000"/><trkpt lat="48.883200" lon="2.359000"/><trkpt lat="48.887700" lon="2.353800"/><trkpt lat="48.889000" lon="2.360000"/><trkpt lat="48.890049" lon="2.370681"/><trkpt lat="48.883000" lon="2.370000"/><trkpt lat="48.877000" lon="2.374000"/><trkpt lat="48.871900" lon="2.377900"/><trkpt lat="48.872200" lon="2.378900"/><trkpt lat="48.871100" lon="2.384500"/></trkseg></trk>
+</gpx>

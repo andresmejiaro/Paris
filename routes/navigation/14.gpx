@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cruce" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>Route 14 City Under the City</name><desc>U02-U03 is a conceptual entrance-exit link, never underground navigation. Follow official circuit.</desc></metadata>
+  <wpt lat="48.834100" lon="2.332800"><name>U01 Guillaumot</name></wpt>
+  <wpt lat="48.833800" lon="2.332400"><name>U02 Catacombs entrance</name></wpt>
+  <wpt lat="48.831000" lon="2.334000"><name>U03 Catacombs exit</name></wpt>
+  <wpt lat="48.825100" lon="2.337200"><name>D01 Montsouris north gate</name></wpt>
+  <wpt lat="48.821000" lon="2.338000"><name>U04 La Carriere search area</name></wpt>
+  <trk><name>R14 surface corridor; U02-U03 conceptual only</name><trkseg>
+    <trkpt lat="48.834100" lon="2.332800"/><trkpt lat="48.833800" lon="2.332400"/><trkpt lat="48.831000" lon="2.334000"/>
+    <trkpt lat="48.829000" lon="2.335000"/><trkpt lat="48.827000" lon="2.336000"/><trkpt lat="48.825100" lon="2.337200"/><trkpt lat="48.823000" lon="2.337500"/><trkpt lat="48.821000" lon="2.338000"/>
+  </trkseg></trk>
+</gpx>

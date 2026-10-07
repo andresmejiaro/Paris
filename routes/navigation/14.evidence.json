@@ -1,0 +1,12 @@
+{
+  "route_id":"14","route_version":"14-v1-20261006","retrieved_date":"2026-10-06","crs":"WGS84","on_ground_verified":false,
+  "geometry":{"source":"routes/geometry_batch_a.md","official_underground_km":1.5,"routed_surface_legs_km":[1.1,0.73],"experience_distance_km_approx":3.4,"delivery_geometry":"simplified surface corridor plus conceptual entrance-exit link; no underground gallery geometry","license":"OpenStreetMap contributors, ODbL"},
+  "sources":[
+    {"scene":"catacombs_operations","type":"official_museum","urls":["https://www.catacombes.paris.fr/","https://www.catacombes.paris.fr/visiter/lire-avant-de-venir","https://www.catacombes.paris.fr/visiter/tarifs-individuels"],"claims":"hours, price, seven-day sales, official length/duration, stairs, restrictions, bag, exit and toilets"},
+    {"scene":"catacombs_history","type":"official_museum_municipal","urls":["https://www.catacombes.paris.fr/sites/default/files/2026-04/Catacombes_Dossier%20presse2026_WEB.pdf","https://www.catacombes.paris.fr/en","https://www.paris.fr/pages/tout-savoir-sur-les-sous-sols-2317/"],"claims":"former quarry, geological/work interpretation, engineering inscriptions, ossuary history, IGC"},
+    {"scene":"guillaumot","type":"municipal","urls":["https://www.paris.fr/pages/qui-etait-charles-axel-guillaumot-l-homme-qui-sauva-paris-de-l-effondrement-5150"],"claims":"named esplanade and first IGC director"},
+    {"scene":"cataphile_context","type":"scholarly","urls":["https://www.persee.fr/doc/comm_0588-8018_2019_num_105_1_2955"],"claims":"anthropological account of clandestine sociability and informal norms; not access guidance"},
+    {"scene":"la_carriere","type":"official_inventory_municipal","urls":["https://anosgrandshommes.musee-orsay.fr/index.php/Detail/objects/14761","https://www.paris.fr/pages/paris-un-musee-a-ciel-ouvert-au-travail-17501","https://www.paris.fr/lieux/parc-montsouris-1810"],"claims":"1906 work, 1910 installation, Carrara inspiration, material, figures, former quarry landscape and park services"}
+  ],
+  "limits":["No field inspection, purchase, booking, call, voice rehearsal or external review","November park closing time not yet published on retrieved page","U04 is an operational search area, not a surveyed sculpture coordinate","No Port-Mahon, Capucins, cemetery or illicit-access geometry","GPX entrance-exit line is conceptual and must never guide underground navigation"]
+}

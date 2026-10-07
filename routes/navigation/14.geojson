@@ -1,0 +1,9 @@
+{
+  "type":"FeatureCollection","features":[
+    {"type":"Feature","properties":{"route_id":"14","name":"surface delivery corridor","geometry_limit":"U02-U03 conceptual; no underground geometry","experience_distance_km_approx":3.4},"geometry":{"type":"LineString","coordinates":[[2.3328,48.8341],[2.3324,48.8338],[2.334,48.831],[2.335,48.829],[2.336,48.827],[2.3372,48.8251],[2.3375,48.823],[2.338,48.821]]}},
+    {"type":"Feature","properties":{"id":"U01","name":"Guillaumot"},"geometry":{"type":"Point","coordinates":[2.3328,48.8341]}},
+    {"type":"Feature","properties":{"id":"U02","name":"Catacombs entrance"},"geometry":{"type":"Point","coordinates":[2.3324,48.8338]}},
+    {"type":"Feature","properties":{"id":"U03","name":"Catacombs exit"},"geometry":{"type":"Point","coordinates":[2.334,48.831]}},
+    {"type":"Feature","properties":{"id":"U04","name":"La Carriere observation area","precision":"search area"},"geometry":{"type":"Point","coordinates":[2.338,48.821]}}
+  ]
+}

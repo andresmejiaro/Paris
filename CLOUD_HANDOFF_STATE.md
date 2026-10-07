@@ -2,7 +2,18 @@
 
 # Paris — current production handoff
 
-Updated 6 October 2026 by Cruce after internal audit of Routes 03/12/15/19 and closure of Routes 01, 07, 08, 09 and 13. Closed routes: 01, 02, 03, 05, 06, 07, 08, 09, 12, 13, 15, 16, 18, 19, 21 and 22. Earlier closed routes remain unchanged.
+Updated 6 October 2026 by Cruce after closure and review of Routes 10, 11, 14 and 17. Closed routes: 01, 02, 03, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21 and 22. Earlier closed routes remain unchanged.
+
+## Closed delivery — Routes 10, 11, 14 and 17, 6 October 2026
+
+- Route 10: Noctámbulo, active-night exterior Folies → Garnier → Casino → Moulin → Lapin → Sacré-Cœur → Madame Arthur; **5.487 km**, **3 h–3 h 30**, €0 base, seven reviewed scripts and V1–V5.
+- Route 11: Cruce, Brady → Bouffes → ICI Léon → CENTQUATRE → Belleville/Piat; **7.356 km**, **5 h 15–6 h 15**, €0, five reviewed scripts and V0–V6. The 2.543 km Curial–Belleville leg remains an explicit transition, not demographic spectacle.
+- Route 14: Aster, official Catacombs circuit → René-Coty → Montsouris/La Carrière; approximately **3.4 km**, **2 h 40–3 h 20**, published full tariff €31. No clandestine access or invented underground geometry.
+- Route 17: Cruce, finite Arts et Métiers instrument raid ending at the Foucault demonstration; approximately **1.1 km indoor planning distance**, **2 h–2 h 35**, published full tariff €12. The floor plan and staff control interior movement; GPX is an entrance decision point.
+- All four have canonical, navigation, operations, JSON, evidence and GPX deliveries; Routes 10/11/14 also have simplified GeoJSON and variants. Cruce returned Routes 10 and 11 for narration expansion before accepting them. JSON, XML and whitespace checks pass. No field inspection, booking, purchase, audio rehearsal, external review or website publication is claimed.
+- Portfolio after closure: **20/26 DONE (76.9%)**. Selected/planning distances total approximately **97.445 km**, of which Route 14 includes the official 1.5 km directed interior and Route 17 is an indoor planning estimate. Authored route time totals approximately **63 h 35–76 h 45**. These are content totals, not total trip-day load or a final trip-duration recommendation.
+
+The older 16/26 statement below is superseded by this closure block.
 
 ## Read first
 1. [routes/DEFINITION_OF_DONE.md](routes/DEFINITION_OF_DONE.md) — controlling closure criteria, day uncertainties and later external review.

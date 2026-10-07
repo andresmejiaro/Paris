@@ -1,0 +1,10 @@
+{"type":"FeatureCollection","name":"route_11_v1_simplified","features":[
+{"type":"Feature","properties":{"route_id":"11","version":"11-v1-20261006","distance_km":7.356,"geometry_status":"simplified_decision_corridor"},"geometry":{"type":"LineString","coordinates":[[2.355700,48.870700],[2.357000,48.876000],[2.359000,48.883200],[2.353800,48.887700],[2.360000,48.889000],[2.370681,48.890049],[2.370000,48.883000],[2.374000,48.877000],[2.377900,48.871900],[2.378900,48.872200],[2.384500,48.871100]]}},
+{"type":"Feature","properties":{"id":"W01","name":"Passage Brady"},"geometry":{"type":"Point","coordinates":[2.355700,48.870700]}},
+{"type":"Feature","properties":{"id":"W02","name":"Bouffes du Nord"},"geometry":{"type":"Point","coordinates":[2.359000,48.883200]}},
+{"type":"Feature","properties":{"id":"W03","name":"ICI Leon"},"geometry":{"type":"Point","coordinates":[2.353800,48.887700]}},
+{"type":"Feature","properties":{"id":"W04","name":"CENTQUATRE"},"geometry":{"type":"Point","coordinates":[2.370681,48.890049]}},
+{"type":"Feature","properties":{"id":"W05","name":"Belleville"},"geometry":{"type":"Point","coordinates":[2.377900,48.871900]}},
+{"type":"Feature","properties":{"id":"W06","name":"rue Denoyez"},"geometry":{"type":"Point","coordinates":[2.378900,48.872200]}},
+{"type":"Feature","properties":{"id":"W07","name":"rue Piat"},"geometry":{"type":"Point","coordinates":[2.384500,48.871100]}}
+]}

@@ -1,0 +1,20 @@
+{
+  "route_id": "17",
+  "route_version": "17-v1-20261006",
+  "retrieved_date": "2026-10-02",
+  "on_ground_verified": false,
+  "geometry": {
+    "type": "indoor planning estimate",
+    "planning_distance_km": 1.1,
+    "range_km": [0.8, 1.4],
+    "limit": "No indoor polyline; floor plan and staff instructions control"
+  },
+  "sources": [
+    {"type":"official_operator","url":"https://www.arts-et-metiers.net/musee/horaires-et-acces","claims":"hours, closures, access and visitor conditions"},
+    {"type":"official_ticketing","url":"https://arts-et-metiers.tickeasy.com/fr-FR/produits","claims":"displayed full/reduced prices and online fee"},
+    {"type":"official_operator","url":"https://www.arts-et-metiers.net/musee/demonstration-du-pendule-de-foucault","claims":"recurring times, holiday exclusion, duration, inclusion and capacity"},
+    {"type":"official_objects","urls":["https://www.arts-et-metiers.net/musee/astrolabe-par-arsenius","https://www.arts-et-metiers.net/musee/microscope-compose-de-magny","https://www.arts-et-metiers.net/musee/aeroplane-dit-avion-ndeg-3","https://www.arts-et-metiers.net/musee/fardier-vapeur"],"claims":"identity and museum placement of selected objects"},
+    {"type":"official_institution","url":"https://www.cnam.eu/museum/the-arts-et-metiers-museum-1206067.kjsp?versiontexte=true","claims":"Lavoisier instrument group and museum scope"}
+  ],
+  "limits": ["No field inspection, booking, purchase, call, voice rehearsal or external review", "Objects and sessions can change", "Static pages do not certify a future individual session", "The GPX is an entrance waypoint, not an indoor route"]
+}
