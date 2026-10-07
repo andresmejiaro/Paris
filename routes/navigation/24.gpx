@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cruce" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>Route 24 Southern Margins base</name><desc>Simplified public-surface decision corridor; archived 7.690 km Valhalla measurement controls. PC13 excluded.</desc></metadata>
+  <wpt lat="48.833900" lon="2.376500"><name>S01 BnF Seine edge</name></wpt><wpt lat="48.829100" lon="2.380000"><name>S02 Grands Moulins</name></wpt>
+  <wpt lat="48.827400" lon="2.349700"><name>S03 Upper Moulin-des-Pres</name></wpt><wpt lat="48.825800" lon="2.353500"><name>S04 Bievre trace</name></wpt>
+  <wpt lat="48.823700" lon="2.353500"><name>S05 Place Henocque</name></wpt><wpt lat="48.822703" lon="2.344820"><name>S06 Cite Florale</name></wpt>
+  <wpt lat="48.824400" lon="2.340100"><name>S07 Montsouris east gate</name></wpt><wpt lat="48.821800" lon="2.337800"><name>S08 Montsouris south gate</name></wpt>
+  <wpt lat="48.820200" lon="2.339700"><name>S09 CIUP north edge</name></wpt><wpt lat="48.819400" lon="2.327800"><name>S10 CIUP west finish</name></wpt>
+  <trk><name>R24 base simplified no PC13</name><trkseg>
+    <trkpt lat="48.833900" lon="2.376500"/><trkpt lat="48.832000" lon="2.378000"/><trkpt lat="48.829100" lon="2.380000"/><trkpt lat="48.828500" lon="2.372000"/><trkpt lat="48.828000" lon="2.360000"/><trkpt lat="48.827400" lon="2.349700"/>
+    <trkpt lat="48.825800" lon="2.353500"/><trkpt lat="48.823700" lon="2.353500"/><trkpt lat="48.823000" lon="2.349000"/><trkpt lat="48.822703" lon="2.344820"/><trkpt lat="48.823400" lon="2.342000"/><trkpt lat="48.824400" lon="2.340100"/>
+    <trkpt lat="48.823000" lon="2.339000"/><trkpt lat="48.821800" lon="2.337800"/><trkpt lat="48.820200" lon="2.339700"/><trkpt lat="48.819700" lon="2.334000"/><trkpt lat="48.819400" lon="2.327800"/>
+  </trkseg></trk>
+</gpx>

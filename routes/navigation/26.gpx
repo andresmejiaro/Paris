@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cruce" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>26 base 26-v2-20261007</name><desc>Fixed mixed-provenance reference corridor 1.407km; real allowance1.5-1.7km. Manual Cité vertices approximate; public street instructions and crossings control. No field survey.</desc></metadata>
+  <wpt lat="48.846596" lon="2.351445"><name>W01 BiliPo public approach</name></wpt>
+  <wpt lat="48.849717" lon="2.349225"><name>W02 Rue Monge pavement NOT museum reception</name></wpt>
+  <wpt lat="48.853150" lon="2.348847"><name>C01 Notre-Dame parvis connector</name></wpt>
+  <wpt lat="48.855440" lon="2.341869"><name>W03 Former36 documented public viewpoint</name></wpt>
+  <trk><name>26 base fixed reference</name><trkseg>
+    <trkpt lat="48.846596" lon="2.351445"/>
+    <trkpt lat="48.846659" lon="2.351460"/>
+    <trkpt lat="48.846674" lon="2.351489"/>
+    <trkpt lat="48.846713" lon="2.351554"/>
+    <trkpt lat="48.846755" lon="2.351523"/>
+    <trkpt lat="48.846974" lon="2.351360"/>
+    <trkpt lat="48.847130" lon="2.351239"/>
+    <trkpt lat="48.847810" lon="2.350713"/>
+    <trkpt lat="48.847854" lon="2.350679"/>
+    <trkpt lat="48.848078" lon="2.350505"/>
+    <trkpt lat="48.848326" lon="2.350302"/>
+    <trkpt lat="48.848365" lon="2.350271"/>
+    <trkpt lat="48.848553" lon="2.350126"/>
+    <trkpt lat="48.848780" lon="2.349949"/>
+    <trkpt lat="48.848933" lon="2.349835"/>
+    <trkpt lat="48.849110" lon="2.349708"/>
+    <trkpt lat="48.849409" lon="2.349475"/>
+    <trkpt lat="48.849615" lon="2.349311"/>
+    <trkpt lat="48.849668" lon="2.349266"/>
+    <trkpt lat="48.849717" lon="2.349225"/>
+    <trkpt lat="48.849775" lon="2.349179"/>
+    <trkpt lat="48.849794" lon="2.349179"/>
+    <trkpt lat="48.849930" lon="2.349234"/>
+    <trkpt lat="48.849961" lon="2.349106"/>
+    <trkpt lat="48.849986" lon="2.349005"/>
+    <trkpt lat="48.850184" lon="2.348844"/>
+    <trkpt lat="48.850271" lon="2.348773"/>
+    <trkpt lat="48.850371" lon="2.348690"/>
+    <trkpt lat="48.850462" lon="2.348618"/>
+    <trkpt lat="48.850482" lon="2.348602"/>
+    <trkpt lat="48.850736" lon="2.348396"/>
+    <trkpt lat="48.850846" lon="2.348342"/>
+    <trkpt lat="48.851042" lon="2.348199"/>
+    <trkpt lat="48.851054" lon="2.348191"/>
+    <trkpt lat="48.851315" lon="2.347981"/>
+    <trkpt lat="48.851344" lon="2.347956"/>
+    <trkpt lat="48.851595" lon="2.347764"/>
+    <trkpt lat="48.851685" lon="2.347694"/>
+    <trkpt lat="48.851729" lon="2.347766"/>
+    <trkpt lat="48.851782" lon="2.347831"/>
+    <trkpt lat="48.851899" lon="2.347936"/>
+    <trkpt lat="48.851945" lon="2.347972"/>
+    <trkpt lat="48.852154" lon="2.348122"/>
+    <trkpt lat="48.852273" lon="2.348192"/>
+    <trkpt lat="48.852349" lon="2.348238"/>
+    <trkpt lat="48.852391" lon="2.348280"/>
+    <trkpt lat="48.852404" lon="2.348292"/>
+    <trkpt lat="48.852413" lon="2.348302"/>
+    <trkpt lat="48.852422" lon="2.348311"/>
+    <trkpt lat="48.852439" lon="2.348326"/>
+    <trkpt lat="48.852446" lon="2.348333"/>
+    <trkpt lat="48.852532" lon="2.348390"/>
+    <trkpt lat="48.852660" lon="2.348487"/>
+    <trkpt lat="48.852744" lon="2.348553"/>
+    <trkpt lat="48.852768" lon="2.348570"/>
+    <trkpt lat="48.853034" lon="2.348763"/>
+    <trkpt lat="48.853060" lon="2.348782"/>
+    <trkpt lat="48.853150" lon="2.348847"/>
+    <trkpt lat="48.853600" lon="2.348000"/>
+    <trkpt lat="48.853720" lon="2.347220"/>
+    <trkpt lat="48.853957" lon="2.345978"/>
+    <trkpt lat="48.854381" lon="2.345106"/>
+    <trkpt lat="48.854500" lon="2.344820"/>
+    <trkpt lat="48.854820" lon="2.343800"/>
+    <trkpt lat="48.855100" lon="2.342900"/>
+    <trkpt lat="48.855440" lon="2.341869"/>
+  </trkseg></trk>
+</gpx>

@@ -1,0 +1,11 @@
+{
+  "route_id":"25","route_version":"25-v1-20261007","retrieved_date":"2026-10-07","crs":"WGS84","on_ground_verified":false,
+  "geometry":{"source":"routes/discovery_batch_f.md; two contiguous Valhalla/OpenStreetMap pedestrian requests","request_totals_km":[5.258,2.536],"distance_km":7.794,"published_legs_km":[0.755,1.526,0.393,0.31,1.64,0.632,0.453,0.293,0.556,0.876,0.356],"rounded_legs_sum_km":7.79,"delivery_geometry":"simplified public decision corridor; not dense router output or field survey","license":"OpenStreetMap contributors, ODbL"},
+  "sources":[
+    {"scene":"pc14","type":"municipal_current","urls":["https://www.paris.fr/lieux/petite-ceinture-du-14e-pc-14-19530","https://www.paris.fr/pages/la-petite-ceinture-et-ses-promenades-ecologiques-7855"],"claims":"official endpoints, rail history, vegetation, hours and no toilets"},
+    {"scene":"brassens","type":"municipal_current","urls":["https://www.paris.fr/lieux/parc-georges-brassens-1805","https://www.paris.fr/pages/paris-un-musee-a-ciel-ouvert-au-travail-17501"],"claims":"accesses, former Vaugirard slaughterhouses, present landscape, toilets, drinking water and tables"},
+    {"scene":"pc15","type":"municipal_current","urls":["https://www.paris.fr/lieux/petite-ceinture-du-15e-pc-15-16841"],"claims":"five official accesses, August 2026 connection, secured 300m tunnel, two-kilometre promenade, industrial links, ecological management, hours and no toilets"},
+    {"scene":"citroen","type":"municipal_current","urls":["https://www.paris.fr/lieux/parc-andre-citroen-1791"],"claims":"official gates, former factory site, designed park, toilets and drinking water"}
+  ],
+  "limits":["Published hours retrieved cover only 1-24 October, not November trip-date certification","No field inspection, calls, booking, purchase, external review or voice rehearsal","No continuous PMR claim: PC14 accessibility is unreported and island approach may require stairs","Surface V2 is a decision corridor without measured replacement total","Simplified GPX/GeoJSON do not certify exact paths, gates or works"]
+}

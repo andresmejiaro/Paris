@@ -2,7 +2,34 @@
 
 # Paris — current production handoff
 
-Updated 6 October 2026 by Cruce after closure and review of Routes 10, 11, 14 and 17. Closed routes: 01, 02, 03, 05, 06, 07, 08, 09, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 21 and 22. Earlier closed routes remain unchanged.
+Updated 7 October 2026 by Cruce after closure/review of Routes20/23/24/25 and Route26v2. **26/26 catalog production decisions resolved (100%):25 DONE experiences (01–03,05–26) plus04 retired/absorbed into16.** Do not call this26 executable routes or100% of the whole trip/publication. Reservations, day choices, external evaluation, audio rehearsal and website publication are not claimed. [Delivery report](routes/portfolio_delivery_20261007.md) controls remaining layers.
+
+## Route26 closed — current state, 7 October 2026
+
+- Final catalog audit passed: 25/25 active DONE, 26/26 decisions resolved; 74 JSON files parsed, 48 GPX validated with xmllint, 646 relative links checked. Both read-only generators and git diff --check pass. Current machine catalog: routes/navigation/portfolio.delivery.json. No route-production work remains; later layers are listed in the delivery report.
+- **26-v2-20261007 DONE**, internally reviewed by a second worker. Independent no-reservation BiLiPo → public Monge/police-block chapter → former36; three adapted core scripts plus two satellite scripts, offline case cards and complete exterior alternative. Museum interiorM optional/reserved, preferably separate day, no booking performed.
+- Fixed reproducible line1.407km, legs0.391+1.016,66points; dense archived02/16 subsegments plus documented approximate upper-Cité corridor, actual-walking allowance1.5–1.7km/interior0.1–0.3km. Base130–160min, satélites35–45/25–35min separately. No old2.052km/200–250min claim for v2.
+- Nozière street arrival and Diana public viewpoint grounded in georeferenced own photographs; exact private dwelling pin not invented. Station approaches remain timed/unmeasured and outside module totals. Geometry/GPX/GeoJSON/evidence reproducible and syntax/link checks passed. No field survey or external acceptance.
+- Below Route26v1 draft block and24/26 totals are historical checkpoints, superseded here. Git still uncommitted: `.git` read-only in this session; no workaround through remote writes/push.
+
+## Route26 draft and internal review — 7 October 2026
+
+- [Canonical draft](routes/26_modern_true_crime.md) plus seven navigation/operations/evidence artifacts now exist. Five full scripts cover identification/Landru, BiLiPo/Nozière, former36, Madagascar address and Diana/privacy. Current official exhibition and museum recurring programme were researched; no object inventory or booking is fabricated.
+- Proposed museum-first itinerary: scientific tour7November10:30 or permanent5/12November14:30, then BiLiPo and former36. Approx.2.05km reference plus unmeasured interiors; **200–250min** planning budget. Booking availability, language and actual guided duration unconfirmed. Satélites25–35min each, approaches/pins not completed.
+- Internal worker review caught initial time maximum arithmetic (245→250min), essential-access dependency and insufficient fixed pedestrian geometry. Canonical/JSON explicitly remain IN PRODUCTION. No increment to DONE percentage or menu totals.
+- Next: obtain checked actual pedestrian corridor and satellite arrival/escape geometry; resolve full-access reservation dependency or author a complete museum-independent base. Read-only network attempts to geographic API/router failed; no field check claimed. Do not confuse missing tooling/research with a finding that the experience is intrinsically insufficient.
+- Commit still impossible in this session: repository `.git` is mounted read-only; closing VSCode does not change this. No commit or push made. Worktree changes remain available to Andrés.
+
+## Closed delivery — Routes 20, 23, 24 and 25, 7 October 2026
+
+- [Route20](routes/20_colonial_afterlives.md): **20-v1-20261007**, Cruce. Two independent free modules: Catroux 0.210 km / 45–60 min, Porte Dorée 0.310 km exterior plus 0.4–0.8 km interior / 115–145 min. Four full scripts. Transit is separate, estimated 45–65 min only if both selected; neither mandatory nor thematic walking.
+- [Route23](routes/23_northwestern_belt.md): **23-v1-20261007**, Cruce. Batignolles → MLK → PC17/Pereire → Maillot/Parodi → Mare Saint-James bank approach → Porte de Madrid; 7.809 km, 285–345 min, €0. Five scripts. Correct bank pin, public paths and daylight gates. Latest full start09:15 for finish15:00.
+- [Route24](routes/24_southern_margins.md): **24-v1-20261007**, Aster. BnF → Grands Moulins → buried Bièvre → Cité Florale → Montsouris → CIUP edge; 7.690 km, 260–310 min, €0. Five scripts. PC13 excluded entirely; official notice retrieved7October still reports closure until further notice. Latest start11:45, finish17:00; earlier gate hours override.
+- [Route25](routes/25_western_green_machinery.md): **25-v1-20261007**, Aster. PC14 → Brassens → PC15 → Citroën → Javel/Grenelle/island; 7.794 km, 255–305 min, €0. Four scripts and short coda. August2026 PC15 tunnel connection documented officially; trip-date gates remain checks with surface/reduced variants. Island return0.356km separate.
+- All four have canonical/navigation/operations/evidence/JSON/GeoJSON/base and variants GPX. Cruce reviewed delivery, corrected Route23 latest start and Route24 timing arithmetic, and had an independent worker review Route25. Day checks have responses; no field inspection, booking, purchase, audio rehearsal, external review or website publication.
+- Menu totals, including both independent Route20 modules once: approximately **121.3 km** selected/planning lines plus Route20 interior0.4–0.8km and Route03 actual-walking allowance. Authored content time approximately **79 h 35–96 h 10**, excluding transit, lodging approaches, meals outside route budgets and itinerary overlap. These totals measure available content; they do not prescribe visiting every alternative or a final trip duration.
+- Git baseline **ad9f824**, clean and synced with local origin/main at startup after Andrés handled the prior batch. Only this new batch is local. No commit/push by Cruce in this session. A worker repeatedly failed for model capacity; its Route20 assignment was completed by a healthy worker. No route production remains assigned to the failed worker.
+- Next work: resolve whether modern true crime earns a finished module or an insufficiency finding; portfolio/day scheduling and subsequent external review; website afterward. Do not reopen closed routes for unrelated new ideas.
 
 ## Closed delivery — Routes 10, 11, 14 and 17, 6 October 2026
 
@@ -13,7 +40,7 @@ Updated 6 October 2026 by Cruce after closure and review of Routes 10, 11, 14 an
 - All four have canonical, navigation, operations, JSON, evidence and GPX deliveries; Routes 10/11/14 also have simplified GeoJSON and variants. Cruce returned Routes 10 and 11 for narration expansion before accepting them. JSON, XML and whitespace checks pass. No field inspection, booking, purchase, audio rehearsal, external review or website publication is claimed.
 - Portfolio after closure: **20/26 DONE (76.9%)**. Selected/planning distances total approximately **97.445 km**, of which Route 14 includes the official 1.5 km directed interior and Route 17 is an indoor planning estimate. Authored route time totals approximately **63 h 35–76 h 45**. These are content totals, not total trip-day load or a final trip-duration recommendation.
 
-The older 16/26 statement below is superseded by this closure block.
+The historical 16/26 and 20/26 checkpoints below are superseded by the 7 October closure block.
 
 ## Read first
 1. [routes/DEFINITION_OF_DONE.md](routes/DEFINITION_OF_DONE.md) — controlling closure criteria, day uncertainties and later external review.
@@ -22,7 +49,7 @@ The older 16/26 statement below is superseded by this closure block.
 4. routes/portfolio_rebuild_v6.md and routes/cruce_context_review_v8.md — inherited architecture, measured totals and compact Père-Lachaise correction.
 5. routes/mystery_calibration_anchors.md — spoken dark-route calibration.
 
-## Actual state
+## Historical state — 6 October checkpoint, superseded above
 The inherited two-route count below is superseded: **Routes 01, 02, 03, 05, 06, 07, 08, 09, 12, 13, 15, 16, 18, 19, 21 and 22 are DONE**. Route05 closure and the later Route21/22, Route03/19, Route12/15, Route06/18, Route01/07, Route13, Route08 and Route09 closures are recorded in this handoff.
 Fifteen inherited architectures are not fifteen finished products. **Sixteen of 26 experiences are DONE under Definition of Done (61.5%)**: 02-v10-20261004, reviewed 4 October 2026; 03-v10-20261005, 05-v10-20261005, 12-v1-20261005, 15-v1-20261005, 16-v10-20261005, 19-v1-20261005, 21-v10-20261005 and 22-v1-20261005, reviewed 5 October 2026; 01-v1-20261006, 06-v1-20261006, 07-v1-20261006, 08-v1-20261006, 09-v1-20261006, 13-v1-20261006 and 18-v1-20261006, reviewed 6 October 2026. Other routes retain their previous production status; the inherited candidate counts are historical, not closure counts. Valuable compact experiences remain first-class outings. External review by several models and feedback follow closure and have not occurred. Shared-pavement overlap is estimated, not GIS-measured. Navigation for all sixteen closed routes is produced under routes/navigation. Navigation for the remaining portfolio and the website are pending.
 Discovery batches D/E/F were saved; the old seven-route paused checkpoint is historical.

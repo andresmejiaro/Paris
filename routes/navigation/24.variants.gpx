@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cruce" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>Route 24 connectors and variants</name><desc>Independent simplified surface tracks; PC13 excluded.</desc></metadata>
+  <trk><name>Llegada_BFM_S01</name><trkseg><trkpt lat="48.829800" lon="2.376800"/><trkpt lat="48.833900" lon="2.376500"/></trkseg></trk>
+  <trk><name>Salida_S10_PorteOrleans</name><trkseg><trkpt lat="48.819400" lon="2.327800"/><trkpt lat="48.821000" lon="2.326000"/><trkpt lat="48.823100" lon="2.325000"/></trkseg></trk>
+  <trk><name>V2_S05_S07_directo</name><trkseg><trkpt lat="48.823700" lon="2.353500"/><trkpt lat="48.823700" lon="2.347000"/><trkpt lat="48.824400" lon="2.340100"/></trkseg></trk>
+  <trk><name>V3_S07_S08_perimetro</name><trkseg><trkpt lat="48.824400" lon="2.340100"/><trkpt lat="48.823000" lon="2.341000"/><trkpt lat="48.821800" lon="2.337800"/></trkseg></trk>
+  <trk><name>V4_S08_S10_Jourdan</name><trkseg><trkpt lat="48.821800" lon="2.337800"/><trkpt lat="48.820800" lon="2.333000"/><trkpt lat="48.819400" lon="2.327800"/></trkseg></trk>
+</gpx>

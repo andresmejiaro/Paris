@@ -1,0 +1,11 @@
+{
+  "type":"FeatureCollection","features":[
+    {"type":"Feature","properties":{"route_id":"24","name":"Southern Margins base simplified","distance_control_km":7.69,"pc13_included":false,"geometry_limit":"not dense router output or field survey"},"geometry":{"type":"LineString","coordinates":[[2.3765,48.8339],[2.378,48.832],[2.38,48.8291],[2.372,48.8285],[2.36,48.828],[2.3497,48.8274],[2.3535,48.8258],[2.3535,48.8237],[2.349,48.823],[2.34482,48.822703],[2.342,48.8234],[2.3401,48.8244],[2.339,48.823],[2.3378,48.8218],[2.3397,48.8202],[2.334,48.8197],[2.3278,48.8194]]}},
+    {"type":"Feature","properties":{"id":"S01","name":"BnF Seine edge"},"geometry":{"type":"Point","coordinates":[2.3765,48.8339]}},
+    {"type":"Feature","properties":{"id":"S02","name":"Grands Moulins"},"geometry":{"type":"Point","coordinates":[2.38,48.8291]}},
+    {"type":"Feature","properties":{"id":"S04","name":"Bievre trace"},"geometry":{"type":"Point","coordinates":[2.3535,48.8258]}},
+    {"type":"Feature","properties":{"id":"S06","name":"Cite Florale"},"geometry":{"type":"Point","coordinates":[2.34482,48.822703]}},
+    {"type":"Feature","properties":{"id":"S07","name":"Montsouris east gate"},"geometry":{"type":"Point","coordinates":[2.3401,48.8244]}},
+    {"type":"Feature","properties":{"id":"S10","name":"CIUP west finish"},"geometry":{"type":"Point","coordinates":[2.3278,48.8194]}}
+  ]
+}

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cruce" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>Route 25 connectors and variants</name><desc>Independent simplified surface tracks; V2 is unmeasured.</desc></metadata>
+  <trk><name>Llegada_PorteOrleans_W01</name><trkseg><trkpt lat="48.823100" lon="2.325000"/><trkpt lat="48.824800" lon="2.322800"/></trkseg></trk>
+  <trk><name>Salida_W12_W11</name><trkseg><trkpt lat="48.850100" lon="2.279700"/><trkpt lat="48.851500" lon="2.279400"/></trkseg></trk>
+  <trk><name>V1_W02_W03_sin_PC14</name><trkseg><trkpt lat="48.827323" lon="2.314599"/><trkpt lat="48.829000" lon="2.308000"/><trkpt lat="48.832400" lon="2.301500"/></trkseg></trk>
+  <trk><name>V2_W05_W06_superficie</name><trkseg><trkpt lat="48.831338" lon="2.296863"/><trkpt lat="48.832000" lon="2.294000"/><trkpt lat="48.833100" lon="2.286200"/><trkpt lat="48.836100" lon="2.278300"/></trkseg></trk>
+  <trk><name>V3_W06_Balard</name><trkseg><trkpt lat="48.831338" lon="2.296863"/><trkpt lat="48.836100" lon="2.278300"/></trkseg></trk>
+  <trk><name>V4_W09_Javel</name><trkseg><trkpt lat="48.842800" lon="2.272000"/><trkpt lat="48.846300" lon="2.276000"/></trkseg></trk>
+  <trk><name>V4_W11_Grenelle</name><trkseg><trkpt lat="48.842800" lon="2.272000"/><trkpt lat="48.846300" lon="2.276000"/><trkpt lat="48.851500" lon="2.279400"/></trkseg></trk>
+</gpx>

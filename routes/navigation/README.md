@@ -1,4 +1,6 @@
 # Navegación seleccionada — Cruce, Hilo, Aster/Noctámbulo, Miga y Rumbo
+Ruta26: **DONE ·26-v2-20261007**, [navegación](26_navigation.md), [operaciones](26_access_operations.md), [JSON](26.operations.json), [evidencia](26.evidence.json), [GPX](26.gpx), [geometría/procedencia](26.geometry.json). Base independiente sin reserva,1,407km de línea fija con precisión declarada; módulos independientes Nozière/Diana, museo interior opcional. [Catálogo completo](portfolio.delivery.json):25 paquetes activos y04 retirada/absorbida; los antiguos conjuntos no se presentan como cobertura total actual.
+Actualización del 7 octubre 2026: rutas 20, 23, 24 y 25 entregadas con archivos independientes. Sus referencias simplificadas y los módulos interiores obedecen instrucciones escritas, puertas y personal. El manifiesto y GeoJSON conjuntos mantienen su ámbito histórico; los archivos por ruta controlan estas entregas.
 Cruce · navegación base del 3 octubre 2026; cierre de ruta 02 revisado el 4 octubre, rutas 03, 12, 15, 16, 19, 21 y 22 el 5 octubre, y rutas 01, 06, 07, 08, 09, 10, 11, 13, 14, 17 y 18 el 6 octubre 2026. Trazados calculados o, donde se declara, líneas de decisión contrastadas con cartografía. No son un levantamiento GPS ni una inspección presencial de puertas.
 
 Cada ruta tiene instrucciones por calles, puntos de llegada, enlaces de Google Maps y un GPX fijo. Maps puede recalcular y elegir otra acera o una calle paralela: sus enlaces no son prueba de que haya seguido el GPX. El GPX contiene una línea para seguir en una aplicación compatible; no produce por sí solo avisos de giro. El [GeoJSON conjunto](routes.geojson) y el [registro de navegación](manifest.json) conservan coordenadas y maniobras.
@@ -25,6 +27,10 @@ Cada ruta tiene instrucciones por calles, puntos de llegada, enlaces de Google M
 | Cruce | Brady → Bouffes → ICI Léon → CENTQUATRE → Belleville/Piat | 7.356 km | [GPX](11.gpx) · [instrucciones](11_navigation.md) |
 | Aster | Catacumbas oficiales → René-Coty → Montsouris/La Carrière | aprox. 3.4 km, incluidos 1.5 km interiores oficiales | [GPX](14.gpx) · [instrucciones](14_navigation.md) |
 | Cruce | Arts et Métiers, raid interior y péndulo | aprox. 1.1 km interior | [GPX de acceso](17.gpx) · [instrucciones](17_navigation.md) |
+| Cruce | 20A Catroux y 20B Porte Dorée, módulos independientes | 0.210 / 0.310 km exteriores, interior aparte | [GPX](20.gpx) · [instrucciones](20_navigation.md) · [operaciones](20_access_operations.md) |
+| Cruce | Batignolles → MLK → PC17/Pereire → Maillot → Mare → Madrid | 7.809 km | [GPX](23.gpx) · [instrucciones](23_navigation.md) · [operaciones](23_access_operations.md) |
+| Aster | BnF → Bièvre → Cité Florale → Montsouris → CIUP | 7.690 km | [GPX](24.gpx) · [instrucciones](24_navigation.md) · [operaciones](24_access_operations.md) |
+| Aster | PC14 → Brassens → PC15 → Citroën → Javel/isla | 7.794 km | [GPX](25.gpx) · [instrucciones](25_navigation.md) · [operaciones](25_access_operations.md) |
 
 Tres decimales reproducen la respuesta del motor; no implican exactitud de un metro. No incluyen acceso desde alojamiento, interiores ni vueltas de degustación. Los totales y conectores propios de cada experiencia se declaran por separado.
 

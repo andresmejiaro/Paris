@@ -1,0 +1,32 @@
+{
+  "route_id":"25","version":"25-v1-20261007","status":"DONE","reviewed":"2026-10-07","owner":"Cruce","narrator":"Aster",
+  "base":{"start":"PC14 Coulmiers-General-Leclerc access","finish":"Ile aux Cygnes south end","distance_km":7.794,"duration_minutes":[255,305],"preferred_start":["09:30","10:00"],"latest_start":"11:00","finish_by":"16:15","cost_eur":0,"reservation":"none","island_return_included":false},
+  "legs_km":[0.755,1.526,0.393,0.31,1.64,0.632,0.453,0.293,0.556,0.876,0.356],"rounded_legs_sum_km":7.79,
+  "geometry":{"source":"routes/discovery_batch_f.md","router":"archived Valhalla/OpenStreetMap","requests_km":[5.258,2.536],"dense_polyline":false,"on_ground_verified":false},
+  "stops":[
+    {"id":"W01","name":"PC14 Coulmiers access","lat":48.8248,"lon":2.3228,"core":true},
+    {"id":"W02","name":"PC14 Didot exit","lat":48.827323,"lon":2.314599,"core":false},
+    {"id":"W03","name":"Georges-Brassens east access","lat":48.8324,"lon":2.3015,"core":true},
+    {"id":"W04","name":"Georges-Brassens central landscape","lat":48.831,"lon":2.2992,"core":true},
+    {"id":"W05","name":"PC15 47 rue de Dantzig","lat":48.831338,"lon":2.296863,"core":true},
+    {"id":"W06","name":"PC15 84 rue Leblanc Balard","lat":48.8361,"lon":2.2783,"core":false},
+    {"id":"W07","name":"Andre-Citroen south access","lat":48.839,"lon":2.2747,"core":true},
+    {"id":"W08","name":"Andre-Citroen central landscape","lat":48.8416,"lon":2.2745,"core":true},
+    {"id":"W09","name":"Andre-Citroen river exit","lat":48.8428,"lon":2.272,"core":false},
+    {"id":"W10","name":"Javel upper pavement","lat":48.8463,"lon":2.276,"core":false},
+    {"id":"W11","name":"Pont de Grenelle island access","lat":48.8515,"lon":2.2794,"core":false},
+    {"id":"W12","name":"Ile aux Cygnes south end","lat":48.8501,"lon":2.2797,"core":false}
+  ],
+  "checks_on_day":["PC14, Brassens, PC15 and Citroen date-specific gates and alerts","PC15 Dantzig access, tunnel and Balard exit","weather, works and surface condition","upper river pavement and Grenelle island access","toilets, water, transport and energy"],
+  "services":{"toilet":"Brassens and Citroen list toilets; verify live state; PC14 and PC15 list none","rest":"Brassens primary and Citroen secondary; seats not guaranteed","shelter":"none continuous guaranteed","water":"carry own; park points only if operating","food":"carry snack or optional purchase capped at 10 euros"},
+  "variants":[
+    {"id":"V0","trigger":"late start","action":"reschedule or Brassens-PC15 module to Balard","loses":"PC14, Citroen and river"},
+    {"id":"V1","trigger":"PC14 closed","action":"start W03 Brassens","loses":"first cutting chapter"},
+    {"id":"V2","trigger":"PC15 access or tunnel closed","action":"surface Dantzig-Olivier-de-Serres-Desnouettes-Balard","loses":"continuous rail chapter","distance":"unmeasured; do not quote 7.794 km"},
+    {"id":"V3","trigger":"Citroen closed","action":"finish W06 Balard","loses":"designed park and river coda"},
+    {"id":"V4","trigger":"fatigue, river blockage or island inaccessible","action":"finish W09 or W11","loses":"all or part of coda"},
+    {"id":"V5","trigger":"unsafe weather","action":"postpone or finish at nearest named exit","loses":"unfinished experience"},
+    {"id":"V6","trigger":"gate closes during route","action":"obey staff and use nearest public exit","loses":"affected chapters"}
+  ],
+  "files":{"canonical":"routes/25_western_green_machinery.md","navigation":"routes/navigation/25_navigation.md","operations":"routes/navigation/25_access_operations.md","base_gpx":"routes/navigation/25.gpx","variants_gpx":"routes/navigation/25.variants.gpx","geojson":"routes/navigation/25.geojson","evidence":"routes/navigation/25.evidence.json"},"external_review":"after closure"
+}

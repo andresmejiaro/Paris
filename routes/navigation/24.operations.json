@@ -1,0 +1,29 @@
+{
+  "route_id":"24","version":"24-v1-20261007","status":"DONE","reviewed":"2026-10-07","owner":"Cruce","narrator":"Aster",
+  "base":{"start":"BnF Seine-edge public approach","finish":"CIUP west public perimeter","distance_km":7.69,"duration_minutes":[260,310],"preferred_start":["09:30","11:00"],"latest_start":"11:45","finish_by":"17:00","cost_eur":0,"reservation":"none","pc13_included":false},
+  "legs_km":[0.737,2.679,0.476,0.276,0.781,0.668,0.422,0.437,1.209],"rounded_legs_sum_km":7.685,
+  "stops":[
+    {"id":"S01","name":"BnF Seine edge","lat":48.8339,"lon":2.3765,"core":false},
+    {"id":"S02","name":"Grands Moulins","lat":48.8291,"lon":2.38,"core":true},
+    {"id":"S03","name":"Upper Moulin-des-Pres","lat":48.8274,"lon":2.3497,"core":true},
+    {"id":"S04","name":"Moulin-des-Pres Bievre trace","lat":48.8258,"lon":2.3535,"core":true},
+    {"id":"S05","name":"Place Abbe-Georges-Henocque","lat":48.8237,"lon":2.3535,"core":false},
+    {"id":"S06","name":"Cite Florale public streets","lat":48.822703,"lon":2.34482,"core":true},
+    {"id":"S07","name":"Montsouris east gate","lat":48.8244,"lon":2.3401,"core":true},
+    {"id":"S08","name":"Montsouris south gate","lat":48.8218,"lon":2.3378,"core":false},
+    {"id":"S09","name":"CIUP north public edge","lat":48.8202,"lon":2.3397,"core":true},
+    {"id":"S10","name":"CIUP west public perimeter","lat":48.8194,"lon":2.3278,"core":false}
+  ],
+  "checks_on_day":["weather, works and crossings","Montsouris gates and date-specific closing time","CIUP public access and security restrictions","toilets, water and transport"],
+  "services":{"toilet":"Montsouris municipal toilets; verify gate and live state","rest":"Montsouris bench/open area; not guaranteed","shelter":"none continuous guaranteed","water":"carry own; park point only if operating","food":"carry snack; optional purchase at displayed price"},
+  "variants":[
+    {"id":"V0","trigger":"S01 or river edge blocked","action":"start S02","loses":"open-water comparison and 0.737 km"},
+    {"id":"V1","trigger":"Bievre marker absent","action":"use slope and street names","loses":"physical marker"},
+    {"id":"V2","trigger":"Cite Florale blocked or intrusive crowding","action":"S05-S07 direct surface connector","loses":"light-housing chapter"},
+    {"id":"V3","trigger":"Montsouris closed","action":"public perimeter streets","loses":"planted-relief chapter"},
+    {"id":"V4","trigger":"CIUP closed","action":"boulevard Jourdan perimeter","loses":"internal park comparison"},
+    {"id":"V5","trigger":"unsafe weather","action":"postpone","loses":"complete route"},
+    {"id":"V6","trigger":"fatigue","action":"exit at named transit nodes","loses":"remaining chapters"}
+  ],
+  "files":{"canonical":"routes/24_southern_margins.md","navigation":"routes/navigation/24_navigation.md","operations":"routes/navigation/24_access_operations.md","base_gpx":"routes/navigation/24.gpx","variants_gpx":"routes/navigation/24.variants.gpx","geojson":"routes/navigation/24.geojson","evidence":"routes/navigation/24.evidence.json"},"external_review":"after closure"
+}

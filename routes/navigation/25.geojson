@@ -1,0 +1,10 @@
+{
+  "type":"FeatureCollection","features":[
+    {"type":"Feature","properties":{"route_id":"25","name":"Western Green Machinery base simplified","distance_control_km":7.794,"geometry_limit":"not dense router output or field survey"},"geometry":{"type":"LineString","coordinates":[[2.3228,48.8248],[2.314599,48.827323],[2.308,48.829],[2.3015,48.8324],[2.2992,48.831],[2.296863,48.831338],[2.29,48.8325],[2.284,48.834],[2.2783,48.8361],[2.2747,48.839],[2.2745,48.8416],[2.272,48.8428],[2.276,48.8463],[2.2794,48.8515],[2.2797,48.8501]]}},
+    {"type":"Feature","properties":{"id":"W01","name":"PC14 Coulmiers"},"geometry":{"type":"Point","coordinates":[2.3228,48.8248]}},
+    {"type":"Feature","properties":{"id":"W04","name":"Georges-Brassens central"},"geometry":{"type":"Point","coordinates":[2.2992,48.831]}},
+    {"type":"Feature","properties":{"id":"W05","name":"PC15 Dantzig"},"geometry":{"type":"Point","coordinates":[2.296863,48.831338]}},
+    {"type":"Feature","properties":{"id":"W08","name":"Andre-Citroen central"},"geometry":{"type":"Point","coordinates":[2.2745,48.8416]}},
+    {"type":"Feature","properties":{"id":"W12","name":"Ile aux Cygnes south end"},"geometry":{"type":"Point","coordinates":[2.2797,48.8501]}}
+  ]
+}

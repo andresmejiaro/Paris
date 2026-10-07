@@ -1,0 +1,428 @@
+{
+  "route_id": "26",
+  "version": "26-v2-20261007",
+  "crs": "WGS84",
+  "on_ground_verified": false,
+  "method": "archived pedestrian subsegments plus documented manually authored upper street corridor; no new router query",
+  "line_length_km": 1.407,
+  "legs_line_km": [
+    0.391,
+    1.016
+  ],
+  "actual_walking_allowance_km": [
+    1.5,
+    1.7
+  ],
+  "interior_allowance_km": [
+    0.1,
+    0.3
+  ],
+  "source_hashes": {
+    "routes/navigation/02.evidence.json": "0f2f222f39cc281976cab6a39c421b5caf4a8a13d206a7fdd64e90f995bffb59",
+    "routes/navigation/16.evidence.json": "2d7068493e775a33ae00879794577c075b70534116281abd88ecfc5a76a1791e"
+  },
+  "segments": [
+    {
+      "id": "bili_join",
+      "source": "routes/navigation/16.evidence.json",
+      "run_index": 14,
+      "leg_index": 0,
+      "shape_indices_inclusive": [
+        24,
+        27
+      ],
+      "precision": 6
+    },
+    {
+      "id": "monge_to_W02",
+      "source": "routes/navigation/02.evidence.json",
+      "run_index": 0,
+      "leg_index": 1,
+      "shape_indices_inclusive": [
+        54,
+        38
+      ],
+      "precision": 6,
+      "reversed": true
+    },
+    {
+      "id": "W02_to_parvis",
+      "source": "routes/navigation/02.evidence.json",
+      "run_index": 0,
+      "leg_index": 1,
+      "shape_indices_inclusive": [
+        38,
+        0
+      ],
+      "precision": 6,
+      "reversed": true
+    },
+    {
+      "id": "parvis_to_36",
+      "source": "documented street continuity and georeferenced public photographs in26.evidence.json",
+      "manual": true,
+      "intermediates_approximate": true,
+      "level": "upper street pavements, no riverside stairs",
+      "coordinates_lat_lon": [
+        [
+          48.8536,
+          2.348
+        ],
+        [
+          48.85372,
+          2.34722
+        ],
+        [
+          48.853957,
+          2.345978
+        ],
+        [
+          48.854381,
+          2.345106
+        ],
+        [
+          48.8545,
+          2.34482
+        ],
+        [
+          48.85482,
+          2.3438
+        ],
+        [
+          48.8551,
+          2.3429
+        ],
+        [
+          48.85544,
+          2.341869
+        ]
+      ]
+    }
+  ],
+  "waypoints": [
+    {
+      "id": "W01",
+      "name": "BiliPo public approach",
+      "lat": 48.846596,
+      "lon": 2.351445
+    },
+    {
+      "id": "W02",
+      "name": "Rue Monge pavement NOT museum reception",
+      "lat": 48.849717,
+      "lon": 2.349225
+    },
+    {
+      "id": "C01",
+      "name": "Notre-Dame parvis connector",
+      "lat": 48.85315,
+      "lon": 2.348847
+    },
+    {
+      "id": "W03",
+      "name": "Former36 documented public viewpoint",
+      "lat": 48.85544,
+      "lon": 2.341869
+    }
+  ],
+  "coordinates_lat_lon": [
+    [
+      48.846596,
+      2.351445
+    ],
+    [
+      48.846659,
+      2.35146
+    ],
+    [
+      48.846674,
+      2.351489
+    ],
+    [
+      48.846713,
+      2.351554
+    ],
+    [
+      48.846755,
+      2.351523
+    ],
+    [
+      48.846974,
+      2.35136
+    ],
+    [
+      48.84713,
+      2.351239
+    ],
+    [
+      48.84781,
+      2.350713
+    ],
+    [
+      48.847854,
+      2.350679
+    ],
+    [
+      48.848078,
+      2.350505
+    ],
+    [
+      48.848326,
+      2.350302
+    ],
+    [
+      48.848365,
+      2.350271
+    ],
+    [
+      48.848553,
+      2.350126
+    ],
+    [
+      48.84878,
+      2.349949
+    ],
+    [
+      48.848933,
+      2.349835
+    ],
+    [
+      48.84911,
+      2.349708
+    ],
+    [
+      48.849409,
+      2.349475
+    ],
+    [
+      48.849615,
+      2.349311
+    ],
+    [
+      48.849668,
+      2.349266
+    ],
+    [
+      48.849717,
+      2.349225
+    ],
+    [
+      48.849775,
+      2.349179
+    ],
+    [
+      48.849794,
+      2.349179
+    ],
+    [
+      48.84993,
+      2.349234
+    ],
+    [
+      48.849961,
+      2.349106
+    ],
+    [
+      48.849986,
+      2.349005
+    ],
+    [
+      48.850184,
+      2.348844
+    ],
+    [
+      48.850271,
+      2.348773
+    ],
+    [
+      48.850371,
+      2.34869
+    ],
+    [
+      48.850462,
+      2.348618
+    ],
+    [
+      48.850482,
+      2.348602
+    ],
+    [
+      48.850736,
+      2.348396
+    ],
+    [
+      48.850846,
+      2.348342
+    ],
+    [
+      48.851042,
+      2.348199
+    ],
+    [
+      48.851054,
+      2.348191
+    ],
+    [
+      48.851315,
+      2.347981
+    ],
+    [
+      48.851344,
+      2.347956
+    ],
+    [
+      48.851595,
+      2.347764
+    ],
+    [
+      48.851685,
+      2.347694
+    ],
+    [
+      48.851729,
+      2.347766
+    ],
+    [
+      48.851782,
+      2.347831
+    ],
+    [
+      48.851899,
+      2.347936
+    ],
+    [
+      48.851945,
+      2.347972
+    ],
+    [
+      48.852154,
+      2.348122
+    ],
+    [
+      48.852273,
+      2.348192
+    ],
+    [
+      48.852349,
+      2.348238
+    ],
+    [
+      48.852391,
+      2.34828
+    ],
+    [
+      48.852404,
+      2.348292
+    ],
+    [
+      48.852413,
+      2.348302
+    ],
+    [
+      48.852422,
+      2.348311
+    ],
+    [
+      48.852439,
+      2.348326
+    ],
+    [
+      48.852446,
+      2.348333
+    ],
+    [
+      48.852532,
+      2.34839
+    ],
+    [
+      48.85266,
+      2.348487
+    ],
+    [
+      48.852744,
+      2.348553
+    ],
+    [
+      48.852768,
+      2.34857
+    ],
+    [
+      48.853034,
+      2.348763
+    ],
+    [
+      48.85306,
+      2.348782
+    ],
+    [
+      48.85315,
+      2.348847
+    ],
+    [
+      48.8536,
+      2.348
+    ],
+    [
+      48.85372,
+      2.34722
+    ],
+    [
+      48.853957,
+      2.345978
+    ],
+    [
+      48.854381,
+      2.345106
+    ],
+    [
+      48.8545,
+      2.34482
+    ],
+    [
+      48.85482,
+      2.3438
+    ],
+    [
+      48.8551,
+      2.3429
+    ],
+    [
+      48.85544,
+      2.341869
+    ]
+  ],
+  "satellites": {
+    "26B": {
+      "coordinates_lat_lon": [
+        [
+          48.835456,
+          2.397708
+        ],
+        [
+          48.834944,
+          2.397236
+        ]
+      ],
+      "line_length_km": 0.067,
+      "walking_allowance_km": 0.1,
+      "exact_private_door_pin": false
+    },
+    "26C": {
+      "coordinates_lat_lon": [
+        [
+          48.864211,
+          2.300922
+        ]
+      ],
+      "inter_stop_distance_km": 0,
+      "kind": "public observation waypoint, not a tunnel track"
+    }
+  },
+  "limits": [
+    "No new routing or field check",
+    "Manual intermediate vertices approximate street corridor, not certified crossing locations",
+    "Published camera positions do not certify future access",
+    "Follow lawful pavements and current crossings; barriers override line",
+    "Station approaches/exit and optional museum access not included in measured geometry"
+  ]
+}

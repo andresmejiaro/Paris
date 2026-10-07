@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx version="1.1" creator="Cruce" xmlns="http://www.topografix.com/GPX/1/1">
+  <metadata><name>26 variants 26-v2-20261007</name><desc>V1 same base without interior; V2 same corridor. Escapes are decision points only; station approaches unmeasured.</desc></metadata>
+  <wpt lat="48.850371" lon="2.348690"><name>V3_V5 Maubert vicinity use signposted station</name></wpt>
+  <wpt lat="48.854381" lon="2.345106"><name>V4_V5 Saint-Michel vicinity use signposted station</name></wpt>
+  <wpt lat="48.864211" lon="2.300922"><name>D01 26C Flame public viewpoint NOT tunnel</name></wpt>
+  <wpt lat="48.835456" lon="2.397708"><name>N01 26B Madagascar north street</name></wpt>
+  <wpt lat="48.834944" lon="2.397236"><name>N02 26B Madagascar south street</name></wpt>
+  <trk><name>26B public street identify9 by number plate</name><trkseg>
+    <trkpt lat="48.835456" lon="2.397708"/>
+    <trkpt lat="48.834944" lon="2.397236"/>
+  </trkseg></trk>
+</gpx>

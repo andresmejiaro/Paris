@@ -1,0 +1,165 @@
+{
+  "route_id": "26",
+  "route_version": "26-v2-20261007",
+  "retrieved_date": "2026-10-07",
+  "crs": "WGS84",
+  "on_ground_verified": false,
+  "geometry": {
+    "source": "routes/navigation/26.geometry.json; read-only reproducible generator scripts/build-route26-navigation.mjs",
+    "line_length_km": 1.407,
+    "legs_line_km": [
+      0.391,
+      1.016
+    ],
+    "actual_walking_allowance_km": [
+      1.5,
+      1.7
+    ],
+    "method": "archived dense pedestrian subsegments16/02 plus documented manually authored upper-Cite reference corridor",
+    "manual_intermediates_approximate": true,
+    "new_router_query": false,
+    "old_core_totals_not_controller": [
+      1.545,
+      2.052
+    ],
+    "museum_entry_pin_verified": false,
+    "public_W02_not_entry": true
+  },
+  "sources": [
+    {
+      "scene": "museum",
+      "type": "operator_booking_portal",
+      "url": "https://www.smartagenda.fr/pro/prefecture-de-police-musee/rendez-vous/",
+      "supports": "free mandatory advance booking per visitor, security reception, recurring scientific first/third Saturday10:30 and permanent Thursday14:30 programmes and hours",
+      "limits": "no available slots, duration or language verified; no November object inventory"
+    },
+    {
+      "scene": "bilipo",
+      "type": "municipal_institution",
+      "url": "https://www.paris.fr/lieux/bibliotheque-des-litteratures-policieres-bilipo-2879",
+      "supports": "address, dated September-December2026 hours, WC, collection subject and on-site consultation",
+      "limits": "research files not guaranteed; no drinking dispenser"
+    },
+    {
+      "scene": "bilipo_exhibition",
+      "type": "municipal_event_listing",
+      "url": "https://www.paris.fr/evenements/exposition-les-imprimes-du-cinema-vidocq-fantomas-james-bond-et-autres-univers-transmediatiques-114754",
+      "supports": "19September-19December2026, free, PMR, posters/cine-romans/fascicules and transmedia characters, Saturday15:00 guided visits",
+      "limits": "No numbered artifacts promised; current official listing and institutional event link opened in full at v2 review; original files not required for exterior V1"
+    },
+    {
+      "scene": "identification",
+      "type": "municipal_archives",
+      "url": "https://archives.paris.fr/offre-culturelle/expositions-virtuelles/petite-histoire-sommaire-de-la-photographie-a-travers-les-fonds-des-archives-de-paris/variete-des-supports-photographiques-aux-archives-de-paris-1",
+      "supports": "Bertillon face/profile identification circa1880",
+      "limits": "not proof that an example is displayed in current museum"
+    },
+    {
+      "scene": "landru",
+      "type": "academic_case_history",
+      "url": "https://criminocorpus.org/fr/outils/affaires-criminelles/affaire-landru-1921/",
+      "supports": "1919 investigation, recognition and papers, disappeared victims,1921 trial,1922 execution, disputed mechanisms and oven auction history",
+      "limits": "oven not promised in museum; no fresh address/fabric audit published"
+    },
+    {
+      "scene": "36",
+      "type": "municipal_history",
+      "url": "https://www.paris.fr/pages/nouvelles-enquetes-aux-batignolles-pour-le-36-5133",
+      "supports": "1913 PJ creation, named case associations, move to Bastion in2017-2018 and popular image",
+      "limits": "institutional association not crime scene; proposed old36 museum not treated as current"
+    },
+    {
+      "scene": "noziere_ground",
+      "type": "municipal_museum_research",
+      "url": "https://www.carnavalet.paris.fr/sites/default/files/2025-09/DP-Musee%20Carnavalet-Les%20gens%20de%20Paris-web.pdf",
+      "supports": "21August1933 poisoning,9 rue deMadagascar, father's railway work and mother's survival",
+      "limits": "address not surviving apartment/facade fabric certification"
+    },
+    {
+      "scene": "noziere_testimony",
+      "type": "academic_archive_exhibition",
+      "url": "https://criminocorpus.org/fr/expositions/presumees-coupables-du-14e-au-20e-siecle/lempoisonneuse/",
+      "supports": "poisoning investigation, initial suicide account, incest allegation, commutation,1945 release,1963 rehabilitation",
+      "limits": "incest described as allegation, neither established nor disproved by this route; source ages/discovery dates conflict with other summaries, so unnecessary disputed particulars omitted"
+    },
+    {
+      "scene": "noziere_press",
+      "type": "academic_archive_exhibition",
+      "url": "https://criminocorpus.org/fr/expositions/anciennes/suspects-accuses-coupables/detective-fabrique-de-crimes/ordre-public-ordre-moral/",
+      "supports": "1934 conviction and clemency, press/photographs/surrealist book and cultural appropriations",
+      "limits": "online archive, not promised physical display in BiliPo"
+    },
+    {
+      "scene": "diana_memorial",
+      "type": "municipal_naming_proposal",
+      "url": "https://a06-v7.apps.paris.fr/a06/jsp/site/plugins/odjcp/DoDownload.jsp?id_entite=48994&id_type_entite=6",
+      "supports": "1989 pre-existing flame,1997 death after Alma crash, hospital,2019 proposed naming/extension and memorial transformation",
+      "limits": "proposal called proposal, not used as signed adoption certificate"
+    },
+    {
+      "scene": "diana_privacy",
+      "type": "court_decision",
+      "url": "https://www.courdecassation.fr/decision/6079a8d49ba5988459c4f10c",
+      "dispositive_url": "https://www.courdecassation.fr/decision/export/6079a8d49ba5988459c4f10c/1",
+      "supports": "12April2005 criminal chamber decision04-85.637, vehicle as private place despite public road/rescue; cassation restricted to civil dispositions with remand",
+      "limits": "official search cache recovered reasoning and civil-only dispositive despite direct JS wall; not criminal conviction, not finding of cause of fatal crash or conspiracy; later procedural URL inaccessible so no later outcome asserted"
+    },
+    {
+      "scene": "core_street_continuity",
+      "type": "published_pedestrian_itinerary",
+      "url": "https://www.visorando.com/randonnee-le-village-saint-paul-l-ile-saint-louis-/",
+      "supports": "public street order parvis, rue de la Cite, Marche-Neuf, Palais and Orfevres",
+      "limits": "source riverside stairs explicitly NOT adopted; route26 fixes upper-level pavement instead; not future access certification"
+    },
+    {
+      "scene": "36_public_viewpoint",
+      "type": "own_photograph_georeferenced",
+      "url": "https://commons.wikimedia.org/wiki/File:36_quai_des_Orf%C3%A8vres_Paris.jpg",
+      "supports": "public photograph of36 and camera coordinates48.855440,2.341869; replaces old building centroid",
+      "limits": "2011 camera position rounded; not exact door, crossing survey or future access guarantee; image not reproduced"
+    },
+    {
+      "scene": "cite_upper_crossing",
+      "type": "own_photograph_georeferenced",
+      "url": "https://commons.wikimedia.org/wiki/File:Plaque_Quai_March%C3%A9_Neuf_Quai_March%C3%A9_Neuf_Maurice_Grimaud_-_Paris_IV_(FR75)_-_2023-04-15_-_1.jpg",
+      "supports": "street plaque/context and camera48.854381,2.345106 for upper quay crossing approach",
+      "limits": "camera GPS contextual, not current signal or crossing position certificate"
+    },
+    {
+      "scene": "madagascar_public_street",
+      "type": "own_photographs_georeferenced",
+      "urls": [
+        "https://commons.wikimedia.org/wiki/File:Plaque_Rue_Madagascar_-_Paris_XII_(FR75)_-_2021-06-03_-_1.jpg",
+        "https://commons.wikimedia.org/wiki/File:Rue_Madagascar_-_Paris_XII_(FR75)_-_2021-06-03_-_2.jpg"
+      ],
+      "supports": "north48.835456,2.397708 and south48.834944,2.397236 documented street viewpoints; street module, number9 from separate Carnavalet source",
+      "limits": "not exact dwelling door or surviving1933 fabric; station approach estimated and unmeasured"
+    },
+    {
+      "scene": "madagascar_street_connections",
+      "type": "street_reference_and_operator_neighbourhood_plan",
+      "urls": [
+        "https://fr.wikipedia.org/wiki/Rue_de_Madagascar",
+        "https://res.cloudinary.com/ratp-smart-systems/image/upload/v1669201274/bonjour-web/michel-bizot.pdf"
+      ],
+      "supports": "Madagascar between32Meuniers and56Wattignies, Michel-Bizot area; operator plan indexed with Wattignies",
+      "limits": "operator PDF direct fetch unavailable; approach written via known public streets, no measured station trace or instant service certification"
+    },
+    {
+      "scene": "diana_public_viewpoint",
+      "type": "own_photograph_georeferenced",
+      "url": "https://commons.wikimedia.org/wiki/File:Flamme_de_la_Libert%C3%A9,_September_2024_05.jpg",
+      "supports": "camera48.864211,2.300922 on public square looking at flame",
+      "limits": "not tunnel point or exact station exit;2024 view not guaranteed2026 access; no image reproduced"
+    }
+  ],
+  "limits": [
+    "No field survey, booking, calls, purchase, external model review or audio rehearsal",
+    "Mixed-provenance fixed reference line: dense archived sections and manually approximated upper street corridor; no new router query",
+    "Actual walking allowance avoids treating polyline length as precise total walking",
+    "Museum interior optional, with mandatory reservation only if selected",
+    "Satellites separate; written station approaches timed estimates, not measured tracks",
+    "Case cards are own summaries, not original exhibits or new proof",
+    "No complete UK inquest or later French outcome claimed as read"
+  ]
+}

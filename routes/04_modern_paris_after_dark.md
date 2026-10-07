@@ -1,6 +1,7 @@
 > **Narrator correction — Andrés, 3 October 2026:** Cruce owns all route design, research, selection, verification, navigation and complete script preparation. Rumbo narrates Coulée Verte; Hilo narrates Medieval Devils; Miga narrates the affordable Paris flavours route. These are narrator assignments, not delegated work. No companion research or response is awaited. This overrides earlier commission/author/reviewer wording below.
 
 <!-- CRUCE CURRENT STATE: 2026-10-03; controlling production decision v9 -->
+> **Production decision closed — 7 October 2026:** retired/absorbed, not an unfinished route. The receiving [Route16](16_cinema_paris.md) is DONE, including its independent optional coda and operations. This row counts as one resolved catalog decision, not one additional executable experience. The historical research/status language below does not reopen it; external review remains subsequent work.
 > **Current working state: Modern Paris After Dark — Retired standalone; research workbench.** Distance: not counted separately. Selected material was absorbed into Cinema; reopened central mystery candidates remain audit leads. Old exclusions are historical where v6/v8 reopened them. External QA and visitor-ready delivery remain pending. See [production reset](cruce_production_reset_v9.md). The older body below preserves research and earlier decisions; it does not override this notice.
 
 # Modern Paris After Dark — The City You Cannot See

@@ -1,0 +1,452 @@
+{
+  "schema_version": 1,
+  "as_of": "2026-10-07",
+  "scope": "Route production decisions under Definition of Done, not total trip or website completion",
+  "catalog_decisions": 26,
+  "resolved_decisions": 26,
+  "production_percent": 100,
+  "active_experiences": 25,
+  "done_experiences": 25,
+  "retired_absorbed": [
+    "04"
+  ],
+  "verification_limits": [
+    "Document/package checks only",
+    "No field inspection, future access guarantee or new routing API query",
+    "External evaluation, bookings, dated itinerary, precise portfolio-wide overlap, audio and website remain separate",
+    "Null optional file fields mean not delivered, not an implicit export; route22 operations are Markdown"
+  ],
+  "packages": [
+    {
+      "id": "01",
+      "status": "DONE",
+      "version": "01-v1-20261006",
+      "canonical": "routes/01_lovers_paris.md",
+      "files": {
+        "operations": "routes/navigation/01_access_operations.md",
+        "operations_json": "routes/navigation/01.operations.json",
+        "navigation": "routes/navigation/01_navigation.md",
+        "gpx": "routes/navigation/01.gpx",
+        "variants_gpx": "routes/navigation/01.variants.gpx",
+        "geojson": "routes/navigation/01.geojson",
+        "evidence": "routes/navigation/01.evidence.json",
+        "geometry": null
+      },
+      "precision": "Route-specific geometry declarations control; presence of a GPX is not a field survey or dense routing guarantee."
+    },
+    {
+      "id": "02",
+      "status": "DONE",
+      "version": "02-v10-20261004",
+      "canonical": "routes/02_old_paris_devils_miracles.md",
+      "files": {
+        "operations": "routes/navigation/02_access_operations.md",
+        "operations_json": "routes/navigation/02.operations.json",
+        "navigation": null,
+        "gpx": "routes/navigation/02.gpx",
+        "variants_gpx": "routes/navigation/02.variants.gpx",
+        "geojson": null,
+        "evidence": "routes/navigation/02.evidence.json",
+        "geometry": null
+      },
+      "precision": "Route-specific geometry declarations control; presence of a GPX is not a field survey or dense routing guarantee."
+    },
+    {
+      "id": "03",
+      "status": "DONE",
+      "version": "03-v10-20261005",
+      "canonical": "routes/03_ghosts_revolution_nineteenth.md",
+      "files": {
+        "operations": "routes/navigation/03_access_operations.md",
+        "operations_json": "routes/navigation/03.operations.json",
+        "navigation": "routes/navigation/03_navigation.md",
+        "gpx": "routes/navigation/03.gpx",
+        "variants_gpx": "routes/navigation/03.variants.gpx",
+        "geojson": "routes/navigation/03.geojson",
+        "evidence": "routes/navigation/03.evidence.json",
+        "geometry": null
+      },
+      "precision": "Route-specific geometry declarations control; presence of a GPX is not a field survey or dense routing guarantee."
+    },
+    {
+      "id": "04",
+      "status": "RETIRED_ABSORBED",
+      "absorbed_into": "16",
+      "canonical": "routes/04_modern_paris_after_dark.md"
+    },
+    {
+      "id": "05",
+      "status": "DONE",
+      "version": "05-v10-20261005",
+      "canonical": "routes/05_paris_of_republic.md",
+      "files": {
+        "operations": "routes/navigation/05_access_operations.md",
+        "operations_json": "routes/navigation/05.operations.json",
+        "navigation": "routes/navigation/05_navigation.md",
+        "gpx": "routes/navigation/05.gpx",
+        "variants_gpx": "routes/navigation/05.variants.gpx",
+        "geojson": "routes/navigation/05.geojson",
+        "evidence": "routes/navigation/05.evidence.json",
+        "geometry": null
+      },
+      "precision": "Route-specific geometry declarations control; presence of a GPX is not a field survey or dense routing guarantee."
+    },
+    {
+      "id": "06",
+      "status": "DONE",
+      "version": "06-v1-20261006",
+      "canonical": "routes/06_revolutionary_paris.md",
+      "files": {
+        "operations": "routes/navigation/06_access_operations.md",
+        "operations_json": "routes/navigation/06.operations.json",
+        "navigation": "routes/navigation/06_navigation.md",
+        "gpx": "routes/navigation/06.gpx",
+        "variants_gpx": "routes/navigation/06.variants.gpx",
+        "geojson": "routes/navigation/06.geojson",
+        "evidence": "routes/navigation/06.evidence.json",
+        "geometry": null
+      },
+      "precision": "Route-specific geometry declarations control; presence of a GPX is not a field survey or dense routing guarantee."
+    },
+    {
+      "id": "07",
+      "status": "DONE",
+      "version": "07-v1-20261006",
+      "canonical": "routes/07_occupied_paris.md",
+      "files": {
+        "operations": "routes/navigation/07_access_operations.md",
+        "operations_json": "routes/navigation/07.operations.json",
+        "navigation": "routes/navigation/07_navigation.md",
+        "gpx": "routes/navigation/07.gpx",
+        "variants_gpx": "routes/navigation/07.variants.gpx",
+        "geojson": "routes/navigation/07.geojson",
+        "evidence": "routes/navigation/07.evidence.json",
+        "geometry": null
+      },
+      "precision": "Route-specific geometry declarations control; presence of a GPX is not a field survey or dense routing guarantee."
+    },
+    {
+      "id": "08",
+      "status": "DONE",
+      "version": "08-v1-20261006",
+      "canonical": "routes/08_art_nouveau_paris.md",
+      "files": {
+        "operations": "routes/navigation/08_access_operations.md",
+        "operations_json": "routes/navigation/08.operations.json",
+        "navigation": "routes/navigation/08_navigation.md",
+        "gpx": "routes/navigation/08.gpx",
+        "variants_gpx": "routes/navigation/08.variants.gpx",
+        "geojson": "routes/navigation/08.geojson",
+        "evidence": "routes/navigation/08.evidence.json",
+        "geometry": null
+      },
+      "precision": "Route-specific geometry declarations control; presence of a GPX is not a field survey or dense routing guarantee."
+    },
+    {
+      "id": "09",
+      "status": "DONE",
+      "version": "09-v1-20261006",
+      "canonical": "routes/09_spy_paris.md",
+      "files": {
+        "operations": "routes/navigation/09_access_operations.md",
+        "operations_json": "routes/navigation/09.operations.json",
+        "navigation": "routes/navigation/09_navigation.md",
+        "gpx": "routes/navigation/09.gpx",
+        "variants_gpx": "routes/navigation/09.variants.gpx",
+        "geojson": "routes/navigation/09.geojson",
+        "evidence": "routes/navigation/09.evidence.json",
+        "geometry": null
+      },
+      "precision": "Route-specific geometry declarations control; presence of a GPX is not a field survey or dense routing guarantee."
+    },
+    {
+      "id": "10",
+      "status": "DONE",
+      "version": "10-v1-20261006",
+      "canonical": "routes/10_burlesque_paris.md",
+      "files": {
+        "operations": "routes/navigation/10_access_operations.md",
+        "operations_json": "routes/navigation/10.operations.json",
+        "navigation": "routes/navigation/10_navigation.md",
+        "gpx": "routes/navigation/10.gpx",
+        "variants_gpx": "routes/navigation/10.variants.gpx",
+        "geojson": "routes/navigation/10.geojson",
+        "evidence": "routes/navigation/10.evidence.json",
+        "geometry": null
+      },
+      "precision": "Route-specific geometry declarations control; presence of a GPX is not a field survey or dense routing guarantee."
+    },
+    {
+      "id": "11",
+      "status": "DONE",
+      "version": "11-v1-20261006",
+      "canonical": "routes/11_cosmopolitan_paris.md",
+      "files": {
+        "operations": "routes/navigation/11_access_operations.md",
+        "operations_json": "routes/navigation/11.operations.json",
+        "navigation": "routes/navigation/11_navigation.md",
+        "gpx": "routes/navigation/11.gpx",
+        "variants_gpx": "routes/navigation/11.variants.gpx",
+        "geojson": "routes/navigation/11.geojson",
+        "evidence": "routes/navigation/11.evidence.json",
+        "geometry": null
+      },
+      "precision": "Route-specific geometry declarations control; presence of a GPX is not a field survey or dense routing guarantee."
+    },
+    {
+      "id": "12",
+      "status": "DONE",
+      "version": "12-v1-20261005",
+      "canonical": "routes/12_market_morning.md",
+      "files": {
+        "operations": "routes/navigation/12_access_operations.md",
+        "operations_json": "routes/navigation/12.operations.json",
+        "navigation": "routes/navigation/12_navigation.md",
+        "gpx": "routes/navigation/12.gpx",
+        "variants_gpx": "routes/navigation/12.variants.gpx",
+        "geojson": "routes/navigation/12.geojson",
+        "evidence": "routes/navigation/12.evidence.json",
+        "geometry": null
+      },
+      "precision": "Route-specific geometry declarations control; presence of a GPX is not a field survey or dense routing guarantee."
+    },
+    {
+      "id": "13",
+      "status": "DONE",
+      "version": "13-v1-20261006",
+      "canonical": "routes/13_engineered_city.md",
+      "files": {
+        "operations": "routes/navigation/13_access_operations.md",
+        "operations_json": "routes/navigation/13.operations.json",
+        "navigation": "routes/navigation/13_navigation.md",
+        "gpx": "routes/navigation/13.gpx",
+        "variants_gpx": "routes/navigation/13.variants.gpx",
+        "geojson": "routes/navigation/13.geojson",
+        "evidence": "routes/navigation/13.evidence.json",
+        "geometry": null
+      },
+      "precision": "Route-specific geometry declarations control; presence of a GPX is not a field survey or dense routing guarantee."
+    },
+    {
+      "id": "14",
+      "status": "DONE",
+      "version": "14-v1-20261006",
+      "canonical": "routes/14_paris_below.md",
+      "files": {
+        "operations": "routes/navigation/14_access_operations.md",
+        "operations_json": "routes/navigation/14.operations.json",
+        "navigation": "routes/navigation/14_navigation.md",
+        "gpx": "routes/navigation/14.gpx",
+        "variants_gpx": "routes/navigation/14.variants.gpx",
+        "geojson": "routes/navigation/14.geojson",
+        "evidence": "routes/navigation/14.evidence.json",
+        "geometry": null
+      },
+      "precision": "Route-specific geometry declarations control; presence of a GPX is not a field survey or dense routing guarantee."
+    },
+    {
+      "id": "15",
+      "status": "DONE",
+      "version": "15-v1-20261005",
+      "canonical": "routes/15_paris_reads.md",
+      "files": {
+        "operations": "routes/navigation/15_access_operations.md",
+        "operations_json": "routes/navigation/15.operations.json",
+        "navigation": "routes/navigation/15_navigation.md",
+        "gpx": "routes/navigation/15.gpx",
+        "variants_gpx": "routes/navigation/15.variants.gpx",
+        "geojson": "routes/navigation/15.geojson",
+        "evidence": "routes/navigation/15.evidence.json",
+        "geometry": null
+      },
+      "precision": "Route-specific geometry declarations control; presence of a GPX is not a field survey or dense routing guarantee."
+    },
+    {
+      "id": "16",
+      "status": "DONE",
+      "version": "16-v10-20261005",
+      "canonical": "routes/16_cinema_paris.md",
+      "files": {
+        "operations": "routes/navigation/16_access_operations.md",
+        "operations_json": "routes/navigation/16.operations.json",
+        "navigation": "routes/navigation/16_navigation.md",
+        "gpx": "routes/navigation/16.gpx",
+        "variants_gpx": "routes/navigation/16.variants.gpx",
+        "geojson": "routes/navigation/16.geojson",
+        "evidence": "routes/navigation/16.evidence.json",
+        "geometry": null
+      },
+      "precision": "Route-specific geometry declarations control; presence of a GPX is not a field survey or dense routing guarantee."
+    },
+    {
+      "id": "17",
+      "status": "DONE",
+      "version": "17-v1-20261006",
+      "canonical": "routes/17_scientific_paris_spectacle.md",
+      "files": {
+        "operations": "routes/navigation/17_access_operations.md",
+        "operations_json": "routes/navigation/17.operations.json",
+        "navigation": "routes/navigation/17_navigation.md",
+        "gpx": "routes/navigation/17.gpx",
+        "variants_gpx": null,
+        "geojson": null,
+        "evidence": "routes/navigation/17.evidence.json",
+        "geometry": null
+      },
+      "precision": "Route-specific geometry declarations control; presence of a GPX is not a field survey or dense routing guarantee."
+    },
+    {
+      "id": "18",
+      "status": "DONE",
+      "version": "18-v1-20261006",
+      "canonical": "routes/18_canal_paris.md",
+      "files": {
+        "operations": "routes/navigation/18_access_operations.md",
+        "operations_json": "routes/navigation/18.operations.json",
+        "navigation": "routes/navigation/18_navigation.md",
+        "gpx": "routes/navigation/18.gpx",
+        "variants_gpx": "routes/navigation/18.variants.gpx",
+        "geojson": "routes/navigation/18.geojson",
+        "evidence": "routes/navigation/18.evidence.json",
+        "geometry": null
+      },
+      "precision": "Route-specific geometry declarations control; presence of a GPX is not a field survey or dense routing guarantee."
+    },
+    {
+      "id": "19",
+      "status": "DONE",
+      "version": "19-v1-20261005",
+      "canonical": "routes/19_paris_illusions.md",
+      "files": {
+        "operations": "routes/navigation/19_access_operations.md",
+        "operations_json": "routes/navigation/19.operations.json",
+        "navigation": "routes/navigation/19_navigation.md",
+        "gpx": "routes/navigation/19.gpx",
+        "variants_gpx": "routes/navigation/19.variants.gpx",
+        "geojson": "routes/navigation/19.geojson",
+        "evidence": "routes/navigation/19.evidence.json",
+        "geometry": null
+      },
+      "precision": "Route-specific geometry declarations control; presence of a GPX is not a field survey or dense routing guarantee."
+    },
+    {
+      "id": "20",
+      "status": "DONE",
+      "version": "20-v1-20261007",
+      "canonical": "routes/20_colonial_afterlives.md",
+      "files": {
+        "operations": "routes/navigation/20_access_operations.md",
+        "operations_json": "routes/navigation/20.operations.json",
+        "navigation": "routes/navigation/20_navigation.md",
+        "gpx": "routes/navigation/20.gpx",
+        "variants_gpx": "routes/navigation/20.variants.gpx",
+        "geojson": "routes/navigation/20.geojson",
+        "evidence": "routes/navigation/20.evidence.json",
+        "geometry": null
+      },
+      "precision": "Route-specific geometry declarations control; presence of a GPX is not a field survey or dense routing guarantee."
+    },
+    {
+      "id": "21",
+      "status": "DONE",
+      "version": "21-v10-20261005",
+      "canonical": "routes/21_paris_popular_flavours.md",
+      "files": {
+        "operations": "routes/navigation/21_access_operations.md",
+        "operations_json": "routes/navigation/21.operations.json",
+        "navigation": "routes/navigation/21_navigation.md",
+        "gpx": "routes/navigation/21.gpx",
+        "variants_gpx": "routes/navigation/21.variants.gpx",
+        "geojson": null,
+        "evidence": "routes/navigation/21.evidence.json",
+        "geometry": null
+      },
+      "precision": "Route-specific geometry declarations control; presence of a GPX is not a field survey or dense routing guarantee."
+    },
+    {
+      "id": "22",
+      "status": "DONE",
+      "version": "22-v1-20261005",
+      "canonical": "routes/22_coulee_verte.md",
+      "files": {
+        "operations": "routes/navigation/22_access_operations.md",
+        "operations_json": null,
+        "navigation": null,
+        "gpx": "routes/navigation/22.gpx",
+        "variants_gpx": null,
+        "geojson": null,
+        "evidence": "routes/navigation/22.evidence.json",
+        "geometry": null
+      },
+      "precision": "Route-specific geometry declarations control; presence of a GPX is not a field survey or dense routing guarantee."
+    },
+    {
+      "id": "23",
+      "status": "DONE",
+      "version": "23-v1-20261007",
+      "canonical": "routes/23_northwestern_belt.md",
+      "files": {
+        "operations": "routes/navigation/23_access_operations.md",
+        "operations_json": "routes/navigation/23.operations.json",
+        "navigation": "routes/navigation/23_navigation.md",
+        "gpx": "routes/navigation/23.gpx",
+        "variants_gpx": "routes/navigation/23.variants.gpx",
+        "geojson": "routes/navigation/23.geojson",
+        "evidence": "routes/navigation/23.evidence.json",
+        "geometry": null
+      },
+      "precision": "Route-specific geometry declarations control; presence of a GPX is not a field survey or dense routing guarantee."
+    },
+    {
+      "id": "24",
+      "status": "DONE",
+      "version": "24-v1-20261007",
+      "canonical": "routes/24_southern_margins.md",
+      "files": {
+        "operations": "routes/navigation/24_access_operations.md",
+        "operations_json": "routes/navigation/24.operations.json",
+        "navigation": "routes/navigation/24_navigation.md",
+        "gpx": "routes/navigation/24.gpx",
+        "variants_gpx": "routes/navigation/24.variants.gpx",
+        "geojson": "routes/navigation/24.geojson",
+        "evidence": "routes/navigation/24.evidence.json",
+        "geometry": null
+      },
+      "precision": "Route-specific geometry declarations control; presence of a GPX is not a field survey or dense routing guarantee."
+    },
+    {
+      "id": "25",
+      "status": "DONE",
+      "version": "25-v1-20261007",
+      "canonical": "routes/25_western_green_machinery.md",
+      "files": {
+        "operations": "routes/navigation/25_access_operations.md",
+        "operations_json": "routes/navigation/25.operations.json",
+        "navigation": "routes/navigation/25_navigation.md",
+        "gpx": "routes/navigation/25.gpx",
+        "variants_gpx": "routes/navigation/25.variants.gpx",
+        "geojson": "routes/navigation/25.geojson",
+        "evidence": "routes/navigation/25.evidence.json",
+        "geometry": null
+      },
+      "precision": "Route-specific geometry declarations control; presence of a GPX is not a field survey or dense routing guarantee."
+    },
+    {
+      "id": "26",
+      "status": "DONE",
+      "version": "26-v2-20261007",
+      "canonical": "routes/26_modern_true_crime.md",
+      "files": {
+        "operations": "routes/navigation/26_access_operations.md",
+        "operations_json": "routes/navigation/26.operations.json",
+        "navigation": "routes/navigation/26_navigation.md",
+        "gpx": "routes/navigation/26.gpx",
+        "variants_gpx": "routes/navigation/26.variants.gpx",
+        "geojson": "routes/navigation/26.geojson",
+        "evidence": "routes/navigation/26.evidence.json",
+        "geometry": "routes/navigation/26.geometry.json"
+      },
+      "precision": "Route-specific geometry declarations control; presence of a GPX is not a field survey or dense routing guarantee."
+    }
+  ]
+}

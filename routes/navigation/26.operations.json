@@ -1,0 +1,236 @@
+{
+  "route_id": "26",
+  "version": "26-v2-20261007",
+  "status": "DONE",
+  "reviewed": "2026-10-07",
+  "owner": "Cruce",
+  "narrator": "Noctambulo",
+  "base": {
+    "order": [
+      "W01",
+      "W02",
+      "C01",
+      "W03"
+    ],
+    "kind": "complete independent no-reservation experience; museum interior excluded",
+    "line_length_km": 1.407,
+    "distance_km_approx": 1.4,
+    "actual_walking_allowance_km": [
+      1.5,
+      1.7
+    ],
+    "indoor_allowance_km": [
+      0.1,
+      0.3
+    ],
+    "duration_minutes": [
+      130,
+      160
+    ],
+    "start_by_day": {
+      "Tuesday-Friday": "14:00",
+      "Saturday": "10:00"
+    },
+    "latest_start": "14:30",
+    "finish_by": "17:10",
+    "example_date": "2026-11-07",
+    "example_start": "10:00",
+    "example_finish_by": "12:40",
+    "cost_eur": 0,
+    "reservation": "none for base"
+  },
+  "legs_line_km": [
+    0.391,
+    1.016
+  ],
+  "geometry": {
+    "file": "routes/navigation/26.geometry.json",
+    "source": "archived route16/02 pedestrian subsegments plus documented manually authored upper-Cite corridor",
+    "new_router_query": false,
+    "dense_archive_subsegments": true,
+    "manual_intermediates_approximate": true,
+    "on_ground_verified": false
+  },
+  "stops": [
+    {
+      "id": "W01",
+      "name": "BiliPo public approach",
+      "lat": 48.846596,
+      "lon": 2.351445
+    },
+    {
+      "id": "W02",
+      "name": "Rue Monge pavement near police block NOT reception",
+      "lat": 48.849717,
+      "lon": 2.349225
+    },
+    {
+      "id": "C01",
+      "name": "Notre-Dame parvis connector",
+      "lat": 48.85315,
+      "lon": 2.348847
+    },
+    {
+      "id": "W03",
+      "name": "Former36 public photographed viewpoint",
+      "lat": 48.85544,
+      "lon": 2.341869
+    }
+  ],
+  "museum_optional": {
+    "id": "M",
+    "included_in_base": false,
+    "cost_eur": 0,
+    "reservation": "mandatory nominal; not made or availability checked",
+    "address": "4 rue de la Montagne-Sainte-Genevieve; confirmed reception controls, W02 is NOT entry",
+    "scientific_candidate": "2026-11-07 10:30",
+    "permanent_candidates": [
+      "2026-11-05 14:30",
+      "2026-11-12 14:30"
+    ],
+    "duration_allowance_minutes": [
+      75,
+      105
+    ],
+    "actual_duration_or_language_verified": false,
+    "combination": "separate block/day; do not double-book the base example"
+  },
+  "satellites": [
+    {
+      "id": "26B",
+      "status": "delivered independent public-street module",
+      "duration_minutes": [
+        35,
+        45
+      ],
+      "line_length_km": 0.067,
+      "actual_walking_allowance_km": 0.1,
+      "points": [
+        {
+          "id": "N01",
+          "lat": 48.835456,
+          "lon": 2.397708
+        },
+        {
+          "id": "N02",
+          "lat": 48.834944,
+          "lon": 2.397236
+        }
+      ],
+      "exact_private_door_pin": false,
+      "identify_address_by_number": "9 rue de Madagascar",
+      "station": "Michel-Bizot",
+      "approach_minutes_each_way": [
+        15,
+        25
+      ],
+      "approach_distance_measured": false,
+      "start_window": [
+        "10:00",
+        "15:30"
+      ],
+      "finish_by": "16:15",
+      "cost_eur": 0
+    },
+    {
+      "id": "26C",
+      "status": "delivered independent public-observation module",
+      "duration_minutes": [
+        25,
+        35
+      ],
+      "point": {
+        "id": "D01",
+        "lat": 48.864211,
+        "lon": 2.300922
+      },
+      "inter_stop_distance_km": 0,
+      "station": "Alma-Marceau",
+      "approach_minutes_each_way": [
+        5,
+        10
+      ],
+      "approach_distance_measured": false,
+      "start_window": [
+        "10:00",
+        "15:30"
+      ],
+      "finish_by": "16:05",
+      "cost_eur": 0
+    }
+  ],
+  "services": {
+    "toilet": "BiliPo lists WC; live state check, no other promised facility",
+    "water": "carry own",
+    "rest": "permitted library spaces; no guaranteed seats",
+    "shelter": "BiliPo if open; none continuous outside",
+    "food": "eat before; optional outside purchase capped EUR10 not a route dependency",
+    "accessibility": "BiliPo exhibition PMR; full route not certified"
+  },
+  "checks_on_day": [
+    "BiliPo exhibition/hours and any November11 exception",
+    "public pavements, crossings, parvis and bridge security",
+    "WC, weather, energy and actual station exits/service",
+    "optional M confirmation only if selected"
+  ],
+  "variants": [
+    {
+      "id": "V0",
+      "trigger": "late or closed day",
+      "action": "reschedule or V1 exterior",
+      "loss": "interior if V1 selected"
+    },
+    {
+      "id": "V1",
+      "trigger": "BiliPo exhibition unavailable",
+      "action": "prepared offline case cards and alternate script, then full W02-W03 chapters",
+      "duration_minutes": [
+        110,
+        140
+      ],
+      "line_length_km": 1.407,
+      "indoor_allowance_km": 0,
+      "complete_alternative_experience": true,
+      "loss": "original prints observed; no interior claimed"
+    },
+    {
+      "id": "V2",
+      "trigger": "no safe standing at W02",
+      "action": "chapter1/cards at public Maubert location, disclose absent view, follow same corridor",
+      "loss": "police block observation"
+    },
+    {
+      "id": "V3",
+      "trigger": "pont au Double or parvis inaccessible",
+      "action": "escape Maubert or Saint-Michel; postpone unobserved36 chapter",
+      "complete_execution": false,
+      "loss": "final observation; replacement distance unmeasured"
+    },
+    {
+      "id": "V4",
+      "trigger": "36 pavement restricted",
+      "action": "stop before cordon, escape Saint-Michel; repeat final later",
+      "complete_execution": false,
+      "loss": "36 observation"
+    },
+    {
+      "id": "V5",
+      "trigger": "unsafe weather fatigue or toilet need",
+      "action": "library only if open or nearest named escape",
+      "complete_execution": false,
+      "loss": "remaining route"
+    }
+  ],
+  "files": {
+    "canonical": "routes/26_modern_true_crime.md",
+    "navigation": "routes/navigation/26_navigation.md",
+    "operations": "routes/navigation/26_access_operations.md",
+    "base_gpx": "routes/navigation/26.gpx",
+    "variants_gpx": "routes/navigation/26.variants.gpx",
+    "geojson": "routes/navigation/26.geojson",
+    "geometry": "routes/navigation/26.geometry.json",
+    "case_cards": "routes/26_case_cards.md",
+    "evidence": "routes/navigation/26.evidence.json"
+  },
+  "external_review": "after closure; not performed"
+}
