@@ -1,99 +1,133 @@
-# Ruta 25 — Western Green Machinery: lo que sigue moviendo un lugar
+# Ruta 25 — Maquinaria verde del oeste: lo que sigue moviendo un lugar
 
-Autoría, investigación, narración y operaciones: Cruce. Narrador: Aster. Revisión: 7 octubre 2026.
+Investigación, trazado y operaciones: Cruce. Guion de campo adaptado y narración: Aster. Revisión narrativa: 3 noviembre 2026.
 
-> **DONE — versión 25-v1-20261007, revisada el 7 octubre 2026.**
+> **Guion narrativo revisado el 3 noviembre 2026.** Navegación y contingencias mantienen el canon 25-v1-20261007; esta revisión cambia la voz y los puntos de escucha, no el trazado.
 >
-> Esta es la versión elegida para el viaje y cumple los criterios de aceptación bajo control del agente.
->
-> Comprobaciones del día: horarios/puertas de PC14, Brassens, PC15 y Citroën; continuidad y túnel PC15; obras, suelo y meteorología; WC, agua, transporte; acera alta de Javel/Grenelle y acceso legal a Île aux Cygnes.
+> Comprobaciones del día: horarios de invierno publicados y puertas efectivamente abiertas en PC14, Brassens, PC15 y Citroën; continuidad y túnel PC15; obras, suelo y meteorología; WC, agua, transporte; acera alta de Javel/Grenelle y acceso legal a Île aux Cygnes.
 >
 > Variantes operativas: V0–V6 en [operaciones](navigation/25_access_operations.md) y [trazas](navigation/25.variants.gpx).
 >
-> Revisión externa por varios modelos y feedback: posterior al cierre.
-
 ## Experiencia elegida
 
-PC14 Coulmiers → Didot → Georges-Brassens → Dantzig/PC15 → Balard → André-Citroën → Javel → extremo sur de Île aux Cygnes. **7.794 km**, 4 h 15–5 h 05, €0. El tema es transformar infraestructuras de producción y transporte en paisajes públicos, comparando abandono vegetal, conservación material y diseño deliberado. La transferencia PC14–Brassens es 1.526 km por calles. No existe continuidad ferroviaria pública entre esos dos tramos.
+PC14 Coulmiers → Didot → Georges-Brassens → Dantzig/PC15 → Balard → André-Citroën → Javel → extremo sur de Île aux Cygnes. **7,794 km**, 4 h 15–5 h 05, €0. El tema es transformar infraestructuras de producción y transporte en paisajes públicos, comparando abandono vegetal, conservación material y diseño deliberado. La transferencia PC14–Brassens es 1.526 km por calles. No existe continuidad ferroviaria pública entre esos dos tramos.
 
-Inicio 09:30–10:00, último 11:00; terminar antes de 16:15 y respetar cualquier cierre anterior. Presupuesto temporal: marcha 120–140 min, escucha de cuatro guiones/coda 20–25 min, observación en silencio 70–90 min y pausa/servicios/cruces 45–50 min. Entrada/salida de metro y regreso desde la isla se cuentan aparte; volver a Grenelle añade aproximadamente 0.356 km.
+Inicio orientativo 09:30–10:00, último 11:00; terminar antes de 16:15 y respetar cualquier cierre anterior. Presupuesto temporal: marcha 120–140 min, escucha y pausas de audio 20–25 min, observación en silencio 70–90 min y pausa/servicios/cruces 45–50 min. Entrada/salida de metro y regreso desde la isla se cuentan aparte; volver a Grenelle añade aproximadamente 0.356 km.
 
 [Navegación](navigation/25_navigation.md) · [operaciones](navigation/25_access_operations.md) · [JSON](navigation/25.operations.json) · [GPX](navigation/25.gpx) · [variantes](navigation/25.variants.gpx) · [GeoJSON](navigation/25.geojson) · [evidencia](navigation/25.evidence.json).
 
-## 1. PC14 — caminar dentro de una función suspendida
+## Guion de campo — una parada, una observación, una salida
 
-Baja únicamente por el acceso público señalizado de Coulmiers, junto al lado de Général-Leclerc. Detente donde dejes libre el paso. Antes de buscar una historia, mira la diferencia de altura entre este corredor y la calle. Arriba, puertas y cruces organizan una ciudad que se mueve transversalmente. Aquí el espacio concentra una dirección: avanzar a lo largo de una franja. Esa forma permanece aunque el tren ya no sea el usuario de este tramo.
+*Las indicaciones «Siguiente» son navegación, no parte del discurso. En cada punto se comprueban las puertas reales antes de continuar. Los silencios pertenecen al paseo; no hace falta rellenarlos.*
 
-La sección pública une Coulmiers y Didot. La ciudad documenta su apertura a la promenade en 2019 y una longitud cercana a tres cuartos de kilómetro. Es un espacio acotado. Los extremos que veremos no son invitaciones a prolongar la exploración por otros túneles o vías. Caminar aquí depende de una decisión administrativa tan concreta como la antigua circulación: acceso, puertas, mantenimiento y un límite que separa lo visitable del resto de la infraestructura.
+### W01 · PC14, Coulmiers — la forma sobrevive a la función
 
-[Ficha municipal PC14: límites, historia, horarios y ausencia de WC](https://www.paris.fr/lieux/petite-ceinture-du-14e-pc-14-19530).
+Estamos junto a una antigua vía del ferrocarril de circunvalación de París, la Petite Ceinture. Se construyó en el siglo XIX; los trenes de pasajeros dejaron de usarla en 1934. Este tramo, entre Coulmiers y Didot, volvió a abrirse a pie en 2019.
 
-Mira la vegetación desde el camino, sin subir al talud. Observa una diferencia visible entre el suelo por el que circulamos y los bordes que no pisamos. No vamos a identificar una especie por una hoja que apenas distinguimos, ni a convertir cada arbusto en prueba de biodiversidad excepcional. El gesto suficiente es reconocer que el corredor tiene varias superficies y que abrirlo a personas exige decidir dónde concentrar sus pasos.
+Quiero que mires primero la sección del terreno. La calle cruza la ciudad en muchas direcciones; este corredor te obliga a pensar longitudinalmente. Es una decisión de ingeniería que sigue funcionando después de que desaparecieran los trenes.
 
-Ahora cambia el registro. Lo documentado es la transformación de un tramo ferroviario y su apertura. Nuestra interpretación es que una función suspendida puede conservar una forma útil: la dirección continua que antes organizaba movimientos rápidos permite ahora una observación lenta. Esa lectura no convierte el abandono en un proyecto deliberado desde el principio. La vegetación pudo instalarse antes de que existiera una promenade; la posibilidad actual de caminar resulta de trabajos y reglas posteriores.
+Y hay una segunda historia, menos ordenada. Plantas que fueron ocupando taludes, piedra y balasto; luego personas que decidieron qué parte abrir y qué parte dejar protegida. No es exactamente un jardín diseñado desde cero, ni una naturaleza que haya borrado la infraestructura.
 
-Escucha unos segundos y compara con el nivel de la calle. Si hoy el corredor es ruidoso, no fuerces una escena de silencio. Si hay pájaros, no prometas que estarán en noviembre ni que sabemos qué están haciendo. La experiencia depende de notar cómo el relieve modifica la relación con la ciudad, incluso cuando los sonidos continúan atravesándolo.
+¿Qué queda de un ferrocarril cuando deja de transportar trenes? Aquí queda su geometría. Y ahora la estamos usando para hacer algo que el diseñador original probablemente no puso en el pliego: caminar despacio.
 
-Al llegar a Didot, mira hacia atrás desde una posición segura. El trayecto fue breve y suficiente. Guarda su estructura: una franja heredada, bordes vegetales y un camino público definido. Vamos a salir a calles normales durante aproximadamente un kilómetro y medio. Ese cambio es parte de la comparación: las piezas de una antigua red pueden abrirse por separado, y un mapa histórico no garantiza que hoy podamos atravesarlas como si siguieran formando una sola línea.
+**Siguiente — W02, salida Didot (755 m):** sigue exclusivamente el paseo público de PC14 hasta la puerta señalizada de rue Didot. No prolongues el recorrido por vías o túneles cerrados.
 
-## 2. Georges-Brassens — conservar un resto y cambiar su uso
+### W02 · Didot — el mapa y el suelo
 
-Entra por el acceso oriental y busca el paisaje central desde los caminos. Antes de sentarte, reconoce qué objetos parecen ordenar el espacio: el bassin, construcciones conservadas, puertas y caminos. No todo lo antiguo es un resto industrial y no todo lo nuevo borra lo anterior. Necesitamos una identificación concreta antes de convertir una forma en evidencia.
+Mira atrás un momento. Hace menos de un kilómetro estábamos en una vía. Ahora regresamos a la cuadrícula de calles. En un mapa histórico, estos trazos pertenecían a una red; bajo nuestros pies, las aperturas actuales son decisiones separadas. Que dos líneas se toquen en el papel no significa que puedas pasar de una a otra.
 
-La documentación municipal sitúa aquí los antiguos mataderos de Vaugirard y conserva memoria material de aquella actividad. El parque puede parecer una pausa independiente del trabajo que lo precedió. Pero el emplazamiento relaciona suelo, transporte y producción alimentaria: animales, mercancías y operaciones que necesitaban espacio y conexiones. No vamos a inventar una jornada de un trabajador concreto ni atribuir a cada ruido actual el eco de un matadero.
+**Siguiente — W03, entrada oriental de Georges-Brassens (1,526 km):** sube hacia el norte por rue Didot y enlaza con rue des Morillons, siguiendo los pasos legales hasta el acceso público del sector Morillons/Brancion. Esta conexión es por calles, no por la vía férrea. [Navegación peatonal](https://www.google.com/maps/dir/?api=1&origin=48.827323%2C2.314599&destination=48.832400%2C2.301500&travelmode=walking).
 
-[Ficha municipal Brassens: accesos, servicios e historia del lugar](https://www.paris.fr/lieux/parc-georges-brassens-1805).
+### W03 · Georges-Brassens — el suelo tiene memoria
 
-Busca un elemento que el lugar o su cartela identifique como conservado. Si no puedes leerlo, utiliza la descripción municipal y mantén la diferencia entre identificar un objeto y adivinarlo. Mira cómo una construcción heredada se relaciona con agua, vegetación y personas que ahora descansan. Una pieza puede permanecer materialmente y cambiar de función. La continuidad de piedra o hierro no implica continuidad del uso.
+Este parque fue otra cosa. Primero hubo viñedos y cultivos en Vaugirard; a finales del siglo XIX llegaron los mataderos, inaugurados en 1894. Hoy el suelo alberga caminos, jardines y personas que sencillamente vienen a pasar la tarde.
 
-El cambio de registro importa aquí. La historia del emplazamiento pertenece a los documentos. Nuestra lectura consiste en preguntar qué seleccionó el nuevo paisaje para hacer visible aquella historia. Un parque no conserva todo: necesita caminos, superficies accesibles y lugares donde detenerse. Algunas huellas resultan útiles como referencias; otras desaparecen o dejan de ser legibles. Esa selección puede permitir recordar y al mismo tiempo suavizar lo recordado.
+La transformación no consiste en que todo lo anterior desapareció. El beffroi y las antiguas estructuras de mercado ayudan a reconocer una organización distinta. Pero tampoco todo objeto viejo es automáticamente una reliquia industrial: hay que identificarlo.
 
-Mira ahora una actividad presente sin convertir a sus participantes en ilustración histórica. Quien atraviesa el parque no tiene por qué estar pensando en los mataderos. El uso cotidiano es una parte del éxito del lugar: el espacio público funciona también cuando no exige a cada visitante una lección. Podemos reconocer la historia y disfrutar de una pausa sin representar el descanso como una forma de olvido culpable.
+Lo interesante aquí es la selección. Para convertir un recinto productivo en parque se conserva algo, se retira bastante y se construye algo nuevo. ¿Qué decide una ciudad que merece seguir visible? La respuesta está mezclada con el uso cotidiano; nadie necesita conocer la historia de los mataderos para disfrutar de este lugar.
 
-Vuelve a un objeto que hayas identificado al entrar. ¿Cambió su significado después de mirar el conjunto? El mismo borde puede servir hoy para orientarnos o sentarnos y haber pertenecido a otra organización del suelo. No necesitamos reconstruir todo el complejo para comprender esa transformación. Basta con poner en relación una huella comprobada y un uso que vemos.
+**Siguiente — W04, bassin y beffroi (393 m):** sigue los caminos públicos del parque hacia la zona central del estanque y la torre.
 
-Sal hacia el acceso público de Dantzig. Hemos pasado de una infraestructura conservada como corredor a un antiguo recinto convertido en parque. En PC15 veremos otro acuerdo: permitir paseo mientras se mantienen bordes que siguen reservados para otros procesos. Antes de irte, descansa y comprueba energía; el tramo siguiente tiene salidas, pero no necesita que lo atravesemos a cualquier precio.
+### W04 · El centro de Brassens — la pieza y el contexto
 
-## 3. PC15 — una apertura depende de lo que permanece cerrado
+Estamos ante el bassin y el beffroi. Ahora sí tenemos objetos concretos. La torre pertenecía al antiguo conjunto de los mataderos; el agua y los caminos actuales forman parte de otra organización del espacio.
 
-En Dantzig, confirma que la puerta y el itinerario hacia Balard están abiertos. No uses la geometría del teléfono para atravesar una barrera. La ciudad anuncia desde agosto de 2026 la conexión de los dos antiguos tramos mediante un túnel asegurado. Ese anuncio explica por qué hoy puede existir una continuidad que documentos anteriores trataban como proyecto. La apertura concreta del día sigue dependiendo de señales y avisos.
+Fíjate en una relación, no en una postal: cómo se llega a la torre, qué la rodea, para qué sirve hoy como punto de referencia. La materia puede permanecer mientras su papel cambia por completo. A eso también se le llama conservación, aunque nadie haya conservado la antigua actividad.
 
-[Ficha municipal PC15: cinco accesos, conexión de agosto de 2026, túnel, ecología y límites](https://www.paris.fr/lieux/petite-ceinture-du-15e-pc-15-16841).
+**Siguiente — W05, PC15 Dantzig (310 m):** sal por el sector de rue de Dantzig y busca el acceso público oficial del **47 rue de Dantzig**. Comprueba que esté abierto. Aquí hay WC y agua listados en el parque; en PC15 no.
 
-Empieza por observar el camino permitido y sus márgenes. No subas al talud. La experiencia de un corredor ecológico no exige aproximarse a todo lo que contiene. El límite conserva espacios donde nuestros pasos no se convierten en la condición dominante. Mira un cambio visible de altura, sombra o densidad vegetal; deja sin nombre la especie que no puedes identificar.
+### W05 · PC15 Dantzig — el ferrocarril recupera continuidad
 
-Este tramo sirvió a industrias vinculadas a los terrenos que hoy ocupan Georges-Brassens y André-Citroën. Aquí el movimiento ferroviario conectaba funciones productivas. Después de la desafectación, la vegetación ocupó superficies heredadas. El uso público actual agrega otra capa: alguien ha definido por dónde caminar, qué proteger y cómo mantener un lugar que puede parecer espontáneo.
+Esta segunda sección de la Petite Ceinture nos devuelve a una escala mayor. Por aquí circulaban mercancías relacionadas con dos emplazamientos que acabamos de ver o veremos: los mataderos de Vaugirard y las fábricas de Citroën.
 
-Cambiamos a interpretación. La palabra «natural» puede ocultar esa combinación. Una planta puede crecer sin que alguien la coloque y, sin embargo, el corredor que la rodea sigue siendo resultado de ingeniería, abandono parcial, intervención y cuidado. No hace falta escoger entre naturaleza auténtica y jardín artificial. Mira la convivencia de soportes construidos y procesos vivos que no necesitan obedecer el dibujo original.
+Hay una novedad muy reciente. En agosto de 2026 se abrió al público un túnel de unos 300 metros, después de obras de seguridad. Conectó dos paseos que antes estaban separados. París ganó una promenade continua de unos dos kilómetros hasta Balard. No fue la naturaleza la que inauguró el túnel. Lo hizo una obra pública. La diferencia importa.
 
-Cuando llegues al túnel, sigue el paso permitido y evita detenerte donde obstaculices el tránsito. Observa solo lo que las condiciones de luz permitan; no inventes una sensación de peligro para dramatizarlo. Lo relevante es la conexión: una obra concreta permite unir dos paseos. Si está cerrado, no estamos ante una dificultad que deba vencerse. Usaremos la variante de superficie y habremos perdido esta continuidad.
+Mira los márgenes mientras avanzas. La vegetación creció sobre una infraestructura que seguía allí; las personas accedemos por un recorrido delimitado. La coexistencia tiene una condición bastante poco romántica: algunas zonas permanecen fuera de nuestro alcance.
 
-Al salir, vuelve a comparar bordes y camino. La apertura a visitantes no significa acceso a todo el terreno. Horarios, ausencia de luz nocturna y zonas no transitables muestran que el paseo está organizado mediante límites. El cuidado puede ser visible como una barrera y también como una decisión de no ocupar una superficie.
+**Siguiente — W06, Balard (1,640 km):** sigue el sendero oficialmente abierto de PC15, atravesando el túnel solo si está habilitado y saliendo por **84 rue Leblanc / place Balard**. Si está cerrado, no fuerces el paso: la variante de superficie está en [operaciones](navigation/25_access_operations.md).
 
-Llegamos a Balard. Mira hacia atrás y recupera la comparación con PC14. Ambos conservan una dirección ferroviaria, pero su longitud, conexiones y accesos son distintos. Una antigua red no produce automáticamente un único parque lineal. La promenade que hemos recorrido existe porque se resolvieron tramos concretos, y seguirá siendo utilizable mientras esas decisiones de acceso y mantenimiento funcionen.
+### W06 · Balard — dos modos de reutilizar una línea
 
-## 4. André-Citroën — diseñar el descanso sobre suelo productivo
+Hemos recorrido dos trozos de una antigua red. En PC14, una sección corta y encajada; aquí, una conexión más larga que necesitó un túnel rehabilitado para funcionar como paseo.
 
-Entra por el acceso meridional autorizado y mira el espacio antes de recorrerlo. Compara líneas, superficies abiertas y vegetación con los bordes de PC15. Allí la forma heredada concentraba el movimiento. Aquí el parque distribuye trayectorias y ofrece una composición que podemos reconocer desde varios puntos. No tienes que recorrer cada jardín para observar ese cambio.
+La forma ferroviaria sobrevive en ambos casos. Lo que cambia es el trabajo necesario para volverla pública. «Abandonado» y «abierto» describen estados distintos; no uno solo.
 
-El nombre conserva la asociación con la fábrica. La documentación de la ciudad vincula este terreno a la actividad industrial de Citroën y al parque que la sustituyó. No prometeremos que cada pavimento se apoya sobre una nave concreta ni que queda visible toda la fábrica. La evidencia suficiente es el cambio de uso de un emplazamiento productivo a un paisaje público diseñado.
+**Siguiente — W07, entrada sur André-Citroën (632 m):** ve por place Balard y rue Leblanc, utilizando aceras y cruces, hasta la entrada pública del parque en el sector rue Leblanc / rue de la Montagne-de-la-Fage. [Navegación peatonal](https://www.google.com/maps/dir/?api=1&origin=48.836100%2C2.278300&destination=48.839000%2C2.274700&travelmode=walking).
 
-[Ficha municipal André-Citroën: accesos, servicios, diseño e historia industrial](https://www.paris.fr/lieux/parc-andre-citroen-1791).
+### W07 · André-Citroën — de municiones a coches, de coches a parque
 
-Busca una relación que puedas describir sin vocabulario técnico: una línea recta junto a una superficie vegetal, una construcción de vidrio si está visible, una apertura hacia otro sector. Si un bassin está seco o una instalación cerrada, míralo tal como está. El proyecto no nos obliga a fingir agua, flores ni una actividad que hoy falta. La estación y el mantenimiento cambian lo que puede experimentarse.
+Ahora entramos en un paisaje planificado sobre un suelo industrial. Citroën instaló aquí una fábrica en 1915 para producir municiones. Terminada la guerra, la reconvirtió a automóviles. Las instalaciones fueron dejando el lugar hasta 1982; el parque abrió en 1992.
 
-Ahora la interpretación. Un parque diseñado no es menos interesante porque sus decisiones sean visibles. La distribución de caminos nos invita a pasar, detenernos, mirar o mantener una distancia. Después del corredor ferroviario, resulta útil reconocer que el descanso también necesita organización espacial. Un banco no elimina el trabajo que sostiene el lugar: limpieza, poda, reparación, vigilancia y decisiones sobre acceso.
+Es una secuencia casi demasiado perfecta para nuestro tema, salvo que entre esos cuatro hitos hubo personas trabajando, edificios cambiando y decisiones económicas. La historia no se reduce a una metamorfosis agradable.
 
-Haz una pausa real. No conviertas todos esos trabajos en un inventario moral que impida disfrutar. El argumento de la ruta está en reconocer transformaciones materiales mientras utilizamos sus resultados. Si encuentras un asiento disponible, siéntate; si no, detente donde no bloquees el camino. Comprueba agua y energía antes del tramo del río.
+Mira la geometría del parque. Los caminos, las superficies abiertas y los jardines no están aquí porque el terreno se quedara sin uso; son un uso nuevo, deliberadamente dibujado. En PC15 caminábamos siguiendo una línea preexistente. Aquí podemos elegir entre varias.
 
-Vuelve a mirar una línea que identificaste al entrar. El contraste con PC15 ya no depende de decir «salvaje» y «artificial» como categorías absolutas. Uno conserva una franja con procesos vegetales y límites de acceso; el otro compone un espacio más abierto mediante decisiones de diseño. Ambos necesitan cuidado, y ambos transforman lo que el suelo hacía antes.
+**Siguiente — W08, centro André-Citroën (453 m):** avanza por los caminos públicos hacia el espacio central, sin atravesar jardines cerrados.
 
-Sal hacia el nivel alto del quai y continúa a Javel solo si el recorrido público está libre. El río sirve como cierre de escala: tras dos corredores y dos terrenos industriales, encontramos una orilla que también organiza movimiento. La coda de la isla es breve y opcional con fatiga; no necesitamos prolongar el paseo para demostrar lo que ya hemos visto.
+### W08 · El centro del parque — la naturaleza con plano
 
-## Coda breve — una orilla también es infraestructura
+Aquí están la gran composición abierta, el canal y, según el punto desde el que mires, las serres o invernaderos. El canal original del parque fue rehabilitado en 2024. Si hoy hay poca agua, pocas flores o una instalación cerrada, eso forma parte de lo que vemos, no un fallo que tengamos que disimular.
 
-Desde el acceso legal de Grenelle, baja únicamente si las escaleras y la isla están abiertas. La estatua es un punto de llegada; esta coda observa la forma estrecha del paseo y su relación con el agua. No atribuimos a la isla un origen espontáneo por tener árboles. Tampoco reabrimos los capítulos de agua o amantes de otras rutas. Mira la separación entre orilla, circulación y lugar donde detenerse. El recorrido termina aquí; el retorno a Grenelle es una salida necesaria y se cuenta aparte.
+Hay una distinción curiosa: una planta que crece sola en el balasto y una plantada junto a un canal no tienen historias idénticas, pero ambas dependen ahora de decisiones humanas sobre acceso y mantenimiento.
+
+Lo que más me interesa es si este espacio te invita a moverte de otro modo. El antiguo ferrocarril dictaba dirección. Este parque propone elecciones. Una infraestructura también puede cambiar nuestro comportamiento sin decirnos una palabra.
+
+**Siguiente — W09, salida hacia la ribera (293 m):** continúa por los caminos abiertos hacia la salida señalizada al quai André-Citroën. Si te apetece, esta es la pausa larga del segundo parque.
+
+### W09 · Hacia el Sena — otra máquina a la vista
+
+Pasamos del suelo industrial al borde del río. Aquí también hay ingeniería: muelles, calzadas, puentes y cotas distintas para convivir con el agua y el tráfico.
+
+La ruta no necesita que el Sena parezca espectacular. Basta con notar que la orilla es una pieza fabricada de la ciudad, no un límite natural dibujado sin intervención.
+
+**Siguiente — W10, Javel (556 m):** sigue por la **acera alta** del quai André-Citroën hacia Javel. No bajes a tramos de ribera que puedan estar cerrados o inundados.
+
+### W10 · Javel — un nombre doméstico con pasado industrial
+
+Hay un detalle que me gusta: Javel no es únicamente un nombre de estación o de barrio. El agua de Javel, la lejía, toma el nombre de esta zona donde se fabricaban productos químicos desde antes de Citroën.
+
+En unos pocos siglos, este borde pasó de actividades fluviales a industria química, producción de municiones, automóviles y parque. El paisaje actual no exhibe todas esas capas. Algunas solo sobreviven en nombres y documentos.
+
+**Siguiente — W11, Pont de Grenelle (876 m):** continúa por la acera alta, enlazando con el quai de Grenelle hasta el puente. [Navegación peatonal con Javel](https://www.google.com/maps/dir/?api=1&origin=48.842800%2C2.272000&destination=48.851500%2C2.279400&travelmode=walking&waypoints=48.846300%2C2.276000).
+
+### W11 · Pont de Grenelle — una isla que también es obra
+
+La Île aux Cygnes parece, desde cierta distancia, un paseo entre árboles. Pero es una franja artificial, construida en 1827 y encajada entre dos brazos del Sena. La repetición ya se ve: seguimos encontrando espacios de ocio que existen gracias a decisiones de infraestructura.
+
+Aquí la pregunta no es si el lugar es natural o artificial. Es qué usos admite una forma tan estrecha: caminar, cruzar, detenerse y mirar el río desde otra posición.
+
+**Siguiente — W12, extremo sur de Île aux Cygnes (356 m):** localiza el acceso **legal y abierto** desde Pont de Grenelle. Baja por la escalera permitida y camina por el paseo de la isla hacia la réplica de la Estatua de la Libertad. Si el acceso está cerrado, termina en el puente.
+
+### W12 · Île aux Cygnes — cierre
+
+Llegamos a la estatua. Detrás quedan dos corredores ferroviarios, un recinto de mataderos, una fábrica convertida en parque y esta isla artificial.
+
+No voy a fingir que todos esos lugares cuentan la misma historia. Unos conservan estructuras, otros conservan nombres; en otros, casi todo lo visible es nuevo. Su parentesco es más interesante: la ciudad reutiliza formas anteriores, pero cada nueva función exige decisiones propias.
+
+Y tú acabas de probarlas caminando. El argumento de hoy tiene suelos, puertas, distancias y algún túnel. Mejor evidencia que una metáfora bonita.
+
+**Salida — regreso a W11, Pont de Grenelle (356 m adicionales):** vuelve por el mismo paseo público y sube por el acceso legal del puente para continuar tu día. El regreso no está incluido en los 7,794 km.
 
 ## Evidencia y operación
 
-Las cuatro escenas usan las fichas municipales enlazadas y el [inventario municipal de promenades](https://www.paris.fr/pages/la-petite-ceinture-et-ses-promenades-ecologiques-7855), consultados el 7 octubre. Sus horarios mostrados alcanzan el 24 octubre; noviembre necesita comprobación y variantes. No hubo inspección presencial, compra, llamada, ensayo, evaluación externa ni publicación web.
+Las fichas municipales enlazadas y el [inventario municipal de promenades](https://www.paris.fr/pages/la-petite-ceinture-et-ses-promenades-ecologiques-7855), la [apertura del túnel de PC15](https://www.paris.fr/pages/un-nouveau-troncon-de-la-petite-ceinture-ouvre-dans-le-15e-36094) y la [historia de Île aux Cygnes](https://www.paris.fr/pages/8-anecdotes-etonnantes-sur-les-iles-parisiennes-16403) sustentan la historia; las fichas municipales consultadas el 3 noviembre 2026 ya publican horarios de invierno: PC14 martes 08:00–17:00; Brassens y André-Citroën martes 08:00–17:45; PC15 martes 09:00–16:45. Las puertas y los avisos del día mandan sobre las páginas. El túnel de PC15 abrió en agosto de 2026 según anuncio municipal actualizado el 2 noviembre. No hubo inspección presencial, llamada, reserva ni ensayo del guion.
