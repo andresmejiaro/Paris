@@ -1,3 +1,5 @@
+> **Capa audiovisual 4 noviembre:** [instrucciones del narrador](../audiovisual/12.md) · [protocolo](../audiovisual_protocol.md). El cierre M04 utiliza el guion breve y la pareja histórica seleccionada en el documento enlazado, dentro de su presupuesto existente. Los mercados vivos se observan directamente; sin vídeo por defecto. No sumar tiempo de pantalla por defecto ni presentar el apoyo como acceso al interior.
+
 # Ruta 12 — Operación, contingencias y cierre DoD
 
 Cruce · **12-v1-20261005** · 5 octubre 2026. [Ficha](../12_market_morning.md) · [navegación](12_navigation.md) · [JSON](12.operations.json).

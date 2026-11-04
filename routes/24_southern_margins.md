@@ -1,3 +1,5 @@
+> **Actualización audiovisual — 4 noviembre 2026:** [Apoyos y decisiones](audiovisual/24.md). S03–S05 Bièvre es punto dudoso: mostrar comparación histórica antes de ir y dejar decidir a Andrés. Los puntos buenos conservan el revelado después de su foto. El apoyo no autoriza un recorte de GPX todavía no seleccionado. Aplicar el [protocolo](audiovisual_protocol.md). Esta capa complementa la versión base, sin cambiar por sí sola su traza.
+
 # Ruta 24 — Southern Margins: río enterrado, vivienda, suelo plantado y borde universitario
 
 Autoría, investigación, narración y operaciones: Cruce. Narrador: Aster. Revisión: 7 octubre 2026.

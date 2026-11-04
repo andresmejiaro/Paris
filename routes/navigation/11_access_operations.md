@@ -1,3 +1,5 @@
+> **Capa audiovisual 4 noviembre:** [instrucciones del narrador](../audiovisual_11_theatre.md) · [protocolo](../audiovisual_protocol.md). Adición concreta W02: opciones audiovisuales previas para decidir si visitar el exterior. La revisión completa de esta ruta sigue pendiente en la cola. No sumar tiempo de pantalla por defecto ni presentar el apoyo como acceso al interior.
+
 # Ruta 11 — Operación, contingencias y cierre DoD
 
 Cruce · **11-v1-20261006** · 6 octubre 2026.

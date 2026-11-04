@@ -1,3 +1,5 @@
+> **Actualización audiovisual — 4 noviembre 2026:** [Guía principal de Aster](audiovisual/14_aster_guide.md). Aster es la guía principal solicitada. Usar las escenas por foto/rótulo del documento enlazado; no leer el guion central de U02 entero de una vez ni añadir una segunda escucha obligatoria. No son pistas numeradas oficiales. Aplicar el [protocolo](audiovisual_protocol.md). Esta capa complementa la versión base, sin cambiar por sí sola su traza.
+
 # Ruta 14 — La ciudad bajo la ciudad
 
 Autoría, investigación, narración y operaciones: Cruce. Narrador: Aster. Revisión: 6 octubre 2026.

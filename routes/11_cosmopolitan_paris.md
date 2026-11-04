@@ -1,3 +1,5 @@
+> **Actualización audiovisual — 4 noviembre 2026:** [Apoyos y decisiones](audiovisual_11_theatre.md). Adición concreta W02: opciones audiovisuales previas para decidir si visitar el exterior. La revisión completa de esta ruta sigue pendiente en la cola. Aplicar el [protocolo](audiovisual_protocol.md). Esta capa complementa la versión base, sin cambiar por sí sola su traza.
+
 # Cosmopolitan Paris — Quién traduce la ciudad
 
 Cruce · **11-v1-20261006** · revisada el 6 de octubre de 2026 · **DONE**

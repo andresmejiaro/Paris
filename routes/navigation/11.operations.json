@@ -15,5 +15,16 @@
   "checks_on_day":["ICI exhibition and opening","CENTQUATRE public access","Passage Brady","Belleville park/rue Piat","weather, toilets and transport"],
   "services":{"water":"carry own","food":"optional purchase at displayed price","rest":"Strasbourg-Saint-Denis, ICI if authorized, Villette/Jaures or Belleville","toilet":"municipal dataset/live check; venue facilities not guaranteed","shelter":"partial only"},
   "variants":[{"id":"V0","trigger":"arrival disruption"},{"id":"V1","trigger":"Brady closed"},{"id":"V2","trigger":"ICI unavailable","action":"reschedule"},{"id":"V3","trigger":"CENTQUATRE closed","action":"reduced exterior chapter"},{"id":"V4","trigger":"fatigue on long transition","action":"exit or transit; not full walk"},{"id":"V5","trigger":"park/stairs unavailable"},{"id":"V6","trigger":"unsafe weather or crossing","action":"postpone or end early"}],
-  "external_review":"after closure"
+  "external_review":"after closure",
+  "audiovisual": {
+    "revision": "av-20261104-block1",
+    "full_route_review": "PENDING",
+    "protocol": "routes/audiovisual_protocol.md",
+    "guide": "routes/audiovisual_11_theatre.md",
+    "max_total_seconds_per_waypoint": 300,
+    "good_waypoint_release": "after_user_arrival_photo_only_if_additive",
+    "borderline_release": "before_travel_user_decides",
+    "duration_policy": "inside_existing_stop_budget_no_automatic_extension",
+    "base_geometry_changed": false
+  }
 }

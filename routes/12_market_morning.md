@@ -1,3 +1,5 @@
+> **Actualización audiovisual — 4 noviembre 2026:** [Apoyos y decisiones](audiovisual/12.md). El cierre M04 utiliza el guion breve y la pareja histórica seleccionada en el documento enlazado, dentro de su presupuesto existente. Los mercados vivos se observan directamente; sin vídeo por defecto. Aplicar el [protocolo](audiovisual_protocol.md). Esta capa complementa la versión base, sin cambiar por sí sola su traza.
+
 # Ruta 12 — Mercados y abastecimiento: antes de que París se siente a comer
 
 Autoría, investigación, narración y operaciones: Cruce. Revisión: 5 octubre 2026.

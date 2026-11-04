@@ -2,6 +2,21 @@
 
 # Paris — working experience index
 
+## Actualización audiovisual — 4 noviembre 2026
+
+[Protocolo de uso](audiovisual_protocol.md). Los documentos de preparación contienen spoilers: no mostrarlos completos antes de la visita.
+
+| Ruta | Estado de esta revisión | Material preparado |
+|---|---|---|
+|14|Revisión completa|[Guía principal de Aster, por fotos y rótulos](audiovisual/14_aster_guide.md)|
+|12|Revisión completa|[Apoyos seleccionados y cierre breve](audiovisual/12.md)|
+|24|Revisión completa|[Apoyos y decisión previa del punto dudoso](audiovisual/24.md)|
+|11|Adición puntual; revisión completa pendiente|[Opciones audiovisuales del teatro](audiovisual_11_theatre.md)|
+
+**Revelado:** en puntos buenos, reservar el apoyo hasta la foto de llegada y usarlo solo si añade algo; en puntos dudosos, mostrarlo antes de ir para decidir si merece la visita. Máximo cinco minutos en total por waypoint, sin duplicar la experiencia real. Las fuentes y límites de verificación están en cada guía. Las demás rutas no se consideran revisadas por esta actualización.
+
+Esta capa complementa las versiones base y se referencia desde sus fichas, navegación y operaciones. No añade automáticamente tiempo ni modifica las trazas. La valoración del límite de uso y la continuación por bloques se coordinan por separado.
+
 Read [Definition of Done](DEFINITION_OF_DONE.md) and [Cruce production reset v9](cruce_production_reset_v9.md) first. The fifteen-row architecture pool is inherited from v6; it is not an acceptance or completion count. The table below controls the current closure state. External review by several models follows completion; no such acceptance is claimed here.
 
 **Production closure — 7 October 2026: 26/26 catalog decisions resolved (100%): 25 DONE experiences and Route04 retired/absorbed into16.** This is not26 executable routes and not100% of bookings, external evaluation, spoken rehearsal, dated itinerary or website publication. See [delivery report](portfolio_delivery_20261007.md) and [machine-readable catalog](navigation/portfolio.delivery.json).

@@ -1,3 +1,5 @@
+> **Capa audiovisual 4 noviembre:** [instrucciones del narrador](../audiovisual/14_aster_guide.md) · [protocolo](../audiovisual_protocol.md). Aster es la guía principal solicitada. Usar las escenas por foto/rótulo del documento enlazado; no leer el guion central de U02 entero de una vez ni añadir una segunda escucha obligatoria. No son pistas numeradas oficiales. No sumar tiempo de pantalla por defecto ni presentar el apoyo como acceso al interior.
+
 # Ruta 14 — Navegación fija
 
 Cruce · **14-v1-20261006** · 6 octubre 2026. [Ficha](../14_paris_below.md) · [operaciones](14_access_operations.md) · [JSON](14.operations.json).

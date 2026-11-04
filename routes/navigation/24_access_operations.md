@@ -1,3 +1,5 @@
+> **Capa audiovisual 4 noviembre:** [instrucciones del narrador](../audiovisual/24.md) · [protocolo](../audiovisual_protocol.md). S03–S05 Bièvre es punto dudoso: mostrar comparación histórica antes de ir y dejar decidir a Andrés. Los puntos buenos conservan el revelado después de su foto. El apoyo no autoriza un recorte de GPX todavía no seleccionado. No sumar tiempo de pantalla por defecto ni presentar el apoyo como acceso al interior.
+
 # Ruta 24 — Operación, contingencias y cierre DoD
 
 Cruce · **24-v1-20261007** · 7 octubre 2026. [Ficha](../24_southern_margins.md) · [navegación](24_navigation.md).
