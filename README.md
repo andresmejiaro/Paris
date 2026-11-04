@@ -13,10 +13,18 @@
 |05|Revisión completa|[Comparaciones históricas y ejecución breve](routes/audiovisual/05.md)|
 |20|Revisión completa|[Archivos y objetos ausentes](routes/audiovisual/20.md)|
 |21|Revisión completa; sin vídeo obligatorio|[Prioridad a la experiencia sensorial](routes/audiovisual/21.md)|
+|10|Revisión completa|[Apoyos y condiciones de uso](routes/audiovisual/10.md)|
+|15|Revisión completa|[Apoyos y condiciones de uso](routes/audiovisual/15.md)|
+|16|Revisión completa|[Apoyos y condiciones de uso](routes/audiovisual/16.md)|
+|26|Revisión completa|[Apoyos y condiciones de uso](routes/audiovisual/26.md)|
+|18|Revisión completa|[Apoyos y condiciones de uso](routes/audiovisual/18.md)|
+|07|Revisión completa|[Apoyos y condiciones de uso](routes/audiovisual/07.md)|
 
 Los documentos de preparación contienen spoilers. En **puntos buenos**, reservar el material hasta la foto de llegada y usarlo solo si aporta algo; en **puntos dudosos**, mostrarlo antes de ir para decidir si merece la visita. Máximo **cinco minutos en total por waypoint**, sin repetir en pantalla lo que se ve en directo.
 
 [Protocolo completo](routes/audiovisual_protocol.md). Cada guía identifica fuentes, duración o presupuesto de observación, condiciones de revelado y límites de comprobación. Los apoyos no garantizan actividad o acceso ni modifican automáticamente trazados y tiempos. La revisión audiovisual de las demás rutas sigue pendiente.
+
+Las seis guías añadidas en este bloque están enlazadas arriba. La sincronización adicional de sus fichas canónicas, navegación y operaciones está preparada y comprobada, pendiente de publicación.
 
 ## Documentación operativa
 
