@@ -61,5 +61,16 @@
     "evidence":"routes/navigation/06.evidence.json",
     "operations":"routes/navigation/06_access_operations.md"
   },
-  "external_review": "after closure"
+  "external_review": "after closure",
+  "audiovisual": {
+    "revision": "av-20261104-block4",
+    "full_route_review": "COMPLETE",
+    "protocol": "routes/audiovisual_protocol.md",
+    "guide": "routes/audiovisual/06.md",
+    "max_total_seconds_per_waypoint": 300,
+    "good_waypoint_release": "after_user_arrival_photo_only_if_additive",
+    "borderline_release": "before_travel_user_decides",
+    "duration_policy": "inside_existing_stop_budget_no_automatic_extension",
+    "base_geometry_changed": false
+  }
 }

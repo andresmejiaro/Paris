@@ -1,3 +1,5 @@
+> **Capa audiovisual — revisión completa 4 noviembre:** [guía de ejecución](audiovisual/19.md) · [protocolo](audiovisual_protocol.md). Puntos buenos solo después de la foto y si el apoyo aporta algo; puntos dudosos antes de ir para decidir. Máximo 300 s totales por waypoint, dentro de la observación prevista; sin vídeo obligatorio.
+
 # Ruta 19 — Ilusiones centrales: la ciudad que completa tu mirada
 
 Autoría, investigación y operaciones: Cruce. Narrador: Aster. Revisión: 5 octubre 2026.

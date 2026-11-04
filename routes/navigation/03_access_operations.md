@@ -1,3 +1,5 @@
+> **Capa audiovisual — revisión completa 4 noviembre:** [guía de ejecución](../audiovisual/03.md) · [protocolo](../audiovisual_protocol.md). Puntos buenos solo después de la foto y si el apoyo aporta algo; puntos dudosos antes de ir para decidir. Máximo 300 s totales por waypoint, dentro de la observación prevista; sin vídeo obligatorio.
+
 # Ruta 03 — Accesos, operaciones y cierre
 
 **03-v10-20261005** · Cruce · 2026-10-05. [Ruta y guiones](../03_ghosts_revolution_nineteenth.md) · [navegación](03_navigation.md) · [JSON](03.operations.json).

@@ -1,3 +1,5 @@
+> **Capa audiovisual — revisión completa 4 noviembre:** [guía de ejecución](audiovisual/03.md) · [protocolo](audiovisual_protocol.md). Puntos buenos solo después de la foto y si el apoyo aporta algo; puntos dudosos antes de ir para decidir. Máximo 300 s totales por waypoint, dentro de la observación prevista; sin vídeo obligatorio.
+
 > **DONE — versión 03-v10-20261005, revisada el 5 de octubre de 2026.**
 > Esta es la versión elegida para el viaje y cumple los criterios de aceptación bajo control del agente.
 > Comprobaciones del día: horario/avisos meteorológicos, apertura de puertas, visibilidad y acceso respetuoso a las tres sepulturas, aseos y transporte.

@@ -1,3 +1,5 @@
+> **Capa audiovisual — revisión completa 4 noviembre:** [guía de ejecución](../audiovisual/03.md) · [protocolo](../audiovisual_protocol.md). Puntos buenos solo después de la foto y si el apoyo aporta algo; puntos dudosos antes de ir para decidir. Máximo 300 s totales por waypoint, dentro de la observación prevista; sin vídeo obligatorio.
+
 # Ruta 03 — Navegación fija en Père-Lachaise
 
 Cruce · **03-v10-20261005** · revisada 2026-10-05. [Ficha](../03_ghosts_revolution_nineteenth.md) · [operaciones](03_access_operations.md) · [JSON](03.operations.json) · [GPX](03.gpx) · [variantes](03.variants.gpx) · [GeoJSON](03.geojson) · [evidencia](03.evidence.json).

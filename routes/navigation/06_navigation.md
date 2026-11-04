@@ -1,3 +1,5 @@
+> **Capa audiovisual — revisión completa 4 noviembre:** [guía de ejecución](../audiovisual/06.md) · [protocolo](../audiovisual_protocol.md). Puntos buenos solo después de la foto y si el apoyo aporta algo; puntos dudosos antes de ir para decidir. Máximo 300 s totales por waypoint, dentro de la observación prevista; sin vídeo obligatorio.
+
 # Ruta 06 — Navegación fija
 
 Cruce · **06-v1-20261006** · 6 octubre 2026. [Ficha](../06_revolutionary_paris.md) · [operaciones](06_access_operations.md) · [JSON](06.operations.json).

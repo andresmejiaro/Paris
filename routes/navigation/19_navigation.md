@@ -1,3 +1,5 @@
+> **Capa audiovisual — revisión completa 4 noviembre:** [guía de ejecución](../audiovisual/19.md) · [protocolo](../audiovisual_protocol.md). Puntos buenos solo después de la foto y si el apoyo aporta algo; puntos dudosos antes de ir para decidir. Máximo 300 s totales por waypoint, dentro de la observación prevista; sin vídeo obligatorio.
+
 # Ruta 19 — Navegación fija
 
 Cruce · **19-v1-20261005** · 5 octubre 2026. [Ficha](../19_paris_illusions.md) · [operaciones](19_access_operations.md) · [JSON](19.operations.json).

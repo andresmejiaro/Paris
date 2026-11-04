@@ -19,6 +19,9 @@
 |26|Revisión completa|[Apoyos y condiciones de uso](routes/audiovisual/26.md)|
 |18|Revisión completa|[Apoyos y condiciones de uso](routes/audiovisual/18.md)|
 |07|Revisión completa|[Apoyos y condiciones de uso](routes/audiovisual/07.md)|
+|06|Revisión completa|[Apoyos y condiciones de uso](routes/audiovisual/06.md)|
+|19|Revisión completa|[Apoyos y condiciones de uso](routes/audiovisual/19.md)|
+|03|Revisión completa|[Apoyos y condiciones de uso](routes/audiovisual/03.md)|
 
 Los documentos de preparación contienen spoilers. En **puntos buenos**, reservar el material hasta la foto de llegada y usarlo solo si aporta algo; en **puntos dudosos**, mostrarlo antes de ir para decidir si merece la visita. Máximo **cinco minutos en total por waypoint**, sin repetir en pantalla lo que se ve en directo.
 

@@ -21,6 +21,9 @@
 |26|Revisión completa|[Apoyos y condiciones de uso](audiovisual/26.md)|
 |18|Revisión completa|[Apoyos y condiciones de uso](audiovisual/18.md)|
 |07|Revisión completa|[Apoyos y condiciones de uso](audiovisual/07.md)|
+|06|Revisión completa|[Apoyos y condiciones de uso](audiovisual/06.md)|
+|19|Revisión completa|[Apoyos y condiciones de uso](audiovisual/19.md)|
+|03|Revisión completa|[Apoyos y condiciones de uso](audiovisual/03.md)|
 
 **Revelado:** en puntos buenos, reservar el apoyo hasta la foto de llegada y usarlo solo si añade algo; en puntos dudosos, mostrarlo antes de ir para decidir si merece la visita. Máximo cinco minutos en total por waypoint, sin duplicar la experiencia real. Las fuentes y límites de verificación están en cada guía. Las demás rutas no se consideran revisadas por esta actualización.
 
