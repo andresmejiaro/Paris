@@ -11,7 +11,10 @@
 |14|Revisión completa|[Guía principal de Aster, por fotos y rótulos](audiovisual/14_aster_guide.md)|
 |12|Revisión completa|[Apoyos seleccionados y cierre breve](audiovisual/12.md)|
 |24|Revisión completa|[Apoyos y decisión previa del punto dudoso](audiovisual/24.md)|
-|11|Adición puntual; revisión completa pendiente|[Opciones audiovisuales del teatro](audiovisual_11_theatre.md)|
+|11|Revisión completa|[Apoyos y decisiones](audiovisual/11.md) · [opciones del teatro](audiovisual_11_theatre.md)|
+|05|Revisión completa|[Comparaciones históricas y ejecución breve](audiovisual/05.md)|
+|20|Revisión completa|[Archivos y objetos ausentes](audiovisual/20.md)|
+|21|Revisión completa; sin vídeo obligatorio|[Prioridad a la experiencia sensorial](audiovisual/21.md)|
 
 **Revelado:** en puntos buenos, reservar el apoyo hasta la foto de llegada y usarlo solo si añade algo; en puntos dudosos, mostrarlo antes de ir para decidir si merece la visita. Máximo cinco minutos en total por waypoint, sin duplicar la experiencia real. Las fuentes y límites de verificación están en cada guía. Las demás rutas no se consideran revisadas por esta actualización.
 

@@ -1,6 +1,6 @@
 # Ruta 11 — Bouffes du Nord: decisión audiovisual previa
 
-4 noviembre 2026. Adición solicitada expresamente por el visitante; la revisión completa de la ruta 11 queda para su bloque en la cola. Aplicar el [protocolo](audiovisual_protocol.md).
+4 noviembre 2026. Adición solicitada expresamente por el visitante; la [revisión completa de la ruta11](audiovisual/11.md) ya está integrada. Aplicar el [protocolo](audiovisual_protocol.md).
 
 ## W02 — Punto dudoso, mostrar ANTES de ir
 
@@ -29,4 +29,4 @@ Se localizó además por título un [resultado del canal oficial Edinburgh Inter
 
 Antes del desplazamiento, explicar: «Esto muestra lo que hay dentro; nuestra parada prevista es exterior. ¿Te despierta ganas de estar allí o con el vídeo ya te basta?». La decisión queda pendiente de el visitante; no omitir ni mantener automáticamente W02 y no cambiar el GPX antes de conocerla. Si la conserva, evitar recitar además toda la explicación que acaba de ver: comentar solo el vínculo con la adaptación y lo que observa en ese momento. La ausencia de entrada no se subsana con un vídeo.
 
-La revaloración completa de la ruta 11 no está hecha en este bloque. Este registro añade las opciones pedidas sin fingir una cuarta ruta revisada.
+La [revisión completa de la ruta11](audiovisual/11.md) integra estas opciones y mantiene sus límites de comprobación. Este registro conserva el detalle de la decisión del teatro.

@@ -1,3 +1,5 @@
+> **Capa audiovisual — revisión completa 4 noviembre:** [guía de ejecución](../audiovisual/20.md) · [protocolo](../audiovisual_protocol.md). Archivos identificados de Dumas y proyecto Marchand después de la foto; los documentos no sustituyen acceso al jardín o salones. Máximo300s por waypoint, dentro de observación existente.
+
 # Ruta 20 — Acceso, costes y contingencias
 
 ## 20A

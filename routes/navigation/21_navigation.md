@@ -1,3 +1,5 @@
+> **Capa audiovisual — revisión completa 4 noviembre:** [guía de ejecución](../audiovisual/21.md) · [protocolo](../audiovisual_protocol.md). Foto y degustación primero. Sin vídeo obligatorio; el candidato de elaboración de pan no se presenta como fragmento plenamente comprobado. Máximo300s por waypoint, dentro de observación existente.
+
 # 21 — Navegación utilizable
 
 Versión 21-v10-20261005. Trazas peatonales calculadas con Valhalla sobre OpenStreetMap; no inspeccionadas presencialmente. Señales, obras y pasos reales mandan.

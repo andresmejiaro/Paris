@@ -1,3 +1,5 @@
+> **Capa audiovisual — revisión completa 4 noviembre:** [guía de ejecución](../audiovisual/21.md) · [protocolo](../audiovisual_protocol.md). Foto y degustación primero. Sin vídeo obligatorio; el candidato de elaboración de pan no se presenta como fragmento plenamente comprobado. Máximo300s por waypoint, dentro de observación existente.
+
 # 21 — Operaciones, tiempos y contingencias
 
 Versión 21-v10-20261005, revisada el 5 octubre 2026. Controla la ejecución junto con la [ficha](../21_paris_popular_flavours.md), las [instrucciones](21_navigation.md), el [GPX base](21.gpx) y las [variantes](21.variants.gpx).

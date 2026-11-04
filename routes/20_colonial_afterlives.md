@@ -1,3 +1,5 @@
+> **Revisión audiovisual completa — 4 noviembre 2026:** [apoyos y ejecución](audiovisual/20.md). Archivos identificados de Dumas y proyecto Marchand después de la foto; los documentos no sustituyen acceso al jardín o salones. Aplicar el [protocolo](audiovisual_protocol.md), máximo cinco minutos por waypoint. Geometría y presupuestos base no se amplían automáticamente.
+
 # Ruta 20 — Colonial Afterlives: quién ocupa el pedestal
 
 > **DONE — versión 20-v1-20261007, revisada el 7 de octubre de 2026.**
@@ -37,7 +39,7 @@ Según el relato transmitido por Lacour, Solitude fue condenada mientras estaba 
 
 Rodea únicamente por el camino abierto hasta encontrar *Fers*. Mira los dos grandes anillos y la relación de cadenas, suelo y aire. No son hierros recuperados del cuerpo de Thomas-Alexandre Dumas. Driss Sans-Arcidet instaló la obra en 2009 como homenaje monumental al general nacido esclavizado en Saint-Domingue. Un aro se abre; otro permanece cerrado. Es lenguaje escultórico, no evidencia arqueológica individual.
 
-Aquí hubo otra ausencia. Una estatua del general, instalada en 1912 según la ficha municipal, fue fundida durante Vichy en 1942. *Fers* restableció el homenaje con otra forma; no es estatua superviviente ni réplica. En 2025 se abrió una suscripción para reconstruir la figura histórica, proyecto que confirma que el conjunto puede volver a cambiar. No prometemos que esa nueva estatua exista ya.
+Aquí hubo otra ausencia. Una estatua anterior del general fue destruida durante Vichy en 1942. *Fers* restableció el homenaje con otra forma; no es estatua superviviente ni réplica. En 2025 se abrió una suscripción para reconstruir la figura histórica, proyecto que confirma que el conjunto puede volver a cambiar. No prometemos que esa nueva estatua exista ya.
 
 Levanta la vista hacia la plaza. Siguen las efigies del escritor Alexandre Dumas y de Alexandre Dumas fils. No confundas tres generaciones. Tampoco digas que añadir dos obras equilibra automáticamente la historia: la plaza conserva el nombre de Général Catroux, gobernador general de Argelia en 1943–44, mientras el jardín introduce otro nombre.
 

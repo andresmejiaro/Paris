@@ -1,4 +1,4 @@
-> **Capa audiovisual 4 noviembre:** [instrucciones del narrador](../audiovisual_11_theatre.md) · [protocolo](../audiovisual_protocol.md). Adición concreta W02: opciones audiovisuales previas para decidir si visitar el exterior. La revisión completa de esta ruta sigue pendiente en la cola. No sumar tiempo de pantalla por defecto ni presentar el apoyo como acceso al interior.
+> **Capa audiovisual — revisión completa 4 noviembre:** [guía de ejecución](../audiovisual/11.md) · [protocolo](../audiovisual_protocol.md). Revisión completa: teatro dudoso con material antes de ir; ICI se mira en sala; CENTQUATRE no se sustituye por actividad filmada. Los puntos buenos conservan su foto primero. Máximo300s por waypoint, dentro de observación existente.
 
 # Ruta 11 — Operación, contingencias y cierre DoD
 

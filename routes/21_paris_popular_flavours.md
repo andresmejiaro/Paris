@@ -1,3 +1,5 @@
+> **Revisión audiovisual completa — 4 noviembre 2026:** [apoyos y ejecución](audiovisual/21.md). Foto y degustación primero. Sin vídeo obligatorio; el candidato de elaboración de pan no se presenta como fragmento plenamente comprobado. Aplicar el [protocolo](audiovisual_protocol.md), máximo cinco minutos por waypoint. Geometría y presupuestos base no se amplían automáticamente.
+
 # 21 — París se come a pie
 Autoría y operaciones: Cruce. Narradora: Miga. Revisión documental y comercial: 5 octubre 2026.
 

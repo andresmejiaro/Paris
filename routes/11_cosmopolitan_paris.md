@@ -1,4 +1,4 @@
-> **Actualización audiovisual — 4 noviembre 2026:** [Apoyos y decisiones](audiovisual_11_theatre.md). Adición concreta W02: opciones audiovisuales previas para decidir si visitar el exterior. La revisión completa de esta ruta sigue pendiente en la cola. Aplicar el [protocolo](audiovisual_protocol.md). Esta capa complementa la versión base, sin cambiar por sí sola su traza.
+> **Revisión audiovisual completa — 4 noviembre 2026:** [apoyos y ejecución](audiovisual/11.md). Revisión completa: teatro dudoso con material antes de ir; ICI se mira en sala; CENTQUATRE no se sustituye por actividad filmada. Los puntos buenos conservan su foto primero. Aplicar el [protocolo](audiovisual_protocol.md), máximo cinco minutos por waypoint. Geometría y presupuestos base no se amplían automáticamente.
 
 # Cosmopolitan Paris — Quién traduce la ciudad
 
@@ -10,7 +10,7 @@ Una caminata diurna sobre cinco mecanismos con los que París se vuelve internac
 
 **Línea fija:** Passage Brady → Bouffes du Nord → ICI Léon → CENTQUATRE → Belleville/rue Dénoyez → mirador de rue Piat. **7,356 km exteriores**, más 0,2–0,5 km posibles en interiores. El tramo CENTQUATRE–Belleville mide **2,543 km**: es una transición urbana de 35–45 minutos, no una parada demográfica. Incluye pausa en Villette/Jaurès; si resulta incómodo, V4 lo sustituye por transporte y la ejecución deja de ser la caminata completa.
 
-**Ventana:** miércoles–domingo, inicio recomendado 10:45–11:15; último 11:30; final 16:30–17:30 y antes de oscuridad incómoda. Duración **5 h 15–6 h 15**: marcha 2 h–2 h 20, narración/observación 1 h 35–1 h 55, ICI 45–60 min, CENTQUATRE 25–40 min, pausa 25–35 min. €0, sin reserva. ICI es esencial; CENTQUATRE es esencial como interior o con la variante reducida V3.
+**Ventana:** miércoles–domingo, inicio recomendado 10:45–11:15; último 11:30; final 16:30–17:30 y antes de oscuridad incómoda. Duración **5 h 15–6 h 15**: marcha 2 h–2 h 20, narración/observación 1 h 35–1 h 55, ICI 45–60 min, CENTQUATRE 25–40 min, pausa 25–35 min. €0, sin reserva. ICI es esencial. CENTQUATRE conserva valor condicionado al acceso y a lo que esté ocurriendo; con hall vacío, usar la lectura breve de la capa audiovisual y declarar la pérdida, sin presentar V3 como experiencia equivalente.
 
 Coordenadas e instrucciones: [navegación](navigation/11_navigation.md). Acceso, servicios y variantes: [operación](navigation/11_access_operations.md). Fuentes: [evidencia](navigation/11.evidence.json).
 

@@ -377,5 +377,16 @@
     "05.operations.json",
     "05_navigation.md",
     "05_access_operations.md"
-  ]
+  ],
+  "audiovisual": {
+    "revision": "av-20261104-block2",
+    "full_route_review": "COMPLETE",
+    "protocol": "routes/audiovisual_protocol.md",
+    "guide": "routes/audiovisual/05.md",
+    "max_total_seconds_per_waypoint": 300,
+    "good_waypoint_release": "after_user_arrival_photo_only_if_additive",
+    "borderline_release": "before_travel_user_decides",
+    "duration_policy": "inside_existing_stop_budget_no_automatic_extension",
+    "base_geometry_changed": false
+  }
 }

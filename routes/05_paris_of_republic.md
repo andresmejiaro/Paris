@@ -1,3 +1,5 @@
+> **Revisión audiovisual completa — 4 noviembre 2026:** [apoyos y ejecución](audiovisual/05.md). Comparaciones históricas después de la foto; bisagra del Senado abreviada sin visita virtual adicional. Aplicar el [protocolo](audiovisual_protocol.md), máximo cinco minutos por waypoint. Geometría y presupuestos base no se amplían automáticamente.
+
 # 05 — Quién puede ser Francia
 
 República y representación · **Cruce** · **05-v10-20261005** · revisada el **5 de octubre de 2026**.
@@ -66,7 +68,7 @@ Búsqueda finita con el plano actual del visitante: nave como antigua iglesia/te
 
 ## Guiones para escuchar en el lugar
 
-Leer detenido; dejar silencios para buscar objetos y decidir por dónde caminar. Cada capítulo identifica interpretación y leyenda cuando cambia el registro. No escuchar durante cruces. El breve Sénat y las adaptaciones están dimensionados por su material, sin imponerles 450 palabras.
+Mirar primero y dejar silencios para reconocer objetos; dar el siguiente destino antes de narrar caminando cuando sea seguro. La capa audiovisual enlazada controla los recortes y sus momentos de revelado. Cada capítulo identifica interpretación y leyenda cuando cambia el registro. No escuchar durante cruces. El breve Sénat y las adaptaciones están dimensionados por su material, sin imponerles 450 palabras.
 
 ### A01 — République: la mujer, el león y la urna
 

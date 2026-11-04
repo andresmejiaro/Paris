@@ -1,3 +1,5 @@
+> **Capa audiovisual — revisión completa 4 noviembre:** [guía de ejecución](../audiovisual/05.md) · [protocolo](../audiovisual_protocol.md). Comparaciones históricas después de la foto; bisagra del Senado abreviada sin visita virtual adicional. Máximo300s por waypoint, dentro de observación existente.
+
 # Ruta 05 — Navegación fija
 
 Cruce · **05-v10-20261005** · revisada 2026-10-05. [Ficha](../05_paris_of_republic.md) · [operaciones](05_access_operations.md) · [JSON](05.operations.json) · [GPX](05.gpx) · [variantes](05.variants.gpx) · [GeoJSON](05.geojson) · [evidencia](05.evidence.json).

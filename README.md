@@ -9,7 +9,10 @@
 |14|Revisión completa|[Aster como guía principal, por fotos y rótulos](routes/audiovisual/14_aster_guide.md)|
 |12|Revisión completa|[Apoyos seleccionados y cierre breve](routes/audiovisual/12.md)|
 |24|Revisión completa|[Apoyos y decisión previa del punto dudoso](routes/audiovisual/24.md)|
-|11|Adición puntual; revisión completa pendiente|[Opciones audiovisuales del teatro](routes/audiovisual_11_theatre.md)|
+|11|Revisión completa|[Apoyos y decisiones](routes/audiovisual/11.md) · [opciones del teatro](routes/audiovisual_11_theatre.md)|
+|05|Revisión completa|[Comparaciones históricas y ejecución breve](routes/audiovisual/05.md)|
+|20|Revisión completa|[Archivos y objetos ausentes](routes/audiovisual/20.md)|
+|21|Revisión completa; sin vídeo obligatorio|[Prioridad a la experiencia sensorial](routes/audiovisual/21.md)|
 
 Los documentos de preparación contienen spoilers. En **puntos buenos**, reservar el material hasta la foto de llegada y usarlo solo si aporta algo; en **puntos dudosos**, mostrarlo antes de ir para decidir si merece la visita. Máximo **cinco minutos en total por waypoint**, sin repetir en pantalla lo que se ve en directo.
 
