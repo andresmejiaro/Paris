@@ -24,8 +24,6 @@ Los documentos de preparación contienen spoilers. En **puntos buenos**, reserva
 
 [Protocolo completo](routes/audiovisual_protocol.md). Cada guía identifica fuentes, duración o presupuesto de observación, condiciones de revelado y límites de comprobación. Los apoyos no garantizan actividad o acceso ni modifican automáticamente trazados y tiempos. La revisión audiovisual de las demás rutas sigue pendiente.
 
-Las seis guías añadidas en este bloque están enlazadas arriba. La sincronización adicional de sus fichas canónicas, navegación y operaciones está preparada y comprobada, pendiente de publicación.
-
 ## Documentación operativa
 
 El [índice de rutas](routes/README.md) enlaza fichas, guiones, navegación, operaciones y trazas. Los archivos específicos de cada ruta gobiernan su ejecución; el [catálogo de entrega](routes/navigation/portfolio.delivery.json) registra la producción base y no constituye una revisión audiovisual de todo el repertorio.

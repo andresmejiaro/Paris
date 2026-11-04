@@ -1,3 +1,5 @@
+> **Capa audiovisual — revisión completa 4 noviembre:** [guía de ejecución](../audiovisual/07.md) · [protocolo](../audiovisual_protocol.md). Lutetia y Japy antes de decidir desplazarse; museo y Memorial primero en persona. Sin vídeo obligatorio. Máximo 300 s por waypoint, dentro de observación existente.
+
 # Ruta 07 — Operación, contingencias y cierre DoD
 
 Cruce · **07-v1-20261006** · 6 octubre 2026. [Ficha](../07_occupied_paris.md) · [navegación](07_navigation.md) · [JSON](07.operations.json).

@@ -1,3 +1,5 @@
+> **Revisión audiovisual completa — 4 noviembre 2026:** [apoyos y ejecución](audiovisual/10.md) · [protocolo](audiovisual_protocol.md). Obras ausentes después de la foto; umbrales dudosos antes de desplazarse. No sustituye actividad nocturna ni acceso. Máximo 300 s por waypoint, dentro de los tiempos existentes; geometría sin cambios.
+
 # Ruta 10 — París se pone en escena después del anochecer
 
 > **DONE — versión 10-v1-20261006, revisada el 6 de octubre de 2026.**

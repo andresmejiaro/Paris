@@ -1,3 +1,5 @@
+> **Capa audiovisual — revisión completa 4 noviembre:** [guía de ejecución](audiovisual/26.md) · [protocolo](audiovisual_protocol.md). Monge, 36 y satélites dudosos: archivo antes de desplazarse; Diana se decide como módulo independiente. Puntos buenos: foto de llegada primero. Máximo 300 s totales por waypoint, dentro del tiempo existente; sin cambios de geometría.
+
 # 26 — Del crimen contado al expediente
 
 **DONE — 26-v2-20261007, revisada el 7 octubre 2026.** Cruce diseña; Noctámbulo narra. Base independiente gratuita: BiLiPo → acera pública de rue Monge junto al bloque del museo → antiguo 36. La visita interior policial es un módulo opcional con reserva obligatoria, no condición para ejecutar la base. Los satélites Nozière y Diana tienen llegadas públicas y guiones propios; no se unen al núcleo a pie. Comprobaciones del día: horario/exposición de BiLiPo, aceras y seguridad, aseos y transporte. Variantes V0–V5 en [operaciones](navigation/26_access_operations.md). Revisión externa por varios modelos y feedback: posterior al cierre. No se ha reservado, comprado, ensayado audio ni inspeccionado el terreno.

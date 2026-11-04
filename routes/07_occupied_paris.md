@@ -1,3 +1,5 @@
+> **Capa audiovisual — revisión completa 4 noviembre:** [guía de ejecución](audiovisual/07.md) · [protocolo](audiovisual_protocol.md). Lutetia y Japy antes de decidir desplazarse; museo y Memorial primero en persona. Sin vídeo obligatorio. Máximo 300 s por waypoint, dentro de observación existente.
+
 # Ruta 07 — París ocupado: lo que una ciudad permite, lo que una ciudad recuerda
 
 Autoría, investigación, narración y operaciones: Cruce. Revisión: 6 octubre 2026.

@@ -18,5 +18,16 @@
     {"id":"V5","trigger":"broad closure or perceived safety problem","finish":"Pigalle via uncharted transport or terminate","loses":"continuous walk"}
   ],
   "day_checks":["dated programmes and active-night gate","weather and stairs","works and public access","WC/refuge/water","return transport","ticket terms only if extension selected"],
-  "claims_not_made":["field inspection","GPS survey","dense router polyline","booking or purchase","audio rehearsal","external review","website publication"]
+  "claims_not_made":["field inspection","GPS survey","dense router polyline","booking or purchase","audio rehearsal","external review","website publication"],
+  "audiovisual": {
+    "revision": "av-20261104-block3",
+    "full_route_review": "COMPLETE",
+    "protocol": "routes/audiovisual_protocol.md",
+    "guide": "routes/audiovisual/10.md",
+    "max_total_seconds_per_waypoint": 300,
+    "good_waypoint_release": "after_user_arrival_photo_only_if_additive",
+    "borderline_release": "before_travel_user_decides",
+    "duration_policy": "inside_existing_stop_budget_no_automatic_extension",
+    "base_geometry_changed": false
+  }
 }

@@ -1,3 +1,5 @@
+> **Capa audiovisual — revisión completa 4 noviembre:** [guía de ejecución](../audiovisual/10.md) · [protocolo](../audiovisual_protocol.md). Obras ausentes después de la foto; umbrales dudosos antes de desplazarse. No sustituye actividad nocturna ni acceso. Máximo 300 s por waypoint, sin ampliar tiempos base.
+
 # Ruta 10 — navegación elegida
 
 Versión `10-v1-20261006`. Base exterior S01→S07, **5,487 km**. Distancias de seis tramos Valhalla/OSM archivados el 3 de octubre de 2026. La traza fija es simplificada: obedecer aceras, pasos, señales y cierres.

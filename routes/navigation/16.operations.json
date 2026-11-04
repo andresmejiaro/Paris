@@ -88,7 +88,8 @@
     "live_inventory_checked": false,
     "booked": false,
     "intertitle_subtitle_language": "Not specified in programme",
-    "pianist_for_this_session": "Not identified; general silent-film practice does not guarantee a named performer"
+    "pianist_for_this_session": "Camille Taver, now named on official event/3334; checked 2026-11-04 for the historical 3 November screening",
+    "temporal_status": "HISTORICAL: 2026-11-03 screening is past as of 2026-11-04; not booked or attendance asserted"
   },
   "general_gallery": {
     "variant": "V1",
@@ -1223,5 +1224,36 @@
       }
     ],
     "map_review": "Reviewed by Cruce against OSM: façade/front/north portal, surface metro endpoints, patio north approach/east exit, upper public streets, outside park and away from covered passages/parking ramps. Not field survey or external model review."
+  },
+  "audiovisual": {
+    "revision": "av-20261104-block3",
+    "full_route_review": "COMPLETE",
+    "protocol": "routes/audiovisual_protocol.md",
+    "guide": "routes/audiovisual/16.md",
+    "max_total_seconds_per_waypoint": 300,
+    "good_waypoint_release": "after_user_arrival_photo_only_if_additive",
+    "borderline_release": "before_travel_user_decides",
+    "duration_policy": "inside_existing_stop_budget_no_automatic_extension",
+    "base_geometry_changed": false
+  },
+  "current_execution_as_of_20261104": {
+    "variant": "V1",
+    "experience": "gallery without full film",
+    "source": "https://www.fondation-jeromeseydoux-pathe.com/cms/infos-pratique",
+    "gallery_source": "https://www.fondation-jeromeseydoux-pathe.com/cms/galerie_appareil",
+    "remaining_ordinary_candidate_dates": [
+      "2026-11-04",
+      "2026-11-05",
+      "2026-11-06",
+      "2026-11-07",
+      "2026-11-10",
+      "2026-11-12",
+      "2026-11-13"
+    ],
+    "on_day_access_required": true,
+    "new_screening_selected": false,
+    "booked": false,
+    "travel_limit": "Return 2026-11-13; 14 November remains general catalogue date only, unavailable during this trip",
+    "afternoon_experience_score": 7
   }
 }

@@ -1,3 +1,5 @@
+> **Capa audiovisual — revisión completa 4 noviembre:** [guía de ejecución](audiovisual/18.md) · [protocolo](audiovisual_protocol.md). Bóveda antes de decidir el tramo cubierto; archivo de La Villette solo tras foto de llegada. Sin vídeo obligatorio. Máximo 300 s por waypoint, dentro de observación existente.
+
 # Ruta 18 — El canal cambia de trabajo
 
 Cruce · **DONE — 18-v1-20261006, revisada el 6 de octubre de 2026** · narración: Cruce.

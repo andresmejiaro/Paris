@@ -1,3 +1,5 @@
+> **Capa audiovisual — revisión completa 4 noviembre:** [guía de ejecución](../audiovisual/15.md) · [protocolo](../audiovisual_protocol.md). Archivo después de la foto; cierres conocidos antes de desplazarse. No sustituye comercio, interior ni lectura. Máximo 300 s por waypoint, sin ampliar tiempos base.
+
 # Ruta 15 — Operación, contingencias y cierre DoD
 
 Cruce · **15-v1-20261005** · 5 octubre 2026. [Ficha](../15_paris_reads.md) · [navegación](15_navigation.md) · [JSON](15.operations.json).

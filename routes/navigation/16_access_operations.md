@@ -1,19 +1,21 @@
+> **Capa audiovisual — revisión completa 4 noviembre:** [guía de ejecución](../audiovisual/16.md) · [protocolo](../audiovisual_protocol.md). V1 galería como alternativa vigente; sesión del 3/11 histórica. Puntos buenos: foto de llegada primero. Máximo 300 s totales por waypoint, dentro del tiempo existente; sin cambios de geometría.
+
 # Ruta 16 — Operación y cierre DoD
 
 Cruce · **16-v10-20261005** · revisión documental/cartográfica 5 octubre 2026. [Ficha canónica](../16_cinema_paris.md) · [navegación](16_navigation.md) · [registro estructurado](16.operations.json).
 
 ## Qué se programa
 
-El núcleo fijo tiene 2.555 km; aproximación 0.164 y regreso 0.217 km. El programa elegido es **3/11/2026 a las 16:30** en Pathé; tiene 51 minutos publicados. No se ha consultado inventario vivo de butacas ni adquirido entradas. Las páginas del operador publican sesión y enlace de venta, no garantizan una butaca para Andrés. La variante general es **V1, galería**, con sus propias pérdidas declaradas. La coda se decide por separado.
+El núcleo fijo tiene 2.555 km; aproximación 0.164 y regreso 0.217 km. El programa histórico elegido era **3/11/2026 a las 16:30** en Pathé; tiene 51 minutos publicados y ya pasó. Al 4/11, ejecutar **V1, galería sin película**, en un día restante ordinario con acceso confirmado; no hay otra sesión elegida. No se ha consultado inventario vivo de butacas ni adquirido entradas. Las páginas del operador publican sesión y enlace de venta, no garantizan una butaca para Andrés. La variante general es **V1, galería**, con sus propias pérdidas declaradas. La coda se decide por separado.
 
 ### Control antes de salir
 
-1. Abrir [sesión exacta](https://www.fondation-jeromeseydoux-pathe.com/event/3334) y [billetterie oficial](https://www.fondation-jeromeseydoux-pathe.com/cms/infos-pratique). Confirmar fecha/hora y admisión; conservar el título que se va a ver. Si no hay entrada, no hay sesión seleccionada: elegir V1 por €5, sin comprar otro espectáculo.
+1. Para una futura sesión distinta haría falta elegir de nuevo fecha/hora: el enlace conservado es de la sesión pasada. Para V1 comprobar galería y apertura, sin aplicar la hora histórica de 16:30. Referencia histórica: abrir [sesión exacta](https://www.fondation-jeromeseydoux-pathe.com/event/3334) y [billetterie oficial](https://www.fondation-jeromeseydoux-pathe.com/cms/infos-pratique). Confirmar fecha/hora y admisión; conservar el título que se va a ver. Si no hay entrada, no hay sesión seleccionada: elegir V1 por €5, sin comprar otro espectáculo.
 2. Comprobar acceso a la galería al elegir fecha y al entrar. Si no está abierta pero hay admisión al film, V3. Si la institución entera está cerrada, V4; no pasear hasta una puerta inútil si el cierre se conoce antes.
-3. Los intertítulos/subtítulos no están especificados en la ficha. Si comprenderlos es condición personal, comprobar su idioma mediante la información de venta/recepción antes de comprar; si no se consigue, elegir V1. El piano es práctica anunciada por la institución, no un pianista identificado para esta sesión; ausencia/cambio no destruye el paseo.
+3. Los intertítulos/subtítulos no están especificados en la ficha. Si comprenderlos es condición personal, comprobar su idioma mediante la información de venta/recepción antes de comprar; si no se consigue, elegir V1. La ficha oficial revisada el 4/11 nombra a Camille Taver para la sesión histórica del 3/11; no trasladar ese intérprete a otra fecha.
 4. Usar ropa de lluvia y verificar tránsito; en lluvia fuerte/fatiga antes de salir, V6 directamente a Pathé. Si se combina coda, revisar Cour Carrée y confirmar energía después del film, antes de iniciar otro viaje.
 
-Todo lo anterior es comprobación de una condición futura con respuesta definida, no una tarea de diseño aplazada al visitante.
+El horario del 3/11 se conserva como referencia histórica; no es una condición futura ni una reserva. V1 conserva su respuesta definida sin película.
 
 ## Horas, ingreso y dinero
 

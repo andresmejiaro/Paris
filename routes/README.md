@@ -15,6 +15,12 @@
 |05|Revisión completa|[Comparaciones históricas y ejecución breve](audiovisual/05.md)|
 |20|Revisión completa|[Archivos y objetos ausentes](audiovisual/20.md)|
 |21|Revisión completa; sin vídeo obligatorio|[Prioridad a la experiencia sensorial](audiovisual/21.md)|
+|10|Revisión completa|[Apoyos y condiciones de uso](audiovisual/10.md)|
+|15|Revisión completa|[Apoyos y condiciones de uso](audiovisual/15.md)|
+|16|Revisión completa|[Apoyos y condiciones de uso](audiovisual/16.md)|
+|26|Revisión completa|[Apoyos y condiciones de uso](audiovisual/26.md)|
+|18|Revisión completa|[Apoyos y condiciones de uso](audiovisual/18.md)|
+|07|Revisión completa|[Apoyos y condiciones de uso](audiovisual/07.md)|
 
 **Revelado:** en puntos buenos, reservar el apoyo hasta la foto de llegada y usarlo solo si añade algo; en puntos dudosos, mostrarlo antes de ir para decidir si merece la visita. Máximo cinco minutos en total por waypoint, sin duplicar la experiencia real. Las fuentes y límites de verificación están en cada guía. Las demás rutas no se consideran revisadas por esta actualización.
 

@@ -1,3 +1,5 @@
+> **Revisión audiovisual completa — 4 noviembre 2026:** [apoyos y ejecución](audiovisual/15.md) · [protocolo](audiovisual_protocol.md). Archivo después de la foto; cierres conocidos antes de desplazarse. No sustituye comercio, interior ni lectura. Máximo 300 s por waypoint, dentro de los tiempos existentes; geometría sin cambios.
+
 # Ruta 15 — Books in Circulation
 
 Cruce · **DONE — 15-v1-20261005, revisada el 5 de octubre de 2026** · narración: Cruce.

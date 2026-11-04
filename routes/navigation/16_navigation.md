@@ -1,3 +1,5 @@
+> **Capa audiovisual — revisión completa 4 noviembre:** [guía de ejecución](../audiovisual/16.md) · [protocolo](../audiovisual_protocol.md). V1 galería como alternativa vigente; sesión del 3/11 histórica. Puntos buenos: foto de llegada primero. Máximo 300 s totales por waypoint, dentro del tiempo existente; sin cambios de geometría.
+
 # Ruta 16 — Navegación fija
 
 Cruce · **16-v10-20261005** · revisada 2026-10-05. [Ficha](../16_cinema_paris.md) · [operaciones y DoD](16_access_operations.md) · [JSON](16.operations.json). Narrador Aster; coda Noctámbulo.

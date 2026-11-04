@@ -1,3 +1,5 @@
+> **Capa audiovisual — revisión completa 4 noviembre:** [guía de ejecución](../audiovisual/26.md) · [protocolo](../audiovisual_protocol.md). Monge, 36 y satélites dudosos: archivo antes de desplazarse; Diana se decide como módulo independiente. Puntos buenos: foto de llegada primero. Máximo 300 s totales por waypoint, dentro del tiempo existente; sin cambios de geometría.
+
 # 26 — Acceso y operaciones
 
 **DONE · 26-v2-20261007 · revisada 7 octubre 2026.** [Ficha](../26_modern_true_crime.md) · [navegación](26_navigation.md) · [JSON](26.operations.json).

@@ -1,3 +1,5 @@
+> **Capa audiovisual — revisión completa 4 noviembre:** [guía de ejecución](../audiovisual/10.md) · [protocolo](../audiovisual_protocol.md). Obras ausentes después de la foto; umbrales dudosos antes de desplazarse. No sustituye actividad nocturna ni acceso. Máximo 300 s por waypoint, sin ampliar tiempos base.
+
 # Ruta 10 — operaciones y auditoría DoD
 
 Versión `10-v1-20261006`, revisada 6 octubre 2026. Base exterior €0, 5,487 km, 3 h–3 h 30. Noctámbulo narra; Cruce produce.

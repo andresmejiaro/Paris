@@ -1,3 +1,5 @@
+> **Capa audiovisual — revisión completa 4 noviembre:** [guía de ejecución](../audiovisual/18.md) · [protocolo](../audiovisual_protocol.md). Bóveda antes de decidir el tramo cubierto; archivo de La Villette solo tras foto de llegada. Sin vídeo obligatorio. Máximo 300 s por waypoint, dentro de observación existente.
+
 # Ruta 18 — Navegación fija
 
 Cruce · **18-v1-20261006** · 6 octubre 2026. [Ficha](../18_canal_paris.md) · [operaciones](18_access_operations.md) · [JSON](18.operations.json).
