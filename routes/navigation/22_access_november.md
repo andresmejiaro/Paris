@@ -1,14 +1,14 @@
 # Coulée Verte — puertas y horario del viaje
-Cruce · revisión documental: 4 octubre 2026. Ventana: 30 octubre–15 noviembre 2026.
+Cruce · revisión documental original: 4 octubre 2026; actualización: 4 noviembre 2026. Ventana: 30 octubre–15 noviembre 2026.
 
 ## Resultado
-Horario estacional localizado en Bonjour RATP: noviembre–febrero, 08:00–17:45 de lunes a viernes; sábados, domingos y festivos, 09:00–17:45. El 1 y el 11 de noviembre se tratan como festivos: apertura de referencia 09:00.
-Este es un horario publicado por RATP, no una confirmación municipal fechada para noviembre de 2026 ni una comprobación de cada puerta. La ficha municipal solo cubre 1–24 octubre. Su tabla conjunta consultada muestra 4–13 octubre.
-Hay una discrepancia relevante: Paris je t’aime, oficina oficial de turismo, indica cierre invernal a las 17:00 en francés (17:30 en inglés). No presentar 17:45 como cierre definitivo garantizado.
+La ficha municipal consultada el 4 noviembre ya publica la temporada **25/10/2026–28/02/2027**: **08:00–17:45 de lunes a viernes; 09:00–17:45 sábados y domingos**. Resuelve la ausencia de calendario municipal fechable señalada en octubre. Para el festivo 11 noviembre mantener apertura de planificación 09:00 y confirmar señal local; la tabla semanal municipal no distingue ese día.
+
+La misma ficha conserva un aviso de cierre por manifestaciones de **todo el 3 noviembre 2026**. No extrapolar ese aviso a días posteriores ni deducir que todas las puertas estén abiertas hoy. Consultar de nuevo antes de la salida. Las diferencias turísticas archivadas no sustituyen ya este calendario municipal fechado.
 
 ## Ventana operativa elegida
 Planificar desde las 09:00 y estar fuera del recinto a las 16:45. Es una decisión conservadora de Cruce, no otro horario oficial. Para las 2–2.5 horas previstas, iniciar a más tardar a las 14:15; preferir mañana. Una señal local con horario más restrictivo manda.
-Para 30–31 octubre no prolongar la visita hasta 19:30: RATP da esa hora general de octubre, mientras OSM cambia al horario invernal desde el 25. La municipalidad aún no ha publicado ese intervalo en la ficha. Aplicar también 09:00–16:45 como ventana de planificación, sujeta a apertura real.
+El calendario municipal incluye ya 30–31 octubre dentro de la temporada invernal. Se conserva 09:00–16:45 como ventana prudente para el viaje, sin extender la jornada por haber localizado ahora un cierre oficial a 17:45.
 
 ## Accesos seleccionados y sus límites
 | Lugar | Punto WGS84 | Evidencia y estado |
@@ -34,4 +34,4 @@ El journal municipal de julio de 2026 describe la prolongación por ambas calles
 - [Journal municipal julio 2026, página 13](https://cdn.paris.fr/paris/2026/06/24/c19cadb79bef37b951cc6e06d620fcb4.pdf)
 - [Puerta cartografiada OSM](https://www.openstreetmap.org/node/7668989643)
 
-Estado: revisión documental terminada; horario estacional respaldado por RATP, discrepancia de cierre conservada, ventana conservadora fijada. Pendientes: publicación municipal para las fechas del viaje y apertura/obras/señalización de las puertas el día de visita. Ninguna inspección presencial ni QA externo simulados.
+Estado: revisión documental actualizada; horario estacional respaldado ahora por calendario municipal fechado, ventana conservadora fijada. Calendario municipal para las fechas del viaje actualizado el 4 noviembre. Pendientes: apertura/obras/señalización de las puertas el día de visita. Ninguna inspección presencial ni QA externo simulados.

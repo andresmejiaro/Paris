@@ -169,7 +169,7 @@ No rodeo por Étienne-Marcel/Louvre para unir las dos tiendas. El domingo, la ve
 Salida hacia transporte: [entrada Grands Boulevards, boulevard Montmartre/Musée Grévin](https://www.google.com/maps/search/?api=1&query=48.8716354%2C2.3427747), acceso 2 en OSM; el servicio y las puertas del metro se comprueban el día de viaje.
 
 ## 22 — Rumbo: arriba del viaducto, dentro de la trinchera
-[Ficha canónica](../22_coulee_verte.md) · [operaciones y auditoría DoD](22_access_operations.md) · [revisión de acceso de noviembre](22_access_november.md).
+[Ficha canónica](../22_coulee_verte.md) · [operaciones y auditoría DoD](22_access_operations.md) · [revisión de acceso de noviembre](22_access_november.md). · [Apoyo audiovisual y revelado](../audiovisual/22.md).
 
 **DONE — 22-v1-20261005, revisada el 5 octubre 2026.** Núcleo 3.435 km, 4.210 km con conectores, 2 h 20 min con margen a 2 h 30. V0–V4 cubren fatiga/lluvia, corte intermedio, puerta oriental cerrada y cancelación. La ventana conservadora es 09:00–16:45, con último inicio 14:15; señales y barreras locales mandan. Evaluación externa posterior.
 

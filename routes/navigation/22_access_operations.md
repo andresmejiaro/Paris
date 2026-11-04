@@ -55,7 +55,7 @@ Este documento convierte los fallos previsibles en decisiones utilizables. La ev
 
 ## Acceso, coste y necesidades
 
-- **Horario de planificación:** entrar desde 09:00 y estar fuera antes de 16:45. Último inicio 14:15. La señal local prevalece. Detalle y discrepancia entre fuentes: [22_access_november.md](22_access_november.md).
+- **Horario de planificación:** entrar desde 09:00 y estar fuera antes de 16:45. Último inicio 14:15. La señal local prevalece. Horario municipal de invierno actualizado el 4 noviembre 2026; margen conservador mantenido. Detalle y límites: [22_access_november.md](22_access_november.md).
 - **Coste y reserva:** gratuito; sin reserva.
 - **Movilidad:** V0 incluye dos tramos de escaleras. No existe aquí una variante sin escaleras comprobada; Hector-Malot no se convierte en acceso alternativo sin una traza validada.
 - **Baños/agua:** anunciados por la ciudad, pero ubicación y funcionamiento invernal no certificados. Llegar con agua y usar instalaciones solo al encontrarlas abiertas. La ruta puede hacerse sin depender de ellas.
@@ -70,7 +70,7 @@ Este documento convierte los fallos previsibles en decisiones utilizables. La ev
 | Experiencia | Tema ferroviario y lectura corporal de los cambios de nivel; cuatro paradas con función distinta. |
 | Recorrido | Orden, coordenadas, 3.435 km de núcleo y 0.396/0.379 km de conectores fijados. |
 | Narración | Cuatro guiones completos de Rumbo en la ficha canónica. |
-| Evidencia | Fuentes municipales, RATP, oficina de turismo y geometría OSM distinguidas de interpretación; discrepancia horaria preservada. |
+| Evidencia | Fuentes municipales, RATP, oficina de turismo y geometría OSM distinguidas de interpretación; horario municipal de invierno actualizado, margen conservador preservado. |
 | Navegación | GPX fijo, instrucciones entre todas las paradas y regreso a Montempoivre. No se afirma inspección de campo. |
 | Tiempo | 2 h 20 min, margen a 2 h 30 min; ventana 09:00–16:45 y último inicio 14:15. |
 | Operaciones | €0, sin reserva; escaleras, transporte, descanso, agua, baños, refugio y comida declarados. |
@@ -78,3 +78,7 @@ Este documento convierte los fallos previsibles en decisiones utilizables. La ev
 | Entrega | Ficha, GPX, evidencia, revisión de noviembre y este documento enlazados; versión y comprobaciones registradas. |
 
 Queda fuera de lo afirmado: inspección presencial, apertura futura de cada puerta, funcionamiento futuro de instalaciones, prueba de accesibilidad, ensayo de voz y revisión externa.
+
+## Apoyo audiovisual — 4 noviembre 2026
+
+[Guía seleccionada](../audiovisual/22.md) y [protocolo](../audiovisual_protocol.md). Máximo 300 s totales por punto; único apoyo seleccionado, postal histórica R02, hasta 60 s dentro de la observación prevista. Puntos buenos: foto e impresión antes de cualquier apoyo; si basta lo presente, 0 s. Si la salida resulta dudosa por repetición temática, mostrar antes únicamente la postal para decidir, sin anticipar vistas actuales buenas ni repetirla al llegar. El archivo no acredita el mismo ángulo de la pasarela. V1/V2 pierde la trinchera y suma regreso por lo ya recorrido; decidir con esa pérdida explícita. Sin cambios de trazado, distancias, tiempos base, costes ni variantes. Revisión editorial documental de Hilo, Cobre, Noctámbulo y Cruce; evaluación externa posterior e inspección presencial pendientes.

@@ -5,6 +5,8 @@
 > Variantes operativas: V0–V4 en [operaciones](navigation/22_access_operations.md).
 > Revisión externa por varios modelos y feedback: posterior al cierre; no realizada.
 
+**Actualización 4 noviembre 2026:** [apoyos audiovisuales y condiciones de revelado](audiovisual/22.md), revisión editorial por Hilo, Cobre, Noctámbulo y Cruce. Esta revisión no sustituye la evaluación externa posterior. Trama física, trazado y variantes conservados; guiones abreviados para no repetir la misma idea ferroviaria.
+
 Autoría y operaciones: Cruce. Narrador: Rumbo. Fuentes consultadas: 3–4 octubre 2026.
 
 ## Forma elegida
@@ -21,7 +23,7 @@ Entrada por dos tramos de escaleras. La alternativa de ascensor no tiene una tra
 Regreso elegido: por Édouard-Lartet/Émile-Laurent a boulevard Soult y acceso al andén Montempoivre. No conducir a Porte Dorée como si estuviera en este final.
 
 ## Operaciones del viaje
-[Revisión de puertas y horarios — 4 octubre 2026](navigation/22_access_november.md). Bonjour RATP publica para noviembre 08:00–17:45 entre semana y 09:00–17:45 sábados, domingos y festivos (incluido 11 noviembre). La ficha municipal aún no publica el intervalo del viaje y la oficina de turismo indica un cierre invernal más temprano: no considerar 17:45 garantizado. Ventana conservadora elegida: iniciar desde 09:00 y salir antes de 16:45; última salida para 2.5 horas, 14:15. Aplicar también a 30–31 octubre hasta resolver el cambio de temporada. Confirmar apertura real y obedecer horarios locales.
+[Revisión de puertas y horarios — actualizada 4 noviembre 2026](navigation/22_access_november.md). La ficha municipal ya publica para 25 octubre 2026–28 febrero 2027: 08:00–17:45 de lunes a viernes y 09:00–17:45 sábados y domingos. El 11 noviembre se mantiene apertura de planificación 09:00 por festivo, con confirmación local. Ventana conservadora elegida: iniciar desde 09:00 y salir antes de 16:45; último inicio 14:15 para 2.5 horas. Es margen de planificación, no otro horario oficial. El aviso municipal de cierre por manifestaciones se refiere al 3 noviembre, sin afirmar que continúe. Comprobar avisos y puertas el día.
 Entrada por escaleras rue de Lyon; el ascensor del 34 figura fuera de servicio, Hector-Malot en servicio. Puerta final Édouard-Lartet cartografiada; apertura concreta de noviembre pendiente. La revisión municipal de julio de 2026 describe la prolongación oriental como realizada: no trasladar los avisos de obras de 2025 al viaje.
 La ficha anuncia baños y agua, sin certificar aquí ubicación, apertura o funcionamiento en invierno. Llevar agua; aprovechar una instalación solo al verla abierta.
 Lluvia/fatiga: aplicar V1 o V2, con final y pérdida explícitos. Si hay una sección cerrada, no improvisar una falsa continuidad a pie de calle: aplicar la variante correspondiente de [operaciones](navigation/22_access_operations.md). No llamar “ruta completa” a una variante que pierde la trinchera.
@@ -32,13 +34,11 @@ Baños y agua no son una condición de la experiencia: la ficha municipal los an
 ## Guion de Rumbo — 1. Cambiar de altura
 Antes de subir, escucha la calle un momento. No necesitamos que se quede en silencio. Queremos tener una referencia para notar lo que cambia al caminar unos metros más arriba.
 
-Esta franja ocupa el lugar de una antigua línea ferroviaria. La ficha municipal sitúa su funcionamiento desde 1859 hasta 1969 y la creación de la promenade en 1988. Conserva solo esa secuencia: trenes, abandono del uso ferroviario, paseo. El resto lo iremos leyendo con los pies.
+Esta franja ocupa el lugar de una antigua línea ferroviaria. La ficha municipal sitúa su funcionamiento desde 1859 hasta 1969 y la creación de la promenade en 1988. Conserva solo esa secuencia: trenes, abandono del uso ferroviario, paseo. Si ya has caminado otras vías recuperadas, esa transformación no necesita presentarse como una sorpresa nueva. Aquí seguiremos cómo cambia la altura del camino respecto a la ciudad.
 
 Arriba, detente donde no estreches el paso. Mira la ciudad a la altura que normalmente pertenece a otras cosas: ventanas, ramas, detalles de fachadas. El cambio no necesita ser enorme para cambiar la mirada. Desde la acera sueles recibir los edificios desde abajo; aquí algunos quedan casi enfrente.
 
-Camina un tramo sin audio. Observa si tu paso se acomoda al ancho del sendero, si aceleras donde se abre o si prefieres ir junto a un borde. Eso también es explorar un lugar. No hace falta llegar rápido al siguiente punto.
-
-La antigua vía tenía una tarea: llevar trenes. Ahora permite algo que un trayecto ferroviario no te habría dejado hacer: detenerte cuando un detalle te llama. Podemos usar esa libertad desde el principio. Si encuentras una vista que merece un minuto, el minuto pertenece a la ruta.
+Camina un tramo sin audio. Mira qué queda ahora frente a tus ojos y qué sigue abajo. Cuando un detalle te detenga, lo comentamos allí.
 
 ## Guion de Rumbo — 2. Reuilly, una abertura
 Al llegar a la pasarela, busca un punto donde puedas mirar sin bloquear a nadie. Veníamos siguiendo una franja; aquí la vista se ensancha. Fíjate en lo que hace esa abertura con tu atención.
@@ -54,23 +54,19 @@ Detente antes de entrar en un paso estrecho. Asegúrate de tener sitio y vuelve 
 
 No hace falta llamarlo bosque para disfrutar de la vegetación, ni imaginar que hemos salido de París. Escucha lo que llega de la ciudad. Puede cambiar el volumen o la dirección del ruido; puede no cambiar tanto como esperabas. La experiencia ocurre con lo que haya hoy.
 
-Mira los muros y la forma del corredor. Una línea ferroviaria necesitaba continuidad. Nuestro cuerpo aprovecha ahora ese camino construido para otra velocidad. Podemos cruzarlo despacio y notar sus cambios, algo que un tren apenas nos habría permitido distinguir.
+Mira los muros y la forma del corredor. Antes las fachadas estaban casi a nuestra altura; ahora la ciudad queda por encima. El mismo paseo nos ha cambiado de posición sin llevarnos fuera de París.
 
 En noviembre, el color y la cantidad de hojas dependerán del tiempo. No venimos a buscar una primavera prometida. Una rama descubierta o unas hojas en el suelo también dejan ver el lugar de otra manera. Si la superficie resbala, acorta el paso; no hace falta convertirlo en un consejo de entrenamiento. Solo queremos seguir cómodos.
 
 Al salir del tramo, date unos segundos para percibir la luz de nuevo. Ese pequeño cambio es una parada aunque no tenga placa.
 
 ## Guion de Rumbo — 4. Devolver la vía a la calle
-Antes de salir, mira hacia atrás. Hemos pasado por una infraestructura que cambia de altura y de uso. Puedes recordar los puntos donde te apeteció detenerte: una ventana, una abertura, un muro, una forma de luz.
+Antes de salir, mira hacia atrás. Hemos pasado de las ventanas cercanas a la abertura del jardín y después a los muros de la trinchera. Quédate con el cambio que más hayas notado.
 
-Aquí termina la experiencia propuesta. El camino hacia el transporte forma parte de lo que aún vas a caminar, pero no necesitamos inventarle otro gran final. Comprueba la salida pública y la dirección del regreso.
-
-Si hoy queda energía y te atrae el lago, podemos elegir una extensión aparte. Primero miraríamos tiempo, puertas y distancia. No hace falta decidirla para que esta caminata haya valido la pena.
-
-Al volver a la calle, escucha de nuevo. Empezamos tomando una referencia y terminamos con otra. Puede que París suene igual. Tú ya sabes que, unos metros más arriba o más abajo, hay otra manera de atravesarlo.
+Aquí termina el paseo. Comprobamos la puerta y salimos solo si está abierta. Al volver a la calle, escucha de nuevo. Puede que París suene igual que al principio. Después seguimos hacia Montempoivre.
 
 ## Fuentes y pendientes
 [Ville de Paris: historia, longitud general, accesos, avisos y equipamiento](https://www.paris.fr/lieux/coulee-verte-rene-dumont-1772).
 [Reportaje municipal de la promenade](https://www.paris.fr/pages/la-coulee-verte-rene-dumont-l-endroit-ideal-pour-une-rando-urbaine-36101).
 [Mediciones exploratorias heredadas](discovery_batch_f.md).
-Guardados: polilínea peatonal, puerta final elegida, GPX, coordenadas, instrucciones y respuestas del motor. No certificados: calendario municipal fechado para noviembre, apertura/obras del día y continuidad sin escaleras. La navegación cartográfica no sustituye el control de las puertas. No se afirma inspección presencial, ensayo de audio, accesibilidad universal ni revisión externa.
+Guardados: polilínea peatonal, puerta final elegida, GPX, coordenadas, instrucciones y respuestas del motor. Calendario municipal de invierno consultado el 4 noviembre 2026. No certificadas: apertura/obras del día y continuidad sin escaleras. La navegación cartográfica no sustituye el control de las puertas. No se afirma inspección presencial, ensayo de audio, accesibilidad universal ni revisión externa.
