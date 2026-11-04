@@ -7,6 +7,8 @@
 >
 > Archivos de uso: [navegación interior](navigation/17_navigation.md) · [operaciones](navigation/17_access_operations.md) · [registro JSON](navigation/17.operations.json) · [GPX de decisión](navigation/17.gpx) · [evidencia](navigation/17.evidence.json). El cuerpo antiguo que sigue queda como investigación documental; no gobierna la ejecución.
 
+**Revisión editorial y audiovisual — 4 noviembre 2026:** [apoyos seleccionados](audiovisual/17.md), con Hilo, Cobre, Noctámbulo y Cruce. Gobierna exclusivamente 17-v1 dentro de Arts et Métiers y sus [guiones abreviados](navigation/17_navigation.md); no se reactiva el itinerario histórico de varios museos. Revisión externa posterior pendiente.
+
 # Scientific Paris — Conseguir que lo invisible se deje mirar
 
 Priority: S. Research date: 2 October 2026. Architect recommendation: **KEEP show-led daytime route, €21 two-museum core**, with a cheaper first-Sunday southern alternative. Two substantial main Spanish narrations plus preserved Panthéon alternative; Curie deliberately optional/short. External Claude QA pending. No admissions bought or activities reserved.

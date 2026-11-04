@@ -1334,5 +1334,16 @@
     "No revisión externa efectuada",
     "No sitio web publicado",
     "No certificación de funcionamiento futuro de baños, barreras o transporte"
-  ]
+  ],
+  "audiovisual": {
+    "revision": "av-20261104-final02-17",
+    "full_route_review": "COMPLETE",
+    "protocol": "routes/audiovisual_protocol.md",
+    "guide": "routes/audiovisual/02.md",
+    "max_total_seconds_per_waypoint": 300,
+    "good_waypoint_release": "after_user_arrival_photo_only_if_additive",
+    "borderline_release": "before_travel_user_decides",
+    "duration_policy": "inside_existing_stop_budget_no_automatic_extension",
+    "base_geometry_changed": false
+  }
 }

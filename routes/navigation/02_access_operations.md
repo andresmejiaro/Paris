@@ -113,13 +113,17 @@ Si V0 ocurre antes de Notre-Dame, no decir ese texto: terminar el primer guion y
 
 > Aquí, el relato encuentra una manera de salvar un alma amenazada. Al cruzar ahora el río, iremos hacia un lugar donde quienes creían haber recibido ayuda sobrenatural tuvieron que enfrentarse a autoridades de carne y hueso. Antes de irte, quédate con esta imagen: el Diablo puede hacer dos puertas magníficas, pero la tercera lo deja sin cobrar.
 
-En Saint-Médard, omitir únicamente «Frente a la casa de Flamel leíamos una obligación de rezar por los muertos». En el último párrafo, sustituir la frase que comienza «Hemos visto una oración inscrita…» por «Hemos oído una leyenda instalada en el hierro». Se mantiene «Aquí la promesa llegó…» y el cierre; no se finge una visita a Flamel. Omitir también la referencia a la capilla salvo que realmente se haya elegido ese desvío.
+En Saint-Médard, sustituir el cierre nuevo completo («En Flamel, los vivos rezaban…») por:
 
-**V3, cambio en Saint-Médard:** sustituir las dos primeras frases del último párrafo, hasta «…alrededor de reliquias», por:
+> En Notre-Dame, una leyenda salvaba un alma mediante una condición incumplida. Aquí, los vivos acudían a un muerto esperando ayuda. En 1732 se cerró el cementerio, pero la disputa siguió circulando.
 
-> Nuestra ruta termina con esa tensión. Hemos leído una oración inscrita en una casa; las puertas de Notre-Dame quedaron fuera de nuestro paso de hoy.
+No mencionar una visita a Flamel ni a la capilla que no se haya realizado.
 
-Conservar a continuación «Aquí la promesa llegó…» y la pregunta final. Sainte-Chapelle no se añade a V3.
+**V3, cambio en Saint-Médard:** sustituir el cierre nuevo completo por:
+
+> En Flamel, los vivos rezaban por los muertos. Aquí acudían a un muerto esperando ayuda para los vivos. Las puertas de Notre-Dame quedaron fuera de nuestro paso de hoy. En 1732 se cerró el cementerio, pero la disputa siguió circulando.
+
+Sainte-Chapelle no se añade a V3.
 
 Si además no se visitó Flamel, la salida deja de tener dos capítulos: aplicar V0 o hacer solo Saint-Médard como visita aislada, sin registrar la ruta 02 completa.
 
@@ -127,7 +131,7 @@ Si además no se visitó Flamel, la salida deja de tener dos capítulos: aplicar
 
 > Hoy nos quedamos frente a la iglesia: no podemos recorrer su lado oriental. La monografía histórica sitúa un pequeño cementerio junto a la cabecera, asociado a los episodios, y distingue de él el cementerio mayor al sur, sustituido por el jardín actual. No podemos señalar desde aquí aquella tumba ni una puerta de 1732. La historia sigue perteneciendo a esta iglesia, pero la vista que hoy tenemos es la del barrio y su frente.
 
-Donde el guion pide «Mira la diferencia entre ambas zonas», omitir la instrucción. Se conserva la ausencia como parte de la historia y se termina en el frente.
+La instrucción nueva «Desde la cabecera, sitúa el entorno oriental; el jardín actual queda al sur» también se omite en V4. Se conserva la ausencia como parte de la historia y se termina en el frente.
 
 ## Comprobaciones del día, con respuesta fijada
 
@@ -148,6 +152,12 @@ Si la autoridad impide también una alternativa trazada, no se cruza la barrera.
 
 Cartografía OSM, fuentes oficiales, peticiones Valhalla, estructura de GPX y coherencia entre entregables comprobadas. Coordenadas de accesos contrastadas con nodos de entrada, no con el centro de estaciones. Datos fuente de baños consultados, no inspección física. No hay certeza futura de puertas, colas, bancos, clima ni servicio.
 
-Validación del cierre: JSON y XML parseados; geometría base idéntica a la entrega anterior; 13 tracks adicionales cotejados punto a punto con respuestas del motor o subconjuntos del núcleo; índices de maniobra, extremos, distancias y enlaces internos comprobados. Los cuatro guiones se conservan íntegros (516, 562 y 562 palabras de núcleo; 281 opcionales). Las entradas y geometrías de las rutas 21 y 22 permanecen iguales. Revisión visual de conectores y desvío sobre calles OSM; el conector de Cité que entraba en nivel −1 fue rechazado y sustituido por llegada exterior.
+Validación del cierre: JSON y XML parseados; geometría base idéntica a la entrega anterior; 13 tracks adicionales cotejados punto a punto con respuestas del motor o subconjuntos del núcleo; índices de maniobra, extremos, distancias y enlaces internos comprobados. Los guiones fueron abreviados el 4 noviembre 2026; las cifras de palabras de la entrega de octubre ya no describen la revisión editorial actual. Las entradas y geometrías de las rutas 21 y 22 permanecen iguales. Revisión visual de conectores y desvío sobre calles OSM; el conector de Cité que entraba en nivel −1 fue rechazado y sustituido por llegada exterior.
 
 No se han efectuado inspección presencial, ensayo de voz grabado, pruebas de movilidad reducida, revisión externa por modelos ni publicación del sitio web. Ninguna de ellas se da por realizada para cerrar el trabajo bajo control del agente. La ruta usa exteriores a nivel de calle; los accesos a metro pueden exigir escaleras.
+
+
+## Revisión audiovisual — 4 noviembre 2026
+
+[Apoyos seleccionados](../audiovisual/02.md) y [protocolo](../audiovisual_protocol.md). Foto e impresión antes de material en puntos buenos; punto dudoso se decide antes del desplazamiento. Máximo 300 s totales por waypoint, dentro de la observación prevista. Base, geometría, costes y variantes conservados. Revisión documental de Cruce, Hilo, Cobre y Noctámbulo; evaluación externa posterior e inspección presencial pendientes.
+Saint-Médard: mostrar las páginas 10–11 seleccionadas, máximo 120 s total frente/cabecera, antes de recorrer los 1.666 km. Si se omite, usar V0 y declarar perdido el desenlace; no introducir atajos nuevos.

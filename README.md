@@ -23,10 +23,12 @@
 |19|Revisión completa|[Apoyos y condiciones de uso](routes/audiovisual/19.md)|
 |03|Revisión completa|[Apoyos y condiciones de uso](routes/audiovisual/03.md)|
 |22|Revisión completa; sin vídeo obligatorio|[Apoyo histórico y condiciones de revelado](routes/audiovisual/22.md)|
+|02|Revisión completa|[Apoyo documental y decisión previa](routes/audiovisual/02.md)|
+|17|Revisión completa|[Mecanismos y guiones abreviados](routes/audiovisual/17.md)|
 
 Los documentos de preparación contienen spoilers. En **puntos buenos**, reservar el material hasta la foto de llegada y usarlo solo si aporta algo; en **puntos dudosos**, mostrarlo antes de ir para decidir si merece la visita. Máximo **cinco minutos en total por waypoint**, sin repetir en pantalla lo que se ve en directo.
 
-[Protocolo completo](routes/audiovisual_protocol.md). Cada guía identifica fuentes, duración o presupuesto de observación, condiciones de revelado y límites de comprobación. Los apoyos no garantizan actividad o acceso ni modifican automáticamente trazados y tiempos. La revisión audiovisual de las demás rutas sigue pendiente.
+[Protocolo completo](routes/audiovisual_protocol.md). Cada guía identifica fuentes, duración o presupuesto de observación, condiciones de revelado y límites de comprobación. Los apoyos no garantizan actividad o acceso ni modifican automáticamente trazados y tiempos. Cerrada la revisión audiovisual de las 19 rutas de la cola; las seis ya recorridas y la 04 retirada quedan fuera de esta revisión.
 
 ## Documentación operativa
 

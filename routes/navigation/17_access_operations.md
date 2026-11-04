@@ -11,7 +11,7 @@ Versión 17-v1-20261006. Fuente operativa controladora: páginas oficiales consu
 ## Variantes
 
 - **V0 — objeto retirado o sala cerrada:** usar una pieza identificada por cartela dentro del mismo grupo; pierde el objeto concreto, no la comparación. Si faltan dos grupos, acortar en vez de añadir objetos sin investigar.
-- **V1 — demostración cancelada después de entrar:** completar los instrumentos y leer el dispositivo desde zona pública; 85–115 min. Conserva medición/máquinas, pierde la experiencia activa y no se llama equivalente.
+- **V1 — demostración cancelada después de entrar:** completar los instrumentos y leer el dispositivo desde zona pública; 85–115 min. Conserva medición/máquinas y pierde la sesión mediada. Comprobar si el péndulo oscila; si está detenido, también se pierde la observación activa. No se llama equivalente.
 - **V2 — demostración esencial para Andrés y cancelación conocida antes de pagar:** posponer a otro día regular. Conserva la experiencia completa; pierde el slot actual.
 - **V3 — festivo o primer domingo gratuito:** no asumir demostración. Elegir visita de colección V1 o fecha no festiva. La gratuidad no compensa automáticamente la pérdida del núcleo.
 - **V4 — aforo agotado:** preguntar por la siguiente sesión solo si cabe sin fatiga; de lo contrario V1. No bloquear pasillos ni esperar de pie indefinidamente.
@@ -19,3 +19,9 @@ Versión 17-v1-20261006. Fuente operativa controladora: páginas oficiales consu
 - **V6 — cierre total/transporte severo:** cancelar. Curie, Panthéon y mineralogía son experiencias distintas, no sustitutos instantáneos sin su propia operación.
 
 Comprobaciones del día: página oficial y billete, apertura, sesión, aforo, objetos expuestos, ascensores, consigna, WC y transporte. No se afirma inspección de campo, llamada, compra, ensayo de audio ni revisión externa.
+
+
+## Revisión audiovisual — 4 noviembre 2026
+
+[Apoyos seleccionados](../audiovisual/17.md) y [protocolo](../audiovisual_protocol.md). Foto e impresión antes de material en puntos buenos; punto dudoso se decide antes del desplazamiento. Máximo 300 s totales por waypoint, dentro de la observación prevista. Base, geometría, costes y variantes conservados. Revisión documental de Cruce, Hilo, Cobre y Noctámbulo; evaluación externa posterior e inspección presencial pendientes.
+No reproducir vídeo durante la demostración. Cancelación de mediación no implica necesariamente péndulo detenido: comprobar el estado efectivo y aplicar V1/V2.

@@ -6,6 +6,8 @@
 > Variantes operativas: V0, V1, V2, V3 y V4, documentadas y enlazadas allí.  
 > Revisión externa por varios modelos y feedback: posterior al cierre; no realizada.
 
+**Revisión editorial y audiovisual — 4 noviembre 2026:** [apoyos y condiciones de revelado](audiovisual/02.md). Cruce, Hilo, Cobre y Noctámbulo; no sustituye la evaluación externa posterior. Saint-Médard se decide antes del traslado. Base y variantes conservadas.
+
 ## Ficha elegida
 
 | Campo | Decisión |
@@ -21,7 +23,7 @@
 | Coste / reservas | Base **€0**, sin reserva. Comida, transportes y Sainte-Chapelle son partidas separadas. |
 | Transporte asumido | Llegar en metro a Rambuteau (L11), salida 4 rue du Grenier Saint-Lazare; alternativa salida 1 rue Beaubourg. Regreso desde Censier-Daubenton (L7). Servicio y accesos sujetos a comprobación del día. No hay alojamiento ni transporte reservado por esta entrega. |
 
-La distancia responde a tres historias, no a un mínimo de kilómetros. El tramo de 1.666 km hacia Saint-Médard merece el desplazamiento porque transforma el cuento de un alma salvada en un conflicto entre cuerpos, creencias y autoridades. Las calles comerciales cambian la escala del relato; no reciben paradas artificiales.
+La distancia responde a tres historias, no a un mínimo de kilómetros. El tramo hacia Saint-Médard añade 1.666 km. Allí veremos la iglesia y su entorno, sin sepultura ni puerta histórica identificada. Antes de decidir el traslado, mostrar el testimonio ilustrado seleccionado en la guía audiovisual: el interés por la controversia debe justificar ese desplazamiento para el visitante. Las calles comerciales cambian la escala del relato; no reciben paradas artificiales.
 
 **Distancias separadas:** acceso desde Rambuteau y salida al metro se registran en [operaciones](navigation/02_access_operations.md). El desvío Sainte-Chapelle añade **0.789 km exteriores**; base con ese desvío = **3.925 km**, antes de circulación interior. Los movimientos voluntarios para mirar detalles pueden añadir hasta unos 100 m; no están fingidos dentro de la medición del motor. El desplazamiento desde/hacia NOC, las comidas fuera del recorrido y cualquier otro bloque del día quedan fuera de 3.136 km.
 
@@ -74,7 +76,7 @@ La puesta de sol entre el 1 y el 15 de noviembre va aproximadamente de 17:30 a 1
 
 ## Guiones preparados para el lugar
 
-Los tres núcleos conservan la narración completa de la revisión anterior. Se han leído frente a [las dos anclas de calibración](mystery_calibration_anchors.md): instrucción física, escena humana, cambio de registro, regreso al lugar y desenlace que transforma las paradas anteriores. No se ha simulado escucha, inspección presencial ni evaluación externa.
+Los tres núcleos conservan su arco narrativo, abreviado en la revisión editorial del 4 noviembre para evitar reiteraciones. Se han leído frente a [las dos anclas de calibración](mystery_calibration_anchors.md): instrucción física, escena humana, cambio de registro, regreso al lugar y desenlace que transforma las paradas anteriores. No se ha simulado escucha, inspección presencial ni evaluación externa.
 
 ### 1. Casa de Nicolas Flamel — CORE
 
@@ -86,9 +88,7 @@ Ponte donde puedas ver la fachada sin cerrar el paso ni quedarte delante de la p
 
 Empecemos por lo que podemos documentar. Nicolas Flamel encargó esta casa para alojar a personas pobres. La inscripción establece una obligación de oración por los difuntos. Sus habitantes debían rezar un padrenuestro y un avemaría. La piedra hace público un intercambio: alguien proporciona un lugar donde vivir; quienes reciben esa ayuda recuerdan a los muertos. El edificio responde así a dos necesidades que comparten una dirección: encontrar amparo durante la vida y recibir ayuda después de ella.
 
-Quédate un momento con esa imagen. Una vivienda, una obligación diaria, unas palabras que se mantienen cuando las personas ya han desaparecido. El nombre de Flamel nos lleva fácilmente hacia un laboratorio secreto, pero el testimonio que tenemos delante habla de caridad y de oración. Para quienes vivían aquí, la relación con lo invisible tenía una práctica concreta, repetida por la mañana y por la tarde.
-
-Ahora cambiamos de registro. Dejamos la historia documentada de la casa y entramos en la leyenda de Flamel. Ese segundo personaje conoce la piedra filosofal: el secreto capaz de transformar los metales y asociado, en la imaginación alquímica, con vencer los límites de la vida. Su nombre quedó ligado a textos alquímicos después de su muerte. En 1612 apareció una obra especialmente influyente que pretendía explicar sus figuras misteriosas. La Biblioteca Nacional de Francia lo registra como autor supuesto. La asociación tenía antecedentes, de modo que aquella publicación no fue un instante mágico en el que alguien inventó toda la leyenda de golpe.
+Ahora cambiamos de registro. Dejamos la historia documentada de la casa y entramos en la leyenda de Flamel. Ese segundo personaje conoce la piedra filosofal: el secreto capaz de transformar los metales y asociado, en la imaginación alquímica, con vencer los límites de la vida. Su nombre quedó ligado a textos alquímicos después de su muerte. Una publicación de 1612, atribuida a Flamel aunque la BnF lo registra como autor supuesto, ayudó a difundir esa lectura alquímica.
 
 Lo interesante es el desplazamiento. Un hombre conocido por sus fundaciones podía convertirse, para lectores posteriores, en alguien cuya riqueza necesitaba una explicación extraordinaria. Las imágenes religiosas podían leerse como señales de otro conocimiento. La misma fachada permitía una lectura distinta según lo que cada visitante esperaba encontrar. Nada de lo investigado demuestra que esta dirección albergara su laboratorio o un tesoro escondido.
 
@@ -112,13 +112,13 @@ Busca un lugar del atrio desde el que puedas ver las tres entradas occidentales 
 
 Lo que vemos tiene una historia material. En estas puertas se conserva una extraordinaria obra de hierro medieval; las hojas de Santa Ana sobrevivieron al incendio de 2019. Pero su virtuosismo también tuvo otra vida. La gente miró un trabajo humano tan elaborado y le dio una explicación en la que intervenía alguien que preferiríamos no encontrar a la entrada de una iglesia.
 
-Ahora entramos expresamente en el terreno de la leyenda. La versión que vamos a contar quedó recogida por Viollet-le-Duc en el siglo XIX. En ella, un cerrajero llamado Biscornet recibe un encargo que lo desborda: realizar los herrajes de las tres entradas. El Diablo le ofrece ayuda. El precio es su alma, y la condición es terminar el trabajo. No estamos reconstruyendo un contrato que conserve un archivo; estamos siguiendo las reglas de un cuento que París puso sobre estas puertas.
+Ahora entramos expresamente en el terreno de la leyenda. La versión que vamos a contar quedó recogida por Viollet-le-Duc en el siglo XIX. En ella, un cerrajero llamado Biscornet recibe un encargo que lo desborda: realizar los herrajes de las tres entradas. El Diablo le ofrece ayuda. El precio es su alma, y la condición es terminar el trabajo.
 
 Dos entradas quedan resueltas. Entonces aparece una dificultad que no estaba en el metal. Por la puerta central pasa el Santísimo Sacramento. El Diablo no puede completar esa parte de la obra. Ha aceptado una comisión de tres puertas y solo puede entregar dos. La leyenda lo derrota con la condición que él mismo había aceptado: si falta una parte, el trato no queda cumplido. Biscornet conserva su alma.
 
 Vuelve a mirar las tres entradas juntas. Esa disposición convierte el relato en algo que puedes seguir con los ojos: dos trabajos, un obstáculo, una salvación. El miedo a perder el alma tiene una solución casi administrativa. El personaje humano no necesita derrotar al Diablo por fuerza; sobrevive a través de una cláusula. Esa mezcla de terror y astucia es parte de lo que vuelve memorable la historia.
 
-Pero tenemos que hacer otro cambio de registro y regresar al hierro. El propio Viollet-le-Duc señaló que la obra medieval era anterior a la época atribuida a Biscornet. Conservar el cuento no obliga a aceptar su autoría. Sabemos que el relato circulaba cuando aquel autor lo recogió; eso no demuestra que lo contaran ya los artesanos medievales. La incertidumbre nos permite ver cómo un objeto verdadero acaba sosteniendo una biografía imaginada.
+Viollet-le-Duc advertía que el hierro medieval era anterior a la época atribuida a Biscornet. El cuento explica el asombro; no identifica a su autor.
 
 Hay además un remate humano. Durante la restauración del siglo XIX, Pierre Boulanger realizó los herrajes de la puerta central. Un herrero con nombre documentado hizo el trabajo que, dentro del cuento, había detenido al Diablo. Mira la puerta del centro una última vez. Podemos admirar la habilidad del artesano y escuchar la leyenda sin confundirlas.
 
@@ -138,19 +138,15 @@ En la casa de Flamel, la escritura prometía recuerdo para los muertos. Aquí, e
 
 Detente junto a la iglesia, en un punto donde puedas verla dentro de la vida del barrio. Hay comercio, peatones, personas que vienen por motivos completamente ordinarios. Conserva esa escala mientras escuchas lo que ocurrió aquí. El último lugar de nuestra ruta tenía que ser una dirección a la que alguien pudiera acudir esperando que su vida cambiara.
 
-François de Pâris, un diácono, murió en 1727. Su sepultura se convirtió en un destino de devoción. Visitantes afirmaban haber recibido curaciones. Más adelante, algunos experimentaban convulsiones. Esos testimonios, las reuniones que suscitaron y el conflicto público que provocaron pertenecen a una historia documentada. También conservamos publicaciones de partidarios que defendían los milagros. Lo que esas fuentes permiten establecer es que hubo personas que los proclamaban; la causa sobrenatural de las curaciones seguía siendo una afirmación disputada.
+François de Pâris, diácono, murió en 1727. A su sepultura acudían personas que afirmaban haber recibido curaciones; después se describieron convulsiones. Sus partidarios publicaron testimonios y sus opositores denunciaron falsos milagros o desorden. La controversia, atravesada por el jansenismo, está documentada; las curaciones sobrenaturales eran precisamente lo que se disputaba.
 
-Hagamos explícito ese cambio. Cuando decimos que alguien fue curado por intercesión del diácono, entramos en el registro de la creencia de sus seguidores. Para ellos, lo ocurrido podía expresar un favor divino. Los opositores hablaban de falsos milagros o de desorden. La disputa estaba atravesada por el conflicto religioso del jansenismo. La misma experiencia corporal podía recibir interpretaciones opuestas, y cada interpretación concedía autoridad a unas personas y se la quitaba a otras.
+Ahora muévete, si las calles lo permiten, hacia la cabecera oriental por el entorno de rue Daubenton y rue de Candolle. No vamos a localizar una tumba que puedas visitar. La monografía histórica distingue un pequeño cementerio junto a esta parte de la iglesia, asociado a los episodios, del cementerio mayor al sur. Este último fue sustituido por el espacio que hoy se llama Square Miss.Tic. Desde la cabecera, sitúa el entorno oriental; el jardín actual queda al sur. No podemos señalar aquí la sepultura ni reconstruir su ubicación exacta.
 
-Ahora muévete, si las calles lo permiten, hacia la cabecera oriental por el entorno de rue Daubenton y rue de Candolle. No vamos a localizar una tumba que puedas visitar. La monografía histórica distingue un pequeño cementerio junto a esta parte de la iglesia, asociado a los episodios, del cementerio mayor al sur. Este último fue sustituido por el espacio que hoy se llama Square Miss.Tic. Mira la diferencia entre ambas zonas y evita convertir el parque agradable que tenemos delante en un escenario exacto que las fuentes no nos permiten señalar.
-
-Esa ausencia importa. Para los devotos del siglo XVIII, el lugar sí tenía un centro concreto: una sepultura a la que podían aproximarse. La esperanza podía organizar un trayecto y una reunión. Un cuerpo que sufría llegaba a una dirección; después, el relato de lo ocurrido podía viajar mucho más lejos. Frente a la casa de Flamel leíamos una obligación de rezar por los muertos. Aquí encontramos personas que acudían a un muerto esperando ayuda para los vivos.
+Esa ausencia importa. Para los devotos del siglo XVIII, el lugar sí tenía un centro concreto: una sepultura a la que podían aproximarse. La esperanza podía organizar un trayecto y una reunión. Un cuerpo que sufría llegaba a una dirección; después, el relato de lo ocurrido podía viajar mucho más lejos.
 
 En 1732 se cerró el cementerio. Las autoridades podían impedir la entrada a un recinto. Pero las reuniones continuaron en otros lugares, y unos años después los defensores publicaron relatos ilustrados para sostener la realidad de los milagros. Una puerta cerrada no resolvía la disputa. La trasladaba de espacio y la dejaba en circulación a través de testimonios, imágenes y lecturas.
 
-Vuelve a mirar la iglesia y el barrio. No necesitamos que sobreviva la puerta original, ni convertir una abertura tapiada en aquella puerta sin pruebas. La consecuencia está en la relación entre el lugar y lo que las personas afirmaban haber vivido. El poder podía administrar el acceso; aceptar o rechazar la experiencia era otra cuestión.
-
-Nuestra ruta termina con esa tensión. Hemos visto una oración inscrita, una leyenda instalada en el hierro y, si entramos en la capilla, un espacio real construido alrededor de reliquias. Aquí la promesa llegó al propio cuerpo de quienes buscaban ayuda. Antes de volver a Mouffetard, deja abierta la pregunta: cuando una persona dice haber vivido un milagro, ¿quién puede cerrar la puerta de su experiencia?
+En Flamel, los vivos rezaban por los muertos. Aquí acudían a un muerto esperando ayuda para los vivos. En 1732 se cerró el cementerio, pero la disputa siguió circulando.
 
 **Notice:** church scale within everyday commercial streets; eastern chevet via rue Daubenton/rue de Candolle; difference from southern Square Miss.Tic. Any blocked opening is not certified as the gate closed in 1732.  
 **End:** rest/food on Mouffetard or transit home. This ending supplies consequence instead of another unresolvable ghost sighting.  
