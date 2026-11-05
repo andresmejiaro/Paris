@@ -1,6 +1,6 @@
 # Frankenstein C — Centro: lo que sí se ve
 
-**Estado: NUEVA RUTA CORTA, 06/11/2026.** Ensamblada por proximidad y retorno visual, no por época ni tema. Sustituye lo salvable de las rutas retiradas 19 (Ilusiones), 21 (Sabores), 02 (Medieval) y 05 (República). No revive las rutas originales.
+**Estado: ASIGNADA domingo 08/11/2026, bloque 2, 15:15–17:30.** Ensamblada por proximidad y retorno visual, no por época ni tema. Sustituye lo salvable de las rutas retiradas 19 (Ilusiones), 21 (Sabores), 02 (Medieval) y 05 (República). No revive las rutas originales.
 
 ## Secuencia peatonal
 
@@ -16,3 +16,5 @@
 [Maps: Buren → Stohrer → Quincampoix → Flamel → République](https://www.google.com/maps/dir/?api=1&origin=48.8636%2C2.33707&destination=48.8673278%2C2.3639785&travelmode=walking&waypoints=48.86525%2C2.34692%7C48.86062%2C2.35031%7C48.8636%2C2.35313).
 
 **Disfrute estimado de Andrés: 8,3/10** (no nota histórica/artística). El potencial viene de Buren y el monumento visible; comprar un flan no transforma por sí solo la ruta en un 9.
+
+**Encaje de día:** viene tras R06 Revolución (09:00–14:00), con traslado en metro hasta Palais-Royal, no enlazar caminando. Total diario presupuestado ~15–19 km incluidas conexiones y estaciones, dentro del techo de Andrés 20 km si se respetan paradas y se evitan desvíos.
