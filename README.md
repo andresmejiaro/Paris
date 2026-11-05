@@ -1,6 +1,6 @@
 # París 2026
 
-[Catálogo completo de experiencias y navegación](routes/README.md) · [Criterios de entrega](routes/DEFINITION_OF_DONE.md)
+[Reparto vigente de narradores: 25 rutas · 21 voces](routes/narrator_assignments_2026.md) · [Catálogo completo de experiencias y navegación](routes/README.md) · [Criterios de entrega](routes/DEFINITION_OF_DONE.md)
 
 ## Actualización audiovisual — 4 noviembre 2026
 
