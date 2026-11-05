@@ -10,6 +10,8 @@
 
 # 03 — Los muertos se hacen públicos
 
+> **Actualización de campo 05/11/2026 — Fourier añadido por petición expresa de Andrés.** Visitar la tumba de **Joseph Fourier (división 18, avenue des Acacias, primera línea, 48.860061, 2.394034)** entre Robertson y Kardec, junto al rond-point Casimir-Périer. [Waypoint](https://www.google.com/maps/search/?api=1&query=48.860061%2C2.394034) · [navegación actualizada](navigation/03_navigation.md). Añadir unos **10–15 minutos** de observación; no se añade cuarto guion largo. La ruta base de tres escenas, sus tiempos y su GPX se conservan como histórico: **el GPX original no incluye Fourier**. Esta instrucción puntual prevalece para la visita del 05/11. No acortar a costa de cruzar concesiones.
+
 **Subtítulo:** espectáculos, espíritus y un cuerpo político · **Narrador:** Noctámbulo · **Estado:** DONE · **Versión:** 03-v10-20261005 · **Revisión:** 2026-10-05.
 
 Experiencia compacta protegida, gratuita y diurna dentro de Père-Lachaise. La longitud responde a tres objetos y no a una cuota: puerta principal → Robertson (div. 8) → Allan Kardec (div. 44) → Victor Noir (div. 92) → puerta Gambetta. La línea de decisión cartográfica mide **1.086 km**; hay que presupuestar **1.3–1.8 km reales** por curvas de caminos, búsqueda dentro de divisiones y ajustes alrededor de ceremonias. Los accesos desde Philippe-Auguste y hacia métro Gambetta son exteriores y se contabilizan aparte. Duración elegida: **1 h 45–2 h 15**, incluidos tres guiones de 5–7 minutos, observación, orientación, pendiente y margen de salida.
