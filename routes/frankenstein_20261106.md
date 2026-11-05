@@ -6,9 +6,9 @@
 
 | Nuevo módulo | Fuente rescatada | Puntos core | Distancia conocida / estimada | Disfrute previsto | Estado |
 |---|---|---|---|---:|---|
-| [Frankenstein N: Montmartre](frankenstein_n_montmartre.md) | R10 | Moulin Rouge, Madame Arthur/Pigalle, mirador Sacré-Cœur | mínimo rectilíneo ~1,1 km, a pie ~1,8–2,5 km estimados | **8,4** | Reemplazo de R10 nocturno del viernes 6 si se realiza tercer tramo |
-| [Frankenstein C: Centro](frankenstein_c_centro.md) | R19, R21, R02, R05 | Buren, Stohrer opcional, Quincampoix si visible, Flamel oportunista, République | mínimo rectilíneo ~2,6 km, a pie ~3,2–4,1 km estimados | **8,3** | Sin slot asignado |
-| [Frankenstein E: Porte Dorée](frankenstein_e_porte_doree.md) | R20B | Palacio exterior, hall/salones históricos gratuitos, monumento Marchand | base exterior 0,310 km + interior variable | **8,1** | Sin slot asignado; sólo laborable si se programa museo |
+| [Frankenstein N: Montmartre](frankenstein_n_montmartre.md) | R10 | Moulin Rouge, Madame Arthur/Pigalle, mirador Sacré-Cœur | mínimo rectilíneo ~1,1 km, a pie ~1,8–2,5 km estimados | **8,4** | **Viernes 6**, extra nocturno después del Louvre (si se realiza tercer tramo) |
+| [Frankenstein C: Centro](frankenstein_c_centro.md) | R19, R21, R02, R05 | Buren, Stohrer opcional, Quincampoix si visible, Flamel oportunista, République | mínimo rectilíneo ~2,6 km, a pie ~3,2–4,1 km estimados | **8,3** | **Domingo 8**, bloque 2, 15:15–17:30 |
+| [Frankenstein E: Porte Dorée](frankenstein_e_porte_doree.md) | R20B | Palacio exterior, hall/salones históricos gratuitos, monumento Marchand | base exterior 0,310 km + interior variable | **8,1** | **Miércoles 11**, extra 10:30–11:30; el lunes cierra y el martes tiene compromisos |
 
 **Sólo si ya se está cerca; no son rutas ni compromisos:**
 - **Catroux/Monceau, Solitude y *Fers*** (20A), dos esculturas a unos 30 metros entre sí. Buena pieza física, pero aislada del resto: no dedicar traslado específico ni anexar 2+ km a Montmartre.
@@ -17,6 +17,6 @@
 
 **Cortados sin trasplante**: Saint-Médard (ninguna escena material especial), Notre-Dame como repetición de un sitio ya visto, Senado/Asamblea por fachadas no visitables, Panthéon exterior repetido, Casa falsa 145 rue La Fayette (fachada interesante sólo en guion), Casino de Paris y Folies Bergère exteriores, La Fayette/Chapon condicionales, Kayser/croissant, Nozière (puerta residencial sin huella), Diana (monumento distante), antiguo 36 como fachada, y teatros sin entrada a una experiencia. El lugar solo no demuestra una historia.
 
-**Compatibilidad con otros compromisos:** viernes 6 R11+Louvre se mantienen; reemplazar R10 Burlesque por Frankenstein N corto evita arrastrar 5,487 km de teatro-fachada. **Museos fuera del fin de semana**, como pidió Andrés. No asignar automáticamente los otros Frankensteins hasta conocer disponibilidad logística; ningún nuevo módulo exige un bloque de ~8–14km.
+**Compatibilidad con otros compromisos:** viernes 6 R11+Louvre se mantienen; reemplazar R10 Burlesque por Frankenstein N corto evita arrastrar 5,487 km de teatro-fachada. **Museos fuera del fin de semana**, como pidió Andrés. C se asigna el domingo 8 en bloque 2 (~15–19 km de marcha total del día); E el miércoles 11 como extra por ser un microrecorrido. El resto de la agenda mantiene seis bloques libres. Ningún nuevo módulo requiere conectar áreas lejanas a pie.
 
 **Precisión:** longitudes nuevas de C/N son estimaciones de planificación sobre coordenadas, no rutas de red verificadas; abrir los enlaces de Maps y obedecer aceras/cierres. Las piezas originales no se borran físicamente: quedan identificadas como material de archivo para que la retirada sea recuperable.
