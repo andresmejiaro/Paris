@@ -1,3 +1,5 @@
+> **Reparto vigente (05/11/2026):** [25 rutas, 21 voces y excepciones de campo](narrator_assignments_2026.md). Esta asignación prevalece sobre los créditos de narrador originales indicados en las fichas y las tablas históricas, salvo cambio explícito de Andrés para la salida concreta.
+
 > **Narrator correction — Andrés, 3 October 2026:** Cruce owns all route design, research, selection, verification, navigation and complete script preparation. Rumbo narrates Coulée Verte; Hilo narrates Medieval Devils; Miga narrates the affordable Paris flavours route. These are narrator assignments, not delegated work. No companion research or response is awaited. This overrides earlier commission/author/reviewer wording below.
 
 # Paris — working experience index
