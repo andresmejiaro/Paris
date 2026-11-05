@@ -1,10 +1,10 @@
 # París — autoasignación por disfrute personal >8/10 · 05-11-2026
 
-Decisión de Andrés: asignar **sólo las rutas con score personal estrictamente superior a 8**, al **primer slot logísticamente compatible**, sin museos en sábado ni domingo, máximo **20 km a pie por día** contando rutas, enlaces, estaciones, NOC y movimientos locales. No se restauran asignaciones previamente anuladas para rutas de <=8. Se mantienen compromisos y viernes 6 como estaban. Sábado 7 **no** es descanso. Viernes 13 sólo **un** bloque; bus a las 17:00 según decisión más reciente de Andrés.
+Decisión de Andrés: asignar **sólo las rutas con score personal estrictamente superior a 8**, al **primer slot logísticamente compatible**, sin museos en sábado ni domingo, máximo **20 km a pie por día** contando rutas, enlaces, estaciones, NOC y movimientos locales. No se restauran asignaciones previamente anuladas para rutas de <=8. Se mantienen R11 y Louvre del viernes 6; **R10 Burlesque queda retirada y se sustituye sólo su tramo nocturno por Frankenstein N corto**. Sábado 7 **no** es descanso. Viernes 13 sólo **un** bloque; bus a las 17:00 según decisión más reciente de Andrés.
 
 | Día | Bloque 1 | Bloque 2 | Extra/compromiso fuera de bloque | Presupuesto a pie total con margen |
 |---|---|---|---|---|
-| Vie 06 | **R11 Cosmopolita**, 10:45 (8,7; M5/transporte 4,81 km de recorrido medido + enlaces) | **Louvre**, 19:00 (9,4), compromiso de museo | **R10 Burlesque** 21:00; conservado aunque nota 7,6 | **~15–19 km** incluyendo enlaces y museo; sin desvíos largos |
+| Vie 06 | **R11 Cosmopolita**, 10:45 (8,7; M5/transporte 4,81 km de recorrido medido + enlaces) | **Louvre**, 19:00 (9,4), compromiso de museo | **Frankenstein N Montmartre** ~21:15, ~1,8–2,5 km a pie; sustituye R10 | **~12–17 km** con enlaces y museo; sin desvíos largos |
 | Sáb 07 | **R22 Coulée Verte** 09:15–11:45 (8,3; 3,44 km base) | **R15 Libros** 13:00–16:15 (8,5; 1,68 km base) | — | **~8–11 km** con aproximaciones/metro |
 | Dom 08 | **R06 Revolución** 09:00–14:00 (8,2; 8,14 km base) | Libre | R11 puede necesitar respaldo si falló viernes; no hay museo en fin de semana | **~10–13 km** con accesos y circulación local |
 | Lun 09 | **Musée de l'Orangerie** 12:00–13:30 (9,1; primera jornada laborable disponible) | Libre | **Visita a 42 temprano**; no consume bloque de piernas | **~4–7 km** con 42, museo y estaciones |
@@ -23,6 +23,10 @@ Decisión de Andrés: asignar **sólo las rutas con score personal estrictamente
 - **R06 domingo**: empezar a las 09:00 con todo el día libre de museos. No es necesario encadenar otro bloque ese día.
 - **R18 martes**: Arsenal figura abierto 08:00–22:00, salvo cierre excepcional del jueves 5 por manifestaciones; M5 Bastille→Jacques Bonsergent entre dos trazos a pie. Inicio 09:30 y cierre 13:30 dejan 1h45 antes de Arts et Métiers 15:15.
 - Los kilómetros totales son **presupuestos conservadores, no tracks de red enrutados** (especialmente museos, transbordos y NOC). El 20 km es el máximo de decisión: evitar añadidos y desvíos voluntarios que superen el margen diario.
-- R10 Burlesque queda fijo viernes 6 aunque está por debajo del umbral; no es una asignación nueva. R07, justo **8,0**, no satisface “por encima de 8”.
+- R10 Burlesque **retirada** por nota 7,6; su lugar el viernes es [Frankenstein N](frankenstein_n_montmartre.md), tres paradas nocturnas compactas y sin espectáculo de pago obligado. R07, justo **8,0**, no satisface “por encima de 8”.
 
 Fuentes oficiales contrastadas 05/11/2026: Bibliothèque Mazarine, BnF Salle Ovale, Musée de l'Orangerie, Ville de Paris Coulée Verte y Jardin du Port de l'Arsenal. Reconfirmar cambios/eventos el día de visita.
+
+## Auditoría del 6 noviembre
+
+Rutas pendientes retiradas por disfrute <8: **02, 05, 10, 19, 20 y 21**. Puntos rescatados por geometría en [Frankenstein C, N y E](frankenstein_20261106.md); C/E todavía sin fecha fija, no alteran los bloques aprobados. **R07=8,0 sobrevive** por no ser menor de8.
