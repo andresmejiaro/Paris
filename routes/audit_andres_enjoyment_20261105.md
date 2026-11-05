@@ -1,3 +1,5 @@
+> **Decisión ejecutiva 06/11/2026:** rutas pendientes con nota personal <8 (02,05,10,19,20,21) retiradas como recorridos independientes y puntos fuertes reciclados en [Frankenstein geométrico](frankenstein_20261106.md). Esta tabla conserva la auditoría previa como dato, no describe rutas aún asignables. R07=8,0 se mantiene.
+
 # Predicción de disfrute personal — Andrés · revisión 5 noviembre 2026
 
 **Esta NO es la nota histórica, artística ni de calidad editorial del panel.** Es una predicción subjetiva /10 de cuánto disfrutará Andrés cada visita, calibrada con resultados reales (Catacumbas excelente, Sainte-Chapelle sorprendente; Agua/Sur flojas), y con prioridad a: **(1) experiencia visible y memorable; (2) algo real que hacer/ver; (3) poca repetición, pocos puntos de placa/fachada o solo audiorrelato; (4) retorno por esfuerzo de piernas y logística.** La precisión de décimas expresa ordenamiento aproximado, no medición estadística. Se valora la ruta que quedaría tras los recortes y decisiones aprobados, no su primer borrador.
