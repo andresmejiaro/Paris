@@ -19,7 +19,7 @@ Cada ruta tiene instrucciones por calles, puntos de llegada, enlaces de Google M
 | Cruce | Aligre/Beauvau → Enfants Rouges → Bourse exterior | 4.214 km | [GPX](12.gpx) · [instrucciones](12_navigation.md) |
 | Cruce | Bouquinistes → Mazarine → Jousseaume → Salle Ovale | 1.684 km | [GPX](15.gpx) · [instrucciones](15_navigation.md) |
 | Cruce | Palais-Royal → Concorde → Carrousel → Hôtel de Ville → Bastille → Nation | 8.140 km | [GPX](06.gpx) · [instrucciones](06_navigation.md) |
-| Cruce | Arsenal → canal cubierto → Récollets → Bassin de la Villette → Grande Halle | 7.077 km | [GPX](18.gpx) · [instrucciones](18_navigation.md) |
+| Cruce | Arsenal → M5 Bastille–Jacques Bonsergent → Récollets → Bassin → Grande Halle | 4,430 km medidos + conexión (~4,8–5,1 km orientativos) | [GPX](18.gpx) · [instrucciones](18_navigation.md) |
 | Aster | Colette → Pont des Arts → quai aux Fleurs → Médicis → Rodin → Bir-Hakeim | 8.925 km | [GPX](01.gpx) · [instrucciones](01_navigation.md) |
 | Cruce | Musée de la Libération → Lutetia → rue du Four → Mémorial → Japy | 7.268 km | [GPX](07.gpx) · [instrucciones](07_navigation.md) |
 | Aster | Lamartine → Jean-Lorrain → Auteuil → Sena alto → Zouave → Égouts | 7.013 km | [GPX](13.gpx) · [instrucciones](13_navigation.md) |
@@ -76,7 +76,7 @@ Palais-Royal → Concorde → Carrousel/Tuileries → Hôtel de Ville → Bastil
 
 **DONE — 18-v1-20261006, revisada el 6 octubre 2026.** [Ficha canónica](../18_canal_paris.md) · [instrucciones](18_navigation.md) · [operaciones](18_access_operations.md) · [JSON](18.operations.json) · [evidencia](18.evidence.json) · [GeoJSON](18.geojson).
 
-Arsenal → canal cubierto → Récollets → Bassin de la Villette → Grande Halle: 7.077 km, 3 h 45–4 h 35, €0. Temple conserva 4.418 km y Récollets 3.674 km. Cinco guiones completos y V0–V6. Las distancias proceden del registro Valhalla archivado; GPX y GeoJSON son corredores de decisión simplificados y las señales del día mandan.
+Arsenal → M5 Bastille–Jacques Bonsergent → Récollets → Bassin de la Villette → Grande Halle: 4,430 km a pie de segmentos archivados + conexión sin router (estimación ~4,8–5,1 km), cuatro paradas, tres a cuatro horas orientativas. C02 Temple retirado; V2 Récollets–Grande Halle 3,674 km si hay fatiga. Dos segmentos separados en GPX. Las distancias proceden del registro Valhalla archivado; GPX y GeoJSON son corredores de decisión simplificados y las señales del día mandan.
 
 ## 03 — Noctámbulo: tres relaciones públicas con los muertos
 
