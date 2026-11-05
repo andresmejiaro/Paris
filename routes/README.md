@@ -2,6 +2,8 @@
 
 # Paris — working experience index
 
+**Visita especial del Louvre, viernes 6 noviembre 2026 (no pertenece a las 25 rutas del catálogo):** [orden, navegación y guiones preparados para Siro](louvre_2026_11_06/README.md). El enlace contiene spoilers; abrir solo durante la visita y después de la foto de cada obra.
+
 ## Actualización audiovisual — 4 noviembre 2026
 
 [Protocolo de uso](audiovisual_protocol.md). Los documentos de preparación contienen spoilers: no mostrarlos completos antes de la visita.
