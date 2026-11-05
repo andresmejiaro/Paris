@@ -1,22 +1,21 @@
-> **Capa audiovisual — revisión completa 4 noviembre:** [guía de ejecución](audiovisual/18.md) · [protocolo](audiovisual_protocol.md). Bóveda antes de decidir el tramo cubierto; archivo de La Villette solo tras foto de llegada. Sin vídeo obligatorio. Máximo 300 s por waypoint, dentro de observación existente.
-
 # Ruta 18 — El canal cambia de trabajo
 
-Cruce · **DONE — 18-v1-20261006, revisada el 6 de octubre de 2026** · narración: Cruce.
+Cruce · **18-v2-20261105 · plan aprobado por Andrés el 5 noviembre de 2026**. Se conservan cuatro paradas con experiencia visible y se suprime el capítulo C02 de la bóveda: no justificar dos kilómetros de piernas por una infraestructura invisible.
 
-## La experiencia elegida
+## Itinerario activo
 
-El Canal Saint-Martin no se cuenta como paseo bonito ni como una obra que dejó de trabajar. La ruta sigue cambios visibles de función y acceso: puerto comercial convertido en puerto deportivo y jardín; canal cubierto convertido en eje urbano; esclusas que aún regulan la navegación; bassin donde conviven circulación, vivienda y ocio; y mercado de ganado convertido en parque cultural.
+**C01 Puerto de l'Arsenal → caminar hasta Métro Bastille → línea 5 dirección Bobigny–Pablo Picasso hasta Jacques Bonsergent → caminar a C03 esclusas de Récollets → C04 Rotonde y Bassin de la Villette → C05 Grande Halle de La Villette.**
 
-La completa fija **7,077 km**, desde la orilla pública del Arsenal hasta la Grande Halle; dura **3 h 45–4 h 35**, cuesta **€0** y no exige barco, crucero, película, restaurante ni interior. Los cinco guiones suman unas 3.160 palabras: **24–28 minutos de voz** a ritmo presencial de 115–130 palabras por minuto, repartidos dentro de las paradas y la marcha segura. La corta Temple mide **4,418 km**. El antiguo inicio Récollets conserva los tres capítulos septentrionales en unos **3,67 km**. Inicio completo recomendado 09:30–10:30; último 11:00; final 13:15–15:35. [Navegación](navigation/18_navigation.md) · [operaciones](navigation/18_access_operations.md) · [GPX](navigation/18.gpx) · [GeoJSON](navigation/18.geojson).
+La secuencia real evita caminar por Richard-Lenoir/Temple. El metro es un traslado, **no un tramo peatonal**. Los dos tramos de marcha respaldados por el enrutamiento archivado son **0,756 km** Arsenal–Bastille y **3,674 km** Récollets–Grande Halle. **Subtotal conocido 4,430 km**, más la conexión **Jacques Bonsergent → Récollets** y recorrido local dentro de los espacios; presupuesto práctico **~4,8–5,1 km**, *estimación que no debe presentarse como distancia de red recalculada*. El GPX tiene dos segmentos peatonales separados y nunca conecta por tierra las estaciones. Sin reserva ni entrada obligatoria; transporte con Navigo.
 
-| ID | Lugar y pregunta | Tiempo |
-|---|---|---:|
-| C01 | Arsenal: ¿qué cambia cuando un puerto se vuelve lugar de estancia? | 20–25 min |
-| C02 | Bastille–Richard-Lenoir–Temple: ¿dónde trabaja un canal que no vemos? | 25–35 min durante la marcha |
-| C03 | Écluses des Récollets: ¿cómo se vence un desnivel? | 30–40 min |
-| C04 | Rotonde y Bassin de la Villette: frontera, navegación y reutilización | 40–50 min escalonados |
-| C05 | Grande Halle, Fontaine aux Lions y folie: conservar forma, cambiar uso | 30–40 min |
+| ID | Parada activa | Experiencia de Andrés | Tiempo orientativo |
+|---|---|---|---:|
+| C01 | Jardin du Port de l'Arsenal | Puerto y jardín junto al agua; mirar desde la ribera pública | 20–25 min |
+| C03 | Écluses des Récollets | Mecanismo visible de las esclusas, incluso sin barco | 25–35 min |
+| C04 | Rotonde y Bassin de la Villette | Agua abierta, cuenca, antiguos usos y bordes actuales | 35–45 min |
+| C05 | Grande Halle, parque y folies | Gran estructura industrial, espacio público de La Villette | 25–40 min |
+
+**C02 eliminado de la experiencia activa.** Se elimina su guion del itinerario, no se hace parada en Temple ni se pone audiovisual de una bóveda que no se ve. El sentido narrativo queda en cuatro transformaciones materiales visibles. No prometer barco pasando, puente elevándose, interior de la Halle ni instalación especial. Consulta [navegación](navigation/18_navigation.md), [operación](navigation/18_access_operations.md), [GPX](navigation/18.gpx), [GeoJSON](navigation/18.geojson) y [audiovisual](audiovisual/18.md).
 
 ## C01 — Un puerto donde también se permanece
 
@@ -30,7 +29,7 @@ La ciudad publica capacidad para 180 embarcaciones. Ese dato describe infraestru
 
 Mira la separación entre paseo y pontón. Podemos pasear en horario del jardín; no podemos atravesar una puerta reservada porque el agua sea visible. Más al norte reaparecerá esta diferencia: la reconversión crea espacio público y conserva zonas de operación, vivienda o comercio.
 
-Al salir hacia Bastille, guarda la imagen del agua descubierta. Durante casi dos kilómetros seguiremos el mismo sistema sin verla. Esa ausencia no es un vacío: es una decisión urbana.
+Al salir hacia Bastille, conserva la imagen del puerto. Tomaremos la línea 5 hasta Jacques Bonsergent y caminaremos a las esclusas: el siguiente objeto que veremos es hidráulico y tangible, no una bóveda invisible.
 
 Antes de irte, mira qué hace posible permanecer aquí. Hay caminos, bancos, vegetación y una relación con el agua que no exige cargar ni descargar nada. Ese tiempo de estancia parece natural sólo porque llegamos después de la transformación. En un puerto de trabajo, la forma de la orilla responde también a maniobras, almacenamiento, seguridad y plazos. El jardín no elimina toda esa geometría: ocupa una dársena que todavía comunica con la red y mantiene una separación clara entre la ribera de paseo y el espacio náutico.
 
@@ -40,37 +39,9 @@ Busca una señal, una verja o una diferencia de pavimento que materialice esa di
 
 También hay una tentación narrativa que conviene rechazar: convertir el placer en decadencia y el trabajo comercial en autenticidad perdida. No sabemos que el antiguo puerto fuera mejor para quienes trabajaban en él, ni que todo uso recreativo sea superficial. El cambio importante es más concreto: las tareas, las instalaciones y el público ya no coinciden con los de la etapa comercial. Podemos evaluar lo que vemos sin inventar nostalgia.
 
-Vuelve por última vez al agua. Localiza la dirección hacia el extremo norte, aunque la continuidad desaparezca tras Bastille. Nuestro siguiente capítulo no empieza cuando encontremos otro objeto monumental; empieza cuando dejemos de ver este. El puerto nos ha enseñado a leer un límite visible. La bóveda nos obligará a seguir una infraestructura mediante orientación, memoria y reaparición.
+Vuelve por última vez al agua. La continuidad del canal desaparece bajo la ciudad, pero no gastaremos piernas en un capítulo sin objeto visible. Sal por el camino público hasta Bastille; línea 5 hasta Jacques Bonsergent, y allí volvemos al agua en las esclusas.
 
 **Registro:** conversión, fecha, capacidad y acceso son municipales; la comparación de ritmos es interpretación; no se atribuyen biografías.
-
-## C02 — El canal que trabaja debajo
-
-**Posiciones:** borde norte del bassin en Bastille; jardines de boulevard Richard-Lenoir; umbral del agua abierta junto a Temple. No se entra en la bóveda.
-
-En Bastille el agua desaparece bajo la ciudad. No termina. La bóveda conduce la navegación bajo boulevard Richard-Lenoir hasta que el canal reaparece al norte. Caminaremos sobre esa continuidad por calles y jardines autorizados.
-
-La cubierta permite que una franja sostenga trabajos distintos a diferente altura: abajo, agua y embarcaciones; arriba, calzada, paseo, mercado y vegetación. No veremos el túnel y no fingiremos que una rejilla cualquiera revela su interior. La prueba espacial es sencilla: dejamos el bassin, seguimos el eje y encontraremos de nuevo el agua.
-
-En el siglo XIX se cubrieron tramos; en el XX apareció una propuesta opuesta: convertir el eje en autopista. La ciudad sitúa en 1971 el abandono de aquel proyecto. Que hoy caminemos por jardines no era el desenlace inevitable: hubo alternativas y decisiones públicas.
-
-Observa anchura y usos. La cubierta no borró el canal; permitió superponerle otra ciudad. Tampoco convirtió el subsuelo en paseo: no hay acceso peatonal a la bóveda y los avisos de navegación gobiernan lo que ocurre debajo.
-
-Cuando el agua reaparezca, compara la línea ajardinada con bordes, puentes y esclusas visibles. La función hidráulica era continua; nuestra experiencia visual no.
-
-Detente en uno de los ensanchamientos seguros de Richard-Lenoir y mira primero la superficie, no el subsuelo. Personas que cruzan, árboles, calzada y bancos producen una escena ordinaria. Nada en ella obliga a imaginar agua. Sin embargo, la dirección de la avenida prolonga el eje que hemos dejado en Bastille y nos conduce al tramo abierto. La infraestructura enterrada se reconoce aquí por relación entre lugares, no por una ventana espectacular.
-
-La cobertura tuvo consecuencias urbanas. Ocultar el agua permitió usar la superficie para circulación y espacios públicos; también separó a quien camina de los mecanismos y riesgos del canal. Esa separación no es total: ventilación, mantenimiento y restricciones siguen recordando que el subsuelo no es suelo disponible sin condiciones. No atribuiremos una función concreta a cada tapa o rejilla. Un objeto genérico no se convierte en prueba sólo porque encaje bien en la historia.
-
-Ahora cambia el registro. Es un hecho que el canal continúa bajo la bóveda y que existió un proyecto de autopista abandonado. Es una interpretación decir que caminamos sobre una decisión política. La frase no significa que cada baldosa sea resultado directo de una votación única. Significa que este corredor pudo organizarse de otro modo y que la forma actual concentra elecciones acumuladas sobre movilidad, paisaje y uso del espacio.
-
-Piensa por un momento en la alternativa de 1971 sin dibujar una autopista imaginaria con precisión falsa. Nos basta la diferencia de lógica. Una vía rápida habría tratado el eje principalmente como paso de vehículos; los jardines permiten también detenerse. Debajo, mientras tanto, el canal conserva su propia lógica lineal. Tres velocidades —navegación, tráfico y paseo— pueden ocupar el mismo corredor sin compartir plano.
-
-Al acercarnos a Temple, presta atención al momento exacto en que vuelve el agua. No adelantes la mirada buscando una postal. Primero aparecerán barandillas, desnivel o una abertura; después podremos reunirlos como canal. Ese instante corrige una intuición: lo invisible no estaba ausente.
-
-Quédate en el primer punto legal desde el que se lea el umbral. Detrás queda una superficie que podía hacernos olvidar la infraestructura. Delante comienzan puentes y cámaras. El capítulo se cierra no con una respuesta técnica completa, sino con una recuperación visual: hemos seguido una línea enterrada y la ciudad nos devuelve el agua.
-
-**Registro:** bóveda, navegación y proyecto de autopista son municipales; la lectura de capas es interpretación. No se promete interior ni barco.
 
 ## C03 — Subir sin pendiente
 
@@ -175,8 +146,8 @@ No hubo inspección, llamada, reserva, ensayo de audio ni revisión externa. Ser
 
 ## Declaración de cierre
 
-> **DONE — versión 18-v1-20261006, revisada el 6 de octubre de 2026.**
+> **DONE — versión 18-v2-20261105, ruta reducida con metro por decisión de Andrés.**
 > Esta es la versión elegida para el viaje y cumple los criterios de aceptación bajo control del agente.
 > Comprobaciones del día: puerta/horario Arsenal; avisos; barreras; visibilidad de esclusas, Rotonde, edificios y fuente; evento en Grande Halle; meteorología, WC y transporte.
-> Variantes operativas: V0–V6 en [operaciones](navigation/18_access_operations.md).
+> Variantes archivadas V0–V6 y contingencias actuales en [operaciones](navigation/18_access_operations.md).
 > Revisión externa por varios modelos y feedback: posterior al cierre.
