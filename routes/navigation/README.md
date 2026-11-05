@@ -1,3 +1,5 @@
+> **Voces asignadas actualmente:** [reparto aprobado de 25 rutas entre 21 compañeros](../narrator_assignments_2026.md). Los nombres de esta página son créditos de la edición original del navegador, no necesariamente el guía actual. Los trazados y archivos GPX no cambian.
+
 # Navegación seleccionada — Cruce, Hilo, Aster/Noctámbulo, Miga y Rumbo
 Ruta26: **DONE ·26-v2-20261007**, [navegación](26_navigation.md), [operaciones](26_access_operations.md), [JSON](26.operations.json), [evidencia](26.evidence.json), [GPX](26.gpx), [geometría/procedencia](26.geometry.json). Base independiente sin reserva,1,407km de línea fija con precisión declarada; módulos independientes Nozière/Diana, museo interior opcional. [Catálogo completo](portfolio.delivery.json):25 paquetes activos y04 retirada/absorbida; los antiguos conjuntos no se presentan como cobertura total actual.
 Actualización del 7 octubre 2026: rutas 20, 23, 24 y 25 entregadas con archivos independientes. Sus referencias simplificadas y los módulos interiores obedecen instrucciones escritas, puertas y personal. El manifiesto y GeoJSON conjuntos mantienen su ámbito histórico; los archivos por ruta controlan estas entregas.
@@ -5,7 +7,7 @@ Cruce · navegación base del 3 octubre 2026; cierre de ruta 02 revisado el 4 oc
 
 Cada ruta tiene instrucciones por calles, puntos de llegada, enlaces de Google Maps y un GPX fijo. Maps puede recalcular y elegir otra acera o una calle paralela: sus enlaces no son prueba de que haya seguido el GPX. El GPX contiene una línea para seguir en una aplicación compatible; no produce por sí solo avisos de giro. El [GeoJSON conjunto](routes.geojson) y el [registro de navegación](manifest.json) conservan coordenadas y maniobras.
 
-| Narrador | Recorrido principal | Distancia de red | Archivo fijo |
+| Crédito original | Recorrido principal | Distancia de red | Archivo fijo |
 |---|---|---:|---|
 | Hilo | Flamel → parvis Notre-Dame → Saint-Médard, frente y ábside | 3.136 km | [GPX](02.gpx) |
 | Aster | Champo/Filmothèque → portal norte Saint-Étienne → Pathé | 2.555 km | [GPX](16.gpx) · [instrucciones](16_navigation.md) |
