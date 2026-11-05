@@ -2,6 +2,8 @@
 
 # Ruta 03 — Navegación fija en Père-Lachaise
 
+> **Actualización de campo 05/11/2026 — Fourier añadido por petición expresa de Andrés.** Nueva parada de observación entre Robertson y Kardec: tumba de Joseph Fourier, división 18, primera línea de avenue des Acacias, junto al rond-point Casimir-Périer, **48.860061, 2.394034**. [Waypoint](https://www.google.com/maps/search/?api=1&query=48.860061%2C2.394034). Presupuestar 10–15 minutos adicionales; no se encarga cuarto guion largo. Los tres guiones y la traza GPX/GeoJSON originales quedan intactos; **el GPX no contiene el waypoint Fourier** y para esta visita manda esta instrucción adicional. No atravesar sepulturas para seguir una línea del mapa. Fuente de posición: APPL div. 18, avenue des Acacias, 1ª línea; Wikimedia Commons 48.860061, 2.394034.
+
 Cruce · **03-v10-20261005** · revisada 2026-10-05. [Ficha](../03_ghosts_revolution_nineteenth.md) · [operaciones](03_access_operations.md) · [JSON](03.operations.json) · [GPX](03.gpx) · [variantes](03.variants.gpx) · [GeoJSON](03.geojson) · [evidencia](03.evidence.json).
 
 ## Qué representa la traza
@@ -16,6 +18,7 @@ La discrepancia no se «corrige» añadiendo vueltas. Cargar GPX y plano oficial
 |---|---|---|
 | Porte principale | **48.859969, 2.389222** | Acceso municipal de 28 ter boulevard de Ménilmontant. WC y acogida, si operativos. [Mapa](https://www.google.com/maps/search/?api=1&query=48.859969%2C2.389222). |
 | Robertson | **48.859933, 2.390947** | División 8, primera línea de avenue Casimir-Périer. Observar relieves desde el camino. [Mapa](https://www.google.com/maps/search/?api=1&query=48.859933%2C2.390947). |
+| Joseph Fourier (añadido 05/11) | **48.860061, 2.394034** | División 18, avenue des Acacias, primera línea, junto al rond-point Casimir-Périer. Visita breve, sin guion adicional. [Mapa](https://www.google.com/maps/search/?api=1&query=48.860061%2C2.394034). |
 | Allan Kardec | **48.862320, 2.394350** | División 44, dolmen visible junto al chemin du Quinconce / avenue transversale nº1. [Mapa](https://www.google.com/maps/search/?api=1&query=48.86232%2C2.39435). |
 | Victor Noir | **48.860819, 2.396543** | División 92, junto a avenue transversale nº2. Mantenerse en camino; no tocar el bronce. [Mapa](https://www.google.com/maps/search/?api=1&query=48.860819%2C2.396543). |
 | Porte Gambetta | **48.863384, 2.397162** | Salida municipal de 55–57 rue des Rondeaux. WC, si operativo. [Mapa](https://www.google.com/maps/search/?api=1&query=48.863384%2C2.397162). |
@@ -30,9 +33,13 @@ Los pines de sepultura proceden de registros cartográficos abiertos y se contra
 
 Cruzar la puerta principal y continuar por el eje público de entrada. Tomar la conexión señalizada hacia **avenue Casimir-Périer** y localizar división 8. Robertson está en primera línea, antes del rond-point Casimir-Périer. No entrar entre concesiones aunque el pin parezca cercano. Si la primera conexión está cortada, pedir al personal la continuidad pública a division 8 o V1.
 
-### Robertson → Kardec
+### Robertson → Fourier (parada de emergencia)
 
-Continuar por **avenue Casimir-Périer** hacia el rond-point y ganar altura por los ejes públicos del plano hacia **avenue transversale nº1**. Buscar las placas de división 44 y **chemin du Quinconce**; el dolmen de Kardec es el objeto, no cualquier busto cercano. Este es el tramo con más subida y orientación. Una valla o ceremonia manda sobre el GPX: rodear solo por camino señalizado y volver a la placa 44. Tras diez minutos sin hallarlo, V2.
+Continuar por **avenue Casimir-Périer** hacia el rond-point Casimir-Périer y entrar por el camino público de **avenue des Acacias**, junto a la división 18. Fourier está en **primera línea** (referencia APPL M=U-24). Confirmar inscripción *Joseph FOURIER*; no confundir con otra sepultura ni entrar entre concesiones. [Waypoint verificado](https://www.google.com/maps/search/?api=1&query=48.860061%2C2.394034).
+
+### Fourier → Kardec
+
+Regresar al eje público señalizado y ganar altura hacia **avenue transversale nº1**. Buscar las placas de división 44 y **chemin du Quinconce**; el dolmen de Kardec es el objeto, no cualquier busto cercano. Una valla o ceremonia manda sobre el mapa: rodear solo por camino señalizado y volver a la placa 44. Tras diez minutos sin hallarlo, V2.
 
 ### Kardec → Victor Noir
 
