@@ -1,6 +1,6 @@
 > **Itinerario operativo vigente (06/11/2026):** [autoasignación por score](paris_slots_auto_20261105.md) · [Frankenstein, rescate por proximidad y retirada de seis rutas flojas](frankenstein_20261106.md). Las tablas históricas inferiores documentan producción, no indican qué rutas siguen en agenda.
 
-> **Reparto vigente (05/11/2026):** [25 rutas, 21 voces y excepciones de campo](narrator_assignments_2026.md). Esta asignación prevalece sobre los créditos de narrador originales indicados en las fichas y las tablas históricas, salvo cambio explícito de Andrés para la salida concreta.
+> **Reparto operativo vigente (06/11/2026):** [21 voces con experiencias realizadas o asignadas, incluidos museos y Frankenstein](narrator_assignments_2026.md). Su tabla operativa superior prevalece sobre los créditos del catálogo histórico y las fichas antiguas.
 
 > **Narrator correction — Andrés, 3 October 2026:** Cruce owns all route design, research, selection, verification, navigation and complete script preparation. Rumbo narrates Coulée Verte; Hilo narrates Medieval Devils; Miga narrates the affordable Paris flavours route. These are narrator assignments, not delegated work. No companion research or response is awaited. This overrides earlier commission/author/reviewer wording below.
 
