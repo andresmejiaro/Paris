@@ -1,6 +1,10 @@
 # París 2026
 
-[Reparto vigente de narradores: 25 rutas · 21 voces](routes/narrator_assignments_2026.md) · [Catálogo completo de experiencias y navegación](routes/README.md) · [Criterios de entrega](routes/DEFINITION_OF_DONE.md)
+[Reparto operativo de narradores: 21 voces · museos y Frankenstein incluidos](routes/narrator_assignments_2026.md) · [Catálogo completo de experiencias y navegación](routes/README.md) · [Criterios de entrega](routes/DEFINITION_OF_DONE.md)
+
+## Calendario actual y respaldo
+
+[Calendario equilibrado vigente (6 noviembre)](routes/paris_slots_auto_20261105.md) · [Respaldo de la versión anterior](https://github.com/andresmejiaro/Paris/blob/5bb462943093af94b86e0f53ca97b76a66d72889/routes/paris_slots_auto_20261105.md).
 
 ## Actualización audiovisual — 4 noviembre 2026
 
