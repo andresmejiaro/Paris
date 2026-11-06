@@ -1,6 +1,6 @@
-# Frankenstein C — Centro: lo que sí se ve
+# Frankenstein C — París en capas: lo que sí se ve
 
-**Estado: ASIGNADA domingo 08/11/2026, bloque 2, 15:15–17:30.** Ensamblada por proximidad y retorno visual, no por época ni tema. Sustituye lo salvable de las rutas retiradas 19 (Ilusiones), 21 (Sabores), 02 (Medieval) y 05 (República). No revive las rutas originales.
+**Estado: ASIGNADA miércoles 11/11/2026, bloque 2, 13:30–16:00. Narradora: Tara.** Ensamblada por proximidad y retorno visual, no por época ni tema. Tres hilos de lectura sin fusión artificial: arte e ilusiones visibles; oficios y huellas materiales; símbolos públicos. Sustituye lo salvable de las rutas retiradas 19 (Ilusiones), 21 (Sabores), 02 (Medieval) y 05 (República). No revive las rutas originales.
 
 ## Secuencia peatonal
 
@@ -17,4 +17,4 @@
 
 **Disfrute estimado de Andrés: 8,3/10** (no nota histórica/artística). El potencial viene de Buren y el monumento visible; comprar un flan no transforma por sí solo la ruta en un 9.
 
-**Encaje de día:** viene tras R06 Revolución (09:00–14:00), con traslado en metro hasta Palais-Royal, no enlazar caminando. Total diario presupuestado ~15–19 km incluidas conexiones y estaciones, dentro del techo de Andrés 20 km si se respetan paradas y se evitan desvíos.
+**Encaje de día:** miércoles 11 tras Frankenstein E «El imperio hecho monumento» (Rita) 10:30–11:30 en Porte Dorée. Traslado en metro, pausa para comer y comienzo 13:30 en Palais-Royal; cierre ~16:00 en République antes de anochecer. Total diario E+C presupuestado ~7–11 km con accesos y estaciones, dentro del techo de 20 km. El domingo 8 queda sólo con R06 Revolución; la versión anterior permanece disponible en Git como respaldo.
