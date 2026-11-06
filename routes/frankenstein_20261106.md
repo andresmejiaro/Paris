@@ -1,6 +1,6 @@
 # Frankenstein: rescate geométrico tras la auditoría de Andrés
 
-**Calendario operativo vigente:** [redistribución equilibrada 06/11](paris_slots_auto_20261105.md). La asignación anterior de C al domingo queda conservada en el [respaldo por commit](https://github.com/andresmejiaro/Paris/blob/5bb462943093af94b86e0f53ca97b76a66d72889/routes/frankenstein_20261106.md) sólo si el archivo ya existía en ese commit.
+**Calendario operativo vigente:** [redistribución equilibrada 06/11](paris_slots_auto_20261105.md). La asignación anterior de C al domingo queda conservada en el [respaldo por commit](https://github.com/andresmejiaro/Paris/blob/5bb462943093af94b86e0f53ca97b76a66d72889/routes/frankenstein_20261106.md).
 
 **Decisión 06/11/2026:** retirar del itinerario **como rutas independientes** todas las rutas pendientes con disfrute previsto **<8,0**: 02 Medieval+Crimen (7,3), 05 República (6,4), 10 Burlesque (7,6), 19 Ilusiones (6,8), 20 Legado colonial (7,8), 21 Sabores populares (7,2). **R07 Ocupación =8,0 no se elimina** y se programa por decisión posterior de Andrés el jueves 12, 10:00–15:45, con Vera. La valoración y los guiones viejos quedan en Git para auditoría, pero no son instrucciones actuales de ejecución. R26 Crimen no recupera independencia; previamente absorbida, su material se evalúa aquí sin fabricar un segundo tour.
 
