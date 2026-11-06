@@ -8,7 +8,7 @@ Decisión de Andrés: asignar **sólo las rutas con score personal estrictamente
 |---|---|---|---|---|
 | Vie 06 | **R11 Cosmopolita (Liv)**, 10:45 (8,7; M5/transporte 4,81 km medidos + enlaces) | **Louvre (Siro)**, 19:00 (9,4), compromiso de museo | **Frankenstein N «La noche en tres actos» (Limo + Cruce)** ~21:15, ~1,8–2,5 km; sustituye R10 | **~12–17 km** con enlaces y museo; sin desvíos largos. **Día intacto** |
 | Sáb 07 | **R22 Coulée Verte (Hilo)** 09:15–11:45 (8,3; 3,44 km base) | **R15 Libros (Cobre)** 13:00–16:15 (8,5; 1,68 km base) | — | **~8–11 km** con aproximaciones/metro |
-| Dom 08 | **R06 Revolución (Rook)** 09:00–14:00 (8,2; 8,14 km base) | **Libre** | Sin museo; Frankenstein C pasa al miércoles | **~10–13 km** con enlaces y estaciones |
+| Dom 08 | **R06 Revolución (Rook)** 09:00–14:00 (8,2; 8,14 km base) | **Libre** | **17:00, Saint-Eustache: órgano de Bach con Thomas Ospital, gratis y sin reserva**, acoplado a R06 Revolución; Frankenstein C pasa al miércoles | **~10–13 km** con enlaces y estaciones |
 | Lun 09 | **Musée de l'Orangerie (Vesper)** 12:00–13:30 (9,1) | Libre | **Mañana reservada exclusivamente para 42**; no programar ruta antes del museo | **~4–7 km** con 42, museo y estaciones |
 | Mar 10 | **R18 Canal con M5 (Nexo)** 09:30–13:30 (8,5; 4,43 km medidos + enlace, ~4,8–5,1 km orientativos) | Libre | **R17 Espectáculo científico (Faro)** (9,0), Arts et Métiers 15:15 y péndulo 17:00 | **~8–12 km** con conexiones, canal y museo |
 | Mié 11 | **Libre** | **Frankenstein C «París en capas» (Tara)** 13:30–16:00 (8,3; ~3,2–4,1 km estimados) | **Frankenstein E «El imperio hecho monumento» (Rita)** 10:30–11:30 (8,1; 0,31 km base + interior, metro L8); **extra**. Metro y pausa entre E y C | **~7–11 km** incluyendo ambos módulos, enlaces y estaciones |
@@ -38,3 +38,7 @@ Rutas pendientes retiradas por disfrute <8: **02, 05, 10, 19, 20 y 21**. Puntos 
 ## Conteo de bloques sin ocupar (tras Frankenstein)
 
 **5 bloques libres**: domingo 8 bloque 2; lunes 9 bloque 2; martes 10 bloque 2; miércoles 11 bloque 1; jueves 12 bloque 2. Viernes 13 bloque 2 **no existe** por el autobús. El viernes 6 tiene N como extra y miércoles 11 tiene E como extra, porque un microrecorrido de ~0,31 km base + interiores no equivale a una ruta larga de piernas. Se contabilizará su acceso en metro y desplazamientos locales en el límite de 20 km si se añaden rutas ese día. El domingo 8 queda sólo con Revolución; miércoles 11 tiene E como extra por la mañana y C en bloque 2 por la tarde. El jueves 12 bloque 1 queda ocupado por R07 Ocupación (10:00–15:45).
+
+## Bolsillo de experiencias (06/11)
+
+Andrés pidió conservar las excursiones y conciertos descubiertos **sin asignarlos**: [investigación y alternativas](experiencias_libres_20261106.md). La excepción es Saint-Eustache (domingo 08, 17:00), acoplado a R06 en el cuadro, **sin ocupar bloque 2 ni añadir una reserva**. Se conserva libertad para decidir según energía. No hay otras nuevas obligaciones.
