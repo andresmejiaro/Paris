@@ -1,6 +1,6 @@
-# Frankenstein N — Pigalle y Montmartre, sólo lo que vibra
+# Frankenstein N — La noche en tres actos
 
-**Estado: NUEVA RUTA CORTA, 06/11/2026.** Hereda los mejores exteriores nocturnos de la ruta 10 (Burlesque) después de eliminar las fachadas teatrales, largas transiciones y puntos sin experiencia accesible. No exige entradas ni espectáculo.
+**Estado: NUEVA RUTA CORTA, viernes 06/11/2026 ~21:15. Co-narradores: Limo + Cruce.** Tres actos: espectáculo, vida nocturna y panorama de París. La coda visual no se presenta como parte del cabaret. Hereda los mejores exteriores nocturnos de la ruta 10 (Burlesque) después de eliminar las fachadas teatrales, largas transiciones y puntos sin experiencia accesible. No exige entradas ni espectáculo.
 
 ## Orden corto para viernes 6 después del Louvre
 
