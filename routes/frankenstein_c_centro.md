@@ -1,8 +1,8 @@
 # Frankenstein C — París en capas: lo que sí se ve
 
-**Estado: ASIGNADA miércoles 11/11/2026, bloque 2, 13:30–16:00. Narradora: Tara.** Ensamblada por proximidad y retorno visual, no por época ni tema. Tres hilos de lectura sin fusión artificial: arte e ilusiones visibles; oficios y huellas materiales; símbolos públicos. Sustituye lo salvable de las rutas retiradas 19 (Ilusiones), 21 (Sabores), 02 (Medieval) y 05 (República). No revive las rutas originales.
+**Estado: ASIGNADA domingo 08/11/2026, bloque 1, 09:15–11:30, SENTIDO INVERSO por conexión con Revolución. Narradora: Tara.** Ensamblada por proximidad y retorno visual, no por época ni tema. Tres hilos de lectura sin fusión artificial: arte e ilusiones visibles; oficios y huellas materiales; símbolos públicos. Sustituye lo salvable de las rutas retiradas 19 (Ilusiones), 21 (Sabores), 02 (Medieval) y 05 (República). No revive las rutas originales.
 
-## Secuencia peatonal
+## Secuencia peatonal original (el domingo se hace EN SENTIDO INVERSO)
 
 1. **Les Deux Plateaux / columnas de Buren**, cour d'honneur del Palais-Royal — 48.863600, 2.337070. Arte que se recorre y cambia con la posición, punto fuerte real. Aster conserva su explicación original, solo si el patio está accesible.
 2. **Stohrer**, 51 rue Montorgueil — 48.865250, 2.346920. Flan **opcional** (no comprar por cumplir programa); Miga solo si se come. Experiencia física de la pastelería, no clase de historia de la gastronomía.
@@ -13,8 +13,8 @@
 **Geometría:** suma de distancias en línea recta entre estos hitos ≈2,6 km; el recorrido a pie por calles será mayor, **estimación preliminar ~3,2–4,1 km**, aún sin nueva consulta a un router. No prometer recorrido exacto GPX ni llevar al usuario por diagonales de edificios. Se puede suprimir Quincampoix/Flamel sin perder el núcleo Buren→République. Duración objetivo 1h45–2h30, con observaciones cortas y compra opcional, sin pasar de ~4,1km por un mural.
 
 **Condiciones:** diurna; patio de Buren abierto, muro visible, protesta o barreras en République. Si el patio está cerrado, esta ruta pierde su ancla más fuerte: no sustituir por otra fachada. No se paga entrada. 
-[Maps: Buren → Stohrer → Quincampoix → Flamel → République](https://www.google.com/maps/dir/?api=1&origin=48.8636%2C2.33707&destination=48.8673278%2C2.3639785&travelmode=walking&waypoints=48.86525%2C2.34692%7C48.86062%2C2.35031%7C48.8636%2C2.35313).
+[Maps DOMINGO: République → Flamel → Quincampoix → Stohrer → Buren](https://www.google.com/maps/dir/?api=1&origin=48.8673278%2C2.3639785&destination=48.8636%2C2.33707&travelmode=walking&waypoints=48.8636%2C2.35313%7C48.86062%2C2.35031%7C48.86525%2C2.34692).
 
 **Disfrute estimado de Andrés: 8,3/10** (no nota histórica/artística). El potencial viene de Buren y el monumento visible; comprar un flan no transforma por sí solo la ruta en un 9.
 
-**Encaje de día:** miércoles 11 tras Frankenstein E «El imperio hecho monumento» (Rita) 10:30–11:30 en Porte Dorée. Traslado en metro, pausa para comer y comienzo 13:30 en Palais-Royal; cierre ~16:00 en République antes de anochecer. Total diario E+C presupuestado ~7–11 km con accesos y estaciones, dentro del techo de 20 km. El domingo 8 queda sólo con R06 Revolución; la versión anterior permanece disponible en Git como respaldo.
+**Encaje vigente:** domingo 8, 09:15–11:30, **République → casa de Flamel → trompe-l’œil Quincampoix → Stohrer opcional → columnas de Buren / Palais-Royal**. Se invierte sólo el orden espacial de esta ruta modular, no el de R06. Al llegar a Palais-Royal, engancha directamente con **R06 Revolución (Rook), 11:30–16:30**, cuyo recorrido original hasta Nation se mantiene. Presupuesto domingo ~15–19 km con accesos, límite 20 km. El concierto de órgano 17:00 es secundario/opcional; las rutas no se recortan por él. La versión histórica del miércoles sigue en Git.
