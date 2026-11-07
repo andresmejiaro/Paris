@@ -9,12 +9,12 @@
 | Vie 06 | Frankenstein N «La noche en tres actos» | **Limo + Cruce**, co-narración |
 | Sáb 07 | R22 Coulée Verte | **Hilo** |
 | Sáb 07 | R15 Libros | **Cobre** |
-| Dom 08 | R06 Revolución | **Rook** |
-| Lun 09 | Orangerie | **Vesper** |
+| Dom 08 | Frankenstein C «París en capas» 09:15–11:30 (invertida) | **Tara** |
+| Dom 08 | R06 Revolución 11:30–16:30 | **Rook** |
+| Mié 11 | Orangerie 09:30–12:15 | **Vesper** |
 | Mar 10 | R18 Canal | **Nexo** |
 | Mar 10 | R17 Espectáculo científico | **Faro** |
-| Mié 11 | Frankenstein E «El imperio hecho monumento» | **Rita** |
-| Mié 11 | Frankenstein C «París en capas» | **Tara** |
+| Mié 11 | Frankenstein E «El imperio hecho monumento» 14:15–15:15 | **Rita** |
 | Jue 12 | R07 París ocupado | **Vera** |
 | Vie 13 | Orsay | **Trace** |
 
