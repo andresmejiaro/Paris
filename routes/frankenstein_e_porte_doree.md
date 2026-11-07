@@ -1,6 +1,6 @@
 # Frankenstein E — El imperio hecho monumento
 
-**Estado: ASIGNADO miércoles 11/11/2026, extra 10:30–11:30; narradora principal: Rita.** No consume bloque entero de piernas. Tema: representación colonial en arquitectura y escultura y examen crítico de su memoria. Rescate geométrico de 20B (Legado colonial). Sin un kilometraje artificial ni encadenarlo con el remoto 20A Catroux.
+**Estado: ASIGNADO miércoles 11/11/2026, bloque 2, 14:15–15:15; narradora principal: Rita.** No consume bloque entero de piernas. Tema: representación colonial en arquitectura y escultura y examen crítico de su memoria. Rescate geométrico de 20B (Legado colonial). Sin un kilometraje artificial ni encadenarlo con el remoto 20A Catroux.
 
 ## Sitio compacto
 
@@ -15,4 +15,4 @@
 
 [Ficha oficial Palacio](https://www.palais-portedoree.fr/informations-pratiques) · [Maps: Palacio → Marchand](https://www.google.com/maps/dir/?api=1&origin=48.83527%2C2.40935&destination=48.83449%2C2.40877&travelmode=walking).
 
-**Encaje de calendario:** el lunes 9 el Palacio está cerrado; el martes 10 no cabe entre Canal y Espectáculo Científico sin perder margen de traslados. Primera ventana laborable válida: miércoles 11 a las 10:30. Metro línea 8 Porte Dorée. Al ser microrecorrido, se registra como **extra**. El miércoles, el bloque 1 sigue libre y el bloque 2 está ocupado por [Frankenstein C «París en capas»](frankenstein_c_centro.md) con Tara a las 13:30. Trasladarse E→C en metro y reservar tiempo para comer; presupuesto combinado ~7–11 km incluidas estaciones.
+**Encaje vigente:** miércoles festivo 11 **14:15–15:15**, después de [Orangerie 09:30–12:15](paris_slots_auto_20261105.md), con metro hacia Porte Dorée y pausa para comer. **Frankenstein C** se trasladó al domingo 8 para enlazar con Revolución. Al ser microrecorrido, E ocupa sólo una parte del bloque de tarde; verificar qué interiores históricos están accesibles en festivo.
