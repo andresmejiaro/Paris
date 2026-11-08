@@ -1,6 +1,10 @@
 # Frankenstein D — Fachadas y pactos: la ciudad que parece y la que creemos
 
-**PROPUESTA SIN ASIGNAR — 8 noviembre 2026.** Rescate encargado por Andrés a Cruce, transmitido por Tara; no modifica R19, R02 ni Frankenstein C. **Narradores: Aster** en fachada/puerta falsas; **Hilo** en Diablo/milagros. El texto completo de cada uno queda dentro de este archivo para que ningún narrador reciba solo una ficha. Los enlaces individuales se incluyen debajo de cada waypoint. Fecha, acceso y estado en campo pendientes de decidir o comprobar.
+**ESTADO OPERATIVO CONFIRMADO 08/11 POR ANDRÉS — rescate parcial:** este documento conserva los **cuatro guiones completos** y la posible caminata continua como archivo, pero **no hay una nueva ruta D independiente**. Sus fragmentos se asignan así: **145 rue La Fayette (Aster)** el martes 10 **dentro de R18 Canal vía M5 Gare du Nord, antes de Récollets**; **1 bis rue Chapon (Aster)** el martes 10 **antes de R17 Arts et Métiers, a las ~14:50, condicional a que la puerta siga visible**; **Notre-Dame portales occidentales (Hilo)** el jueves 12 **entre rue du Four y Mémorial de la Shoah, dentro de R07, conservando Japy**. Ver [calendario actualizado](paris_slots_auto_20261105.md), [navegación Canal](navigation/18_navigation.md), [navegación Ciencia](navigation/17_navigation.md) y [navegación Ocupación](navigation/07_navigation.md).
+
+**Bolsa problemática SIN ASIGNACIÓN, agrupar sin forzar trayecto:** (1) **Saint-Médard** (Hilo, guion siguiente), (2) **Square Catroux/Monceau: esculturas Solitude y Fers** (R20A), (3) **BiLiPo** (R26 y exposición). No se eliminan, no se les asigna fecha, no se suman al kilometraje. El tramo «La Fayette→Chapon→Notre-Dame→Saint-Médard» que figura más abajo es un **recorrido histórico de propuesta**, NO una instrucción nueva de hacerlos juntos.
+
+**PROPUESTA HISTÓRICA DE RECORRIDO COMPLETO — 8 noviembre 2026.** Rescate encargado por Andrés a Cruce, transmitido por Tara; no modifica R19, R02 ni Frankenstein C. **Narradores: Aster** en fachada/puerta falsas; **Hilo** en Diablo/milagros. El texto completo de cada uno queda dentro de este archivo para que ningún narrador reciba solo una ficha. Los enlaces individuales se incluyen debajo de cada waypoint. Fecha, acceso y estado en campo pendientes de decidir o comprobar.
 
 ## Qué sobrevivió a la revisión de Andrés
 
