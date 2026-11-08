@@ -4,7 +4,9 @@
 
 ## Calendario actual y respaldo
 
-[Calendario equilibrado vigente (6 noviembre)](routes/paris_slots_auto_20261105.md) · [Respaldo de la versión anterior](https://github.com/andresmejiaro/Paris/blob/5bb462943093af94b86e0f53ca97b76a66d72889/routes/paris_slots_auto_20261105.md).
+[Calendario equilibrado actualizado (8 noviembre)](routes/paris_slots_auto_20261105.md) · [Respaldo de la versión anterior](https://github.com/andresmejiaro/Paris/blob/5bb462943093af94b86e0f53ca97b76a66d72889/routes/paris_slots_auto_20261105.md).
+
+**Rescates del 8 noviembre:** [Frankenstein D — guiones, tres inserciones oficiales y bolsa pendiente](routes/frankenstein_d_fachadas_pactos.md). La Fayette/Chapon el martes, Notre-Dame el jueves; Saint-Médard/Catroux/BiLiPo sin asignar.
 
 ## Actualización audiovisual — 4 noviembre 2026
 
