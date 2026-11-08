@@ -1,5 +1,7 @@
 # Route 17 — navegación interior
 
+**Preludio exterior incorporado oficialmente para el martes 10/11 por decisión de Andrés del 8/11:** antes de la entrada de **Arts et Métiers (60 rue Réaumur, 15:15)**, pasar hacia **14:50–15:05** por [1 bis rue Chapon, 48.864120,2.355880](https://www.google.com/maps/search/?api=1&query=48.864120%2C2.355880). **Aster** narra la pieza *Les Spécialistes* solo **si sigue visible**: 0–5 min, [guion](../frankenstein_d_fachadas_pactos.md). Si desapareció, está tapada o la llegada va retrasada, pasar sin detenerse y priorizar la entrada al museo. Retorno a [60 rue Réaumur](https://www.google.com/maps/search/?api=1&query=48.866020%2C2.355360). **Faro** mantiene íntegra R17 y su demostración de Foucault; Chapon es una inserción geográfica, no un capítulo científico ni una reactivación de R19. El 1,1 km interior/GPX original no incluye el enlace exterior.
+
 Versión 17-v1-20261006. El recorrido ocurre dentro del Musée des Arts et Métiers; el plano y las instrucciones del personal mandan sobre este orden. La línea GPX es una **secuencia de decisión**, no una polilínea interior ni una promesa de pasillos abiertos. Distancia práctica estimada, incluyendo cambios de sala y retorno a la iglesia: **0.8–1.4 km**; valor de planificación **1.1 km**.
 
 1. Llegar a la entrada pública de **60 rue Réaumur** (48.86602, 2.35536) 15 minutos antes de la franja. Comprar/validar entrada y preguntar si la demostración de 12:00 o 17:00 se mantiene y dónde formar fila.
