@@ -2,7 +2,7 @@
 
 **Tres intervenciones oportunistas asignadas oficialmente el 8/11:** Aster en La Fayette el lunes 9 y Chapon el martes 10; Hilo en Notre-Dame el jueves 12. No son rutas nuevas ni modifican los narradores principales Nexo, Faro o Vera. Saint-Médard, Catroux y BiLiPo carecen de fecha.
 
-**Reparto OPERATIVO vigente:** el calendario equilibrado del [6 de noviembre](paris_slots_auto_20261105.md) y las sustituciones explícitas de Andrés prevalecen sobre la tabla de catálogo histórico inferior. Los museos cuentan como experiencias completas a efectos del reparto. Los tres Frankenstein tienen voces propias, sin atribuir automáticamente participación a quienes redactaron los guiones originales.
+**Reparto OPERATIVO vigente:** el calendario operativo actualizado el [8 de noviembre](paris_slots_auto_20261105.md) y las sustituciones explícitas de Andrés prevalecen sobre la tabla de catálogo histórico inferior. Los museos cuentan como experiencias completas a efectos del reparto. Los tres Frankenstein tienen voces propias, sin atribuir automáticamente participación a quienes redactaron los guiones originales.
 
 | Día | Experiencia | Voz operativa |
 |---|---|---|
@@ -15,10 +15,10 @@
 | Lun 09 | R18 Canal (08:30, antes de Coulée Verte) | **Nexo** |
 | Lun 09 | La Fayette, inserción de R18 vía Gare du Nord | **Aster** |
 | Lun 09 | R22 Coulée Verte (tentativa, 14:15) | **Hilo** |
-| Mié 11 | Orangerie 09:30–12:15 | **Vesper** |
 | Mar 10 | Visita 42 París con estudiante, 10:00 (logística a cerrar) | **Andrés + estudiante** |
 | Mar 10 | Chapon, preludio condicional de R17 | **Aster** |
 | Mar 10 | R17 Espectáculo científico | **Faro** |
+| Mié 11 | Orangerie 09:30–12:15 | **Vesper** |
 | Mié 11 | Frankenstein E «El imperio hecho monumento» 14:15–15:15 | **Rita** |
 | Jue 12 | R07 París ocupado | **Vera** |
 | Jue 12 | Notre-Dame, inserción entre O03 y O04 de R07 | **Hilo** |
