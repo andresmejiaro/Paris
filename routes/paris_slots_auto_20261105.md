@@ -1,4 +1,6 @@
-# París — calendario equilibrado y voces · actualizado 07-11-2026
+# París — calendario equilibrado y voces · actualizado 08-11-2026
+
+**Adenda confirmada 8/11 por Andrés:** el martes 10 se incorporan **145 rue La Fayette** al tramo R18 Canal vía Gare du Nord (Aster) y **1 bis rue Chapon** como visita exterior condicional antes de Arts et Métiers (Aster). El jueves 12 se inserta **Notre-Dame, portales occidentales** (Hilo) **entre 48 rue du Four y el Mémorial de la Shoah** de R07; Japy y todas las paradas originales permanecen. Estos puntos son oportunistas, no nuevos bloques ni reactivación de R19/R02. Su guion y enlaces están en [Frankenstein D](frankenstein_d_fachadas_pactos.md). **Saint-Médard, esculturas Catroux y BiLiPo siguen sin asignar**, juntos en la bolsa problemática. Las distancias de las rutas base/GPX no incluyen estas inserciones; los horarios de cierre son metas flexibles y no mediciones nuevas.
 
 **Ajuste confirmado 7/11 por Andrés:** Orangerie se mueve al **miércoles 11 por la mañana**, Frankenstein E al **miércoles por la tarde** y Frankenstein C al **domingo 8 por la mañana**, en sentido inverso para enlazar directamente con R06 Revolución. El concierto de órgano del domingo sigue siendo **opcional y secundario**: no recortar las rutas por llegar. Los párrafos de auditoría histórica del 6/11 documentan el estado previo, y no prevalecen sobre este ajuste ni sobre la tabla siguiente.
 
@@ -12,12 +14,15 @@ Decisión de Andrés: asignar **sólo las rutas con score personal estrictamente
 | Sáb 07 | **Libre por recuperación** tras 40.000 pasos el viernes | **R15 Libros (Cobre)** 13:00–16:15 (8,5; 1,68 km base) | — | **~4–7 km** con aproximaciones/metro |
 | Dom 08 | **Frankenstein C «París en capas» (Tara)** 09:15–11:30, recorrido invertido République→Palais-Royal (8,3; ~3,2–4,1 km) | **R06 Revolución (Rook)** 11:30–16:30, arranca en Palais-Royal y termina en Nation (8,2; 8,14 km base) | Órgano de Bach en Saint-Eustache 17:00 **sólo si apetece y da tiempo**, sin condicionar las rutas | **~15–19 km** con enlaces y estaciones; respetar máximo 20 km |
 | Lun 09 | **Visita 42 por la mañana**, compromiso prioritario | **R22 Coulée Verte (Hilo), TENTATIVO**, 14:15–16:45 (8,3; 3,44 km base) | Orangerie trasladada al miércoles; Coulée Verte puede moverse sin coste según energía | **~5–9 km** con enlaces y estaciones |
-| Mar 10 | **R18 Canal con M5 (Nexo)** 09:30–13:30 (8,5; 4,43 km medidos + enlace, ~4,8–5,1 km orientativos) | Libre | **R17 Espectáculo científico (Faro)** (9,0), Arts et Métiers 15:15 y péndulo 17:00 | **~8–12 km** con conexiones, canal y museo |
+| Mar 10 | **R18 Canal con M5 (Nexo)** 09:30–~14:00; **145 rue La Fayette (Aster)** incorporada vía **Gare du Nord**, antes de Récollets; base 4,43 km medidos, sin contar nuevo enlace | **1 bis rue Chapon (Aster)** ~14:50, observación condicional 0–5 min antes del museo | **R17 Ciencia (Faro)** Arts et Métiers 15:15 y péndulo 17:00; si hay retrasos, Chapon se omite sin tocar el museo | **~9–14 km provisionales**, con accesos, canal, dos oportunistas, enlaces y museo; no es track nuevo |
 | Mié 11 | **Musée de l'Orangerie (Vesper)** 09:30–12:15 (9,1), museo abierto pese a festivo | **Frankenstein E «El imperio hecho monumento» (Rita)** 14:15–15:15, Porte Dorée, interior gratuito y exterior breve | Metro desde Concorde hasta Porte Dorée, pausa para comer; C pasa al domingo | **~4–8 km** con museo, accesos y metro |
-| Jue 12 | **R07 París ocupado (Vera)**, 10:00–15:45 (8,0; 7,789 km de superficie + interiores) | Libre | Musée de la Libération 10:00; Mémorial de la Shoah abierto hasta 21:00 el jueves | **~10–13 km** con metro, interiores y enlaces |
+| Jue 12 | **R07 París ocupado (Vera)**, 10:00–~16:15/16:30; **Notre-Dame, puertas del Diablo (Hilo)** entre rue du Four y Mémorial, sin entrada ni cola | Libre después del recorrido | Musée de la Libération 10:00; Mémorial de la Shoah abierto hasta 21:00 el jueves; **Japy permanece** al final | **~11–14 km provisionales**, con metro, interiores, oportunidad Notre-Dame y enlaces; base 7,789 km sin nuevo enlace |
 | Vie 13 | **Musée d’Orsay (Trace)** temprano (9,3), único bloque | **No existe bloque 2** | Check-out NOC 09:00; bus 17:00 | Museo y conexiones; debajo de 20 km |
 
 ## Validaciones
+
+- **8/11, tres rescates asignados oficialmente:** La Fayette y Chapon martes 10; Notre-Dame jueves 12. **No cambia la identidad de R18, R17 ni R07**. Aster/Hilo narran los anexos; Nexo/Faro/Vera conservan las rutas y cierres. Aster: [guion La Fayette y Chapon](frankenstein_d_fachadas_pactos.md); Hilo: [guion Notre-Dame](frankenstein_d_fachadas_pactos.md). El M5 del martes continúa dos estaciones más, hasta **Gare du Nord**, para ir a La Fayette y volver al corredor del canal por calle; no usar el antiguo enlace Jacques Bonsergent como traza activa ese día. El jueves se evita repetir un tramo o eliminar Japy: Notre-Dame queda entre O03 y O04, con enlaces peatonales sujetos a Maps/señalización. La narración de Notre-Dame no sustituye la visita al Memorial. **Puntos pendientes sin asignar y sin desvío aprobado:** Saint-Médard, esculturas Solitude/Fers de Catroux y BiLiPo.
+
 
 - **Doce experiencias >8 ubicadas:** las nueve originales (Louvre, Orsay, Orangerie, R17, R11, R15, R18, R22, R06) más Frankenstein N, C y E. **R07 (8,0) se añade por autorización expresa posterior:** total trece experiencias asignadas. **Siete nuevas asignaciones de bloque:** R22, R15, R06, Orangerie, R18, C y R07; Frankenstein N (viernes) y E (miércoles) son extras. R11/Louvre/R17/Orsay conservan sus compromisos.
 - **No se asignan museos al sábado o domingo**, por decisión de Andrés. Orangerie pasa al miércoles 11, 09:30–12:15, pese al festivo, con E por la tarde; R18 permanece el martes antes de R17.
@@ -37,7 +42,7 @@ Fuentes oficiales contrastadas 05–06/11/2026: Bibliothèque Mazarine (abre sá
 
 Rutas pendientes retiradas por disfrute <8: **02, 05, 10, 19, 20 y 21**. Puntos rescatados por geometría en [Frankenstein C, N y E](frankenstein_20261106.md). **En la fotografía histórica del 6/11, C figuraba el miércoles (bloque 2) y E el mismo miércoles (extra); quedó superada el 7/11**. R07=8,0 se programó expresamente el jueves 12, fuera del umbral automático original.
 
-## Conteo de bloques sin ocupar (vigente 07/11)
+## Conteo de bloques sin ocupar (histórico del 07/11)
 
 **3 bloques libres o flexibles**: sábado 7 bloque 1 (recuperación), martes 10 bloque 2 (aunque hay Ciencia como extra) y jueves 12 bloque 2 (después de Ocupación). Lunes 9 bloque 2 tiene R22 **tentativo, no obligatorio**. Domingo 8 tiene C invertido + Revolución; miércoles 11, Orangerie + E, sin bloques enteros libres. Viernes 13 no tiene bloque 2 por el autobús. Mantener accesos y desplazamientos dentro del límite diario de 20 km.
 
