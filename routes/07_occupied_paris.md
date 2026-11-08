@@ -2,6 +2,8 @@
 
 # Ruta 07 — París ocupado: lo que una ciudad permite, lo que una ciudad recuerda
 
+**Ruta del jueves 12/11 — adenda de rescate aprobada por Andrés el 8/11:** integrar la observación de **Notre-Dame, portales occidentales** [48.853180, 2.348750](https://www.google.com/maps/search/?api=1&query=48.853180%2C2.348750) **después de O03 (48 rue du Four) y antes de O04 (Mémorial de la Shoah)**. **Hilo** narra exclusivamente el episodio de los herrajes y la leyenda de Biscornet; [guion íntegro](frankenstein_d_fachadas_pactos.md). **Vera** conserva toda R07, incluido **O05 Japy**: no se ha autorizado cortar su final. No entrar en Notre-Dame ni hacer cola; observar desde el parvis público sin obstaculizar. Este punto es **oportunista geográfico**, no capítulo de la Ocupación. La traza 7,268 km/GPX original queda como **base anterior al desvío**, no ruta nueva calculada. Añadir unos 20–30 min entre caminata extra y narración, objetivo de final ~16:15–16:30 si la ejecución lo permite, manteniendo el Memorial como prioridad.
+
 Autoría, investigación, narración y operaciones: Cruce. Revisión: 6 octubre 2026.
 
 > **DONE — versión 07-v1-20261006, revisada el 6 octubre 2026.**
