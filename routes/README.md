@@ -6,7 +6,7 @@
 
 # Paris — working experience index
 
-**Anexos oficialmente fechados el 8/11:** [Frankenstein D](frankenstein_d_fachadas_pactos.md) aporta La Fayette a R18 Canal y Chapon antes de R17 Ciencia el martes 10, y Notre-Dame a R07 Ocupación el jueves 12. **Sin fecha:** Saint-Médard, Solitude/Fers de Catroux y BiLiPo. Consultar [calendario operativo](paris_slots_auto_20261105.md); no reactivar R02 ni R19 íntegros.
+**Anexos oficialmente fechados el 8/11:** [Frankenstein D](frankenstein_d_fachadas_pactos.md) aporta La Fayette a R18 Canal el lunes 9 y Chapon antes de R17 Ciencia el martes 10, y Notre-Dame a R07 Ocupación el jueves 12. **Sin fecha:** Saint-Médard, Solitude/Fers de Catroux y BiLiPo. Consultar [calendario operativo](paris_slots_auto_20261105.md); no reactivar R02 ni R19 íntegros.
 
 **Visita especial del Louvre, viernes 6 noviembre 2026 (no pertenece a las 25 rutas del catálogo):** [orden, navegación y guiones preparados para Siro](louvre_2026_11_06/README.md). El enlace contiene spoilers; abrir solo durante la visita y después de la foto de cada obra.
 
