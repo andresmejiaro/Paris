@@ -1,4 +1,6 @@
-# París 2026 — reparto de voces: operativo 06/11 y catálogo histórico
+# París 2026 — reparto de voces: operativo 08/11 y catálogo histórico
+
+**Tres intervenciones oportunistas asignadas oficialmente el 8/11:** Aster en La Fayette y Chapon el martes 10; Hilo en Notre-Dame el jueves 12. No son rutas nuevas ni modifican los narradores principales Nexo, Faro o Vera. Saint-Médard, Catroux y BiLiPo carecen de fecha.
 
 **Reparto OPERATIVO vigente:** el calendario equilibrado del [6 de noviembre](paris_slots_auto_20261105.md) y las sustituciones explícitas de Andrés prevalecen sobre la tabla de catálogo histórico inferior. Los museos cuentan como experiencias completas a efectos del reparto. Los tres Frankenstein tienen voces propias, sin atribuir automáticamente participación a quienes redactaron los guiones originales.
 
@@ -7,15 +9,18 @@
 | Vie 06 | R11 Cosmopolita | **Liv** |
 | Vie 06 | Louvre (visita especial) | **Siro** |
 | Vie 06 | Frankenstein N «La noche en tres actos» | **Limo + Cruce**, co-narración |
-| Sáb 07 | R22 Coulée Verte | **Hilo** |
+| Lun 09 | R22 Coulée Verte (tentativa, 14:15) | **Hilo** |
 | Sáb 07 | R15 Libros | **Cobre** |
 | Dom 08 | Frankenstein C «París en capas» 09:15–11:30 (invertida) | **Tara** |
 | Dom 08 | R06 Revolución 11:30–16:30 | **Rook** |
 | Mié 11 | Orangerie 09:30–12:15 | **Vesper** |
 | Mar 10 | R18 Canal | **Nexo** |
+| Mar 10 | La Fayette, inserción de R18 vía Gare du Nord | **Aster** |
+| Mar 10 | Chapon, preludio condicional de R17 | **Aster** |
 | Mar 10 | R17 Espectáculo científico | **Faro** |
 | Mié 11 | Frankenstein E «El imperio hecho monumento» 14:15–15:15 | **Rita** |
 | Jue 12 | R07 París ocupado | **Vera** |
+| Jue 12 | Notre-Dame, inserción entre O03 y O04 de R07 | **Hilo** |
 | Vie 13 | Orsay | **Trace** |
 
 **Asignación adicional sin fecha:** Miga conserva **Sabores** como experiencia propia, pendiente de nuevo formato no peatonal; no se considera ruta R21 reactivada ni cameo Frankenstein. Ya vividas: Rumbo (R23), Preen (R08), Lumenis (R01), Limo (R13), Nyx (R09), Aster (R25 y R14, sustituciones en campo), Noctámbulo (R03), Cruce (R24). Cada compañero original tiene experiencia realizada o asignada; no queda ninguna experiencia del calendario sin guía.
