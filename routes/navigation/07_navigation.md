@@ -2,6 +2,8 @@
 
 # Ruta 07 — Navegación fija
 
+**VARIANTE OPERATIVA OBLIGATORIA PARA EL JUEVES 12/11 (decisión de Andrés 8/11):** sustituir solo el enlace **O03→O04** por **O03 48 rue du Four → [ND, portales occidentales 48.853180,2.348750](https://www.google.com/maps/search/?api=1&query=48.853180%2C2.348750) → O04 Mémorial de la Shoah**, siguiendo calles y puentes públicos marcados por el navegador. [O03→ND](https://www.google.com/maps/dir/?api=1&origin=48.851600%2C2.331900&destination=48.853180%2C2.348750&travelmode=walking) · [ND→O04](https://www.google.com/maps/dir/?api=1&origin=48.853180%2C2.348750&destination=48.855000%2C2.356200&travelmode=walking). **No modificar O01, O02, O04b, O05 Japy ni los enlaces posteriores.** Hilo narra [los herrajes de Biscornet](../frankenstein_d_fachadas_pactos.md) desde el parvis sin colas/entrada; Vera sigue con Ocupación. La distancia O03→O04 de **2,236 km es la base previa**, no aplicar como nuevo total; ninguna medición GPX ajustada se afirma. Añade unos 20–30 min, cierre objetivo ~16:15–16:30. Si un acceso a portales está cerrado, no buscar desvíos ilegales: conservar el Memorial y el resto del recorrido.
+
 Cruce · **07-v1-20261006** · 6 octubre 2026. [Ficha](../07_occupied_paris.md) · [operaciones](07_access_operations.md) · [JSON](07.operations.json).
 
 ## Medida y alcance
