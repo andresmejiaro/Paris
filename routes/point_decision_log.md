@@ -9,13 +9,29 @@ Para cada punto afectado, anotar:
 1. **Punto y ruta; fecha y responsable** de la evaluación.
 2. **Decisión concreta**: conservar, condicionar, desplazar, sustituir o descartar; distinguir el juicio individual del acuerdo del panel o de una orden posterior de Andrés.
 3. **Recompensa prevista**: qué verá, hará, descubrirá o sentirá Andrés en el sitio; distinguir la recompensa visual, la revelación narrativa y la experiencia física.
-4. **Coste marginal**: desvío, espera, esfuerzo de piernas, precio, horarios y dependencia de otros puntos. No confundir kilómetros de toda la ruta con coste marginal de esta parada.
+4. **Recompensa frente a coste**: identificar qué aporta el punto **y cuánto cuesta alcanzarlo**. Registrar por separado (a) desvío evitable respecto del siguiente objetivo que se conservaría, (b) tramo de caminata desde la última recompensa significativa aunque no sea un desvío, (c) tiempo, energía, espera, riesgo de cierre y oportunidad perdida. Un punto mediocre a dos calles y uno mediocre tras 35 minutos de marcha no tienen el mismo impacto. No confundir kilómetros totales de la ruta, enlace entre puntos y desvío marginal realmente evitable.
 5. **Riesgos independientes**: supervivencia del objeto, visibilidad, acceso, repetición, spoilers y necesidad de apoyo audiovisual. No convertir riesgo no verificado en certeza de ausencia.
 6. **Evidencia disponible**: investigación documental, imágenes verificadas, guion, observación en terreno y feedback del usuario; marcar cada inferencia como tal.
 7. **Justificación de la decisión y confianza**: razón específica para cada punto, valoración cuantitativa solo si existe una rúbrica y explicación de su escala. Registrar discrepancias entre revisores y cuándo la decisión contradice una evaluación anterior.
 8. **Resultado posterior**: experiencia real o reacción a fotos, identificadas por separado. Añadir corrección metodológica sin reescribir retrospectivamente la decisión original.
 
 No existe todavía una rúbrica numérica de puntos con pesos y calibración reproducibles. La auditoría del 5 de noviembre puntúa **rutas**, no cada parada. El panel y el proxy personal utilizan criterios diferentes: sus notas no deben presentarse como medidas directamente equivalentes.
+
+
+## Análisis de recompensa/coste — precisión solicitada por Andrés el 8/11
+
+La evaluación de un punto **no puede hacerse aislada de su coste de acceso**. El mismo atractivo bajo puede ser tolerable si el punto está de paso o exige caminar dos calles; puede ser un error grave si exige un traslado largo, una espera o un desvío con poca recompensa. Del mismo modo, un punto excelente puede justificar un desplazamiento largo. La pregunta no es «¿es bonito/interesante?» solamente, sino **«¿compensa lo que nos cuesta visitarlo dentro de esta ruta?»**.
+
+Para evitar una inferencia geométrica incorrecta, distinguir:
+
+- **Enlace entre paradas**: distancia recorrida del punto anterior al siguiente; no equivale necesariamente a la distancia que se ahorraría suprimiendo el segundo punto.
+- **Desvío incremental real**: diferencia entre el trayecto que incluye la parada y una alternativa verificada que conserva el resto de lugares elegidos. Solo cuantificarlo cuando se han calculado ambos itinerarios.
+- **Tramo sin recompensa**: tiempo/distancia acumulados desde el último hallazgo que Andrés disfrutó. Puede desgastar aunque resulte inevitable para alcanzar otro punto valioso. El paisaje y la conversación durante ese tramo pueden tener valor; se evalúan, no se presumen nulos.
+- **Coste acumulativo de ruta**: varios puntos flojos seguidos crean un valle de disfrute; un final excelente puede mejorar la memoria del día pero no borrar kilómetros ya invertidos. Fatiga y novedad modifican el coste subjetivo.
+
+**Ejemplos retrospectivos:** en **Agua**, las primeras tres recompensas insuficientes, seguidas de recorrido largo hasta el Zouave, generaron una secuencia de bajo rendimiento. En **Sur**, el enlace S02→S03 de **2,679 km / 35–45 min** desembocó en el bloque de la Bièvre no visible: fue un coste de tramo grande para esa recompensa. **No está calculado cuánto se habría ahorrado evitando Bièvre manteniendo Cité Florale, Montsouris y CIUP**; no atribuir automáticamente los 2,679 km completos a un desvío evitable. En **Ilusiones**, Chapon era una detención condicional de **0–5 minutos**: su posible modestia visual tenía un coste operativo muy bajo, no un motivo suficiente por sí solo para eliminar la parada.
+
+**Aplicación cualitativa hasta que haya escala calibrada:** evaluar conjuntamente recompensa (presencial + revelación narrativa), coste (tiempo + piernas + fricción + coste de oportunidad) y **distribución de ambas a lo largo de la ruta**, sin inventar una fórmula ni pesos numéricos. Un lugar débil de bajo coste es un extra aceptable; un lugar débil de alto coste exige una justificación muy sólida. Una ruta larga con puntos débiles mal espaciados puede ser mucho peor que una ruta corta con esos mismos puntos.
 
 ## Caso 001 · Ruta 19 «Ilusiones centrales»
 
