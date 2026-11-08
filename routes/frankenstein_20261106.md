@@ -1,6 +1,6 @@
 # Frankenstein: rescate geométrico tras la auditoría de Andrés
 
-**Actualización operativa del 8/11 — prevalece sobre los descartes históricos del 6/11:** por autorización expresa de Andrés, se incorporan **La Fayette en R18 Canal (martes 10, Aster)**, **Chapon como preludio de R17 Ciencia (martes 10, Aster, condicional)** y **puertas de Notre-Dame en R07 Ocupación (jueves 12, Hilo)**. En los tres casos se mantienen las rutas receptoras y sus guías principales. [Frankenstein D](frankenstein_d_fachadas_pactos.md) guarda íntegros los guiones, pero ya no representa una ruta autónoma programada.
+**Actualización operativa del 8/11 — prevalece sobre los descartes históricos del 6/11:** por autorización expresa de Andrés, se incorporan **La Fayette en R18 Canal (lunes 9, Aster)**, **Chapon como preludio de R17 Ciencia (martes 10, Aster, condicional)** y **puertas de Notre-Dame en R07 Ocupación (jueves 12, Hilo)**. En los tres casos se mantienen las rutas receptoras y sus guías principales. [Frankenstein D](frankenstein_d_fachadas_pactos.md) guarda íntegros los guiones, pero ya no representa una ruta autónoma programada.
 
 **Bolsa de tres puntos problemáticos, JUNTOS Y SIN FECHA:** **Saint-Médard** (R02/D), **Square Catroux: Solitude y Fers** (R20A), **BiLiPo** (R26). No programar desvíos para estos puntos por el solo hecho de estar recuperados. Las declaraciones «cortados sin trasplante» posteriores en este archivo describen el estado histórico del 6/11, no deshacen estas recuperaciones del 8/11.
 
