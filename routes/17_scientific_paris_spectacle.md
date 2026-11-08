@@ -11,6 +11,8 @@
 
 # Scientific Paris — Conseguir que lo invisible se deje mirar
 
+**Preludio exterior incorporado oficialmente para el martes 10/11 por decisión de Andrés del 8/11:** antes de la entrada de **Arts et Métiers (60 rue Réaumur, 15:15)**, pasar hacia **14:50–15:05** por [1 bis rue Chapon, 48.864120,2.355880](https://www.google.com/maps/search/?api=1&query=48.864120%2C2.355880). **Aster** narra la pieza *Les Spécialistes* solo **si sigue visible**: 0–5 min, [guion](frankenstein_d_fachadas_pactos.md). Si desapareció, está tapada o la llegada va retrasada, pasar sin detenerse y priorizar la entrada al museo. Retorno a [60 rue Réaumur](https://www.google.com/maps/search/?api=1&query=48.866020%2C2.355360). **Faro** mantiene íntegra R17 y su demostración de Foucault; Chapon es una inserción geográfica, no un capítulo científico ni una reactivación de R19. El 1,1 km interior/GPX original no incluye el enlace exterior.
+
 Priority: S. Research date: 2 October 2026. Architect recommendation: **KEEP show-led daytime route, €21 two-museum core**, with a cheaper first-Sunday southern alternative. Two substantial main Spanish narrations plus preserved Panthéon alternative; Curie deliberately optional/short. External Claude QA pending. No admissions bought or activities reserved.
 
 ## Phase 1 — proposal
