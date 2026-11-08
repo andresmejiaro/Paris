@@ -1,10 +1,12 @@
-> **Itinerario operativo vigente (06/11/2026):** [autoasignación por score](paris_slots_auto_20261105.md) · [Frankenstein, rescate por proximidad y retirada de seis rutas flojas](frankenstein_20261106.md). Las tablas históricas inferiores documentan producción, no indican qué rutas siguen en agenda.
+> **Itinerario operativo vigente (08/11/2026):** [autoasignación por score](paris_slots_auto_20261105.md) · [Frankenstein, rescate por proximidad y retirada de seis rutas flojas](frankenstein_20261106.md). Las tablas históricas inferiores documentan producción, no indican qué rutas siguen en agenda.
 
-> **Reparto operativo vigente (06/11/2026):** [21 voces con experiencias realizadas o asignadas, incluidos museos y Frankenstein](narrator_assignments_2026.md). Su tabla operativa superior prevalece sobre los créditos del catálogo histórico y las fichas antiguas.
+> **Reparto operativo vigente (08/11/2026):** [21 voces con experiencias realizadas o asignadas, incluidos museos y Frankenstein](narrator_assignments_2026.md). Su tabla operativa superior prevalece sobre los créditos del catálogo histórico y las fichas antiguas.
 
 > **Narrator correction — Andrés, 3 October 2026:** Cruce owns all route design, research, selection, verification, navigation and complete script preparation. Rumbo narrates Coulée Verte; Hilo narrates Medieval Devils; Miga narrates the affordable Paris flavours route. These are narrator assignments, not delegated work. No companion research or response is awaited. This overrides earlier commission/author/reviewer wording below.
 
 # Paris — working experience index
+
+**Anexos oficialmente fechados el 8/11:** [Frankenstein D](frankenstein_d_fachadas_pactos.md) aporta La Fayette a R18 Canal y Chapon antes de R17 Ciencia el martes 10, y Notre-Dame a R07 Ocupación el jueves 12. **Sin fecha:** Saint-Médard, Solitude/Fers de Catroux y BiLiPo. Consultar [calendario operativo](paris_slots_auto_20261105.md); no reactivar R02 ni R19 íntegros.
 
 **Visita especial del Louvre, viernes 6 noviembre 2026 (no pertenece a las 25 rutas del catálogo):** [orden, navegación y guiones preparados para Siro](louvre_2026_11_06/README.md). El enlace contiene spoilers; abrir solo durante la visita y después de la foto de cada obra.
 
