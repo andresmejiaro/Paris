@@ -1,5 +1,7 @@
 # Ruta 18 — Navegación con metro
 
+**VARIANTE OPERATIVA OBLIGATORIA PARA EL MARTES 10/11 (decisión de Andrés 8/11):** C01 Arsenal → M5 Bastille dirección Bobigny hasta **Gare du Nord** → [145 rue La Fayette](https://www.google.com/maps/search/?api=1&query=48.879170%2C2.356140) (Aster, guion en [Frankenstein D](../frankenstein_d_fachadas_pactos.md)) → [C03 esclusas de Récollets](https://www.google.com/maps/search/?api=1&query=48.874000%2C2.363800) → C04 Bassin → C05 Grande Halle. **No bajar en Jacques Bonsergent** en esta fecha; es la parada de la versión base que se conserva a continuación para trazabilidad. En Gare du Nord, elegir salida pública hacia rue La Fayette, confirmar navegación de superficie y no cruzar vías/patios. Los enlaces Gare du Nord→La Fayette→Récollets no tienen traza de router homologada: el GPX 18.gpx base y las distancias 4,430/4,8–5,1 km **no representan los metros nuevos**. El resto de C03–C05 no cambia. La Fayette añade ~25–35 min operativos; objetivo cierre de Canal ~14:00. Guía de Canal: Nexo; relato La Fayette: Aster.
+
 Cruce · **18-v2-20261105**, 5 noviembre 2026. [Guion](../18_canal_paris.md) · [operaciones](18_access_operations.md) · [JSON](18.operations.json).
 
 **Secuencia autorizada:** C01 Arsenal → Métro Bastille → **línea 5 dirección Bobigny–Pablo Picasso** → Métro Jacques Bonsergent → C03 Récollets → C04 Rotonde/Bassin → C05 Grande Halle.
