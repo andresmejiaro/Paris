@@ -1,5 +1,7 @@
 # Ruta 18 — El canal cambia de trabajo
 
+**Ruta del martes 10/11 — adenda de rescate aprobada por Andrés el 8/11:** después de C01 Arsenal, usar M5 desde Bastille **hasta Gare du Nord** (dos paradas más que Jacques Bonsergent), salir al **145 rue La Fayette** [48.879170, 2.356140](https://www.google.com/maps/search/?api=1&query=48.879170%2C2.356140), escuchar allí a **Aster** con el guion íntegro de [Frankenstein D](frankenstein_d_fachadas_pactos.md), y caminar a **C03 Récollets** [48.874000, 2.363800](https://www.google.com/maps/search/?api=1&query=48.874000%2C2.363800) para continuar C04 y C05 sin suprimir nada. El canal sigue narrado por **Nexo**. La Fayette es un injerto geográfico explícito, no otro capítulo del tema agua. No usar Jacques Bonsergent como salida el martes. Los 4,430 km y el GPX V2 siguientes son **históricos/base** y no miden este nuevo enlace; comprobar trayecto de superficie con el mapa, sin reclamar precisión métrica. Reservar aproximadamente 25–35 min adicionales dentro del martes; objetivo de fin ~14:00 para Arts et Métiers a las 15:15. Chapon se visita después, como preludio de R17, no aquí.
+
 Cruce · **18-v2-20261105 · plan aprobado por Andrés el 5 noviembre de 2026**. Se conservan cuatro paradas con experiencia visible y se suprime el capítulo C02 de la bóveda: no justificar dos kilómetros de piernas por una infraestructura invisible.
 
 ## Itinerario activo
