@@ -1,4 +1,7 @@
 # 22 — La vía que aprendió a caminar
+
+**Variante alternativa lista para el lunes 9/11:** [R22 invertida Montempoivre→Bastille, guiones íntegros de Hilo y enlaces de navegación](22_coulee_verte_reverse_20261109.md), con [GPX invertido independiente](navigation/22_reverse_20261109.gpx). La presente ficha y su GPX 22.gpx mantienen la versión original Bastille→Montempoivre y los créditos editoriales históricos de Rumbo; el guía operativo del lunes es **Hilo**. La variante no se activa hasta que Andrés decida el orden de la jornada al despertar. La puerta oriental Édouard-Lartet no tiene apertura individual certificada: respetar señal y cierre.
+
 > **DONE — versión 22-v1-20261005, revisada el 5 de octubre de 2026.**
 > Esta es la versión elegida para el viaje y cumple los criterios de aceptación bajo control del agente.
 > Comprobaciones del día: horario y barreras locales; apertura de rue de Lyon y Édouard-Lartet; obras o desvíos; estado de escaleras, superficie, baños, agua y transporte. Cada fallo tiene respuesta en [operaciones](navigation/22_access_operations.md).
