@@ -3,6 +3,10 @@
     <name>R22 Coulée Verte — variante inversa Montempoivre → Bastille</name>
     <desc>Exactly reversed original 22.gpx segments and order, no new routing nor gate verification. Source: OSM ODbL and Valhalla 2026-10-03. Check eastern gate before entry.</desc>
   </metadata>
+  <wpt lat="48.840057" lon="2.409003">
+    <name>Inicio inverso: Montempoivre T3a</name>
+    <desc>Andén inicial del conector. Comprobar dirección peatonal hasta la entrada oriental.</desc>
+  </wpt>
 <wpt lat="48.8411992" lon="2.4131125">
     <name>Fuera del recinto, salida Édouard-Lartet</name>
     <desc />
@@ -22,6 +26,10 @@
 <wpt lat="48.8495863" lon="2.3711588">
     <name>Pie de escaleras, rue de Lyon</name>
     <desc>OSM nodo 2629094197, escalera 257350703; dos tramos de escaleras al entrar.</desc>
+  </wpt>
+  <wpt lat="48.852417" lon="2.369068">
+    <name>Fin inverso: Place de la Bastille</name>
+    <desc>Conexión con R18 Arsenal.</desc>
   </wpt>
   <trk>
     <name>Montempoivre T3a → entrada oriental Édouard-Lartet</name>
