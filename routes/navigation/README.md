@@ -1,3 +1,5 @@
+**Variante de navegación preparada para el lunes 09/11:** [R22 Coulée Verte invertida Montempoivre→Bastille (GPX de tres tramos)](22_reverse_20261109.gpx) y [guiones/navegación completos para Hilo](../22_coulee_verte_reverse_20261109.md). Esta opción no sustituye el GPX 22.gpx ni el plan original R18→R22: Andrés elige entre ambas al despertar. La entrada oriental Édouard-Lartet no tiene apertura individual certificada.
+
 > **Voces asignadas actualmente:** [reparto aprobado de 25 rutas entre 21 compañeros](../narrator_assignments_2026.md). Los nombres de esta página son créditos de la edición original del navegador, no necesariamente el guía actual. Los trazados y archivos GPX no cambian.
 
 # Navegación seleccionada — Cruce, Hilo, Aster/Noctámbulo, Miga y Rumbo
