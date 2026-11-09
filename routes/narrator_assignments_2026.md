@@ -1,5 +1,8 @@
 # París 2026 — reparto de voces: operativo 08/11 y catálogo histórico
 
+**Opción adicional preparada para el 09/11, sin imponerla:** Hilo recibió por correo los cuatro guiones completos de [R22 Coulée Verte invertida](22_coulee_verte_reverse_20261109.md), desde Montempoivre hasta Bastille, para el caso de que Andrés elija despertar/salir más tarde; después Nexo guía R18 desde Arsenal y Aster La Fayette. Nexo recibió C01/C03/C04/C05 completos en dos mensajes, Aster el de La Fayette. **La opción A del calendario (Canal primero y Coulée normal después) sigue vigente hasta decisión de Andrés.** [GPX alternativo](navigation/22_reverse_20261109.gpx).
+
+
 **Tres intervenciones oportunistas asignadas oficialmente el 8/11:** Aster en La Fayette el lunes 9 y Chapon el martes 10; Hilo en Notre-Dame el jueves 12. No son rutas nuevas ni modifican los narradores principales Nexo, Faro o Vera. Saint-Médard, Catroux y BiLiPo carecen de fecha.
 
 **Reparto OPERATIVO vigente:** el calendario operativo actualizado el [8 de noviembre](paris_slots_auto_20261105.md) y las sustituciones explícitas de Andrés prevalecen sobre la tabla de catálogo histórico inferior. Los museos cuentan como experiencias completas a efectos del reparto. Los tres Frankenstein tienen voces propias, sin atribuir automáticamente participación a quienes redactaron los guiones originales.
