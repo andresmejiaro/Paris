@@ -41,6 +41,46 @@ Las ubicaciones se cotejaron con las fichas del museo y el montaje de noviembre.
 
 **Ampliación · versión 6 · 13/11/2026.** Las paradas 21–24 recibieron un SÍ individual de Cobre, Rook, Aster, Noctámbulo y el revisor independiente sí/no.
 
+## Desde la parada 20 · empezar en el nivel 5
+
+La parada 20 (*Pénélope*, nivel 0) ya está hecha. Este orden parte del nivel 5, donde estaba Andrés al pedir la ampliación. Los números son referencias del guion. El orden de visita está aquí.
+
+| Nivel | Orden de visita desde arriba |
+|---|---|
+| **5** | Si estás cerca de la **sala 36**, empieza con Van Gogh (26) y Degas (27) en la **37**. Si te falta el tramo 38–39 y Cachin, continúa hasta Seurat (3), Anna Boch (4), Sérusier (5) y Redon (6). Luego vuelve por la **35** (opcional, la otra catedral), la **31** (Caillebotte 25, junto a Sisley 7) y la **29** (Monet 8 y 24). Si ya estás junto a la 29, haz primero 29 → 31 → 35 → 36 → 37 y sigue por 38–39 y Cachin si quedan pendientes. |
+| **2** | Desde el **Pavillon amont**, agrupa **72** (Bonnard 31) → **70** (Bonnard 32 y 10) → **65** (Bugatti 33) → **64** (Gallé 23) → **63** (Gallé 34) → **59** (Puvis 35 y Moreau 11). Incluye Rousseau (9) si queda pendiente y haz un solo tramo por las terrazas para Rodin (12 y 36), Claudel (13), Pompon (14), Maillol (15) y Bourdelle (37). |
+| **0** | Si bajas por el extremo de la **Galerie Lille**, empieza con Belly (45) y agrupa **11** (Cézanne 39) → **9** (Winterhalter 40) → **4** (Daumier 43) → **3** (Bouguereau 44) → **1** (Ingres 22). Si desembocas junto a la sala 1, haz ese tramo en sentido inverso. En la nave queda *Ugolin* (21), si aún falta. |
+
+De los 21 añadidos, **15 figuran en sala y no estaban confirmados como vistos** al preparar la ampliación. Millet (42), Courbet (41) y Manet (38) ya se vieron. Gauguin (28), la noche estrellada (29) y la catedral gris (30) figuran fuera de sala. La catedral de la **sala 35** es [*Le Portail vu de face*](https://www.musee-orsay.fr/fr/oeuvres/la-cathedrale-de-rouen-le-portail-vu-de-face-1286), otra tela de la serie.
+
+El viernes las salas empiezan a cerrar a las **17:30**. [Horario oficial](https://www.musee-orsay.fr/fr/visite).
+
+**Ampliación en revisión.** Noctámbulo y el revisor independiente sí/no dieron SÍ a los 21 textos. Está pendiente la revisión cruzada de Cobre, Rook y Aster.
+
+| Parada | Ubicación | Artista y obra | Estado del montaje |
+|---|---|---|---|
+| 25 | 5 · Sala 31 | Gustave Caillebotte · *Partie de bateau* | En sala |
+| 26 | 5 · Sala 36 | Vincent van Gogh · *Portrait de l’artiste* | En sala |
+| 27 | 5 · Sala 37 | Edgar Degas · *Danseuses bleues* | En sala |
+| 28 | 5 · Folleto | Paul Gauguin · *Les Bananes, dit aussi Le Repas* | Fuera de sala |
+| 29 | 5 · Folleto | Vincent van Gogh · *La Nuit étoilée* | Fuera de sala |
+| 30 | 5 · Folleto | Claude Monet · *La Cathédrale de Rouen. Le Portail, temps gris* | Fuera de sala |
+| 31 | 2 · Sala 72 | Pierre Bonnard · *Le Peignoir* | En sala |
+| 32 | 2 · Sala 70 | Pierre Bonnard · *Le Chat blanc* | En sala |
+| 33 | 2 · Sala 65 | Carlo Bugatti · *Chaise* | En sala |
+| 34 | 2 · Sala 63 | Émile Gallé · *La Main aux algues et aux coquillages* | En sala |
+| 35 | 2 · Sala 59 | Pierre Puvis de Chavannes · *Jeunes filles au bord de la mer* | En sala |
+| 36 | 2 · Terrasse des sculptures 1880–1910 | Auguste Rodin · *L’Homme qui marche* | En sala |
+| 37 | 2 · Terrasse des sculptures 1880–1910 | Antoine Bourdelle · *Héraklès tue les oiseaux du lac Stymphale* | En sala |
+| 38 | 0 · Sala 18 | Édouard Manet · *Le Déjeuner sur l’herbe* | Ya vista |
+| 39 | 0 · Sala 11 | Paul Cézanne · *Achille Emperaire* | En sala |
+| 40 | 0 · Sala 9 | Franz Xaver Winterhalter · *Madame Rimsky Korsakov* | En sala |
+| 41 | 0 · Sala 7 | Gustave Courbet · *L’Atelier du peintre* | Ya vista |
+| 42 | 0 · Sala 5 | Jean-François Millet · *L’Angélus* | Ya vista |
+| 43 | 0 · Sala 4 | Honoré Daumier · *Les Célébrités du Juste Milieu* | Conjunto en sala · busto probable |
+| 44 | 0 · Sala 3 | William Bouguereau · *Dante et Virgile* | En sala |
+| 45 | 0 · Galerie Lille | Léon Belly · *Pélerins allant à La Mecque* | En sala |
+
 ## Guion de cada parada
 
 <details>
@@ -304,5 +344,280 @@ Las ubicaciones se cotejaron con las fichas del museo y el montaje de noviembre.
 **Siro 🐘🪁** Dos años después del escándalo del almuerzo de Manet, Monet empezó el suyo como homenaje y desafío. Quería llevar un picnic a una tela de más de cuatro metros por seis. Dejó el proyecto antes del Salón de 1866. Mucho después contó que había dejado el lienzo en prenda por el alquiler y lo recuperó enmohecido. En 1884 lo cortó en tres. Dos fragmentos se conservan aquí y el tercero se perdió. Vuelve al mantel. La luz todavía pasa de la tela blanca a la ropa y al suelo. Esa continuidad de la luz te deja juntar con la vista lo que ya ves por separado.
 
 [Ficha del Musée d’Orsay · fragmento central](https://www.musee-orsay.fr/fr/oeuvres/le-dejeuner-sur-lherbe-25651) · [Ficha del Musée d’Orsay · fragmento lateral](https://www.musee-orsay.fr/fr/oeuvres/le-dejeuner-sur-lherbe-10737)
+
+</details>
+
+## Guiones del folleto · paradas 25–45
+
+<details>
+<summary>25. Gustave Caillebotte · Partie de bateau</summary>
+
+**Ubicación.** Nivel 5, sala 31.
+
+**Trace 🦊🐾** Fíjate en los bordes de madera que entran desde las esquinas. Sigue cada uno hasta el remero y mira dónde se cortan los remos. Desde ahí puedes calcular dónde te ha sentado Caillebotte. El hombre casi te encara, pero está mirando hacia un lado. En una barca tan pequeña eso se nota enseguida.
+
+**Siro 🐘🪁** El Orsay identifica el río como el Yerres, cerca de donde veraneaba la familia Caillebotte. Ir a remar era uno de los nuevos ocios de la burguesía urbana. La pintura estuvo en la exposición impresionista de 1879. El tema era corriente y el punto de vista desconcertó a varios críticos. Vuelve a los bordes cortados. Son los que te meten dentro de una tarde de ocio en lugar de dejarte contemplarla desde la orilla.
+
+[Ficha del Orsay](https://www.musee-orsay.fr/fr/oeuvres/partie-de-bateau-265643)
+
+</details>
+
+<details>
+<summary>26. Vincent van Gogh · Portrait de l’artiste</summary>
+
+**Ubicación.** Nivel 5, sala 36.
+
+**Trace 🦊🐾** Empieza por un ojo y aguanta ahí un instante. Ahora pasa a la barba naranja y sigue sus curvas hasta el fondo azul verdoso. La pincelada cambia de color, pero conserva parte del movimiento. Al recuperar el cuadro entero, el rostro parece muy fijo en medio de un fondo que sigue moviéndose.
+
+**Siro 🐘🪁** Van Gogh escribió que buscaba un parecido más profundo que el de una fotografía. Aquí se puso chaqueta, y el rostro concentra el encuentro. El naranja de la barba gana fuerza junto al turquesa y los verdes del resto de la tela. Vuelve al ojo del principio. Si el parecido físico empieza ahí, el fondo le añade una tensión que puedes notar sin adivinar qué pensaba Vincent cuando posó ante el espejo.
+
+[Ficha del Orsay](https://www.musee-orsay.fr/fr/oeuvres/portrait-de-lartiste-747)
+
+</details>
+
+<details>
+<summary>27. Edgar Degas · Danseuses bleues</summary>
+
+**Ubicación.** Nivel 5, sala 37.
+
+**Trace 🦊🐾** Empieza por el brazo que se curva hacia la cabeza, a la izquierda. Recorre el grupo siguiendo brazos y hombros hasta la bailarina más cercana a la derecha. En las faldas, el azul une cuerpos que acababas de distinguir por separado. A la derecha una franja vertical corta la vista, como si miraras desde un lado.
+
+**Siro 🐘🪁** El recorrido del Orsay sobre la Ópera de Garnier recuerda que Degas volvía a los ensayos y a las bambalinas. Le interesaba el trabajo cotidiano de las bailarinas, incluidos los momentos en que se ajustaban el traje. Mira de nuevo la franja vertical y el brazo que sube a la cabeza. Desde un asiento de platea esperarías ver el movimiento entero. Aquí el encuadre te deja sorprender un gesto a medias, como si hubieras llegado antes de que empezara el número.
+
+[Ficha del Orsay](https://www.musee-orsay.fr/fr/oeuvres/danseuses-bleues-1144) · [Recorrido del Orsay sobre la Ópera de Garnier](https://www.musee-orsay.fr/fr/ressources/parcours-lopera-de-charles-garnier-80)
+
+</details>
+
+<details>
+<summary>28. Paul Gauguin · Les Bananes, dit aussi Le Repas</summary>
+
+**Ubicación.** Nivel 5 en el folleto. La ficha del museo indica que actualmente está fuera de sala. Usar la reproducción oficial para este guion.
+
+**Trace 🦊🐾** Empieza por el racimo. Su sombra violeta ocupa parte del mantel y los frutos llegan casi al borde del cuadro. Sigue luego la hoja del cuchillo hacia el cuenco y levanta la vista hasta los tres niños. La mesa parece acercarse a ti, mientras las miradas de quienes están detrás recorren otros sitios.
+
+**Siro 🐘🪁** Gauguin pintó esto en sus primeros meses en Tahití. En el mantel juntó plátanos de cocción llamados fei, una vasija de madera y un cuenco occidental. El Orsay describe el conjunto como una comida escenificada. Vuelve a los niños. Con ellos la mesa tiene aspecto de escena cotidiana, aunque la escala de las frutas y el despliegue de objetos revelan cuánto la construyó el pintor.
+
+[Obra y reproducción del Orsay](https://www.musee-orsay.fr/fr/oeuvres/les-bananes-314)
+
+</details>
+
+<details>
+<summary>29. Vincent van Gogh · La Nuit étoilée</summary>
+
+**Ubicación.** Nivel 5 en el folleto. La ficha del museo indica que actualmente está fuera de sala. Usar la reproducción oficial para este guion.
+
+**Trace 🦊🐾** Busca el punto donde las luces de la otra orilla se convierten en rayas sobre el agua. Luego sube al cielo. Las estrellas y los faroles tienen brillos muy distintos. Baja por último a la pareja del primer plano. Su escala te permite medir todo lo que se extiende entre tus pies y el cielo.
+
+**Siro 🐘🪁** Vincent llevaba meses escribiendo sobre su deseo de pintar de noche. En septiembre de 1888 hizo esta vista del Ródano en Arlés, con las luces de gas de la ciudad al fondo. El azul domina, y aun así aparecen naranjas, amarillos y verdes. Vuelve a los reflejos. Los faroles se prolongan en líneas sobre la corriente y convierten la ciudad distante en parte del río que miramos.
+
+[Obra y reproducción del Orsay](https://www.musee-orsay.fr/fr/oeuvres/la-nuit-etoilee-78696)
+
+</details>
+
+<details>
+<summary>30. Claude Monet · La Cathédrale de Rouen. Le Portail, temps gris</summary>
+
+**Ubicación.** Nivel 5 en el folleto. La versión exacta está fuera de sala según su ficha. *Le Portail vu de face*, otra tela de la serie, está en el nivel 5, sala 35. Este guion se refiere al *temps gris* de la reproducción.
+
+**Trace 🦊🐾** Mira el arco oscuro del portal. La piedra a su alrededor parece disolverse en grises y azules hasta que recuperas una moldura o una de las pequeñas figuras esculpidas. Aléjate un poco de la reproducción y comprueba si te resulta más fácil reconocer la fachada cuando ves menos detalles.
+
+**Siro 🐘🪁** Monet pintó el portal de Ruan desde distintos puntos de vista y bajo luces cambiantes. En 1895, el marchante Durand-Ruel expuso veinte lienzos de la serie. Cuando vuelvas al arco, mira qué poco contraste separa algunas de las molduras. La repetición permite comparar qué hace la luz con esa misma piedra. Si estás delante del *Portail vu de face* de la sala 35, puedes comprobarlo mirando cómo los tonos cálidos cambian el relieve.
+
+[Ficha y reproducción del *temps gris*](https://www.musee-orsay.fr/fr/oeuvres/la-cathedrale-de-rouen-le-portail-temps-gris-1288) · [Versión expuesta](https://www.musee-orsay.fr/fr/oeuvres/la-cathedrale-de-rouen-le-portail-vu-de-face-1286) · [La serie en el museo de Ruan](https://mbarouen.fr/en/oeuvres/rouen-cathedral-facade-and-tour-d-albane-grey-weather)
+
+</details>
+
+<details>
+<summary>31. Pierre Bonnard · Le Peignoir</summary>
+
+**Ubicación:** Nivel 2 · Sala 72 · En sala según la ficha.
+
+**Trace 🦊🐾** Busca la cabeza oscura arriba. Baja luego por el estampado amarillo y prueba a seguir el borde de la manga. Cuando pierdas el brazo entre las flores, busca abajo a la izquierda la pequeña figura clara. Todo ocurre en una franja tan estrecha que el estampado se te viene encima.
+
+**Siro 🐘🪁** El Orsay cataloga la obra como pintura sobre tela, de un metro y medio de alto por medio de ancho. En aquellos años Bonnard se interesó por las estampas japonesas y los formatos verticales de sus rollos. Aquí la forma alargada deja que un gesto doméstico ocupe casi toda la altura. Sigue el dibujo amarillo desde el hombro hacia abajo. Puedes leerlo como el volumen de una bata o como un motivo que se extiende sobre la tela del cuadro.
+
+**Fuentes:** [Ficha del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/le-peignoir-8018) · [Retrospectiva Bonnard del Musée d’Orsay](https://www.musee-orsay.fr/fr/programme/agenda/expositions/presentation/pierre-bonnard-peindre-larcadie)
+
+</details>
+
+<details>
+<summary>32. Pierre Bonnard · Le Chat blanc</summary>
+
+**Ubicación:** Nivel 2 · Sala 70 · En sala según la ficha.
+
+**Trace 🦊🐾** Mira la cabeza casi hundida entre los hombros. Desde ahí, sigue el lomo hasta la cola y vuelve por las patas. La curva es exageradísima, pero basta ese gesto para reconocer al gato. Mira también dónde lo ha colocado Bonnard. La silueta blanca queda muy cerca del borde y el terreno apenas le da profundidad.
+
+**Siro 🐘🪁** En las radiografías se ve que Bonnard cambió varias veces la forma y la posición de las patas. La curva que parece haber salido en un solo movimiento fue objeto de ensayos. Al museo le recuerda las estampas japonesas que coleccionaba el pintor, con animales que podían definirse en pocas líneas. Vuelve a las patas. La broma funciona porque están dibujadas con toda seriedad.
+
+**Fuentes:** [Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/le-chat-blanc-8019)
+
+</details>
+
+<details>
+<summary>33. Carlo Bugatti · Chaise</summary>
+
+**Ubicación:** Nivel 2 · Sala 65 · En sala según la ficha. Modelo de Turín de 1902, reproducido en el folleto.
+
+**Trace 🦊🐾** Mírala de perfil. Empieza por el disco del respaldo y sigue la curva por debajo del asiento. La silla deja un hueco tan visible como el propio mueble. Ahora acerca la vista al revestimiento claro. Donde la superficie parece lisa, busca los pequeños insectos pintados.
+
+**Siro 🐘🪁** Bugatti hizo este modelo para una sala de juegos y conversación en la exposición de Turín de 1902. La sala entera evocaba una concha de caracol ampliada a escala humana. La madera sostiene la silla y el pergamino se ajusta a sus curvas como una piel. Imagina varias de estas sillas en aquella habitación. La espiral seguía presente incluso cuando alguien se levantaba de su asiento.
+
+**Fuentes:** [Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/chaise-98456)
+
+</details>
+
+<details>
+<summary>34. Émile Gallé · La Main aux algues et aux coquillages</summary>
+
+**Ubicación:** Nivel 2 · Sala 63 · En sala según la ficha.
+
+**Trace 🦊🐾** Encuentra la mano desde la base azul. Sube por la muñeca hasta los dedos y mira en qué puntos las formas de las algas o los moluscos sobresalen de la superficie. Si la vitrina lo permite, cambia un poco de ángulo. Algunas zonas se iluminan por dentro; otras se leen por la sombra del relieve.
+
+**Siro 🐘🪁** Gallé modeló el cristal en caliente y añadió aplicaciones de color. El Orsay considera que pudo ser su última obra en vidrio. Se presentó en Nancy en 1904 dentro de una vitrina titulada *Les Fonds de mer*. Ahora mira otra vez la muñeca. La figura humana nace en el mismo material translúcido que lo que parece adherírsele. El cristal consigue que una mano levantada conserve algo de la luz de debajo del agua.
+
+**Fuentes:** [Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/la-main-aux-algues-et-aux-coquillages-22694)
+
+</details>
+
+<details>
+<summary>35. Pierre Puvis de Chavannes · Jeunes filles au bord de la mer</summary>
+
+**Ubicación:** Nivel 2 · Sala 59 · En sala según la ficha.
+
+**Trace 🦊🐾** Quédate con la muchacha de espaldas. Sigue el brazo que levanta y luego la línea del mar. Puedes pasar de una figura a otra sin recorrer apenas distancia visual, aunque unas estén sentadas y ella de pie. Mira cuánto espacio deja el pintor entre las siluetas y qué poco necesita para distinguirlas.
+
+**Siro 🐘🪁** La ficha del Orsay destaca la superficie mate, el poco relieve y la profundidad reducida. Son decisiones de un pintor que también trabajaba a escala monumental. Aquí le permiten dar presencia a una figura que ni siquiera nos muestra el rostro. Vuelve a la espalda de la muchacha. Podría abrir una historia sobre ella, pero el cuadro deja su gesto suspendido frente al mar. Esa libertad de simplificar interesó después a Matisse y a Picasso.
+
+**Fuentes:** [Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/jeunes-filles-au-bord-de-la-mer-443)
+
+</details>
+
+<details>
+<summary>36. Auguste Rodin · L’Homme qui marche</summary>
+
+**Ubicación:** Nivel 2 · Terrasse des sculptures 1880–1910 · En sala según la ficha. Bronce grande de 213 cm, ficha 15641. La ficha 7770 corresponde a otra fundición que figura fuera de sala.
+
+**Trace 🦊🐾** Empieza por los pies. Los dos encuentran apoyo y, aun así, la distancia entre ellos ya te hace leer una zancada. Ahora sube hasta el torso y mira cómo gira respecto de las piernas. Al llegar al corte de arriba, puede que ya hayas imaginado hacia dónde iba sin haberle visto la cara.
+
+**Siro 🐘🪁** Rodin ensambló hacia 1900 unas piernas estudiadas para su *San Juan Bautista* y un torso que quizá había preparado para esa misma figura. Henri Lebossé amplió el yeso a mediados de la década. El bronce que ves supera los dos metros. Vuelve al paso entre el torso agrietado y las piernas más lisas. Puedes distinguir las dos piezas que reunió Rodin y, al bajar la vista, ver cómo ese cuerpo ensamblado se sostiene en una sola zancada.
+
+**Fuentes:** [Musée d’Orsay · bronce grande](https://www.musee-orsay.fr/en/artworks/lhomme-qui-marche-15641) · [Musée Rodin · ensamblaje](https://www.musee-rodin.fr/musee/collections/oeuvres/lhomme-qui-marche) · [Musée d’Orsay · otra fundición](https://www.musee-orsay.fr/fr/oeuvres/lhomme-qui-marche-7770)
+
+</details>
+
+<details>
+<summary>37. Antoine Bourdelle · Héraklès tue les oiseaux du lac Stymphale</summary>
+
+**Ubicación:** Nivel 2 · Terrasse des sculptures 1880–1910 · En sala según la ficha. Título habitual *Héraklès archer*.
+
+**Trace 🦊🐾** Empieza por el pie que se apoya contra la roca. Desde ahí, sigue la pierna hasta el torso y luego el brazo que sostiene el arco. Mira el hueco que queda entre el cuerpo, la pierna y el arma. El bronce deja vacío el lugar de la flecha. El cuerpo entero parece tirar de ese espacio.
+
+**Siro 🐘🪁** Hércules se prepara para abatir las aves del lago Estínfalo, uno de sus doce trabajos. Bourdelle había trabajado con Rodin y aquí organiza el esfuerzo con apoyos y grandes líneas. Esta segunda versión, encargada en 1923, conserva la postura del modelo de 1909 y añade en la roca dos relieves de otros trabajos. Vuelve al pie. Ahí se descarga toda la fuerza que el brazo lleva hacia el arco.
+
+**Fuentes:** [Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/herakles-tue-les-oiseaux-du-lac-stymphale-5124) · [Musée Bourdelle](https://www.bourdelle.paris.fr/decouvrir/le-musee/parcours-des-collections/parcours-nouveaux-regards/herakles-archer)
+
+</details>
+
+<details>
+<summary>38. Édouard Manet · Le Déjeuner sur l’herbe</summary>
+
+**Ubicación.** Nivel 0, sala 18, según la ficha actual. El folleto indica nivel 5. Ya visto por Andrés.
+
+**Trace 🦊🐾** Empieza por la mirada de la mujer sentada, que llega directa hasta ti. Pasa a la mano del hombre a la derecha, levantada hacia su compañero, y luego a la figura que se inclina en el agua. Entre las miradas y los gestos, cada parte parece tener su propia conversación. Tú ya estás dentro de una de ellas.
+
+**Siro 🐘🪁** El Salón rechazó el cuadro en 1863. Manet lo mostró como *Le Bain* en el Salón de los Rechazados. Tomó la disposición del grupo de una estampa según Rafael y situó a la figura desnuda junto a hombres vestidos de su tiempo. Vuelve a la mirada de la mujer. Su franqueza te hace sentir lo cerca que están esos personajes, y eso vuelve especialmente incómodo intentar leer la escena como una alegoría lejana.
+
+[Ficha del Orsay](https://www.musee-orsay.fr/fr/oeuvres/le-dejeuner-sur-lherbe-904)
+
+</details>
+
+<details>
+<summary>39. Paul Cézanne · Achille Emperaire</summary>
+
+**Ubicación.** Nivel 0 · Sala 11.
+
+**Trace 🦊🐾** Mira primero el borde claro del respaldo, que enmarca la cabeza de Emperaire. Sigue luego el azul de la ropa hasta las piernas y los zapatos. El sillón parece enorme. Ahora busca las letras del borde superior. Después de leerlas, prueba a mirar el retrato desde algo más lejos, a la escala de un cuerpo entero.
+
+**Siro 🐘🪁** Emperaire también era pintor, nacido como Cézanne en Aix-en-Provence. Aquí ocupa un lienzo de dos metros de alto y aparece con su nombre y oficio escritos encima. Vuelve al tamaño del sillón. Aunque ocupa mucho sitio, al alejarte la cara y la inscripción se quedan juntas en la parte alta. La escala le da a un colega de profesión el espacio de un retrato público.
+
+**Fuentes.** [Musée d’Orsay, obra](https://www.musee-orsay.fr/fr/oeuvres/achille-emperaire-788) · [Musée d’Orsay, Achille Emperaire](https://www.musee-orsay.fr/fr/ressources/repertoire-artistes-personnalites/achille-emperaire-11886).
+
+</details>
+
+<details>
+<summary>40. Franz Xaver Winterhalter · Madame Rimsky Korsakov</summary>
+
+**Ubicación.** Nivel 0 · Sala 9.
+
+**Trace 🦊🐾** Busca el lazo azul. Sigue las capas claras del vestido hasta el hombro y sube por el pelo oscuro que cae sobre el otro lado. Luego vuelve a los ojos. El vestido y el pelo te han hecho dar la vuelta por el cuadro, pero ella te estaba mirando de frente desde el principio.
+
+**Siro 🐘🪁** La modelo pagó nueve mil francos por el retrato en 1864. Sus hijos lo donaron al Estado quince años después. Winterhalter pintó a muchas figuras de las cortes europeas, y aquí la ropa basta para hacer visible el lujo. Vuelve al mechón sobre el hombro. Junto con esa mirada directa, le da al retrato pagado y cuidadosamente compuesto el aire de un encuentro que acaba de ocurrir.
+
+**Fuentes.** [Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/madame-rimsky-korsakov-3661) · [Musée d’Orsay, procedencia](https://www.musee-orsay.fr/en/artworks/madame-rimsky-korsakov-3661).
+
+</details>
+
+<details>
+<summary>41. Gustave Courbet · L’Atelier du peintre</summary>
+
+**Ubicación.** Nivel 0 · Sala 7. Ya visto.
+
+**Trace 🦊🐾** Empieza por el paisaje que Courbet pinta en medio del lienzo. Muy cerca están el niño, la mujer desnuda y el gato. Recorre ahora los bordes. En el derecho, Baudelaire sigue leyendo. Casi seis metros de pintura y Courbet te deja encontrar, en el centro, a alguien que mira pintar.
+
+**Siro 🐘🪁** Courbet explicó que a la derecha puso a sus amigos y a gente del arte. A la izquierda reunió lo que llamó el mundo de la vida corriente. La Exposición Universal de 1855 rechazó el cuadro y él montó por su cuenta un Pavillon du réalisme para mostrarlo. Vuelve al niño. Entre todas esas personas, Courbet coloca junto al caballete a alguien que aún puede mirar cómo se hace un cuadro.
+
+**Fuentes.** [Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/latelier-du-peintre-927).
+
+</details>
+
+<details>
+<summary>42. Jean-François Millet · L’Angélus</summary>
+
+**Ubicación.** Nivel 0 · Sala 5. Ya visto.
+
+**Trace 🦊🐾** Busca la horca clavada en la tierra y el sombrero que el hombre tiene entre las manos. A la derecha, la carretilla y el cesto mantienen el trabajo a la vista. Todo podría continuar en cuanto él vuelva a ponerse el sombrero. Mira luego el campanario, que desde aquí apenas ocupa sitio en el horizonte.
+
+**Siro 🐘🪁** Millet recordó que, cuando trabajaban en el campo, su abuela les hacía parar al oír la campana para rezar por los muertos. Aquí dos personas interrumpen la cosecha de patatas. Sabemos qué venían haciendo por lo que han dejado a sus pies. La campana está demasiado lejos para dominar el paisaje y, sin embargo, su sonido imaginado determina el gesto de los dos.
+
+**Fuentes.** [Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/langelus-345).
+
+</details>
+
+<details>
+<summary>43. Honoré Daumier · Les Célébrités du Juste Milieu</summary>
+
+**Ubicación.** Nivel 0 · Sala 4. El busto ilustrado parece ser *Charles Guillaume Étienne*. La ubicación del conjunto está confirmada.
+
+**Trace 🦊🐾** Busca entre los bustos el de la frente despejada, los ojos entornados y el abrigo oscuro. Mira las mejillas y cómo el cuello de la ropa casi se las traga. Luego compara ese gesto con el del vecino. A esta escala, el cambio entre una cara y otra puede estar en unos milímetros de barro.
+
+**Siro 🐘🪁** El editor Charles Philipon encargó los bustos a Daumier para preparar caricaturas litográficas destinadas a la prensa. La ficha del conjunto cuenta treinta y seis piezas de tierra cruda pintada. Podías modelar la cabeza, cambiar el ángulo y encontrar el perfil que mejor funcionaría sobre papel. Vuelve al gesto que te llamó la atención. Imagina cuáles de sus pliegues conservarías si solo pudieras dibujar tres líneas.
+
+**Fuentes.** [Musée d’Orsay, conjunto](https://www.musee-orsay.fr/fr/oeuvres/les-celebrites-du-juste-milieu-200060) · [Musée d’Orsay, Charles Guillaume Etienne](https://www.musee-orsay.fr/fr/oeuvres/charles-guillaume-etienne-6357).
+
+</details>
+
+<details>
+<summary>44. William Bouguereau · Dante et Virgile</summary>
+
+**Ubicación.** Nivel 0 · Sala 3.
+
+**Trace 🦊🐾** Busca el punto donde los dientes se hunden en el cuello. De ahí baja por la espalda arqueada y sigue el brazo que sujeta al otro hombre. Después deja que la vista se vaya hacia Dante y Virgilio, a la izquierda. Es como descubrir de pronto que hay gente mirando la misma pelea que tú.
+
+**Siro 🐘🪁** En el Infierno de Dante, Gianni Schicchi usurpó la identidad de un muerto para desviar su herencia. Aquí muerde al alquimista Capocchio entre las almas castigadas por falsificación. Bouguereau presentó este lienzo en 1850, después de dos intentos fallidos en el Prix de Rome. Mira otra vez los cuerpos en primer plano. Para pintar la violencia del episodio, lleva la musculatura casi hasta deformarla.
+
+**Fuentes.** [Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/dante-et-virgile-153692).
+
+</details>
+
+<details>
+<summary>45. Léon Belly · Pélerins allant à La Mecque</summary>
+
+**Ubicación.** Nivel 0 · Galerie Lille. La ficha no indica número de sala.
+
+**Trace 🦊🐾** Empieza por los camellos que avanzan hacia ti y mira sus sombras sobre la arena. Sigue luego la fila hasta que las personas del fondo apenas se distingan. La anchura del grupo cambia a medida que se acerca. Busca a la izquierda una familia a pie y en un asno.
+
+**Siro 🐘🪁** El desfile de peregrinos musulmanes ganó una medalla de primera clase en el Salón de 1861. Un crítico dijo que al salir parecía que los visitantes habían viajado con la caravana. El Orsay ve en esa familia un eco de la huida a Egipto. Mira cómo queda casi absorbida por el conjunto. Belly introduce una imagen familiar para parte de su público dentro de un peregrinaje que muchos no conocían.
+
+**Fuentes.** [Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/pelerins-allant-la-mecque-9122).
 
 </details>
