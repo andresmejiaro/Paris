@@ -1,10 +1,12 @@
 # Musée d’Orsay · continuación del 13 de noviembre de 2026
 
-20 obras de 20 artistas, incluidas seis esculturas. Selección cotejada con lo ya visto por Andrés, con navegación de Cruce 🗺️🎐 y guion a dos voces de Trace 🦊🐾 y Siro 🐘🪁.
+24 obras de 22 artistas, incluidas siete esculturas y una pieza de artes decorativas. Selección cotejada con lo ya visto por Andrés, con navegación de Cruce 🗺️🎐 y guion a dos voces de Trace 🦊🐾 y Siro 🐘🪁.
 
 Con «siguiente», dar solo título y ubicación. Abrir el guion cuando Andrés confirme que está delante por foto o texto. Trace empieza por un detalle visible y Siro continúa con contexto.
 
 Desde **Café Campana**, empieza en el **nivel 5, sala 36**. Sigue por 37–39 y la Galerie Françoise Cachin. Agrupa 31 y 29 al volver y baja al nivel 2. Desde **Café de la Gare**, bajo la nave, empieza en la **Allée centrale des sculptures** y recorre los bloques en sentido ascendente.
+
+Para incorporar las cuatro nuevas paradas, mantén sus números de referencia y visítalas por nivel. En la sala 29, enlaza *La Pie* (8) con el *Déjeuner* de Monet (24). En el nivel 2, pasa por *Forêt lorraine* (23), sala 64, entre las salas 70 y 59. En el nivel 0, enlaza *Ugolin* (21) con las esculturas de la nave y *La Source* (22) con la sala 1.
 
 Las ubicaciones se cotejaron con las fichas del museo y el montaje de noviembre. Para las tres fichas que dan una galería o pabellón, se conserva esa indicación. Si una pieza ha cambiado de sitio, enseña su ficha al personal o sigue con la siguiente del bloque. [Plano oficial del Orsay](https://www.musee-orsay.fr/sites/default/files/2026-05/PLANGUIDE%20ORSAY%20Europe%20e%CC%81te%CC%8126_0.pdf)
 
@@ -30,8 +32,14 @@ Las ubicaciones se cotejaron con las fichas del museo y el montaje de noviembre.
 | 18 | 0 · Sala 8c | Félix Vallotton · *Le Dîner, effet de lampe* |
 | 19 | 0 · Allée centrale des sculptures | Jean-Baptiste Carpeaux · *La Danse* |
 | 20 | 0 · Allée centrale des sculptures | Jules Cavelier · *Pénélope* |
+| 21 | 0 · Allée centrale des sculptures | Jean-Baptiste Carpeaux · *Ugolin* |
+| 22 | 0 · Sala 1 | Jean-Auguste-Dominique Ingres · *La Source* |
+| 23 | 2 · Sala 64 | Émile Gallé · *Forêt lorraine* |
+| 24 | 5 · Sala 29 | Claude Monet · *Le Déjeuner sur l’herbe* |
 
 **Revisión editorial · versión 5 · 13/11/2026.** Cada uno de los 20 guiones breves de sala recibió un SÍ de Cobre, Rook, Aster, Noctámbulo y el revisor independiente sí/no. Los cambios que bloquearon el visto bueno se revisaron sobre el texto corregido.
+
+**Ampliación · versión 6 · 13/11/2026.** Las paradas 21–24 recibieron un SÍ individual de Cobre, Rook, Aster, Noctámbulo y el revisor independiente sí/no.
 
 ## Guion de cada parada
 
@@ -252,5 +260,49 @@ Las ubicaciones se cotejaron con las fichas del museo y el montaje de noviembre.
 **Siro 🐘🪁** Mientras espera a Ulises, Penélope dice que elegirá marido al terminar el sudario de Laertes. Durante tres años deshace de noche lo que teje de día, hasta que una sirvienta revela el engaño. Cavelier elige el sueño. Eso hace visible el cansancio que exige sostener la estratagema. En 1849 el mármol recibió dos medallas en el Salón. Vuelve al pliegue sobre la rodilla: la misma piedra que celebra la destreza del escultor te permite imaginar lo que pesa una noche más de trabajo.
 
 [Ficha del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/penelope-175048)
+
+</details>
+
+<details>
+<summary>21. Jean-Baptiste Carpeaux · Ugolin · 0 · Allée centrale des sculptures</summary>
+
+**Trace 🦊🐾** Empieza por las manos de Ugolino, tan apretadas que casi se las lleva enteras a la boca. Baja hasta los pies. Los dedos también están en tensión. Ahora mira a los cuatro jóvenes que se arriman a él. Sus cuerpos se vencen en direcciones distintas, mientras el del padre se cierra sobre sí mismo.
+
+**Siro 🐘🪁** En el Infierno de Dante, el conde de Pisa cuenta cómo lo encerraron con sus hijos y nietos y los dejaron morir de hambre. El relato dio pie a la leyenda de que se los comió. Carpeaux eligió el momento en que siguen juntos en la torre. En Roma, las reglas académicas le pedían una o dos figuras y un tema antiguo o bíblico. Puso cinco cuerpos y se fue a Dante. Vuelve a las manos. Después de oír la historia, ese gesto que al principio parecía pura angustia deja en suspenso qué podría hacer el padre.
+
+[Ficha del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/ugolin-630)
+
+</details>
+
+<details>
+<summary>22. Jean-Auguste-Dominique Ingres · La Source · 0 · Sala 1</summary>
+
+**Trace 🦊🐾** Empieza por el hilo de agua que sale de la vasija. Luego sube por el contorno de la figura, desde la cadera hasta el brazo levantado. El agua cae recta y la silueta se va curvando. Todo ocurre en un espacio tan estrecho que la figura parece colocada en un nicho, como una estatua.
+
+**Siro 🐘🪁** Ingres empezó el lienzo en Florencia hacia 1820 y lo terminó en París en 1856. Dos alumnos, Paul Balze y Alexandre Desgoffe, le ayudaron con el fondo y los accesorios. El primer dueño, el conde Duchâtel, rodeó el cuadro de plantas y flores acuáticas para que la ninfa pareciera una persona real. Mira ahora el borde de la piel, sobre todo donde se encuentra con la roca. El contorno le da la quietud de una estatua y la transición suave del color le devuelve la carne. Las plantas del conde intentaban prolongar fuera del marco algo que Ingres ya había hecho dentro.
+
+[Ficha del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/la-source-525)
+
+</details>
+
+<details>
+<summary>23. Émile Gallé · Forêt lorraine · 2 · Sala 64</summary>
+
+**Trace 🦊🐾** Mira el panel abatible del escritorio. Busca una flor en la marquetería y sigue su tallo hasta el paisaje que la rodea. Fíjate en cómo un cambio de tono de la madera dibuja el fondo y otro, mucho más pequeño, te deja leer el perfil de una planta. De cerca, el paisaje está hecho de piezas encajadas.
+
+**Siro 🐘🪁** El modelo se presentó en la Exposición Universal de París de 1900. Gallé escogió orquídeas de su región, como la orquídea mosca y el zapatito de Venus, y las situó en paisajes propios de sus hábitats. También incrustó unos versos de Baudelaire en los que todo le hablaría al alma, en secreto, en su lengua natal. Vuelve a la flor del tablero. Lo que Gallé llevó a París en un mueble fue una manera de reconocer su tierra por las plantas que crecían en ella.
+
+[Ficha del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/foret-lorraine-133608)
+
+</details>
+
+<details>
+<summary>24. Claude Monet · Le Déjeuner sur l’herbe · 5 · Sala 29</summary>
+
+**Trace 🦊🐾** Mira los dos fragmentos. Uno sube como una franja estrecha entre los árboles. En el otro, busca el mantel y las manchas claras que cruzan la ropa y el suelo. Luego mira dónde se corta la escena. Hay sitio para imaginar que el picnic seguía más allá de los bordes que tenemos hoy.
+
+**Siro 🐘🪁** Dos años después del escándalo del almuerzo de Manet, Monet empezó el suyo como homenaje y desafío. Quería llevar un picnic a una tela de más de cuatro metros por seis. Dejó el proyecto antes del Salón de 1866. Mucho después contó que había dejado el lienzo en prenda por el alquiler y lo recuperó enmohecido. En 1884 lo cortó en tres. Dos fragmentos se conservan aquí y el tercero se perdió. Vuelve al mantel. La luz todavía pasa de la tela blanca a la ropa y al suelo. Esa continuidad de la luz te deja juntar con la vista lo que ya ves por separado.
+
+[Ficha del Musée d’Orsay · fragmento central](https://www.musee-orsay.fr/fr/oeuvres/le-dejeuner-sur-lherbe-25651) · [Ficha del Musée d’Orsay · fragmento lateral](https://www.musee-orsay.fr/fr/oeuvres/le-dejeuner-sur-lherbe-10737)
 
 </details>
