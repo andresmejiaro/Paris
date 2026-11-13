@@ -31,224 +31,226 @@ Las ubicaciones se cotejaron con las fichas del museo y el montaje de noviembre.
 | 19 | 0 · Allée centrale des sculptures | Jean-Baptiste Carpeaux · *La Danse* |
 | 20 | 0 · Allée centrale des sculptures | Jules Cavelier · *Pénélope* |
 
+**Revisión editorial · versión 5 · 13/11/2026.** Cada uno de los 20 guiones breves de sala recibió un SÍ de Cobre, Rook, Aster, Noctámbulo y el revisor independiente sí/no. Los cambios que bloquearon el visto bueno se revisaron sobre el texto corregido.
+
 ## Guion de cada parada
 
 <details>
 <summary>1. Vincent van Gogh · La Chambre de Van Gogh à Arles · 5 · Sala 36</summary>
 
-**Trace 🦊🐾** Sigue los bordes de la cama y las tablas del suelo. Las líneas hacen que toda la habitación parezca inclinarse hacia ti.
+**Trace 🦊🐾** Andrés, empieza por la cama. Sigue el borde del colchón hacia el fondo y luego haz lo mismo con las tablas del suelo. El cuarto se te viene encima un poquito. Ahora pasa a las dos sillas. Hay sitio para sentarse y hasta una toalla a mano. Es una habitación que puedes recorrer con la vista aunque no consigas enderezarla.
 
-**Siro 🐘🪁** Van Gogh volvió dos veces sobre la primera composición. Esta versión, más pequeña, la pintó para su familia en los Países Bajos.
+**Siro 🐘🪁** Al pintar la primera versión, Vincent le escribió a Theo que quería expresar el reposo. Para conseguirlo, repartió el color por toda la habitación: el amarillo del mobiliario, el rojo de la manta, los tonos claros de la pared. La primera versión se dañó en una inundación. En 1889 hizo otras dos versiones. Esta, más pequeña, iba destinada a su familia. Me interesa que al rehacerla conservara esa cama que parece avanzar. Si vuelves a la manta, el rojo es intensísimo y aun así el cuarto se siente recogido. Su idea de descanso cabía en una habitación llena de color.
 
-[Ficha o montaje del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/la-chambre-de-van-gogh-arles-746)
+[Ficha del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/la-chambre-de-van-gogh-arles-746)
 
 </details>
 
 <details>
 <summary>2. Auguste Renoir · Gabrielle à la rose · 5 · Sala 37</summary>
 
-**Trace 🦊🐾** Empieza por la rosa y busca dónde reaparece ese color en la piel.
+**Trace 🦊🐾** Empieza por la rosa que Gabrielle tiene en la mano. Fíjate adónde apunta su mirada y luego vuelve a la flor. Queda una escena muy pequeña dentro del retrato: la mano se detiene en la flor y la mirada se va hacia otro lado.
 
-**Siro 🐘🪁** Gabrielle Renard cuidaba a los hijos de Renoir. Acabó siendo una de sus modelos más habituales.
+**Siro 🐘🪁** Gabrielle Renard entró en casa de los Renoir para cuidar a los niños y acabó posando durante años. Ese trabajo explica cómo llegó a estar tan presente en la pintura de Renoir. Aquí, que la escena resulte íntima tiene también que ver con cómo la ha colocado: nosotros miramos a Gabrielle y ella tiene puesta su atención en otra cosa. Baja la vista hasta la tela clara. Entre el rostro y la ropa cambia la superficie, pero el color sigue pasando de un tono al siguiente sin un corte brusco.
 
-[Ficha o montaje del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/gabrielle-la-rose-1170)
+[Ficha del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/gabrielle-la-rose-1170) · [Fuente complementaria](https://www.musee-orsay.fr/en/ressources/artists-personalities-catalog/gabrielle-renard-207313)
 
 </details>
 
 <details>
 <summary>3. Georges Seurat · Le Cirque · 5 · Sala 38</summary>
 
-**Trace 🦊🐾** La pista se dispara en diagonal. Mira lo quietas que quedan las filas de espectadores.
+**Trace 🦊🐾** Mira primero la pista y después las gradas. El caballo y la acróbata forman un empuje diagonal. En los asientos, las cabezas se repiten casi a intervalos. Sigue con el ojo la curva de la pista hasta la figura del primer plano. Aunque todos estén mirando el número, el cuadro te coloca entre quienes lo hacen funcionar.
 
-**Siro 🐘🪁** Seurat presentó esta gran tela en 1891. Quedó inacabada cuando murió ese mismo año.
+**Siro 🐘🪁** Seurat lleva el control hasta el marco. Pinta una orla oscura en la tela y trata el marco con el mismo azul, de modo que incluso el borde forma parte de la composición. En 1891 presentó el cuadro y murió poco después, con la obra aún inacabada. Acércate lo suficiente para ver los trazos separados, luego recupera el conjunto. El salto y la velocidad dependen de una multitud de decisiones diminutas y deliberadas. La pista se desboca dentro de una pintura que ha medido hasta su límite.
 
-[Ficha o montaje del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/le-cirque-542)
+[Ficha del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/le-cirque-542)
 
 </details>
 
 <details>
 <summary>4. Anna Boch · Cueillette · 5 · Sala 39</summary>
 
-**Trace 🦊🐾** Busca primero el sombrero de paja. Ahora encuentra las motas rojas entre las coles.
+**Trace 🦊🐾** Busca el sombrero de paja, casi al fondo, y luego las pequeñas flores rojas entre las coles. Durante unos segundos el huerto tiene más presencia que la muchacha que está recogiendo algo. La muchacha vuelve a aparecer cuando sigues con el ojo el camino que abren las plantas hacia el invernadero.
 
-**Siro 🐘🪁** Los rojos son flores que protegen el huerto. También hacen vibrar el verde de la vegetación. Boch deja que se vea la pincelada en ambos colores.
+**Siro 🐘🪁** El museo identifica esos rojos como claveles de Indias, plantados para proteger el huerto. Anna Boch puede aprovechar una decisión de horticultura para resolver una decisión de pintura: los toques rojos hacen que el verde de alrededor se note más. La obra marca además un giro hacia escenas rurales y composiciones más luminosas. Vuelve a mirar dónde descubriste primero el rojo. En el cuadro, esas flores hacen dos trabajos y los dos dependen del sitio exacto donde crecen.
 
-[Ficha o montaje del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/cueillette-271208)
+[Ficha del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/cueillette-271208)
 
 </details>
 
 <details>
 <summary>5. Paul Sérusier · Le Talisman, Paysage au Bois d’Amour · 5 · Galerie Françoise Cachin</summary>
 
-**Trace 🦊🐾** Dale unos segundos a las manchas. Empiezan a aparecer la orilla y el reflejo de los árboles.
+**Trace 🦊🐾** Por un momento mira la tablita como si desconocieras el título. El amarillo y el verde aparecen antes que cualquier árbol. Ahora busca el borde del agua. Al encontrar la orilla, varias manchas de abajo empiezan a leerse como reflejos. La imagen te deja sorprenderte a ti mismo en el acto de reconocer el paisaje.
 
-**Siro 🐘🪁** Sérusier lo pintó en Pont-Aven bajo la orientación de Gauguin. Esta tabla pequeña acabó siendo una referencia para los Nabis.
+**Siro 🐘🪁** En Pont-Aven, Sérusier pintó este motivo en 1888 bajo la orientación de Gauguin. La historia de la lección nos llegó por el relato posterior de Maurice Denis. Para los futuros Nabis, la tablita se volvió un ejemplo de lo que ocurría cuando el pintor se daba libertad para intensificar el color. Mira otra vez el agua. Puedes reconocerla y al mismo tiempo seguir viendo manchas sobre una superficie. Esa doble lectura es el experimento que los Nabis podían llevarse de una tablita a cualquier otro cuadro.
 
-[Ficha o montaje del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/le-talisman-paysage-au-bois-damour-8028)
+[Ficha del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/le-talisman-paysage-au-bois-damour-8028) · [Fuente complementaria](https://www.musee-orsay.fr/fr/programme/agenda/expositions/presentation/le-talisman-de-serusier-une-prophetie-de-la-couleur)
 
 </details>
 
 <details>
 <summary>6. Odilon Redon · Les Yeux clos · 5 · Galerie Françoise Cachin</summary>
 
-**Trace 🦊🐾** Mira dónde se pierde el contorno del busto en el fondo. Parece que la figura se estuviera formando delante de ti.
+**Trace 🦊🐾** Acércate lo suficiente para ver el grano de la tela, luego vuelve al borde del hombro. Hay lugares donde cuesta decidir si el busto termina o si el fondo se lo va tragando. El gesto más claro es el de los párpados. Es curioso tener delante un retrato que apenas te devuelve la mirada.
 
-**Siro 🐘🪁** Redon venía de años de trabajar en negro. Aquí usa el color con una delicadeza que conserva algo de aquellos dibujos.
+**Siro 🐘🪁** Redon retomó la composición de un dibujo anterior y el museo considera probable que el rostro sea el de Camille Falte, su esposa. La pintura está tan diluida que deja ver el tejido del lienzo. Eso vuelve extraño algo familiar: el perfil recuerda a un busto renacentista, pero aquí el hombro parece flotar. Prueba a mirar los ojos otra vez. El cuadro te da la intimidad de una cara y te deja decidir si estás viendo sueño, concentración o una aparición.
 
-[Ficha o montaje del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/les-yeux-clos-476)
+[Ficha del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/les-yeux-clos-476)
 
 </details>
 
 <details>
 <summary>7. Alfred Sisley · La Barque pendant l’inondation, Port-Marly · 5 · Sala 31</summary>
 
-**Trace 🦊🐾** La fachada te da la vertical. Mira cómo el reflejo la deshace.
+**Trace 🦊🐾** Busca la fachada del comerciante y baja la vista hasta donde esperarías que empezara la calle. Allí solo tienes agua y reflejos. Sigue con el ojo la barca. Cada vez que intentas colocarla, te recuerda que esta vista de pueblo se ha convertido en una vista navegable.
 
-**Siro 🐘🪁** La crecida de 1876 convirtió la calle en un canal. Sisley pintó varias vistas de la inundación.
+**Siro 🐘🪁** En primavera de 1876 el Sena se desbordó en Port-Marly. Sisley pintó seis telas del episodio y dos están en el Orsay. La fachada da estabilidad al cuadro porque sabemos lo que suele haber frente a una tienda. El agua cambia eso, y también ofrece al pintor una segunda superficie para rehacer la fachada con pinceladas móviles. Mira dónde termina el muro y empieza su reflejo. La inundación cambia el pueblo y cambia las reglas con que lo puedes pintar.
 
-[Ficha o montaje del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/la-barque-pendant-linondation-port-marly-1107)
+[Ficha del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/la-barque-pendant-linondation-port-marly-1107)
 
 </details>
 
 <details>
 <summary>8. Claude Monet · La Pie · 5 · Sala 29</summary>
 
-**Trace 🦊🐾** Encuentra la urraca en la cerca. Luego mira de qué color son las sombras sobre la nieve.
+**Trace 🦊🐾** Busca la urraca sobre la cerca. Desde ahí puedes leer la nieve como una serie de superficies: arriba de la cerca, sobre el suelo, donde cae la sombra. Detente en esa sombra larga. El cuadro te hace notar cuánto color hay en una escena que al recordarla probablemente llamarías blanca.
 
-**Siro 🐘🪁** El Salón rechazó el cuadro en 1869. Compáralo con los Monet que viste en la Orangerie. Aquí también puedes seguir cómo cambia un color cuando lo rodean otros.
+**Siro 🐘🪁** El jurado del Salón rechazó la obra en 1869. El Orsay sitúa la audacia en esos tonos tan claros y en la atención de Monet a lo que el ojo percibe. Piensa en los nenúfares que viste en la Orangerie y vuelve aquí a la sombra. Décadas antes de aquellas superficies enormes, ya estaba dejando que la luz y el color hicieran el trabajo de ordenar el paisaje. La urraca basta para darte la escala de todo ese blanco.
 
-[Ficha o montaje del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/la-pie-715)
+[Ficha del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/la-pie-715)
 
 </details>
 
 <details>
 <summary>9. Henri Rousseau · La Charmeuse de serpents · 2 · Pavillon amont</summary>
 
-**Trace 🦊🐾** Deja que el ojo se acostumbre a la oscuridad. Busca las serpientes alrededor de la figura.
+**Trace 🦊🐾** Dale unos segundos a la oscuridad. La figura cerca del agua se define poco a poco. Prueba a seguir una serpiente desde la flauta hacia la vegetación. El mismo tipo de curva aparece en las hojas y en los animales, y el ojo tarda un poco en saber qué se mueve.
 
-**Siro 🐘🪁** Berthe Delaunay encargó la obra. Rousseau compuso esta selva en Francia.
+**Siro 🐘🪁** Berthe Delaunay encargó el cuadro. El Orsay recuerda que Rousseau construía muchas de sus selvas a partir de lo que veía en el Jardin des Plantes y sus invernaderos parisinos. Aquí, entre plantas que ocupan toda la superficie, el ritmo de esas curvas convierte la escena en algo que casi se oye. Vuelve a buscar la flauta. En esa maraña visual es el punto desde el que puedes imaginar que una acción diminuta organiza el resto.
 
-[Ficha o montaje del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/la-charmeuse-de-serpents-9090)
+[Ficha del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/la-charmeuse-de-serpents-9090)
 
 </details>
 
 <details>
 <summary>10. Pierre Bonnard · Le Corsage à carreaux · 2 · Sala 70</summary>
 
-**Trace 🦊🐾** Sigue los cuadros de la blusa hasta donde el cuerpo casi se pierde entre los estampados.
+**Trace 🦊🐾** Empieza por la blusa y trata de reconstruir dónde queda el cuerpo debajo de los cuadros. Ahora mira la mesa. Ves su superficie desde arriba y a la mujer desde otro ángulo. Si intentas poner ambos en la misma habitación, el cuadro te obliga a cambiar de posición mientras miras.
 
-**Siro 🐘🪁** La modelo es Andrée Terrasse, hermana de Bonnard. La escena familiar le da margen para experimentar con patrones y superficies.
+**Siro 🐘🪁** Es Andrée Terrasse, hermana de Bonnard. El formato alto y estrecho remite a los rollos japoneses y el encuadre toma libertades que Bonnard había visto en estampas. La decisión afecta a alguien concreto: su hermana puede llenar casi todo el cuadro aunque la escena sea cotidiana. Vuelve a seguir la blusa y la mesa. Sus dos perspectivas conviven porque el dibujo de las superficies las mantiene unidas.
 
-[Ficha o montaje del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/le-corsage-carreaux-8017)
+[Ficha del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/le-corsage-carreaux-8017)
 
 </details>
 
 <details>
 <summary>11. Gustave Moreau · Orphée · 2 · Sala 59</summary>
 
-**Trace 🦊🐾** Mira el rostro de la muchacha y sigue su mirada hasta la lira.
+**Trace 🦊🐾** Mira la cara de la muchacha y baja hasta la lira. Encima del instrumento hay otra cara. Los dos rostros se parecen y están tan quietos que puedes tardar en darte cuenta de qué sostiene ella. Si alcanzas a ver las tortugas abajo a la derecha, guárdate ese detalle.
 
-**Siro 🐘🪁** Moreau imaginó el momento posterior a la muerte de Orfeo. La muchacha recoge su cabeza y su instrumento.
+**Siro 🐘🪁** En el mito, las ménades matan a Orfeo. Moreau pinta lo que imagina después: una joven encuentra la cabeza del poeta y su lira. Ahora mira las tortugas. Según el mito, el caparazón sirvió para fabricar la primera lira. Moreau te deja en un mismo cuadro el origen del instrumento y el final de quien lo tocaba. Entre esos extremos quedan las dos caras, que se parecen tanto que la escena resulta más íntima que truculenta.
 
-[Ficha o montaje del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/orphee-1091)
+[Ficha del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/orphee-1091)
 
 </details>
 
 <details>
 <summary>12. Auguste Rodin · Porte de l’Enfer · 2 · Terrasse Rodin</summary>
 
-**Trace 🦊🐾** Mira arriba. Las tres sombras repiten la misma figura desde distintos ángulos.
+**Trace 🦊🐾** Empieza arriba, con las tres figuras inclinadas. Sigue una de ellas y vuelve a comparar las otras dos. Es el mismo cuerpo, girado. Luego baja al hombre sentado encima del centro. A su alrededor los cuerpos parecen caer incluso donde están pegados a la puerta.
 
-**Siro 🐘🪁** El Estado encargó la puerta para un museo de artes decorativas previsto en este mismo solar. Ese museo nunca se construyó.
+**Siro 🐘🪁** El Estado encargó esta entrada para un museo de artes decorativas en este mismo solar. El museo se canceló y la puerta siguió creciendo como un lugar donde Rodin podía probar figuras, repetirlas y volver a usarlas. El pensador de arriba acabó teniendo una vida propia fuera de la puerta. Aquí, todavía entre los condenados de Dante, lo ves haciendo algo distinto: ocupa un punto quieto desde el que contemplar la caída. La puerta de yeso que ves es de 1917.
 
-[Ficha o montaje del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/porte-de-lenfer-15645)
+[Ficha del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/porte-de-lenfer-15645)
 
 </details>
 
 <details>
 <summary>13. Camille Claudel · L’Âge mûr · 2 · Terrasse des sculptures 1880–1914</summary>
 
-**Trace 🦊🐾** Ponte donde se vea el hueco entre las manos. Toda la separación cabe ahí.
+**Trace 🦊🐾** Ponte donde se vea bien el hueco entre las manos. Después sigue las tres posturas: una mujer arrodillada se estira, el hombre se desplaza, la otra figura lo arrastra hacia el lado opuesto. Si cambias un poco de ángulo, el hueco se abre y puedes ver cuánto trabajo hace ese pequeño espacio.
 
-**Siro 🐘🪁** El Estado encargó la obra y el bronce llegó por otra vía. El capitán Tissier financió la primera fundición, en 1902.
+**Siro 🐘🪁** El Estado encargó el grupo en 1895 y no llegó a pedir el bronce. El capitán Tissier impulsó la primera fundición, la de 1902 que conserva el Orsay. Se puede leer como alegoría de la edad: alguien deja atrás la juventud mientras otra figura tira de él. Vuelve a las manos. El cuerpo del hombre ya va en una dirección y todavía tiene un brazo tendido hacia la otra. Ese desacuerdo entre lo que hace el cuerpo y lo que intenta la mano mantiene abierta la escena.
 
-[Ficha o montaje del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/lage-mur-1370)
+[Ficha del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/lage-mur-1370)
 
 </details>
 
 <details>
 <summary>14. François Pompon · Ours blanc · 2 · Terrasse des sculptures 1880–1914</summary>
 
-**Trace 🦊🐾** De perfil, sigue la curva del lomo hasta el hocico y mira la pata que se despega del suelo.
+**Trace 🦊🐾** Míralo de perfil. Sigue la curva desde el hocico hasta el lomo y baja a las patas. Una se levanta un poco y esa diferencia hace que la masa entera parezca estar a punto de avanzar. Busca cuánto del gesto reconoces aun sin pelo tallado que te ayude.
 
-**Siro 🐘🪁** Pompon observaba animales en el Jardin des Plantes. Este oso le dio su primer gran éxito público a los 67 años.
+**Siro 🐘🪁** Pompon había trabajado el mármol para Rodin y Claudel. Cuando empezó a concentrarse en animales, los observó en el Jardin des Plantes. Trabajaba primero con muchos detalles y después iba quitándolos. El oso se presentó en 1922 y le dio su primer gran éxito a los 67 años. Si vienes de Rodin, vuelve a mirar la pata y el lomo. Aquí el movimiento depende de que la luz pueda recorrer casi toda la superficie sin tropezar.
 
-[Ficha o montaje del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/ours-blanc-15496)
+[Ficha del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/ours-blanc-15496)
 
 </details>
 
 <details>
 <summary>15. Aristide Maillol · Méditerranée · 2 · Terrasse des sculptures 1880–1914</summary>
 
-**Trace 🦊🐾** Busca el ángulo donde la cabeza, el codo y la rodilla forman un triángulo.
+**Trace 🦊🐾** Si tienes espacio para rodearla, busca dónde cabeza, codo y rodilla se agrupan. Desde un lado la postura casi se cierra sobre sí misma. Muévete un poco y verás abrirse el espacio entre el brazo y la pierna. Ese pequeño cambio de sitio te da otra figura sin que el mármol se mueva.
 
-**Siro 🐘🪁** En 1905 la presentó con el título Femme. El nombre Méditerranée llegó después.
+**Siro 🐘🪁** Cuando Maillol presentó esta composición en el Salón de Otoño de 1905, se llamaba Mujer. André Gide la encontró bella y dijo que no significaba nada. El título Mediterráneo llegó después. Prueba a dejar los dos nombres en suspenso y mira cómo la figura recoge su propio peso. Puedes sentir el equilibrio sin decidir qué representa. En el mármol que tienes delante, esa quietud tan trabajada basta para entender qué podía admirar Gide.
 
-[Ficha o montaje del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/mediterranee-15413)
+[Ficha del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/mediterranee-15413)
 
 </details>
 
 <details>
 <summary>16. Berthe Morisot · Chasse aux papillons · 0 · Sala 18</summary>
 
-**Trace 🦊🐾** Busca la red entre las pinceladas del jardín. Luego vuelve a las figuras y mira cuánto espacio deja entre ellas.
+**Trace 🦊🐾** Busca la red de mariposas, que casi se pierde entre las pinceladas del jardín. Después vuelve a las niñas. La acción que promete el título es diminuta dentro de toda esta vegetación. El jardín se mete entre las figuras y hay que volver a encontrarlas cada vez que cambias el foco.
 
-**Siro 🐘🪁** Morisot convierte una salida familiar en una escena donde el aire y la vegetación tienen tanto peso como las personas.
+**Siro 🐘🪁** La mujer es Edma, hermana de Berthe Morisot, y las niñas son Jeanne y Blanche, sus hijas. La escena transcurre en Maurecourt. Ese conocimiento permite mirar de otra manera lo que parecía una escena anónima. Morisot conocía muy bien a las personas, y aun así deja que el jardín interrumpa sus contornos. Vuelve a la red. El cuadro conserva lo fugitivo de la caza precisamente porque también cuesta cazarla con la vista.
 
-[Ficha o montaje del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/chasse-aux-papillons-309)
+[Ficha del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/chasse-aux-papillons-309) · [Fuente complementaria](https://pop.culture.gouv.fr/notice/joconde/000PE003995)
 
 </details>
 
 <details>
 <summary>17. Alexander Harrison · La Solitude · 0 · Sala 8c</summary>
 
-**Trace 🦊🐾** Busca la figura en la barca y vuelve a mirar cuánto cuadro ocupa el agua.
+**Trace 🦊🐾** Busca primero la franja luminosa que se refleja en el agua. Cerca está la silueta en la barca. Cuando ya sabes dónde está, cuesta creer lo pequeña que es. Al mirar desde más lejos, comprueba qué aparece primero: la persona, el agua o la luz.
 
-**Siro 🐘🪁** El Orsay la incluyó en Échos de l’Invisible, una muestra que invita a mirar la soledad desde la experiencia adolescente.
+**Siro 🐘🪁** El Estado compró la pintura directamente a Harrison en 1893. Este otoño, el Orsay la incluyó en Ecos de lo invisible, un montaje que propone a adolescentes mirar las colecciones desde su propia sensibilidad. Vuelve a la figura y después al reflejo. El cuadro da mucho espacio alrededor de ese cuerpo y muy poca información sobre lo que siente. La barca puede parecerte un refugio o un aislamiento. La pintura sostiene las dos lecturas con la misma distancia.
 
-[Ficha o montaje del Musée d’Orsay](https://www.musee-orsay.fr/fr/programme/agenda/expositions/echos-de-linvisible)
+[Ficha del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/la-solitude-941) · [Fuente complementaria](https://www.musee-orsay.fr/fr/programme/agenda/expositions/echos-de-linvisible)
 
 </details>
 
 <details>
 <summary>18. Félix Vallotton · Le Dîner, effet de lampe · 0 · Sala 8c</summary>
 
-**Trace 🦊🐾** Mira cómo la lámpara ilumina la mesa y deja partes de los rostros en sombra.
+**Trace 🦊🐾** Mira la gran superficie clara del mantel y la pantalla roja. A la izquierda, una espalda oscura ocupa muchísimo espacio. Más allá de la lámpara, al fondo, una figura parece bostezar. Busca también la botella a la derecha. Tiene una etiqueta sorprendentemente precisa para una escena tan oscura.
 
-**Siro 🐘🪁** La luz se queda en el centro de la mesa y aísla las siluetas de alrededor. Esa distribución hace que una cena familiar se sienta extraña.
+**Siro 🐘🪁** La ficha identifica a Vallotton, a su mujer Gabrielle Bernheim y a los hijos de ella, Madeleine y Max. La etiqueta dice Couzan, una marca de agua mineral. Vuelve al mantel iluminado. El pintor te permite leer una marca comercial y, al mismo tiempo, te cuesta encontrarle la cara a la persona más cercana. Esa decisión te coloca en una cena familiar con acceso a detalles extraordinarios y muy poco acceso a lo que están pensando quienes cenan.
 
-[Ficha o montaje del Musée d’Orsay](https://www.musee-orsay.fr/fr/programme/agenda/expositions/echos-de-linvisible)
+[Ficha del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/le-diner-effet-de-lampe-8035)
 
 </details>
 
 <details>
 <summary>19. Jean-Baptiste Carpeaux · La Danse · 0 · Allée centrale des sculptures</summary>
 
-**Trace 🦊🐾** Sigue la ronda de manos hasta el bailarín que alza el tamboril.
+**Trace 🦊🐾** Busca al genio que salta en el centro. El brazo con el tamboril te lleva hacia arriba. Ahora sigue los cuerpos de la ronda y mira cómo cambia el peso de uno a otro. El centro sube mientras la ronda gira. Si te apartas un poco, puedes seguir los dos movimientos a la vez.
 
-**Siro 🐘🪁** Es el grupo original de la fachada de la Ópera Garnier. El escándalo por los desnudos llegó hasta una botella de tinta arrojada a la piedra.
+**Siro 🐘🪁** Tienes delante el original que Garnier encargó para la fachada de su Ópera. Cuando se presentó allí en 1869, parte del público juzgó indecente el realismo de los desnudos a plena calle. Alguien arrojó tinta contra la piedra y se encargó a Gumery otro grupo. La guerra de 1870 frustró ese cambio. La copia que hoy ocupa la fachada llegó en 1964, cuando retiraron este original deteriorado. Mira de nuevo desde cierta distancia: el salto se distingue enseguida. Al acercarte, la ronda empieza a descomponerse en rostros y cuerpos particulares. Esas dos cosas las conseguía Carpeaux en la misma piedra.
 
-[Ficha o montaje del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/la-danse-1704)
+[Ficha del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/la-danse-1704) · [Fuente complementaria](https://pop.culture.gouv.fr/notice/joconde/000SC013096)
 
 </details>
 
 <details>
 <summary>20. Jules Cavelier · Pénélope · 0 · Allée centrale des sculptures</summary>
 
-**Trace 🦊🐾** Mira cómo la cabeza cede al sueño y cómo caen los pliegues sobre las piernas.
+**Trace 🦊🐾** Mira cómo cae la cabeza, luego sigue un pliegue desde la cintura hasta la rodilla. La tela parece pesar y el cuerpo se deja sostener por ella. Si miras la mano y vuelves al rostro, la postura parece la de alguien a quien el sueño acaba de alcanzar.
 
-**Siro 🐘🪁** Penélope tejía de día y deshacía de noche lo tejido para aplazar la elección de marido. Cavelier la sorprende en una pausa.
+**Siro 🐘🪁** Mientras espera a Ulises, Penélope dice que elegirá marido al terminar el sudario de Laertes. Durante tres años deshace de noche lo que teje de día, hasta que una sirvienta revela el engaño. Cavelier elige el sueño. Eso hace visible el cansancio que exige sostener la estratagema. En 1849 el mármol recibió dos medallas en el Salón. Vuelve al pliegue sobre la rodilla: la misma piedra que celebra la destreza del escultor te permite imaginar lo que pesa una noche más de trabajo.
 
-[Ficha o montaje del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/penelope-175048)
+[Ficha del Musée d’Orsay](https://www.musee-orsay.fr/fr/oeuvres/penelope-175048)
 
 </details>
